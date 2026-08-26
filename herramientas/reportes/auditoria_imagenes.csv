@@ -1,0 +1,799 @@
+﻿sku,nombre,estado_actual,ruta_imagen_actual,ubicacion,notas
+prod-00868,ENALAPRIL MALEATO 5MG BLISTER,ok,imagenesmedimentos/reales/prod-00868.png,reales,
+prod-00432,LOSARTAN 50MG EXPOFARMA 30CAPS,ok,imagenesmedimentos/reales/prod-00432.jpg,reales,OJO: script.js fuerza la imagen 'imagenesmedimentos/losartan50mg.png' para este SKU sin importar productos.json
+prod-00433,ACETAMINOFEN 150MG JARABE 120M,ok,imagenesmedimentos/reales/prod-00433.webp,reales,
+prod-00896,ACETAMINOFEN 500MG+CAFEINA 65M,ok,imagenesmedimentos/reales/prod-00896.jpg,reales,
+prod-00422,ACETAMINOFEN/CODEINA AG 30MG,ok,imagenesmedimentos/reales/prod-00422.png,reales,
+prod-00119,CARDIOASPIRINA 100 MG 30 TABLE,ok,imagenesmedimentos/reales/prod-00119.jpg,reales,
+prod-00124,CARDIOASPIRINA 81 MG 30 TABLET,ok,imagenesmedimentos/reales/prod-00124.jpg,reales,
+prod-00046,DOLEX JARABE NIÑOS 2+,ok,imagenesmedimentos/reales/prod-00046.jpg,reales,
+prod-00045,DOLEX JARABE NIÑOS 7+,ok,imagenesmedimentos/reales/prod-00045.jpg,reales,
+prod-00581,DOLEX TABLETAS MASTICABLES 2+,ok,imagenesmedimentos/reales/prod-00581.jpg,reales,
+prod-00329,HIOSCINA + DIPIRONA 20MG AMPOL,ok,imagenesmedimentos/reales/prod-00329.jpg,reales,
+prod-00244,AMOXICILINA 100ML SUSPENS AG,ok,imagenesmedimentos/reales/prod-00244.jpg,reales,
+prod-00490,AMOXICILINA 250MG SUSPENSION G,ok,imagenesmedimentos/reales/prod-00490.jpg,reales,
+prod-00245,AMOXICILINA 500MG AG,ok,imagenesmedimentos/reales/prod-00245.webp,reales,
+prod-00516,AMOXICILINA POLVO 100ML LA SAN,ok,imagenesmedimentos/reales/prod-00516.jpg,reales,
+prod-00517,AMOXICILINA POLVO 45ML LA SANT,ok,imagenesmedimentos/reales/prod-00517.jpg,reales,
+prod-00233,AMOXIDAL DUO 14 COMPRIMIDOS,ok,imagenesmedimentos/reales/prod-00233.jpg,reales,
+prod-00232,AMOXIDAL DUO SUSPENSION 120ML,ok,imagenesmedimentos/reales/prod-00232.jpg,reales,
+prod-00518,AZITROMICINA 15ML POLVO LA SAN,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Archivo(s) huerfano(s) en reales/ con mismo SKU y distinta extension, no referenciado(s): prod-00518.jpg; QA visual: foto es Azitromicina marca MK, descripción indica marca La Sante; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702057070922-azitromicina-mk-200mg-5ml-suspension-oral-x-15ml/p); QA2 tras Fase 2: sigue sin coincidir (marca MK en la caja, no La Santé); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes"
+prod-00246,AZITROMICINA 500MG AG,ok,imagenesmedimentos/reales/prod-00246.jpg,reales,
+prod-00248,CEFALEXINA 250 MG SUSPENSION,ok,imagenesmedimentos/reales/prod-00248.png,reales,
+prod-00065,CEFALEXINA 500 MG AG TABLETAS,ok,imagenesmedimentos/reales/prod-00065.webp,reales,
+prod-00080,PROCATEC CIPROFLOXACINA 500 MG,ok,imagenesmedimentos/reales/prod-00080.jpg,reales,
+prod-00496,ADVIL GRIPA MAX 2 CAPSULAS,ok,imagenesmedimentos/reales/prod-00496.webp,reales,
+prod-00135,ALGODON MOTOCITOS 100G,corregida,imagenesmedimentos/reales/prod-00135.jpg,reales,Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702057077082_1_algodon-mk-pomos-bolsa-x-100g/p)
+prod-00133,ALGODON MOTOCITOS 25G,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00134,ALGODON MOTOCITOS 50G,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00429,BLOQUEADOR SUNDARK ADULTOS SOB,ok,imagenesmedimentos/reales/prod-00429.jpg,reales,
+prod-00526,DESLORATADINA 5MG 10 TB LAPROF,ok,imagenesmedimentos/reales/prod-00526.jpg,reales,
+prod-00492,DESLORATADINA 5MG GENFAR 10T,ok,imagenesmedimentos/reales/prod-00492.jpg,reales,
+prod-00521,DESLORATADINA 60ML JARABE LA S,ok,imagenesmedimentos/reales/prod-00521.jpg,reales,
+prod-00515,DESLORATADINA JARABE ECAR 60ML,corregida,imagenesmedimentos/reales/prod-00515.jpg,reales,"OJO: script.js fuerza la imagen 'imagenesmedimentos/loratadina10mg.png' para este SKU sin importar productos.json; Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00533,DESLORATADINA KIDS 60ML MEMPHI,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,OJO: script.js fuerza la imagen 'imagenesmedimentos/loratadina10mg.png' para este SKU sin importar productos.json; Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00285,DOLEX GRIPA,ok,imagenesmedimentos/reales/prod-00285.jpg,reales,
+prod-00511,LORATADINA 10MG AG 20 TABLETAS,ok,imagenesmedimentos/reales/prod-00511.jpg,reales,
+prod-00494,LORATADINA JARABE 100ML GENFAR,ok,imagenesmedimentos/reales/prod-00494.jpg,reales,
+prod-00530,LORATADINA JARABE 100ML LAPROF,ok,imagenesmedimentos/reales/prod-00530.webp,reales,
+prod-00295,MIELTERTOS NIÑOS JARABE 180ML,ok,imagenesmedimentos/reales/prod-00295.jpg,reales,
+prod-00126,NOXPIRIN DIA MANDARINA 15G,ok,imagenesmedimentos/reales/prod-00126.jpg,reales,
+prod-00127,NOXPIRIN JUNIOR JARABE 120ML,ok,imagenesmedimentos/reales/prod-00127.webp,reales,
+prod-00032,NOXPIRIN NOCHE PANELA-LIMON,ok,imagenesmedimentos/reales/prod-00032.webp,reales,
+prod-00357,PAÑITOS HUMEDOS TITOS X100,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00366,REPELENTE MOSQUITOS OUT 60ML,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,"QA visual: foto muestra repelente Fly Out 100ml, no marca OUT de 60ml; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/cuidado-personal-maquinas-de-afeitar-repelentes-repelente-fly-out-oferta-pague-1-lleve-2da-con-70--833028/p?srsltid=AfmBOorBbxfTTPKTcmaqTeipJBpJnQ50-VPxYZpbvPZvizDF-RrrqEgj); QA2 tras Fase 2: sigue sin coincidir (marca Fly Out 100ml, no OUT 60ml); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00367,REPELENTE MOSQUITOS OUT 65G,sin_resolver,imagenesmedimentos/genericas/antigripales.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00007,VICK 44 EXPECTORANTE ADULTOS J,corregida,imagenesmedimentos/reales/prod-00007.jpg,reales,"QA visual: foto es VickMiel (jarabe con miel/guaifenesina), no Vick 44 expectorante; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1003441-vick-44-exp-guaifenesina-1330-gr-pg-jarabe-sabor-cereza-botella-x-120-ml)"
+prod-00100,DICLOFENACO 75 MG AMPOLLAS,ok,imagenesmedimentos/reales/prod-00100.jpg,reales,
+prod-00110,DORMEX DICLOFENACO 100 MG,ok,imagenesmedimentos/reales/prod-00110.jpg,reales,
+prod-00554,IBUPROFENO 100MG SUSP MK,ok,imagenesmedimentos/reales/prod-00554.png,reales,
+prod-00493,IBUPROFENO SUSPEN GENFAR 120ML,ok,imagenesmedimentos/reales/prod-00493.png,reales,
+prod-00523,MELOXICAM 15MG 10 TABLE LA SAN,ok,imagenesmedimentos/reales/prod-00523.jpg,reales,
+prod-00332,MELOXICAM 15MG AMPOLLA,ok,imagenesmedimentos/reales/prod-00332.png,reales,
+prod-00891,NAPROXENO 500MG LAPROFF,ok,imagenesmedimentos/reales/prod-00891.jpg,reales,
+prod-00892,PIROXICAM 20MG 10 CAPSULAS,ok,imagenesmedimentos/reales/prod-00892.jpg,reales,
+prod-00284,DOLEX BEBES JARABE 60ML,ok,imagenesmedimentos/reales/prod-00284.jpg,reales,
+prod-00821,PAÑA WINNY PANTS ETAPA 5 X30,ok,imagenesmedimentos/reales/prod-00821.jpg,reales,
+prod-00359,PAÑALES WINNY ETAPA 2 X30,ok,imagenesmedimentos/reales/prod-00359.jpg,reales,
+prod-00360,PAÑALES WINNY ETAPA 3 X30,ok,imagenesmedimentos/reales/prod-00360.png,reales,
+prod-00358,PAÑALES WINNY ETAPA1 X30,ok,imagenesmedimentos/reales/prod-00358.png,reales,
+prod-00824,PAÑALES WINNY SENSITIVE ETA 1,ok,imagenesmedimentos/reales/prod-00824.jpg,reales,
+prod-00823,SIMILAC MAMA 400G,ok,imagenesmedimentos/reales/prod-00823.jpg,reales,OJO: script.js fuerza la imagen 'imagenesmedimentos/similac1.jpg' para este SKU sin importar productos.json
+prod-00253,AMITRIPTILINA CLORHIDRATO 25MG,ok,imagenesmedimentos/reales/prod-00253.jpg,reales,
+prod-00120,ELECTROLIT HIDRATANTE FRESA,ok,imagenesmedimentos/reales/prod-00120.webp,reales,
+prod-00122,ELECTROLIT HIDRATANTE MARACUYA,ok,imagenesmedimentos/reales/prod-00122.jpg,reales,
+prod-00121,ELECTROLIT HIDRATANTE UVA,ok,imagenesmedimentos/reales/prod-00121.webp,reales,
+prod-00640,ELECTROLIT SABOR NARANJA-MANDA,ok,imagenesmedimentos/reales/prod-00640.jpg,reales,
+prod-00050,PEDIALYTE MAX MANZANA 500 ML,ok,imagenesmedimentos/reales/prod-00050.webp,reales,
+prod-00657,SHAMPOO DOVE HIDRATACION 370ML,ok,imagenesmedimentos/reales/prod-00657.jpg,reales,
+prod-00565,SUERO FISIOLOGICO GOTAS 30ML,ok,imagenesmedimentos/reales/prod-00565.webp,reales,
+prod-00624,SUERO SOLHIDREX CEREZA SOBRE,ok,imagenesmedimentos/reales/prod-00624.png,reales,
+prod-00623,SUERO SOLHIDREX UVA SOBRE,ok,imagenesmedimentos/reales/prod-00623.png,reales,
+prod-00562,SUEROX SABOR A HIERBABUENA,ok,imagenesmedimentos/reales/prod-00562.jpg,reales,
+prod-00561,SUEROX SABOR A UVA 630ML,ok,imagenesmedimentos/reales/prod-00561.jpg,reales,
+prod-00394,TRAMADOL CLORHIDRATO ACETAMINO,ok,imagenesmedimentos/reales/prod-00394.jpg,reales,
+prod-00305,TRAZODONA CLORHIDRATO 50MG,ok,imagenesmedimentos/reales/prod-00305.png,reales,
+prod-00264,ACICLOVIR CREMA 5% MK 10G,ok,imagenesmedimentos/reales/prod-00264.jpg,reales,
+prod-00434,ACIDO FUSIDICO CREMA 2% LAPROF,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes"
+prod-00087,ACIDO FUSIDICO CREMA AL 2%,ok,imagenesmedimentos/reales/prod-00087.jpg,reales,
+prod-00148,BAYCUTEN CREMA 20G,ok,imagenesmedimentos/reales/prod-00148.jpg,reales,
+prod-00147,BAYCUTEN N CREMA 35G,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00262,BENLIC CREMA TOPICA 20G,ok,imagenesmedimentos/reales/prod-00262.png,reales,
+prod-00263,BENLIC CREMA TOPICA 40G,ok,imagenesmedimentos/reales/prod-00263.png,reales,
+prod-00247,BETAMETASONA 0.1% CREMA 20G,ok,imagenesmedimentos/reales/prod-00247.jpg,reales,
+prod-00088,BETAMETASONA CREMA AL 0.05%,ok,imagenesmedimentos/reales/prod-00088.jpg,reales,
+prod-00267,BLANKISIMA CREMA 60G,ok,imagenesmedimentos/reales/prod-00267.jpg,reales,
+prod-00165,CEPILLO COLGATE TRIPLE ACCION,ok,imagenesmedimentos/reales/prod-00165.png,reales,
+prod-00395,CICATRICURE GEL 30G CICATRICES,ok,imagenesmedimentos/reales/prod-00395.jpg,reales,
+prod-00249,CLOBETASOL PROPI CREMA AG,ok,imagenesmedimentos/reales/prod-00249.png,reales,
+prod-00591,CLOBETASOL PROPINATO CREMA LAP,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00250,CLOTRIMAZOL CREMA VAGIN 1% AG,ok,imagenesmedimentos/reales/prod-00250.png,reales,
+prod-00902,CREMA #4 MEDICADA 30G,ok,imagenesmedimentos/reales/prod-00902.jpg,reales,
+prod-00597,CREMA #4 NATURAL 20G,ok,imagenesmedimentos/reales/prod-00597.jpg,reales,
+prod-00363,CREMA #4 ORIGINAL 20G,ok,imagenesmedimentos/reales/prod-00363.jpg,reales,
+prod-00588,CREMA CALENDULA 30G CHENIER,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: foto muestra ""Crema Cero"", marca distinta a la indicada ""Chenier""; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/bebes-salud-cremas-anti-panalitis-crema-cero-calendula-caja-30-g-079098/p?srsltid=AfmBOoq3vDftX3tQzlJMJzL0yaNQZJWUCjLSEfnKVAW_0Z5e_OR7sksT); QA2 tras Fase 2: sigue sin coincidir (marca Crema Cero, no Chenier); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00167,CREMA COLGATE SENSITIVE PRO AL,ok,imagenesmedimentos/reales/prod-00167.png,reales,
+prod-00169,CREMA COLGATE TOTAL WHITENING,ok,imagenesmedimentos/reales/prod-00169.jpg,reales,
+prod-00585,CREMA DE ARNICA 60G FRESHLY,ok,imagenesmedimentos/reales/prod-00585.jpg,reales,
+prod-00586,CREMA DE CALENDULA 60G FRESHLY,ok,imagenesmedimentos/reales/prod-00586.jpg,reales,
+prod-00595,CREMA DE CALENDULA PILI 30G,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00539,CREMA DENTAL PROQUIDENT 95G,corregida,imagenesmedimentos/reales/prod-00539.jpg,reales,"QA visual: foto es Proquident Kids sabor chicle 75ml, no la crema de 95g; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/crema-adhesiva-proquident-menta-30615/p?srsltid=AfmBOoo2jatLj9ejVmFG_isEo0b9wwcL1GweQAH-r0P2YQsnuPnSN2IY); QA2 tras Fase 2: sigue sin coincidir (Proquident adhesivo dental 40g, no crema dental 95g); imagen descartada movida a _descartadas_qa2/; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00514,CREMA DENTAL VITIS ENCIAS 100M,ok,imagenesmedimentos/reales/prod-00514.jpg,reales,
+prod-00385,CREMA NIVEA CUIDADO FACIL 7 - 100ML,corregida,imagenesmedimentos/reales/prod-00385.jpg,reales,"QA visual: empaque dice ""Facial 5 en Uno"", el nombre indica ""7""; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/cuidado-facial/40758-crema-nivea-cuidado-facial-5-en-1-aclarado-natural-frasco-con-100-ml-42277071.html?srsltid=AfmBOoriojcqzTVxheZj2fLpYd5_xQ1X0Nr0XEZ5bpkc6gM-TPd6G0ZP)"
+prod-00382,CREMA NIVEA MILK NUTRITIVA 400,corregida,imagenesmedimentos/reales/prod-00382.jpg,reales,"QA visual: envase muestra 250ml/244g, no 400ml como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/4005808319695-crema-corporal-nivea-body-milk-nutritiva-x-400ml/p)"
+prod-00757,CREMA PEINAR CAIDA RESIST ELVI,ok,imagenesmedimentos/reales/prod-00757.jpg,reales,
+prod-00188,CREMA PONDS CLARANT B3 45G,ok,imagenesmedimentos/reales/prod-00188.webp,reales,
+prod-00560,CREMA PONDS CLARANT B3 50G,ok,imagenesmedimentos/reales/prod-00560.png,reales,
+prod-00879,CREMA PONDS NUTRITIVA 200G,ok,imagenesmedimentos/reales/prod-00879.jpg,reales,
+prod-00880,CREMA PONDS NUTRITIVA 50G,ok,imagenesmedimentos/reales/prod-00880.png,reales,
+prod-00189,CREMA PONDS REJUVENESS 50G,ok,imagenesmedimentos/reales/prod-00189.jpg,reales,
+prod-00878,CREMA PONDS VERDE PEPINO 50G,ok,imagenesmedimentos/reales/prod-00878.png,reales,
+prod-00578,CREMA PROTECTORA ARRURRU 25G,corregida,imagenesmedimentos/reales/prod-00578.jpg,reales,"QA visual: foto muestra Mega Pack 100g+25g, no el envase individual de 25g; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/bebes-salud-cremas-anti-panalitis-crema-arrurru-protectora-colita-lata-25-g-513066/p?srsltid=AfmBOooBqS4xpZ2GqZOsXAcGXZiZxXKr-XWdiSUCRSae2hnvUKwDQ60Q)"
+prod-00006,DERMASKIN CREMA 20 G,ok,imagenesmedimentos/reales/prod-00006.png,reales,
+prod-00750,DERMASKIN CREMA 40G,ok,imagenesmedimentos/reales/prod-00750.png,reales,
+prod-00344,DESODORANTE BALANCE MEN 30G,ok,imagenesmedimentos/reales/prod-00344.jpg,reales,
+prod-00501,DESODORANTE BALANCE MEN 50G,ok,imagenesmedimentos/reales/prod-00501.jpg,reales,
+prod-00343,DESODORANTE BALANCE WOMEN 30G,ok,imagenesmedimentos/reales/prod-00343.jpg,reales,
+prod-00500,DESODORANTE BALANCE WOMEN 50G,ok,imagenesmedimentos/reales/prod-00500.jpg,reales,
+prod-00786,DESODORANTE DOVE SPRAY 150ML,ok,imagenesmedimentos/reales/prod-00786.jpg,reales,
+prod-00472,DESODORANTE NIVEA ACLARANTE,ok,imagenesmedimentos/reales/prod-00472.jpg,reales,
+prod-00473,DESODORANTE NIVEA MIRACLE SWEE,corregida,imagenesmedimentos/reales/prod-00473.png,reales,"OJO: script.js fuerza la imagen 'imagenesmedimentos/desoderantegillette82gx2.png' para este SKU sin importar productos.json; Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00174,DESODORANTE REXONA CLINICAL,corregida,imagenesmedimentos/reales/prod-00174.jpg,reales,"QA visual: nombre indica 48g pero la imagen muestra envase de 30g; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/desodorantes/33637-desodorante-rexona-clinical-classic-en-crema-30-g-7702006206815.html?srsltid=AfmBOoqXFXvKPbrlgq_3HtctUri6TZZ4_u-30k0qx8_v13kwBL-Svp7g); QA2 tras Fase 2: sigue sin coincidir (Rexona Clinical 30g, no 48g); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00175,DESODORANTE REXONA ROLON HOMBR,ok,imagenesmedimentos/reales/prod-00175.png,reales,OJO: script.js fuerza la imagen 'imagenesmedimentos/desoderantegillette82gx2.png' para este SKU sin importar productos.json
+prod-00102,DICLOFENACO GEL TOPICO 1%,ok,imagenesmedimentos/reales/prod-00102.jpg,reales,
+prod-00044,DOLEX ACTIV GEL 10 CAPS,corregida,imagenesmedimentos/reales/prod-00044.jpg,reales,"OJO: script.js fuerza la imagen 'imagenesmedimentos/dolex.jpg' para este SKU sin importar productos.json; QA visual: foto es jarabe pediátrico Dolex Niños 90ml, no cápsulas de gel; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7703363006094-dolex-activgel-500mg-x-10-capsulas-liquidas/p)"
+prod-00474,GEL LUBRICANTE DUO PURE 75ML,ok,imagenesmedimentos/reales/prod-00474.webp,reales,
+prod-00885,GELILAB ADVANCE UVA PHARBIOLAB,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00212,GELPIN FAST 4 TABLETAS,ok,imagenesmedimentos/reales/prod-00212.jpg,reales,
+prod-00298,HIDROCORTISONA CREMA 1% AG 15G,ok,imagenesmedimentos/reales/prod-00298.png,reales,
+prod-00396,JABON ASEPXIA AZUFRE 100G,ok,imagenesmedimentos/reales/prod-00396.jpg,reales,
+prod-00397,JABON ASEPXIA BICARBONATO 100G,ok,imagenesmedimentos/reales/prod-00397.png,reales,
+prod-00398,JABON ASEPXIA ESPONJA 80G,ok,imagenesmedimentos/reales/prod-00398.webp,reales,
+prod-00399,JABON ASEPXIA EXFOLIANTE 100G,ok,imagenesmedimentos/reales/prod-00399.png,reales,
+prod-00658,JABON BABY DOVE 400ML HIPOALER,ok,imagenesmedimentos/reales/prod-00658.jpg,reales,
+prod-00656,JABON DOVE REVIGORANTE 90G,ok,imagenesmedimentos/reales/prod-00656.jpg,reales,
+prod-00479,JABON INTIMO MUJER CALENDULA,ok,imagenesmedimentos/reales/prod-00479.webp,reales,
+prod-00482,JABON INTIMO MUJER SALVIA Y CALENDULA 210G + VINAGRE DE MANZANA Y CALENDULA 55G,ok,imagenesmedimentos/reales/prod-00482.jpg,reales,
+prod-00416,JABON NIXODERM AZUFRE ALOE VER,corregida,imagenesmedimentos/reales/prod-00416.jpg,reales,"QA visual: empaque muestra jabón azufre estándar, sin variante aloe vera indicada; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/t/jabon-nixoderm?srsltid=AfmBOoq07MAaAHjlKGpf0Lxg6VxrvnCbm4L-bV7G1-YbuBIVJeSo2lu-); QA2 tras Fase 2: sigue sin coincidir (Nixoderm Azufre sin mencion de Aloe Vera); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00418,JABON NIXODERM AZUFRE EXTRACTO,ok,imagenesmedimentos/reales/prod-00418.png,reales,
+prod-00488,JABON PALMOLIVE AVENA Y AZUCAR,ok,imagenesmedimentos/reales/prod-00488.jpg,reales,
+prod-00489,JABON PALMOLIVE SANDIA Y LYCHE,ok,imagenesmedimentos/reales/prod-00489.jpg,reales,
+prod-00346,JABON PROTEX HERBAL 110G,ok,imagenesmedimentos/reales/prod-00346.jpg,reales,
+prod-00335,JABON SOHNSONS BABY 110G,ok,imagenesmedimentos/reales/prod-00335.jpg,reales,
+prod-00330,KETOPROFENO GEL 2.5%,ok,imagenesmedimentos/reales/prod-00330.png,reales,
+prod-00802,LASONIL ACTIVE GEL 30G,ok,imagenesmedimentos/reales/prod-00802.png,reales,
+prod-00566,NEOTRISONA CREMA 20G,ok,imagenesmedimentos/reales/prod-00566.jpg,reales,
+prod-00536,PROTECTOR NUDE SOLAR 80FPS 120,corregida,imagenesmedimentos/reales/prod-00536.jpg,reales,"QA visual: imagen muestra pack doble FPS70 de 177ml, no FPS80 de 120; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/279050670-protector-solar-nude-spf-80-frasco-x-120-ml)"
+prod-00537,PROTECTOR NUDE SOLAR 80FPS 40M,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00596,PROTECTORES DE LACTANCIA 40 NOSOTRAS,ok,imagenesmedimentos/reales/prod-00596.jpg,reales,
+prod-00598,PROTECTORES DE LACTANCIA AVENT,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: foto muestra pezoneras Avent, no protectores/almohadillas de lactancia; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1032481-protector-de-pezon); QA2 tras Fase 2: sigue sin coincidir (pezonera Avent, no discos protectores de lactancia); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00349,PROTECTORES NOSOTRAS X15,ok,imagenesmedimentos/reales/prod-00349.jpg,reales,
+prod-00694,SAVIDOL VITALFARMA GEL 90G,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00170,SEDA DENTAL COLGATE TOTAL HILO 25MTS,ok,imagenesmedimentos/reales/prod-00170.jpg,reales,
+prod-00476,SHAMPOO ARRURRU MANZANILLA 400,ok,imagenesmedimentos/reales/prod-00476.png,reales,
+prod-00651,SHAMPOO HEAD & SHOULDERS 375ML,corregida,imagenesmedimentos/reales/prod-00651.jpg,reales,"QA visual: envase mostrado es de 180ml, no 375ml como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7500435020008-shampoo-head---shoulders-limpieza-renovadora-frasco-x-375ml/p)"
+prod-00345,SHAMPOO HEAD & SHOULDERS SOBRE,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: producto es sobre/sachet pero la foto muestra botella de 375ml; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7500435202688-shampoo-head---shoulders-limpieza-revitalizacion-aceite-argan-x-1000ml/p); QA2 tras Fase 2: sigue sin coincidir (botella bomba 1L, no sobre); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00338,SHAMPOO JOHNSONS BABY GLICERIN,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00336,SHAMPOO JOHNSONS BABY MANZANIL,ok,imagenesmedimentos/reales/prod-00336.jpg,reales,
+prod-00652,SHAMPOO PANTENE RESTAURA 400ML,ok,imagenesmedimentos/reales/prod-00652.jpg,reales,
+prod-00347,SHAMPOO PANTENE SOBRE COLAGENO,ok,imagenesmedimentos/reales/prod-00347.jpg,reales,
+prod-00789,SHAMPOO SAVITAL 510ML HIALURON,ok,imagenesmedimentos/reales/prod-00789.jpg,reales,
+prod-00555,SHAMPOO SEDAL CERAMIDAS 340ML,ok,imagenesmedimentos/reales/prod-00555.webp,reales,
+prod-00495,SHAMPOO TIO NACHO CONTROL CAS,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00230,SYSTANE GEL GOTAS 10 ML,ok,imagenesmedimentos/reales/prod-00230.png,reales,
+prod-00875,TOALLAS DESMAQUILLANTES POMYS,ok,imagenesmedimentos/reales/prod-00875.png,reales,
+prod-00187,TOALLAS NOSOTRAS EXTRA PROTECC,corregida,imagenesmedimentos/reales/prod-00187.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00185,TOALLAS NOSOTRAS INVISIBLE CLA (26013.400),ok,imagenesmedimentos/reales/prod-00185.jpg,reales,
+prod-00184,TOALLAS NOSOTRAS INVISIBLE CLA (2605.200),ok,imagenesmedimentos/reales/prod-00184.jpg,reales,
+prod-00181,TOALLAS NOSOTRAS MATERNIDAD,ok,imagenesmedimentos/reales/prod-00181.webp,reales,
+prod-00183,TOALLAS NOSOTRAS PLUS CANAGEL,ok,imagenesmedimentos/reales/prod-00183.jpg,reales,
+prod-00161,TRIGENTAX CREMA TOPICA 20G,ok,imagenesmedimentos/reales/prod-00161.png,reales,
+prod-00615,VITALIS CREMA TOPICA BETAMETAS,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00362,YODORA CLASICO CREMA 12G,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: imagen muestra desodorante en barra 2x50g, no crema de 12g; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/antitranspirantes/3501-comprar-desodorante-yodora-clasico-crema-caja-con-tubo-con-25-g-precio-7702057080075.html?srsltid=AfmBOorJUcMfnYR2e0K2ihWfOROfzruoPJHtz5mKPu7D_Z4fV1ATjHrY); QA2 tras Fase 2: sigue sin coincidir (Yodora 25g, no 12g); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00696,ACEITE DE COCO 100ML EXTRA VIR,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00235,ACICLOVIR 15G UNGUENTO AL 5%,ok,imagenesmedimentos/reales/prod-00235.jpg,reales,
+prod-00092,ACICLOVIR 5% UNGUENTO TOPICO,ok,imagenesmedimentos/reales/prod-00092.png,reales,
+prod-00096,ACICLOVIR 800 MG 10 TABLETAS LA SANTE,ok,imagenesmedimentos/reales/prod-00096.png,reales,
+prod-00573,ACID MANTLE BABY 100G,ok,imagenesmedimentos/reales/prod-00573.jpg,reales,
+prod-00572,ACID MANTLE BABY 30G,ok,imagenesmedimentos/reales/prod-00572.jpg,reales,
+prod-00867,ACID MANTLE PRO B5 NOCTURNA,corregida,imagenesmedimentos/reales/prod-00867.jpg,reales,"QA visual: imagen muestra locion corporal diurna, el producto nocturno es solo un regalo; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702123013617-locion-facial-acid-mantle-pro-b5-noche-x-50ml/p)"
+prod-00176,ACIDO FOLICO 1MG 60 TABLETAS,ok,imagenesmedimentos/reales/prod-00176.jpg,reales,
+prod-00791,ACONDI SAVITAL 490ML FUSION PR,corregida,imagenesmedimentos/reales/prod-00791.jpg,reales,"QA visual: imagen muestra variante Restauracion Profunda/Serum Aminoacidos, no Fusion Proteinas; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/276550695-acondicionador-savital-fusion-de-proteinas-y-sabila-x-490-ml); QA2 tras Fase 2: sigue sin coincidir (variante Jojoba/Argan/Sabila, no Fusion Proteinas); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00783,ACONDI SAVITAL SOBRE COMP HIAL,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen muestra tarro de tratamiento, no sobre/sachet como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/294400463-tratamiento-savital-complejo-hialuronico-frasco-x-425-ml); QA2 tras Fase 2: sigue sin coincidir (tarro tratamiento capilar, no sobre acondicionador); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes"
+prod-00772,ACONDICI PANTENE CONTROL CAIDA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes"
+prod-00348,ACONDICIONADOR PANTENE SOBRE REPARACION,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00556,ACONDICIONADOR SEDAL 340ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen muestra Sedal Glycol+VitaC 640ml, producto es Ceramidas 340ml; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/233600613-acondicionador-sedal-luminous-uv-x-340-ml); QA2 tras Fase 2: sigue sin coincidir (variante Glycol+VitaC, no Ceramidas; volumen distinto); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00236,ACTIVA 21 GRAGEAS,ok,imagenesmedimentos/reales/prod-00236.jpg,reales,
+prod-00498,ADHESIVA COREGA SIN SABOR 20G,ok,imagenesmedimentos/reales/prod-00498.jpg,reales,
+prod-00193,AGUA BRISA 600 ML,ok,imagenesmedimentos/reales/prod-00193.jpg,reales,
+prod-00650,AGUA MICELAR GARNIER 100ML,ok,imagenesmedimentos/reales/prod-00650.png,reales,
+prod-00265,ALBENDAZOL 200MG MK,ok,imagenesmedimentos/reales/prod-00265.png,reales,
+prod-00551,ALGODON MK POMOS BOLSA 40G,ok,imagenesmedimentos/reales/prod-00551.jpg,reales,
+prod-00464,AMLODIPINO 5MG - 10 TABL COASP,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen muestra Amlodipino 10mg marca Colmed, producto es 5mg marca Coasp; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/212000205-amlodipino-5mg-colmed---caja-x-10-tabletas); QA2 tras Fase 2: sigue sin coincidir (marca Colmed, no Coaspharma); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00465,AMLODIPINO 5MG GENFAR 10 TABLE,ok,imagenesmedimentos/reales/prod-00465.webp,reales,
+prod-00467,AMLODIPINO 5MG LAPROFF,ok,imagenesmedimentos/reales/prod-00467.jpg,reales,
+prod-00243,AMTRIPTILINA 25 MG AG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00858,ANGIOVAN CILOSTAZOL 50MG TECNO,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00052,APRONAX 550 MG BLISTER X4,corregida,imagenesmedimentos/reales/prod-00052.jpg,reales,"QA visual: imagen muestra caja de 60 tabletas, producto es blister x4; Fase 2: reemplazada desde fuente permitida (https://www.cruzverde.com.co/apronax-550mg-blister-x-4-tabletas-recubiertas/COCV_111209.html); QA2 tras Fase 2: sigue sin coincidir (caja 60 tabletas, no blister x4); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00073,B VIT HT 3 JERINGAS,ok,imagenesmedimentos/reales/prod-00073.jpg,reales,
+prod-00704,BALSAMO LAB VOGUE PROTE LABIOS,ok,imagenesmedimentos/reales/prod-00704.webp,reales,
+prod-00697,BASE LIQUIDA NAILEN SURTIDA,ok,imagenesmedimentos/reales/prod-00697.jpg,reales,
+prod-00470,BETALOC ZOK 25MG METROPROLOL,ok,imagenesmedimentos/reales/prod-00470.jpg,reales,
+prod-00268,BETAMETASONA 8MG,ok,imagenesmedimentos/reales/prod-00268.jpg,reales,
+prod-00534,BIO OIL 60ML ACEITE PARA CUIDADO DE ´PIEL,ok,imagenesmedimentos/reales/prod-00534.jpg,reales,
+prod-00206,BION 3 - 60 TABLETAS OFERTA,ok,imagenesmedimentos/reales/prod-00206.jpg,reales,
+prod-00430,BLOQUEADOR SUNDARK NIÑOS SOBRE,ok,imagenesmedimentos/reales/prod-00430.jpg,reales,
+prod-00431,BLOQUEADOR SUNDARK SPF 60G,ok,imagenesmedimentos/reales/prod-00431.jpg,reales,
+prod-00001,BOLSA,ok,imagenesmedimentos/reales/prod-00001.jpg,reales,
+prod-00123,BONFIEST LUA PLUS 32 SOBRES,ok,imagenesmedimentos/reales/prod-00123.jpg,reales,
+prod-00071,BOTANITAS MELENA DE LEON GLICINATO DE MAGNESIO 250G,ok,imagenesmedimentos/reales/prod-00071.jpg,reales,
+prod-00415,BRONQUISOL FLEMA NIÑOS JGB 120,ok,imagenesmedimentos/reales/prod-00415.jpg,reales,
+prod-00237,CALADRYL CLEAR 100ML,ok,imagenesmedimentos/reales/prod-00237.jpg,reales,
+prod-00081,CALTRATE D 600+,ok,imagenesmedimentos/reales/prod-00081.webp,reales,
+prod-00412,CATETER 18G INTRAVENOSO,ok,imagenesmedimentos/reales/prod-00412.png,reales,
+prod-00413,CATETER 20G INTRAVENOSO,ok,imagenesmedimentos/reales/prod-00413.png,reales,
+prod-00414,CATETER 22G INTRAVENOSO,ok,imagenesmedimentos/reales/prod-00414.jpg,reales,
+prod-00378,CATETER INTRAVENOSO 24 ALFASAF,ok,imagenesmedimentos/reales/prod-00378.jpg,reales,
+prod-00143,CELECOXIB 100 MG SANFER,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen muestra marca MK, producto especifica marca Sanfer; Fase 2: reemplazada desde fuente permitida (https://www.cruzverde.com.co/celecoxib-100mg-caja-x-20-capsulas/COCV_64240.html); QA2 tras Fase 2: sigue sin coincidir (marca MK, no Sanfer); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00775,CEPILLO DENTAL NIÑOS SONRIDENT,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00507,CETIRIZINA 10MG AG 10 TABLETAS,ok,imagenesmedimentos/reales/prod-00507.jpg,reales,
+prod-00520,CETIRIZINA 10MG LA SANTE 10 TA,ok,imagenesmedimentos/reales/prod-00520.png,reales,
+prod-00688,CITRATO DE POTASIO PREMIUM D3,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00256,CLORFERAMINA JARABE 2MG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00070,CLORURO DE MAGNESIO 50 CAPSULA,ok,imagenesmedimentos/reales/prod-00070.jpg,reales,
+prod-00886,COLAGENO+BIOTINA PHARBIO X30,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen muestra marca Pharmalight con Vitamina E, no marca Pharbio; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/colageno-200-mg-biotina-900-mcg-156130/p?srsltid=AfmBOoo3VPRGsjYuwmKSsk8IHU_bTGEUDNjiu9NjoRYhOM2q4ruqxApR); QA2 tras Fase 2: sigue sin coincidir (marca SensoLife, no Pharbio); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00887,COLAGENO+BIOTINA PHARBIO X60,ok,imagenesmedimentos/reales/prod-00887.jpg,reales,
+prod-00478,COLONIA ARRURRU ORIGINAL AZUL 400ML,ok,imagenesmedimentos/reales/prod-00478.webp,reales,
+prod-00477,COLONIA ARRURRU ORIGINAL ROSAD,corregida,imagenesmedimentos/reales/prod-00477.jpg,reales,Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/cuidado-del-bebe/32034-colonia-arrurru-original-rosada-60-ml-7702277677239.html?srsltid=AfmBOookeLgRF1k1TJCJKQGbU3Z8h6XJ1Y_QLeOkZeqFU1xV7BwWS_8x)
+prod-00021,CONGESTEX CAPSULAS 60 CAPSULA,ok,imagenesmedimentos/reales/prod-00021.png,reales,
+prod-00833,CONO BOCATTO FRESA,ok,imagenesmedimentos/reales/prod-00833.jpg,reales,
+prod-00632,COPITO COTTON SWABS,ok,imagenesmedimentos/reales/prod-00632.jpg,reales,
+prod-00894,CYCLOFEM AMPOLLA,ok,imagenesmedimentos/reales/prod-00894.png,reales,
+prod-00251,DAYAMINERAL FE JARABE 240ML,ok,imagenesmedimentos/reales/prod-00251.png,reales,
+prod-00056,DICLOXACILINA 500 MG 50 CAPSUL,ok,imagenesmedimentos/reales/prod-00056.jpg,reales,
+prod-00424,DIHIDROCODEINA AG 120ML JARABE,ok,imagenesmedimentos/reales/prod-00424.webp,reales,
+prod-00407,DIHIDROCODEINA BITARTRATO 120M,ok,imagenesmedimentos/reales/prod-00407.jpg,reales,
+prod-00903,DIOSMINA HESPERIDINA MK 500,ok,imagenesmedimentos/reales/prod-00903.webp,reales,
+prod-00282,DOXICILINA 100MF X10 COMPRIMID,ok,imagenesmedimentos/reales/prod-00282.jpg,reales,
+prod-00856,DULCOLAX BISACODILO 10 GRAGEAS,corregida,imagenesmedimentos/reales/prod-00856.webp,reales,"QA visual: imagen muestra caja de 20 grageas, producto es de 10; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1003509-dulcolax-5-mg-x-10-grageas)"
+prod-00079,DUODART 0.5MG/0.4MG,ok,imagenesmedimentos/reales/prod-00079.png,reales,
+prod-00810,EMULSION DE SCOTT 360ML,ok,imagenesmedimentos/reales/prod-00810.jpg,reales,
+prod-00811,EMULSION SCOTT 180ML,ok,imagenesmedimentos/reales/prod-00811.jpg,reales,
+prod-00445,ENEMA TRAVAD 133ML,ok,imagenesmedimentos/reales/prod-00445.png,reales,
+prod-00471,ESPIRONOLACTONA 25MG LAPROFF,ok,imagenesmedimentos/reales/prod-00471.jpg,reales,
+prod-00068,EVALAX POLVO SOBRE 17 G,ok,imagenesmedimentos/reales/prod-00068.jpg,reales,
+prod-00318,FEMDUO 10 OVULOS VAGINALES,ok,imagenesmedimentos/reales/prod-00318.jpg,reales,
+prod-00111,FENCAFEN 20 TABLETAS,ok,imagenesmedimentos/reales/prod-00111.jpg,reales,
+prod-00549,FEXOFENADINA 120G TABL HETERO,ok,imagenesmedimentos/reales/prod-00549.jpg,reales,
+prod-00509,FEXOFENADINA 120MG AG 10 TABLE,ok,imagenesmedimentos/reales/prod-00509.webp,reales,
+prod-00426,FEXOFENADINA 180MG ECAR,ok,imagenesmedimentos/reales/prod-00426.jpg,reales,
+prod-00589,FEXOFENADINA JARABE 150ML ECAR,ok,imagenesmedimentos/reales/prod-00589.jpg,reales,
+prod-00273,FLORATIL 250 MG,ok,imagenesmedimentos/reales/prod-00273.png,reales,
+prod-00150,FLUCONAZOL 150MG ICOM,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00151,FLUCONAZOL 200 MG,ok,imagenesmedimentos/reales/prod-00151.jpg,reales,
+prod-00297,FLUOXETINA 20MG AG,ok,imagenesmedimentos/reales/prod-00297.png,reales,
+prod-00569,FLUOXETINA 20MG COASPHAR 14TAB,ok,imagenesmedimentos/reales/prod-00569.png,reales,
+prod-00675,GALLETA FESTIVAL SURTIDAS 6UNI,ok,imagenesmedimentos/reales/prod-00675.png,reales,
+prod-00836,GALLETA HELADO VAINILLA PASAS,ok,imagenesmedimentos/reales/prod-00836.png,reales,
+prod-00191,GATORADE FRUTAS TROPICAL 500ML,ok,imagenesmedimentos/reales/prod-00191.png,reales,
+prod-00328,GENTAMICINA 1 AMPOLLA,ok,imagenesmedimentos/reales/prod-00328.jpg,reales,
+prod-00893,GENTAMICINA SOLUCION OPTICA5ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra frasco de 10 mL, producto declarado es de 5 mL; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/gentamicina-oftalmica-la-sante-47343/p?srsltid=AfmBOooxCNEiHKVuoeZl2DYd0ECkmxExHKyvHClRAeDUbZHMRbrlIMUM); QA2 tras Fase 2: sigue sin coincidir (frasco muestra 10ml, no 5ml); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00613,GLUCERNA HMB 220ML 3 EN 1 VAIN,ok,imagenesmedimentos/reales/prod-00613.jpg,reales,
+prod-00666,GOL 31G,ok,imagenesmedimentos/reales/prod-00666.jpg,reales,
+prod-00593,GOMAS GUMIVIT BOLSA 4 GOMAS,ok,imagenesmedimentos/reales/prod-00593.jpg,reales,
+prod-00272,GORRO TIPO ORUGA AZUL,ok,imagenesmedimentos/reales/prod-00272.jpg,reales,
+prod-00720,HEMOCYTON JARABE TECNOQUIMICAS,corregida,imagenesmedimentos/reales/prod-00720.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00289,HEPATODREN TRIPLE ACCION CAPSU,ok,imagenesmedimentos/reales/prod-00289.jpg,reales,
+prod-00291,HEPATODREN TRIPLE ACCION JARAB,ok,imagenesmedimentos/reales/prod-00291.jpg,reales,
+prod-00759,HIDRAHIALURONICO NOCTURNA 200G,ok,imagenesmedimentos/reales/prod-00759.jpg,reales,
+prod-00820,HIDRAPLUS 75 ZINC 400ML MANZAN,ok,imagenesmedimentos/reales/prod-00820.jpg,reales,
+prod-00144,HIDROCLOROTIAZIDA 12.5MG,ok,imagenesmedimentos/reales/prod-00144.png,reales,
+prod-00278,HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 360ML,ok,imagenesmedimentos/reales/prod-00278.jpg,reales,
+prod-00529,HIOSCINA 10MG LAPROFF,ok,imagenesmedimentos/reales/prod-00529.jpg,reales,OJO: script.js fuerza la imagen 'imagenesmedimentos/buscapnacompositum.jpg' para este SKU sin importar productos.json
+prod-00733,IGORA 1-1 NEGRO AZUL+OXIGENTA,ok,imagenesmedimentos/reales/prod-00733.jpg,reales,
+prod-00324,INHALOCAMARA ADULTO PROTEX,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/equipos-medicos/29386-inhalocamara-para-traqueostomia-trudell-12809875.html?srsltid=AfmBOopWkWVT_DNS5Cx1n5DQeFA9QppoM3hyW2Kt96oLmX1zencv1Xmg); QA2 tras Fase 2: sigue sin coincidir (marca AeroTrach Plus, no Protex); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00315,INHALOCAMARA PEDIATRICA MASCAR,ok,imagenesmedimentos/reales/prod-00315.jpg,reales,
+prod-00227,"IVERMECTINA 0,6% SOLUCION ORAL",ok,imagenesmedimentos/reales/prod-00227.webp,reales,
+prod-00307,KETOTIFENO 1MG JARABE 100ML,ok,imagenesmedimentos/reales/prod-00307.jpg,reales,
+prod-00197,KOLA GRANULADA FRESA 135G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Tarrito Rojo sabor Tradicional, producto es sabor Fresa; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/vitaminas-smart-nutrition/7039-comprar-en-cafam-tarrito-rojo-frasco-sabor-fresa-con-135-g-precio-7702560026232.html?srsltid=AfmBOoqk7jpzQb1RIvNEasBoXH7YlMOaEvQxFKm1rMNQ2Lrd3fi0f4sM); QA2 tras Fase 2: sigue sin coincidir (sabor tradicional, no fresa); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00198,KOLA GRANULADA FRESA 380G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Tarrito Rojo sabor Tradicional, producto es sabor Fresa; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/vitaminas-smart-nutrition/5978-comprar-en-cafam-tarrito-rojo-sabor-fresa-frasco-con-380-g-precio-7702560026089.html?srsltid=AfmBOorxPdxGcops4uadKJcdR1tXhqKPKNUKkfertDgBSFMMfVNu_fM1); QA2 tras Fase 2: sigue sin coincidir (sabor tradicional, no fresa); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00196,KOLA GRANULADA TRADICIONAL135G,corregida,imagenesmedimentos/reales/prod-00196.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00097,LAGRIMAS ARTIFICIALES 5 MG/ML,ok,imagenesmedimentos/reales/prod-00097.png,reales,
+prod-00379,LECHE DE MAGNESIA PHILLIPS 120,ok,imagenesmedimentos/reales/prod-00379.webp,reales,
+prod-00435,LECHE KLIM NESTLE 1+ 500G,ok,imagenesmedimentos/reales/prod-00435.jpg,reales,
+prod-00522,LEVOCETIRIZINA 5MG 10 TB LA SA,ok,imagenesmedimentos/reales/prod-00522.jpg,reales,
+prod-00005,LEVOFLAXACINA TABL 500 MG MK,corregida,imagenesmedimentos/reales/prod-00005.jpg,reales,Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/salud-y-medicamentos-medicamentos-formulados--levofloxacina-mk-tabletas-500-mg-213448/p?srsltid=AfmBOorHe042IXmfWdswtY2jzd8oHWQZrGEPbukc1bv0SFMVxut5hDU2)
+prod-00319,LEVOTIROXINA SODICA 100MCG,ok,imagenesmedimentos/reales/prod-00319.jpg,reales,
+prod-00086,LIDOCAINA HCI 2% JALEA ESTERIL 30 G,ok,imagenesmedimentos/reales/prod-00086.jpg,reales,
+prod-00204,LISTERINE CUIDADO TOTAL 180ML,ok,imagenesmedimentos/reales/prod-00204.png,reales,
+prod-00606,LOPERAMIDA ECAR 6 TABLETAS,ok,imagenesmedimentos/reales/prod-00606.jpg,reales,
+prod-00223,LOXONIN 60MG,ok,imagenesmedimentos/reales/prod-00223.webp,reales,
+prod-00504,LUBRICANTE INTIMAZUL SACHET,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: producto es sachet, foto muestra un frasco/tubo de 60mL; Fase 2: sin coincidencia confiable en fuentes permitidas; archivo viejo movido a C:\Users\lenovo\Desktop\proyectohuevo\imagenesmedimentos\reales\_revisar_manual\prod-00504.png; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes"
+prod-00545,LUBRICANTE INTIMO DUREX 50G,ok,imagenesmedimentos/reales/prod-00545.jpg,reales,
+prod-00546,LUBRICANTE INTIMO K-Y 100G,ok,imagenesmedimentos/reales/prod-00546.jpg,reales,
+prod-00548,LUBRICANTE INTIMO K-Y 15G,ok,imagenesmedimentos/reales/prod-00548.jpg,reales,
+prod-00547,LUBRICANTE INTIMO K-Y 50G,ok,imagenesmedimentos/reales/prod-00547.webp,reales,
+prod-00506,LUBRIDERM HUMECTANTE DIA 120ML,ok,imagenesmedimentos/reales/prod-00506.jpg,reales,
+prod-00505,LUBRIDERM HUMECTANTE DIA 400ML,ok,imagenesmedimentos/reales/prod-00505.jpg,reales,
+prod-00425,LUMBAL FORTE 6 TABLETAS,corregida,imagenesmedimentos/reales/prod-00425.jpg,reales,"QA visual: caja muestra 36 tabletas, producto declarado son 6 tabletas; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/kit-lumbal-forte-101983/p?srsltid=AfmBOooHULasFfydnLhicC_bW3HosbfayNcJzQc42W1Z3bUsY47z5R_t); QA2 tras Fase 2: sigue sin coincidir (caja 36 tabletas, no 6); imagen descartada movida a _descartadas_qa2/; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00484,MENTICOL AMARILLO 250ML + 60ML,ok,imagenesmedimentos/reales/prod-00484.jpg,reales,
+prod-00633,METOCARBAMOL 750MG ANGLOPHARMA,ok,imagenesmedimentos/reales/prod-00633.png,reales,
+prod-00304,METOCLOPRAMIDA 4MG/ML GOTAS 30ML,ok,imagenesmedimentos/reales/prod-00304.jpg,reales,
+prod-00308,METRONIDAZOL 500MG EC TABLETAS,ok,imagenesmedimentos/reales/prod-00308.jpg,reales,
+prod-00442,METRONIST OVULOS COLMED,ok,imagenesmedimentos/reales/prod-00442.png,reales,
+prod-00502,MICROPORE KENNEDY PIEL 1/2X5,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00503,MICROPORE KENNEDY PIEL 1X5,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00540,MICROPORE SUPREME 1/2 X5,corregida,imagenesmedimentos/reales/prod-00540.jpg,reales,"QA visual: foto muestra venda elastica Supreme, no cinta Micropore; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/protector-cutaneo/33666-venda-elastica-supreme-7707710160477.html?srsltid=AfmBOorqz8EH79DHhj9ukZ4StSiBLQ9841TDh3P1u9laTxq83X1VM_Yf); QA2 tras Fase 2: sigue sin coincidir (venda elastica Supreme, no micropore); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00541,MICROPORE SUPREME 1X1,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00693,MIEL DE ABEJAS LA ESPERANZA 355G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00845,MINOXIDIL 5% 60ML LAPROFF,ok,imagenesmedimentos/reales/prod-00845.jpg,reales,
+prod-00083,MUCOSINA GOTAS PEDIATRICA 30ML,ok,imagenesmedimentos/reales/prod-00083.jpg,reales,
+prod-00438,NESTLE NESTUM 5 CEREALES 200G,ok,imagenesmedimentos/reales/prod-00438.jpg,reales,
+prod-00437,NESTLE NESTUM TRIGO MIEL 200G,ok,imagenesmedimentos/reales/prod-00437.jpg,reales,
+prod-00436,"NESTLE NESTUM TRIGO, BANANO 200G",corregida,imagenesmedimentos/reales/prod-00436.jpg,reales,"QA visual: foto muestra sabor Trigo Miel, producto es sabor Trigo Banano; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1038201-cereal-nestum-de-trigo-manzana-y)"
+prod-00607,NEUROBION DC X3 JERINGAS,ok,imagenesmedimentos/reales/prod-00607.jpg,reales,
+prod-00321,NEUROBION INYECTABLE OFERTA,ok,imagenesmedimentos/reales/prod-00321.jpg,reales,
+prod-00287,NISTATINA SUSPENSION 60ML,ok,imagenesmedimentos/reales/prod-00287.webp,reales,
+prod-00618,NITAZOXADINA 500MG NITOFAR,corregida,imagenesmedimentos/reales/prod-00618.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00747,NORAVER GARGANTA NARANJA MIEL,ok,imagenesmedimentos/reales/prod-00747.png,reales,
+prod-00620,OFERTA ACID MANTLE + BABY BALM,ok,imagenesmedimentos/reales/prod-00620.jpg,reales,
+prod-00559,OFERTA PONDS CLARANT B3 100G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00558,OFERTA PONDS REJUVENS 100G,ok,imagenesmedimentos/reales/prod-00558.jpg,reales,
+prod-00320,ORLISTAT 120 MG COLMED,ok,imagenesmedimentos/reales/prod-00320.png,reales,
+prod-00427,ORLISTAT 120MG ECAR,ok,imagenesmedimentos/reales/prod-00427.jpg,reales,
+prod-00513,OTICAINA BENZOCAINA GOTAS SANF,ok,imagenesmedimentos/reales/prod-00513.jpg,reales,
+prod-00222,OTIRILIN SOLUCION OTICA 13ML,ok,imagenesmedimentos/reales/prod-00222.png,reales,
+prod-00286,OTOGLICAR GLICERINA CARBO 30ML,ok,imagenesmedimentos/reales/prod-00286.jpg,reales,
+prod-00499,OXIGENTA IGORA 30 VOL 9%,ok,imagenesmedimentos/reales/prod-00499.jpg,reales,
+prod-00443,PANTOPRAZOL 20MG COLMED 30TABL,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Pantoprazol de laboratorio MK, no Colmed como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1053677-pantoprazol-colmed-20mg-x-30-tabletas); QA2 tras Fase 2: sigue sin coincidir (marca no coincide con Colmed); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00673,PAPA MARGARITA SURTIDA 25G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: sin coincidencia confiable en fuentes permitidas; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00049,PEDIALITE ACTIVE CEREZA 500 ML,ok,imagenesmedimentos/reales/prod-00049.jpg,reales,
+prod-00796,PEDIALITE FRESA CON ZINC 60,ok,imagenesmedimentos/reales/prod-00796.png,reales,
+prod-00795,PEDIALITE UVA CON ZINC 60,ok,imagenesmedimentos/reales/prod-00795.jpg,reales,
+prod-00130,PEDIASURE LIQ. VAINILLA 220ML,ok,imagenesmedimentos/reales/prod-00130.webp,reales,
+prod-00866,PEDIASURE POLVO 850G,ok,imagenesmedimentos/reales/prod-00866.jpg,reales,
+prod-00717,PESTAÑINA VOGUE CURVAS PERFECT,ok,imagenesmedimentos/reales/prod-00717.png,reales,
+prod-00325,PLURIGRAM 500MG TABLETAS 10,ok,imagenesmedimentos/reales/prod-00325.jpg,reales,
+prod-00710,POLVO COMPA VOGUE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra polvo compacto marca Ana María, no Vogue; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1052841-polvo-jolie-de-vogue); QA2 tras Fase 2: sigue sin coincidir (marca Ana Maria, no Vogue); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00353,POLVO MEXSANA ANTIBA 150G,ok,imagenesmedimentos/reales/prod-00353.jpg,reales,
+prod-00354,POLVO MEXSANA ANTIBA 85G,ok,imagenesmedimentos/reales/prod-00354.jpg,reales,
+prod-00895,POLVO MEXSANA PROMO PACK 150G+80G,ok,imagenesmedimentos/reales/prod-00895.png,reales,
+prod-00301,POSTDAY 1 -1-5MG,ok,imagenesmedimentos/reales/prod-00301.jpg,reales,
+prod-00004,POSTINOR 1 TABLETA 1.5MG,ok,imagenesmedimentos/reales/prod-00004.jpg,reales,
+prod-00312,PREDNISOLONA 5MG LAPROFF 10 TA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Prednisolona Coaspharma 30 tabletas, no Laproff 10 tabletas; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/formulados/45868-comprar-prednisolona-5-mg-caja-con-300-tabletas-rx-precio-7703712035355.html?srsltid=AfmBOoqKCkkmSeLzxuZpg3yh8D-IUp5U81-Z8G2h-yyX8b0ahsf4ho1q); QA2 tras Fase 2: sigue sin coincidir (marca Coaspharma 300 tabl, no Laproff 10); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00403,PRESERVATIVO TODAY HOT SENSATI,ok,imagenesmedimentos/reales/prod-00403.png,reales,
+prod-00404,PRESERVATIVO TODAY LONG ACTION,ok,imagenesmedimentos/reales/prod-00404.jpg,reales,
+prod-00405,PRESERVATIVO TODAY MUTUAL SENS,corregida,imagenesmedimentos/reales/prod-00405.webp,reales,"QA visual: foto muestra condón Today Lubricado, no variante Mutual Sensation; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1003300-today-condones-lubricado-3-und)"
+prod-00400,PRESERVATIVO TODAY PUNTO G,ok,imagenesmedimentos/reales/prod-00400.webp,reales,
+prod-00402,PRESERVATIVO TODAY REAL SENSAT,ok,imagenesmedimentos/reales/prod-00402.jpg,reales,
+prod-00401,PRESERVATIVO TODAY TRIPLE PLAC,ok,imagenesmedimentos/reales/prod-00401.jpg,reales,
+prod-00460,PRESERVATIVOS EXTASIS LUBRICAD,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra condones marca Today, no marca Extasis; Fase 2: reemplazada desde fuente permitida (https://www.cruzverde.com.co/preservativo-latex-lubricados-excitante-caja-6-piel/COCV_578632.html); QA2 tras Fase 2: sigue sin coincidir (marca Piel, no Extasis); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual"
+prod-00392,PRESERVATIVOS XTREM NORMAL LUB,ok,imagenesmedimentos/reales/prod-00392.jpg,reales,
+prod-00712,PRESTOBARBA GILLETTE NARANJA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,OJO: script.js fuerza la imagen 'imagenesmedimentos/desoderantegillette82gx2.png' para este SKU sin importar productos.json; Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00601,PROWHEY KALORI 200ML LIQUIDO,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra lata de polvo Prowhey, no presentación líquida de 200ml; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/217700139-prowhey-kalori-lata-460gr); QA2 tras Fase 2: sigue sin coincidir (lata de polvo, no envase liquido 200ml); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00600,PROWHEY KALORI 460G,corregida,imagenesmedimentos/reales/prod-00600.webp,reales,"QA visual: foto muestra empaque de 900g, no coincide con 460g del nombre; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/nutricion/31439-comprar-en-cafam-prowhey-kalori-sabor-vainilla-lata-con-460-g-precio-7709729471735.html?srsltid=AfmBOooNqQTqgEVkA6ms6zFI4gLRuIbb8e5iTbJInBvn2bIAN5zIPLMZ); QA2 tras Fase 2: sigue sin coincidir (etiqueta muestra 900g, no 460g); imagen descartada movida a _descartadas_qa2/; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00390,PRUEBA DE EMBARAZO CASSET ALL SET,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra prueba de embarazo marca Indiker, no marca All Set; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/prueba-rapida-embarazo-cassette-indiker-157394/p?srsltid=AfmBOooxYpnS-pmnOZsBc-zkvPPVYihRZ7UDPAgBzQ6rHGclkgEVADgd); QA2 tras Fase 2: sigue sin coincidir (marca Indiker, no All Set); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00391,PRUEBA DE EMBARAZO TIRA ALL SE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra test digital Clearblue, no tira marca All Set; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/a/p/prueba-embarazo.html); QA2 tras Fase 2: sigue sin coincidir (Clearblue digital, no tira All Set); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00202,REDOXON TOTAL EFER 10 COMPRIMI,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00106,RELAXMENT PLUS 500 MG 30 TABLE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00105,RELAXMENT PLUS 500MG 20 TABLE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00731,REMOVEDOR LANDER + OBSE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00524,SECNIDAZOL 1GR 2 TABLE LA SANT,ok,imagenesmedimentos/reales/prod-00524.jpg,reales,
+prod-00525,SECNIDAZOL 500MG LA SANTE 4 TA,ok,imagenesmedimentos/reales/prod-00525.jpg,reales,
+prod-00609,SERVICIO INYECTOLOGIA,ok,imagenesmedimentos/reales/prod-00609.jpg,reales,
+prod-00107,SEVEDOL EXTRA FUERTE 16 TABL,ok,imagenesmedimentos/reales/prod-00107.jpg,reales,
+prod-00108,SEVEDOL EXTRA FUERTE 8 TABLETA,ok,imagenesmedimentos/reales/prod-00108.jpg,reales,
+prod-00751,SHAMPO DREAM LISO ELVIVE 370ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00755,SHAMPO GLYCOLIC CRISTAL ELVIVE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00450,SHAMPO HEAD & SHOULDERS 180ML,ok,imagenesmedimentos/reales/prod-00450.jpg,reales,
+prod-00753,SHAMPO HIALURONICO PURE ELVIVE,corregida,imagenesmedimentos/reales/prod-00753.png,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 (dominios ampliados, ronda pre-nuevos-dominios): reemplazada y confirmada por QA visual"
+prod-00752,SHAMPO HIDRAHIALURONICO ELVIVE,ok,imagenesmedimentos/reales/prod-00752.png,reales,
+prod-00774,SHAMPO PANTENE BAMBU 400ML,ok,imagenesmedimentos/reales/prod-00774.jpg,reales,
+prod-00790,SHAMPO SAVITAL 510ML FUSION PR,ok,imagenesmedimentos/reales/prod-00790.jpg,reales,
+prod-00888,SIETE FACTORES DE TRANSF 650MG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00428,SILDENADIL 50MG LA SANTE,ok,imagenesmedimentos/reales/prod-00428.png,reales,
+prod-00564,SOLUCION SALINA INYECTA 250ML,corregida,imagenesmedimentos/reales/prod-00564.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00605,SOUXA NITAZOXANIDA SUSPENSION,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Nitazoxanida marca MK, no marca Souxa; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702057060916-nitazoxanida-mk-100-5ml-granulado-suspension-oral-frasco-x-60ml-1/p); QA2 tras Fase 2: sigue sin coincidir (marca MK, no Souxa); imagen descartada movida a _descartadas_qa2/; QA visual (candidato pre-nuevos-dominios): sigue sin coincidir, va a cola de reintento con nuevas fuentes; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00177,SULFATO FERROSO 200 MG 50 GRAG,ok,imagenesmedimentos/reales/prod-00177.png,reales,
+prod-00313,SULFATO FERROSO 300MG,ok,imagenesmedimentos/reales/prod-00313.jpg,reales,
+prod-00583,SULZINC 80ML SUSPENSION HUMA,ok,imagenesmedimentos/reales/prod-00583.jpg,reales,
+prod-00689,SURELAB CHILDREN´S POLVO VAINI,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00228,SYSTANE BALANCE GOTAS 10ML,ok,imagenesmedimentos/reales/prod-00228.png,reales,
+prod-00229,SYSTANE COMPLETE GOTAS 10ML,ok,imagenesmedimentos/reales/prod-00229.jpg,reales,
+prod-00314,TADALOFILO 20MG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00715,TALCO JOHNSON 100G,ok,imagenesmedimentos/reales/prod-00715.jpg,reales,
+prod-00550,TALCO YODORA 60G,ok,imagenesmedimentos/reales/prod-00550.jpg,reales,
+prod-00792,TAMPON NOSOTRAS SUPER 8UNIDA,ok,imagenesmedimentos/reales/prod-00792.jpg,reales,
+prod-00179,TAMPONES NOSOTRAS 8 CON APLICA,ok,imagenesmedimentos/reales/prod-00179.png,reales,
+prod-00646,TE HATSU SURTIDO 450ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00311,TIAMINA 300MG EC,ok,imagenesmedimentos/reales/prod-00311.png,reales,
+prod-00457,TOROVITAL SANGRE TORO 1000ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00326,TORROX ETORICOXIB 120 MG 10 TA,ok,imagenesmedimentos/reales/prod-00326.jpg,reales,
+prod-00420,TOTUMO JARABE 240ML FRESLY,corregida,imagenesmedimentos/reales/prod-00420.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00452,TOTUMO JARABE LABFARVE 240ML,ok,imagenesmedimentos/reales/prod-00452.jpg,reales,
+prod-00777,TRAT NUTRIBELA SOBRE REPARACIO,ok,imagenesmedimentos/reales/prod-00777.png,reales,
+prod-00767,TRATAM CAIDA RESIST 300ML ELVI,ok,imagenesmedimentos/reales/prod-00767.webp,reales,
+prod-00768,TRATAM COLLAGENO 300G ELVIVE,corregida,imagenesmedimentos/reales/prod-00768.jpg,reales,"QA visual: foto muestra Elvive Glycolic Gloss, no línea de Colágeno; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7509552992083-tratamiento-elvive-collagen-lifter-x-300g/p)"
+prod-00766,TRATAM GLYCOLIC CRITAL 300G ELVIVE,ok,imagenesmedimentos/reales/prod-00766.jpg,reales,
+prod-00769,TRATAM GLYCOLIC GLOSS 300G ELV,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00770,TRATAM HIDRAHIALURONICO 300G ELVIVE,corregida,imagenesmedimentos/reales/prod-00770.jpg,reales,"QA visual: foto muestra Elvive Reparación Total 5 con keratina, no Hidra Hialurónico; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7509552847949-tratamiento-elvive-hidra-hialuronico-x-300ml/p)"
+prod-00780,TRATAM NUTRIBELA PRO HIALURONI,ok,imagenesmedimentos/reales/prod-00780.png,reales,
+prod-00779,TRATAM NUTRIBELA SOBRE CELULAS,ok,imagenesmedimentos/reales/prod-00779.jpg,reales,
+prod-00778,TRATAM NUTRIBELA SOBRE TERMOPR,ok,imagenesmedimentos/reales/prod-00778.jpg,reales,
+prod-00762,TRATAMI 3 EN 1 HIDRAHIALU 500M,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00764,TRATAMI DREAM LISO 300G ELVIVE,ok,imagenesmedimentos/reales/prod-00764.webp,reales,
+prod-00761,TRATAMIENTO 3 EN 1 500ML REPAR,corregida,imagenesmedimentos/reales/prod-00761.jpg,reales,"QA visual: foto muestra producto genérico ""Recupera tus Rizos"" 1kg, no Elvive 500ml; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7509552957525-tratamiento-3-en-1-elvive-reparacion-total-5-x-500ml/p)"
+prod-00758,TRATAMIENTO REPARA TOTAL5 ELVI,ok,imagenesmedimentos/reales/prod-00758.jpg,reales,
+prod-00785,TRAVAD ORAL 133ML LIMON,ok,imagenesmedimentos/reales/prod-00785.jpg,reales,
+prod-00567,TRIMEBUTINA MALEATO 200MG,ok,imagenesmedimentos/reales/prod-00567.jpg,reales,
+prod-00568,TRIMEBUTINA MALEATO 200MG GENF,ok,imagenesmedimentos/reales/prod-00568.jpg,reales,
+prod-00863,TRIMETOPRIM SULFAMETO F GENGAR,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00670,TRULULU PIRAMIDAL,corregida,imagenesmedimentos/reales/prod-00670.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00874,VALSARTAN 160MG 14TAB LA SANTE,ok,imagenesmedimentos/reales/prod-00874.jpg,reales,
+prod-00371,VENDA 3¨,ok,imagenesmedimentos/reales/prod-00371.png,reales,
+prod-00372,VENDA 4¨,ok,imagenesmedimentos/reales/prod-00372.png,reales,
+prod-00373,VENDA ELASTICA 5¨,ok,imagenesmedimentos/reales/prod-00373.png,reales,
+prod-00374,VENDA ELASTICA 6¨,ok,imagenesmedimentos/reales/prod-00374.png,reales,
+prod-00380,VIAGRA SILDENAFIL 50 MG -2TABL,ok,imagenesmedimentos/reales/prod-00380.jpg,reales,
+prod-00219,VICK BABY BALM 50G,ok,imagenesmedimentos/reales/prod-00219.jpg,reales,
+prod-00218,VICK VAPORUB 50G,ok,imagenesmedimentos/reales/prod-00218.jpg,reales,
+prod-00067,WASSERTROL UNGUENTO 5G,ok,imagenesmedimentos/reales/prod-00067.jpg,reales,
+prod-00749,WINADEINE F EUROFARMA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Winadeine F de Sanofi, no Eurofarma como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1050476-acetaminofen--codeina-325mg30mg-winadeine-f-eurofarma-caja-x-10-tabletas); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Sanofi, no Eurofarma); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00149,X RAY DOL TABLETAS,ok,imagenesmedimentos/reales/prod-00149.webp,reales,
+prod-00153,YODOPOVIL ESPUMA 60 ML,corregida,imagenesmedimentos/reales/prod-00153.jpg,reales,"QA visual: foto muestra Bactroderm yodopovidona, marca distinta a Yodopovil; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/salud-y-medicamentos-recolectores-alcohol--desinfectantes-y-antisep-bactroderm--yodopovidona--espuma-8-g--frasco-60-ml-093012/p?srsltid=AfmBOoriapm8mvst60iXhQQQCsgZqUiyxC6-rH3_al-9QrnQ0jDoLRzI); QA2 tras Fase 2: sigue sin coincidir (Muestra Bactroderm (Ecar), no Yodopovil); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00154,YODOPOVIL SOLUCION 60ML,corregida,imagenesmedimentos/reales/prod-00154.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00208,CEBION VITAMINA C NARANJA 550M,ok,imagenesmedimentos/reales/prod-00208.webp,reales,
+prod-00852,CENTRUM SILVER +50 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00852.jpg,reales,
+prod-00851,CENTRUM SILVER WOMEN 50+ 30TAB,ok,imagenesmedimentos/reales/prod-00851.jpg,reales,
+prod-00691,COMPLEJO B + ZINC + VITA PHARB,sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,"QA visual: foto muestra marca Vit Max B, no Pharb como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/500024390-multivitaminico-vitmax-b-complejo-b---zinc-x-30-capsulas-vitmax-b-caja-x-x-30-unidades); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Vit Max B, no Pharb); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00687,SURELAB ULTRA MULTIVITA VAINIL,sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00444,VITAMINA E COLMED 10 CAPSULAS,sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,"QA visual: foto muestra envase de 100 cápsulas, no 10 como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/salud-y-medicamentos-maternidad-vitaminas-vitamina-e-colmed-capsulas-blandas-400-ui-639846/p?srsltid=AfmBOoob3UZov01FMcelEl-zLzQlNrS9IWtLQnnkMBsHvjpQUv0RcRHi); QA2 tras Fase 2: sigue sin coincidir (Muestra 100 capsulas, no 10); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00901,GLUCOPHAGE 500MG METFORMINA,ok,imagenesmedimentos/reales/prod-00901.jpg,reales,
+prod-00900,IBUPROFENO 800MG LAPROFF,ok,imagenesmedimentos/reales/prod-00900.jpg,reales,
+prod-00899,CLARITROMICINA 500 MG LAPROFF,corregida,imagenesmedimentos/reales/prod-00899.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00898,KIT NEBULIZADOR PEDIATRICO,ok,imagenesmedimentos/reales/prod-00898.jpg,reales,
+prod-00897,KIT NEBULIZADOR ADULTO,ok,imagenesmedimentos/reales/prod-00897.jpg,reales,
+prod-00889,ISOFLAVONAS DE SOYA 500MG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00877,VALSARTAN 160MG MK,ok,imagenesmedimentos/reales/prod-00877.png,reales,
+prod-00876,VALSARTAN 80MG MK,ok,imagenesmedimentos/reales/prod-00876.png,reales,
+prod-00873,LOSARTAN 50MG LA SANTE,ok,imagenesmedimentos/reales/prod-00873.png,reales,
+prod-00865,CLARITROMICINA 250MG/5ML,ok,imagenesmedimentos/reales/prod-00865.jpg,reales,
+prod-00864,BAJALENGUAS DE MADERA,ok,imagenesmedimentos/reales/prod-00864.png,reales,
+prod-00859,BELLAFACE SUAVE 28 TABLETAS,ok,imagenesmedimentos/reales/prod-00859.png,reales,
+prod-00857,VIVE 100 ORIGINAL 310ML,ok,imagenesmedimentos/reales/prod-00857.png,reales,
+prod-00855,BUSCAPINA FEM,ok,imagenesmedimentos/reales/prod-00855.png,reales,
+prod-00854,CIRUELAX 20 TABLETAS,ok,imagenesmedimentos/reales/prod-00854.jpg,reales,
+prod-00853,CENTRUM WOMEN 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00853.webp,reales,
+prod-00850,CENTRUM MEN 30 TABLETAS,corregida,imagenesmedimentos/reales/prod-00850.jpg,reales,"QA visual: foto muestra envase de 60 tabletas, no 30 como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/smart-nutrition/28643-comprar-en-cafam-centrum-silver-men-50-anos-con-30-tabletas-precio-7702132000974.html?srsltid=AfmBOopqcB0JwjO1FwBq9TOkD9yEP1TaJ39EGMSj8FC0j-S2FwUfve2f); QA2 tras Fase 2: sigue sin coincidir (Es Centrum Silver Men +50, no Centrum Men); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00849,CENTRUM ADVANCE 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00849.jpg,reales,
+prod-00848,DOLEX FORTE,ok,imagenesmedimentos/reales/prod-00848.png,reales,
+prod-00844,TIQUEPIN QUETIAPINA 25MG,ok,imagenesmedimentos/reales/prod-00844.png,reales,
+prod-00843,DOMICILIO,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen es un placeholder de foto no disponible, no un producto real; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/205950034-servicio-domicilio-web); QA2 tras Fase 2: sigue sin coincidir (Imagen placeholder foto no disponible); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00842,GINGO BILOBA,ok,imagenesmedimentos/reales/prod-00842.jpg,reales,
+prod-00840,SMECTA SOBRE,ok,imagenesmedimentos/reales/prod-00840.webp,reales,
+prod-00839,VASO ALOHA KOLA,ok,imagenesmedimentos/reales/prod-00839.png,reales,
+prod-00838,GALLETA HELADO JUMBO,ok,imagenesmedimentos/reales/prod-00838.jpg,reales,
+prod-00837,GALLETA HELADO NAPOLITANA,ok,imagenesmedimentos/reales/prod-00837.jpg,reales,
+prod-00835,PALETA CHOCOLISTO CHOCOLATE,ok,imagenesmedimentos/reales/prod-00835.png,reales,
+prod-00834,PALETA POLET CEREZA,corregida,imagenesmedimentos/reales/prod-00834.jpg,reales,"QA visual: foto muestra sabor frutos del bosque, no cereza como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/hogar-enlatados-y-otros-alimentos-snacks-paleta-polet-crem-helado-cereza-amarena-bolsa-85-g-694068/p?srsltid=AfmBOopzQTjc2xfXRGeFbgERsYrl0BonuEXfbkvZyqysnB3dVY1-G2N2)"
+prod-00832,PALET POLET CHOCOAVELLANA,ok,imagenesmedimentos/reales/prod-00832.png,reales,
+prod-00831,HELADO CASERO COCO,ok,imagenesmedimentos/reales/prod-00831.png,reales,
+prod-00830,HELADO CASERO RON PASAS,ok,imagenesmedimentos/reales/prod-00830.jpg,reales,
+prod-00829,HELADO CASERO GUANABANA,ok,imagenesmedimentos/reales/prod-00829.jpg,reales,
+prod-00828,HELADO CASERO YOGURT FRESA,ok,imagenesmedimentos/reales/prod-00828.png,reales,
+prod-00827,HELADO ARTESANAL MARACUYA,ok,imagenesmedimentos/reales/prod-00827.png,reales,
+prod-00826,HELADO ARTESANAL TRES LECHES,ok,imagenesmedimentos/reales/prod-00826.jpg,reales,
+prod-00825,HELADO ARTESANAL MANDARINA,corregida,imagenesmedimentos/reales/prod-00825.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00822,PAÑALES WINNY PANTS ETAPA 4,ok,imagenesmedimentos/reales/prod-00822.png,reales,
+prod-00819,HIDRAPLUS 75 ZINC 400ML UVA,ok,imagenesmedimentos/reales/prod-00819.png,reales,
+prod-00818,AMPER ENERGY 473ML,ok,imagenesmedimentos/reales/prod-00818.webp,reales,
+prod-00816,RED BULL LATA 250ML,corregida,imagenesmedimentos/reales/prod-00816.webp,reales,"QA visual: foto muestra lata de 355ml, no 250ml como indica el nombre; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1004628-bebida-energizante-red)"
+prod-00808,PALETA ALOHA LIMON,ok,imagenesmedimentos/reales/prod-00808.png,reales,
+prod-00807,PALETA ALOHA NARANJA,ok,imagenesmedimentos/reales/prod-00807.png,reales,
+prod-00806,PALETA JET GOOL,ok,imagenesmedimentos/reales/prod-00806.png,reales,
+prod-00803,CHOCOCONO X90G,corregida,imagenesmedimentos/reales/prod-00803.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00799,ABRILAR EA 575 JARABE 100ML,ok,imagenesmedimentos/reales/prod-00799.jpg,reales,
+prod-00787,ACONDIC SAVITAL 490ML ELIXIR R,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra shampoo, no acondicionador; volumen 510ml no 490ml; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/218650129-oferta-shampoo-savital-aceite-de-argan-x-550ml--acondicionador-savital-x-530ml); QA2 tras Fase 2: sigue sin coincidir (Es shampoo Savital, no acondicionador); imagen descartada movida a _descartadas_qa2/"
+prod-00784,SHAMPO DOVE RECONSTRUCCION + A,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00781,ACONDICIONADOR DOVE RECONSTRUC,corregida,imagenesmedimentos/reales/prod-00781.jpg,reales,Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/cuidado-personal/32431-acondicionador-dove-7702006208611.html?srsltid=AfmBOoqHQnjvwVaENsRp8JaGUph_bhRjwMTTaGCWFnpbZdhrN2kVPHuz)
+prod-00776,CREMA DENTAL NIÑOS PROQUIDENT,ok,imagenesmedimentos/reales/prod-00776.jpg,reales,
+prod-00773,ACONDICIONADOR BAMBU PANTENE 4,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00771,PESTAÑINA MAX FACTOR PROMO,ok,imagenesmedimentos/reales/prod-00771.webp,reales,
+prod-00760,SERUM DREAMLISO 100ML,ok,imagenesmedimentos/reales/prod-00760.jpg,reales,
+prod-00754,SHAMPO REPARA TOTAL5 ELVIVE 37,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00745,ELECTROLIT PONCHE DE FRUTAS,ok,imagenesmedimentos/reales/prod-00745.webp,reales,
+prod-00744,ELECTROLIT LIMA LIMON,ok,imagenesmedimentos/reales/prod-00744.jpg,reales,
+prod-00743,ATORVASTATINA LA SANTE 20MG,ok,imagenesmedimentos/reales/prod-00743.png,reales,
+prod-00742,CLOPIDOGREL 75MG AG CAJA,ok,imagenesmedimentos/reales/prod-00742.webp,reales,
+prod-00741,METOCLOPRAMIDA BLISTER SANFER,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra ampollas inyectables Genfar, no blister de tabletas Sanfer; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/214850238-metoclopramida-4-mgml--sanfer-solucion-oral-gotas-x-30-ml); QA2 tras Fase 2: sigue sin coincidir (Muestra frasco de gotas, no blister de tabletas); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00739,ALIPRID ALIZAPRIDA 15ML,ok,imagenesmedimentos/reales/prod-00739.jpg,reales,
+prod-00738,IGORA 7-65 CAFE MOCA CLARO,ok,imagenesmedimentos/reales/prod-00738.jpg,reales,
+prod-00737,IGORA 1-0 NEGRO,ok,imagenesmedimentos/reales/prod-00737.jpg,reales,
+prod-00736,2 IGORA 6-34 CHOCOLATE DORADO,ok,imagenesmedimentos/reales/prod-00736.png,reales,
+prod-00734,2 TUBOS IGORA 4-0 CASTAÑO MEDI,ok,imagenesmedimentos/reales/prod-00734.webp,reales,
+prod-00732,IGORA 606 CHOCOLATE INTENSO BR,corregida,imagenesmedimentos/reales/prod-00732.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00730,STAMYL 20 GRAGEAS,ok,imagenesmedimentos/reales/prod-00730.jpg,reales,
+prod-00728,BIGEN MENS SPEEDY 101 NEGRO,ok,imagenesmedimentos/reales/prod-00728.jpg,reales,
+prod-00727,BIGEN 59 NEGRO ORIENTAL,ok,imagenesmedimentos/reales/prod-00727.webp,reales,
+prod-00726,"PIROXICAM 0,5% GEL 30G",ok,imagenesmedimentos/reales/prod-00726.png,reales,
+prod-00725,OSCILLOCOCCINUM 6 DOSIS,ok,imagenesmedimentos/reales/prod-00725.jpg,reales,
+prod-00724,PAPEL HIGIENICO FAMILIA,ok,imagenesmedimentos/reales/prod-00724.png,reales,
+prod-00721,LOMOTIL 4 TABLETAS,ok,imagenesmedimentos/reales/prod-00721.jpg,reales,
+prod-00719,BELLAFACE 21 TABLETAS,ok,imagenesmedimentos/reales/prod-00719.jpg,reales,
+prod-00718,VALERIANA + PASIFLORA 60ML,ok,imagenesmedimentos/reales/prod-00718.png,reales,
+prod-00716,PESTAÑINA VOGUE,ok,imagenesmedimentos/reales/prod-00716.png,reales,
+prod-00714,RUBOR VOGUE,ok,imagenesmedimentos/reales/prod-00714.webp,reales,
+prod-00713,RUBOR NAILEN,ok,imagenesmedimentos/reales/prod-00713.jpg,reales,
+prod-00711,PRESTOBARBA VENUS MUJER,ok,imagenesmedimentos/reales/prod-00711.png,reales,
+prod-00709,POLVO NAILEN,ok,imagenesmedimentos/reales/prod-00709.png,reales,
+prod-00708,PESTAÑINA NAILEN,ok,imagenesmedimentos/reales/prod-00708.jpg,reales,
+prod-00707,PESTAÑINA VOGUE EFECTO MUÑECA,ok,imagenesmedimentos/reales/prod-00707.png,reales,
+prod-00706,LAPIZ NAILEN CEJA OJO,ok,imagenesmedimentos/reales/prod-00706.jpg,reales,
+prod-00705,LABIAL NAILEN,ok,imagenesmedimentos/reales/prod-00705.jpg,reales,
+prod-00703,LABIAL NAILEN LARGA DURACION,ok,imagenesmedimentos/reales/prod-00703.png,reales,
+prod-00702,JABON NEKO,ok,imagenesmedimentos/reales/prod-00702.png,reales,
+prod-00701,ILUMINADOR NAILEN,ok,imagenesmedimentos/reales/prod-00701.jpg,reales,
+prod-00700,CORRECTOR LIQUIDO VOGUE,ok,imagenesmedimentos/reales/prod-00700.png,reales,
+prod-00699,CORRECTOR LIQUIDO NAILEN,ok,imagenesmedimentos/reales/prod-00699.png,reales,
+prod-00698,BASE VOGUE 25ML,ok,imagenesmedimentos/reales/prod-00698.jpg,reales,
+prod-00695,ACEITE DE CALENDULA 120ML,corregida,imagenesmedimentos/reales/prod-00695.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00692,OMEGA 3 PHARBIOLAB,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra Sundown Naturals Fish Oil, no marca Pharbiolab; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1014847-fish-oil-1000mg-tab); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Sundown Naturals, no Pharbiolab); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00690,SURELAB MAMA POLVO VAINILLA PH,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00686,PROPOLVIK PASTILLAS GARGANTA S,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra pastillas Bucoxol Garganta, marca distinta a Propolvik; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/a/p/pastillas-garganta-irritada.html); QA2 tras Fase 2: sigue sin coincidir (Muestra Bucoxol frutos rojos, no Propolvik cereza); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00685,FYBOGEL SOBRE,ok,imagenesmedimentos/reales/prod-00685.png,reales,
+prod-00684,VITAFER SACHETS,corregida,imagenesmedimentos/reales/prod-00684.jpg,reales,"QA visual: nombre dice sachets pero foto muestra frasco liquido de 500ml; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/201500212-multivitaminico-vitafer-l--frasco-x500ml); QA2 tras Fase 2: sigue sin coincidir (Muestra frasco Vitafer-L, no sachets); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00683,ENGYSTOL 50 COMPRIMIDOS,ok,imagenesmedimentos/reales/prod-00683.webp,reales,
+prod-00682,MASMELOS MILLOWS,ok,imagenesmedimentos/reales/prod-00682.jpg,reales,
+prod-00681,GOMITAS TRULULU SURTIDO,ok,imagenesmedimentos/reales/prod-00681.jpg,reales,
+prod-00680,GOMITAS GRISSLY SURTIDAS,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00679,BOM BOM BUM SURTIDO,corregida,imagenesmedimentos/reales/prod-00679.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00678,POPETAS SURTIDAS,ok,imagenesmedimentos/reales/prod-00678.jpg,reales,
+prod-00677,CHOCORRAMO GRANDE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra barrita pequeña sabor frutos rojos, no el Chocorramo grande clasico; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1010576-barra-chocorramo-con-mermelada-x-1-und); QA2 tras Fase 2: sigue sin coincidir (Es Chocoramo Barrita 40g, no version grande); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00676,GALLETA TOSH MIEL,ok,imagenesmedimentos/reales/prod-00676.png,reales,
+prod-00674,HALLS TUBO SURTIDO,corregida,imagenesmedimentos/reales/prod-00674.webp,reales,Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1041618-menta-halls-fruit-mix)
+prod-00672,DETODITO SURTIDO,ok,imagenesmedimentos/reales/prod-00672.png,reales,
+prod-00671,TRULULU FEROZ,ok,imagenesmedimentos/reales/prod-00671.jpg,reales,
+prod-00669,TRIDENT SURTIDOS,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: nombre dice surtidos pero foto muestra un solo sabor Yerbabuena; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/226850323-chicle-trident-menta-x-5-und); QA2 tras Fase 2: sigue sin coincidir (Un solo sabor sandia, no surtidos); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00668,JUMBO MANI GRANDE,corregida,imagenesmedimentos/reales/prod-00668.jpg,reales,"QA visual: nombre dice mani (cacahuate) pero foto muestra Jumbo Almendras; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/235850253-chocolatina-jumbo-ryan-castro-x-170-gr); QA2 tras Fase 2: sigue sin coincidir (Parece galleta/wafer edicion especial, no mani simple); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00667,JUMBO MANI MEDIANA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00665,GALLETA OREO,ok,imagenesmedimentos/reales/prod-00665.jpg,reales,
+prod-00664,AGUA BRISA SURTIDA SABORIZADA,ok,imagenesmedimentos/reales/prod-00664.webp,reales,
+prod-00663,JUGO HIT SURTIDOS,ok,imagenesmedimentos/reales/prod-00663.jpg,reales,
+prod-00662,COCA COLA 400ML,ok,imagenesmedimentos/reales/prod-00662.webp,reales,
+prod-00661,AGUA CRISTAL MINI,ok,imagenesmedimentos/reales/prod-00661.png,reales,
+prod-00660,AGUA BRISA CON GAS 600ML,ok,imagenesmedimentos/reales/prod-00660.png,reales,
+prod-00659,BIPERIDENO 2MG MK,ok,imagenesmedimentos/reales/prod-00659.png,reales,
+prod-00655,IBUPROFENO 800MG CAPS LIQU MK,ok,imagenesmedimentos/reales/prod-00655.jpg,reales,
+prod-00654,SHAMPOO NUTRIBELA ARGAN 400ML,ok,imagenesmedimentos/reales/prod-00654.jpg,reales,
+prod-00653,POMYS ORIGINAL 6O UNI,ok,imagenesmedimentos/reales/prod-00653.png,reales,
+prod-00649,CLOTRIMAZOL CREMA 40G AG,ok,imagenesmedimentos/reales/prod-00649.webp,reales,
+prod-00648,DOLEX RAPIDA ACCION,ok,imagenesmedimentos/reales/prod-00648.jpg,reales,
+prod-00645,SODA HATSU 310ML,ok,imagenesmedimentos/reales/prod-00645.jpg,reales,
+prod-00644,B VIT OFERTA 3 JERINGAS,ok,imagenesmedimentos/reales/prod-00644.jpg,reales,
+prod-00643,BETADUO 2ML AMPOLLA,ok,imagenesmedimentos/reales/prod-00643.jpg,reales,
+prod-00642,ELECTROLIT SABOR MORA AZUL,ok,imagenesmedimentos/reales/prod-00642.jpg,reales,
+prod-00641,ELECTROLIT SABOR MANZANA,ok,imagenesmedimentos/reales/prod-00641.jpg,reales,
+prod-00639,ELECTROLIT SABOR FRESA,corregida,imagenesmedimentos/reales/prod-00639.jpg,reales,"QA visual: nombre dice sabor fresa pero foto muestra Electrolit Fresa-Kiwi; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1054483-electrolit-suero-hidratante-fresa-frasco-x-625-ml); QA2 tras Fase 2: sigue sin coincidir (Sabor ponche de frutas, no fresa); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00638,FOSFOGEN COMPLEJO B X30 CAPSUL,sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,"QA visual: foto muestra caja generica Complejo-B sin marca Fosfogen; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/medicamentos/3303-comprar-en-cafam-complejo-b-caja-con-250-grageas-precio-7702184010082.html?srsltid=AfmBOopctwnkUYVqwbnZi8iV9UvGqFyIZFcgGfaUZvKKmS1_4X6alt3M); QA2 tras Fase 2: sigue sin coincidir (Es Complejo B Ecar 250 grageas, no Fosfogen 30 capsulas); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00637,COMPLEJO B +ZINC + VITAMINA D3,ok,imagenesmedimentos/reales/prod-00637.jpg,reales,
+prod-00636,ACTIVIT B COMPLEJO B,sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00634,BISACODILO 10 TABLETAS,ok,imagenesmedimentos/reales/prod-00634.jpg,reales,
+prod-00631,TAPABOCAS INDIVIDUAL,ok,imagenesmedimentos/reales/prod-00631.jpg,reales,
+prod-00630,ALCOHOL OSA X345ML,ok,imagenesmedimentos/reales/prod-00630.jpg,reales,
+prod-00629,ALCOHOL OSA X120ML,ok,imagenesmedimentos/reales/prod-00629.jpg,reales,
+prod-00628,NEXT GRIPA GEL,ok,imagenesmedimentos/reales/prod-00628.jpg,reales,
+prod-00627,GENOPRAZOL 20MG 14 CAPSULAS,ok,imagenesmedimentos/reales/prod-00627.jpg,reales,
+prod-00626,LIMA DELGADA,ok,imagenesmedimentos/reales/prod-00626.jpg,reales,
+prod-00625,REMOVEDOR LANDER TRADICIONAL 3,ok,imagenesmedimentos/reales/prod-00625.png,reales,
+prod-00614,LIBELLE 2 TABL NOVAMED,corregida,imagenesmedimentos/reales/prod-00614.jpg,reales,"QA visual: nombre dice Libelle pero foto muestra Novasleep (eszopiclona), producto distinto; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/medicamentos/33722-nova-2-mg-30-tabletas-recubiertas--7703546489942.html?srsltid=AfmBOoq8oF2qCdKY8SrYmNMAy46GQpZrm3lEVsUmH-yGpHyPP_eq3VV_); QA2 tras Fase 2: sigue sin coincidir (Es Novasleep eszopiclona, producto distinto a Libelle); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00612,GLUCERNA 237ML VAINILLA,ok,imagenesmedimentos/reales/prod-00612.jpg,reales,
+prod-00608,SERVICIO GLUCOMETRIA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen genérica ""foto no disponible"", no muestra el producto real; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1053441-servicio); QA2 tras Fase 2: sigue sin coincidir (Imagen placeholder foto no disponible); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00604,GOTERO DE VIDRIO,ok,imagenesmedimentos/reales/prod-00604.png,reales,
+prod-00602,GUANTES QUIRURGICOS ESTERIL,ok,imagenesmedimentos/reales/prod-00602.jpg,reales,
+prod-00594,PRESTOBARBA GILLETTE AZUL,ok,imagenesmedimentos/reales/prod-00594.png,reales,
+prod-00592,DOLORSIN FEM,ok,imagenesmedimentos/reales/prod-00592.jpg,reales,
+prod-00590,OMEPRAZOL 20MG 30 CAPSULAS LA ,ok,imagenesmedimentos/reales/prod-00590.webp,reales,
+prod-00584,TERMOMETRO DIGITAL INFANTIL,ok,imagenesmedimentos/reales/prod-00584.jpg,reales,
+prod-00582,SULZINC 30 TABLETAS HUMA,ok,imagenesmedimentos/reales/prod-00582.jpg,reales,
+prod-00579,TERMOMETRO DIGITAL TERMOCARE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00576,COLONIA ARRURRU ROSADO 120ML,corregida,imagenesmedimentos/reales/prod-00576.webp,reales,"QA visual: envase muestra 400ml, no coincide con 120ml declarados; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/cuidado-del-bebe/32378-colonia-arrurru-original-rosada-400-ml-7702277461265.html?srsltid=AfmBOop4YetvZmE40-ND27-boSR5osJAx20p92O5Q0_Gq3RO8A0NbyfO); QA2 tras Fase 2: sigue sin coincidir (Envase de 400ml, no 120ml); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00575,COLONIA ARRURRU AZUL 120ML,ok,imagenesmedimentos/reales/prod-00575.jpg,reales,
+prod-00570,CHUPO REPUESTO AVENTS,corregida,imagenesmedimentos/reales/prod-00570.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00557,SHAMPOO SAVITAL 510ML ELIXIR D,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00553,IBUFLASH MIGRAN MK,ok,imagenesmedimentos/reales/prod-00553.png,reales,
+prod-00552,IBUFLASH 400MG CAPSULAS,ok,imagenesmedimentos/reales/prod-00552.jpg,reales,
+prod-00544,ESPADARADRAPO SUPREME 3X5,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra gorros desechables, no esparadrapo; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7707710160651-venda-de-yeso-supreme-3x5-yds/p); QA2 tras Fase 2: sigue sin coincidir (Es venda de yeso, no esparadrapo); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00543,MICROPORE SUPREME 2X5,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra venda elástica, no cinta micropore; Fase 2: sin coincidencia confiable en fuentes permitidas; archivo viejo movido a C:\Users\lenovo\Desktop\proyectohuevo\imagenesmedimentos\reales\_revisar_manual\prod-00543.jpg; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00542,MICROPORE SUPREME 1X5,corregida,imagenesmedimentos/reales/prod-00542.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00538,DESODORANTE GILLETTE 82G GEL,ok,imagenesmedimentos/reales/prod-00538.png,reales,
+prod-00535,BUSCAPINA SIMPLE,corregida,imagenesmedimentos/reales/prod-00535.jpg,reales,"QA visual: foto muestra ampollas inyectables, no tabletas de Buscapina Simple; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/tratamiento-del-dolor/2801-buscapina-10-mg-caja-con-20-grageas-7703202221244.html?srsltid=AfmBOoqHob9TI6iRi89RmD5T0FCD-wdXteczhnPJINc0FtGVlIc3jH3K)"
+prod-00532,APOSITO OCULAR INFANTIL,ok,imagenesmedimentos/reales/prod-00532.png,reales,
+prod-00531,APOSITO OCULAR ADULTO,ok,imagenesmedimentos/reales/prod-00531.png,reales,
+prod-00527,CETIRIZINA JARABE 60ML ECAR,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra marca AG, el producto es marca ECAR; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702057073954-cetirizina-mk-0-1--jarabe-x-60ml/p); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Cetirizina MK, no Ecar); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00512,HIOSCINA N BUTILBROMURO SANFER,ok,imagenesmedimentos/reales/prod-00512.webp,reales,
+prod-00510,IBUPROFENO SUSPENSION KIDS AG ,ok,imagenesmedimentos/reales/prod-00510.webp,reales,
+prod-00508,CETIRIZINA JARABE 60ML AG,ok,imagenesmedimentos/reales/prod-00508.jpg,reales,
+prod-00497,COREGA TABS,ok,imagenesmedimentos/reales/prod-00497.png,reales,
+prod-00487,SECNIDAZOL 500MG COASHPHARMA 4,ok,imagenesmedimentos/reales/prod-00487.png,reales,
+prod-00486,NITAZOXANIDA 500MG COASPHARMA,ok,imagenesmedimentos/reales/prod-00486.png,reales,
+prod-00485,LORATADINA 10MG COASPHARMA,ok,imagenesmedimentos/reales/prod-00485.png,reales,
+prod-00469,GEL LUBRICANTE HOT CALIENTE PI,corregida,imagenesmedimentos/reales/prod-00469.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00468,MICROPORE PIEL 1/2 PUL NEXCARE,ok,imagenesmedimentos/reales/prod-00468.jpg,reales,
+prod-00466,AMLODIPINO 10MG LA SANTE,ok,imagenesmedimentos/reales/prod-00466.png,reales,
+prod-00461,MEGA MAX ENERGY SOBRE,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra gomas energéticas Titanium, marca y producto distintos; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/106061813-gomas-titanium-megamus-pack-fresa-x-35-gr); QA2 tras Fase 2: sigue sin coincidir (Son gomas Titanium Mega Gums, no sobre energizante); imagen descartada movida a _descartadas_qa2/"
+prod-00459,ELECTROLIT SABOR A COCO,ok,imagenesmedimentos/reales/prod-00459.jpg,reales,
+prod-00458,"VITACEREBRINA 1000ML OMEGA 3,6",sin_resolver,imagenesmedimentos/genericas/vitaminas.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00455,PAÑALES WINNY ETAPA 6 PANTS,ok,imagenesmedimentos/reales/prod-00455.png,reales,
+prod-00453,SILDENAFIL 50MG RC,corregida,imagenesmedimentos/reales/prod-00453.jpg,reales,"Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes, incl. Tu Drogueria Virtual): confirmada por QA visual"
+prod-00451,PRESERVATIVO DUREX CLASICO 3 U,ok,imagenesmedimentos/reales/prod-00451.jpg,reales,
+prod-00449,SHAMPO HEAD & SHOULDERS 375ML ,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra variante Men con Old Spice, no antirresequedad; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7500435231237-shampoo-head---shoulders-anti-comezon-x-375ml/p); QA2 tras Fase 2: sigue sin coincidir (Variante Anti-Comezon, no Antirresequedad); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00448,AGUA MICELAR POND ELOE FRUITY ,sin_resolver,imagenesmedimentos/genericas/bebidas.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00441,METRONIDAZOL 500MG OVULOS COLM,ok,imagenesmedimentos/reales/prod-00441.jpg,reales,
+prod-00440,CRONOFEN 500MG,ok,imagenesmedimentos/reales/prod-00440.jpg,reales,
+prod-00439,PEDIAZINC SOLUCION ORAL 120ML,corregida,imagenesmedimentos/reales/prod-00439.jpg,reales,"QA visual: foto muestra marca Ziped 90ml, no Pediazinc 120ml; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/dolor-digestivo/35866-comprar-pediazinc-solucion-oral-frasco-con-120-ml-precio-7707334710553.html?srsltid=AfmBOooZLgRe_32tYBSZwnuyMrdkGaO3LIhAhaYMmzODOCMJIJpYlICu)"
+prod-00421,ACETAMINOFEN 500MG AG,ok,imagenesmedimentos/reales/prod-00421.jpg,reales,
+prod-00419,NOXPIRIN PLUS CAPSULAS,ok,imagenesmedimentos/reales/prod-00419.jpg,reales,
+prod-00417,TRIMEBUTINA 200MG LA SANTE,ok,imagenesmedimentos/reales/prod-00417.png,reales,
+prod-00410,ENTEROGERMINA 5ML,ok,imagenesmedimentos/reales/prod-00410.jpg,reales,
+prod-00408,PRUEBA DE EMBARAZO EARLY TEST,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra prueba Clearblue, no marca Early Test; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/211700605-prueba-de-embarazo-begut---tipo-cassete-caja-x-1-und); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Begut, no Early Test); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00393,APIXABAN 5MG GENFAR,ok,imagenesmedimentos/reales/prod-00393.jpg,reales,
+prod-00389,JABON INTIMO INTIBON 210 G SAL,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: foto muestra variante avena/caléndula 120g, no salvia/caléndula 210g; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/215200085-jabon-intimo-intibon-avena-y-calendula-x-210-gr); QA2 tras Fase 2: sigue sin coincidir (Avena y Calendula 120g, no Salvia y Calendula 210g); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00388,PROTECTOR SOLAR NIVEA SUN SHIN,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00387,PROTECTOR SOLAR NIVEA SUN SHIN,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00386,CREMA NIVEA 30ML,ok,imagenesmedimentos/reales/prod-00386.jpg,reales,
+prod-00384,CREMA NIEA SOFT MILK 400ML,ok,imagenesmedimentos/reales/prod-00384.jpg,reales,
+prod-00375,AMLODIPINO 5MG LA SANTE,ok,imagenesmedimentos/reales/prod-00375.png,reales,
+prod-00368,GASA ESTERIL SOBRE,ok,imagenesmedimentos/reales/prod-00368.webp,reales,
+prod-00365,REPELENTE OUT 120ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra repelente marca OFF, no marca OUT; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/cuidado-personal-maquinas-de-afeitar-repelentes-repelente-stay-off-adultos-spray-2-x-120-ml-744049/p?srsltid=AfmBOop1_SecfGLyl8RM48YyumkKG7UIO-nqR4VlkDMATpgrWhf12eEH); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Stay OFF!, no OUT); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00364,PICAFIN ROLON 60ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00355,TENA SLIP L PAÑALES,ok,imagenesmedimentos/reales/prod-00355.png,reales,
+prod-00352,DESODORANTE SPEED STICK SOBRE,ok,imagenesmedimentos/reales/prod-00352.png,reales,
+prod-00350,DESODORANTE REXONA CLINICAL SO,ok,imagenesmedimentos/reales/prod-00350.jpg,reales,
+prod-00342,GEL EGO EXTREME 25ML SOBRE,ok,imagenesmedimentos/reales/prod-00342.jpg,reales,
+prod-00341,BALANCE CLINICAL WOMEN SOBRE,ok,imagenesmedimentos/reales/prod-00341.png,reales,
+prod-00340,CREMA LUBRIDERM HUMECTACION DE,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,"QA visual: envase muestra 400ml, no coincide con 120ml declarados; Fase 2: reemplazada desde fuente permitida (https://www.drogueriascafam.com.co/cuidado-corporal/5046-crema-lubriderm-humectacion-delicada-400-ml-7702035456625.html?srsltid=AfmBOorzalmouFFHpajGFTVVHNg644o1a6ZcSXry5ywrZJTDc7lpgIkn); QA2 tras Fase 2: sigue sin coincidir (Envase de 400ml, no 120ml); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00334,TRAMADOL 100MG AMPOLLA,ok,imagenesmedimentos/reales/prod-00334.jpg,reales,
+prod-00333,METOCLOPRAMIDA 10MG AMPOLLA,ok,imagenesmedimentos/reales/prod-00333.jpg,reales,
+prod-00331,LINCOMICINA 2ML 1 AMPOLLA,ok,imagenesmedimentos/reales/prod-00331.jpg,reales,
+prod-00327,TORROX ETORICOXIB 90 MG 10 TAB,ok,imagenesmedimentos/reales/prod-00327.jpg,reales,
+prod-00323,EQUIPO MACROGOTEO SUPREME,ok,imagenesmedimentos/reales/prod-00323.jpg,reales,
+prod-00322,VICK VAPORUB 12GR,ok,imagenesmedimentos/reales/prod-00322.jpg,reales,
+prod-00317,EYE ZUL SOLUCION OFTALMICA,ok,imagenesmedimentos/reales/prod-00317.jpg,reales,
+prod-00316,NIFEDIPINO BECLAZONE 30MG,ok,imagenesmedimentos/reales/prod-00316.jpg,reales,
+prod-00310,TIAMINA 1GR AMPOLLA,ok,imagenesmedimentos/reales/prod-00310.png,reales,
+prod-00309,PASEDOL 50 MG,ok,imagenesmedimentos/reales/prod-00309.jpg,reales,
+prod-00306,"ZOPICLONA 7,5MG SANFER",ok,imagenesmedimentos/reales/prod-00306.jpg,reales,
+prod-00303,SINOVUL 21 TABLETAS,ok,imagenesmedimentos/reales/prod-00303.png,reales,
+prod-00302,SILDENAFIL 50MG AG,ok,imagenesmedimentos/reales/prod-00302.png,reales,
+prod-00300,LOSARTAN 50MG AG 30CAPSULAS,ok,imagenesmedimentos/reales/prod-00300.jpg,reales,
+prod-00299,IBUPROFENO 800MG AG,ok,imagenesmedimentos/reales/prod-00299.jpg,reales,
+prod-00296,NAZIL OFTENO 15ML,ok,imagenesmedimentos/reales/prod-00296.jpg,reales,
+prod-00294,MIELTERTOS JARABE 240ML,ok,imagenesmedimentos/reales/prod-00294.webp,reales,
+prod-00290,AMOXICILINA LA SANTE 500MG,ok,imagenesmedimentos/reales/prod-00290.png,reales,
+prod-00288,MIELTERTOS ZERO CON PROPOLEO,ok,imagenesmedimentos/reales/prod-00288.png,reales,
+prod-00283,"TAMSULOSINA 0,4MG",ok,imagenesmedimentos/reales/prod-00283.png,reales,
+prod-00281,PAX DIA NARANJA,ok,imagenesmedimentos/reales/prod-00281.jpg,reales,
+prod-00280,PAX NOCHE PANELA,ok,imagenesmedimentos/reales/prod-00280.jpg,reales,
+prod-00279,PAX NOCHE LIMON SOBRES,ok,imagenesmedimentos/reales/prod-00279.jpg,reales,
+prod-00277,HIDROXIDO ALUMINIO - HIDROXIDO,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: imagen solo muestra hidróxido de aluminio 360ml, sin magnesio, no 150ml; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702057073602-hidroxido-de-aluminio-mk-suspension-6g-100ml-x-360ml/p); QA2 tras Fase 2: sigue sin coincidir (Solo hidroxido de aluminio MK 360ml, falta magnesio y volumen); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00276,LABIAL NIVEA CHERRY,ok,imagenesmedimentos/reales/prod-00276.webp,reales,
+prod-00275,LABIAL NIVEA STRAWBERRY,ok,imagenesmedimentos/reales/prod-00275.webp,reales,
+prod-00274,MESIGYNA AMPOLLA 1ML,ok,imagenesmedimentos/reales/prod-00274.png,reales,
+prod-00271,DIPIRONA 1G AMPOLLA,ok,imagenesmedimentos/reales/prod-00271.jpg,reales,
+prod-00270,CLINDAMIXINA 600MG AMPOLLA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto es solución tópica 1% 30ml, no ampolla inyectable de 600mg; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/250850041-clindamicina-mk-600mg); QA2 tras Fase 2: sigue sin coincidir (Es Damiclin K ovulos vaginales, no ampolla inyectable); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00269,CEFTRIAXONA 1G AMPOLLA,ok,imagenesmedimentos/reales/prod-00269.png,reales,
+prod-00266,CLOBEGEN CREMA 20 G MK,ok,imagenesmedimentos/reales/prod-00266.jpg,reales,
+prod-00261,CLOTRIMAZOL 100MG OVULOS,ok,imagenesmedimentos/reales/prod-00261.png,reales,
+prod-00260,BUSCAPINA NF,ok,imagenesmedimentos/reales/prod-00260.webp,reales,
+prod-00257,COMPLEJO B AMPOLLAS,ok,imagenesmedimentos/reales/prod-00257.png,reales,
+prod-00255,CAPTOPRIL 25MG 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00255.webp,reales,
+prod-00254,BISACODILO 5MG SANFER,ok,imagenesmedimentos/reales/prod-00254.jpg,reales,
+prod-00252,DICLOFENACO RETARD 100 MG,ok,imagenesmedimentos/reales/prod-00252.jpg,reales,
+prod-00242,ALBENDAZOL SUSPESION 20ML,ok,imagenesmedimentos/reales/prod-00242.jpg,reales,
+prod-00241,ALBENDAZOL 200MG AG,ok,imagenesmedimentos/reales/prod-00241.webp,reales,
+prod-00240,CREMA FORZ,ok,imagenesmedimentos/reales/prod-00240.png,reales,
+prod-00239,CHAMPIOJO CIPERMETRINA,ok,imagenesmedimentos/reales/prod-00239.png,reales,
+prod-00238,CALADRYL LOCION 100ML,ok,imagenesmedimentos/reales/prod-00238.jpg,reales,
+prod-00234,CURAS LEUKOPLAST PIEL,ok,imagenesmedimentos/reales/prod-00234.png,reales,
+prod-00231,TOBRADEX GOTAS 5 ML,ok,imagenesmedimentos/reales/prod-00231.jpg,reales,
+prod-00226,FLEXIMAX ACE 14 TABLETAS,ok,imagenesmedimentos/reales/prod-00226.jpg,reales,
+prod-00225,NYTAX SUSPENSION 60 ML  SABOR ,ok,imagenesmedimentos/reales/prod-00225.jpg,reales,
+prod-00224,NYTAX 500MG CAPSULAS,ok,imagenesmedimentos/reales/prod-00224.jpg,reales,
+prod-00221,VICK JARABE MIEL 120 ML,ok,imagenesmedimentos/reales/prod-00221.jpg,reales,
+prod-00220,VICK DROPS 125 CARAMELOS,ok,imagenesmedimentos/reales/prod-00220.webp,reales,
+prod-00217,BISOLVON JARABE TOS SECA,ok,imagenesmedimentos/reales/prod-00217.webp,reales,
+prod-00216,BISOLVON JARABE PARA NIÑOS 120,ok,imagenesmedimentos/reales/prod-00216.jpg,reales,
+prod-00215,PRUEBA DE EMBARAZO CLEAR BLUE ,ok,imagenesmedimentos/reales/prod-00215.jpg,reales,
+prod-00214,METARSAL N CAPSULAS,ok,imagenesmedimentos/reales/prod-00214.jpg,reales,
+prod-00213,METARSAL JARABE 120 ML,ok,imagenesmedimentos/reales/prod-00213.png,reales,
+prod-00211,GELPIN FAST 2 TABLETAS,ok,imagenesmedimentos/reales/prod-00211.jpg,reales,
+prod-00210,KRODEX F COMPUESTO SUSPENSION ,ok,imagenesmedimentos/reales/prod-00210.png,reales,
+prod-00209,KRODEX F COMPUESTO 600MG  20 C,ok,imagenesmedimentos/reales/prod-00209.jpg,reales,
+prod-00205,BION 3 - 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00205.jpg,reales,
+prod-00201,GESTAVIT DHA,ok,imagenesmedimentos/reales/prod-00201.jpg,reales,
+prod-00200,TRIGENTAX CREMA TOPICA 40 G,ok,imagenesmedimentos/reales/prod-00200.png,reales,
+prod-00199,KOLA GRANULADA TRADICI 330 G +,ok,imagenesmedimentos/reales/prod-00199.webp,reales,
+prod-00195,FRASCO ORINA,ok,imagenesmedimentos/reales/prod-00195.jpg,reales,
+prod-00194,CAJA CROPOLOGICA,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00192,MAREOL,ok,imagenesmedimentos/reales/prod-00192.jpg,reales,
+prod-00190,STOPEN 2 CAPSULAS,corregida,imagenesmedimentos/reales/prod-00190.jpg,reales,"QA visual: foto muestra caja de 50 cápsulas 20mg, no presentación de 2 cápsulas; Fase 2: reemplazada desde fuente permitida (https://www.farmaciaspasteur.com.co/salud-y-medicamentos-medicamentos-formulados--stopen-25-sobres-2-capsulas-20-mg-051054/p?srsltid=AfmBOor_I8dRV7qvdG8wroaKa6ClBUTWMU_PwKFt5mwsaYP7dSlMhNkx); QA2 tras Fase 2: sigue sin coincidir (Caja de 50 capsulas, no 2 capsulas); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00186,TOALLAS NOSOTRAS PLUS CANAGEL ,ok,imagenesmedimentos/reales/prod-00186.png,reales,
+prod-00178,ANEMIDOX CAPSULAS,ok,imagenesmedimentos/reales/prod-00178.png,reales,
+prod-00173,NOFERTYL 1 AMPOLLA,ok,imagenesmedimentos/reales/prod-00173.jpg,reales,
+prod-00172,NEURO 15 FOSFORO NF 20 CAPSULA,ok,imagenesmedimentos/reales/prod-00172.jpg,reales,
+prod-00166,CREMA COLGATE LUMINOUS WHITE 9,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00164,MICROGYNON SUAVE 21 TABLETAS,ok,imagenesmedimentos/reales/prod-00164.jpg,reales,
+prod-00163,"MICROGYNON 3, 21 TABLETAS",ok,imagenesmedimentos/reales/prod-00163.png,reales,
+prod-00162,VOLTAREN 75 MG AMPOLLA,ok,imagenesmedimentos/reales/prod-00162.jpg,reales,
+prod-00158,ISODINE SOLUCION 120 ML,ok,imagenesmedimentos/reales/prod-00158.jpg,reales,
+prod-00157,ISODINE BUCOFARINGEO,ok,imagenesmedimentos/reales/prod-00157.jpg,reales,
+prod-00156,METROZIN NISTATINA 10 OVULOS,ok,imagenesmedimentos/reales/prod-00156.jpg,reales,
+prod-00155,ARTRITES 75MG,corregida,imagenesmedimentos/reales/prod-00155.jpg,reales,"QA visual: imagen muestra Artrites 50mg, el producto es de 75mg; Fase 2: reemplazada desde fuente permitida (https://www.farmalisto.com.co/formulados/4499-comprar-artrites-75-mg-3-ml-caja-con-5-ampollas-rx-precio-7707355052083.html?srsltid=AfmBOoqtc4qOf7ZwrHuKf0FtJMSu9Vh5lQ-D03hlITPcDk3br3gt3AVc)"
+prod-00152,YODOPOVIL BUCOFARINGEO 60 ML,ok,imagenesmedimentos/reales/prod-00152.jpg,reales,
+prod-00146,PEDIAVIT SOLUCION ORAL 10 ML,ok,imagenesmedimentos/reales/prod-00146.jpg,reales,
+prod-00145,NORFLOXACINA 400 MG,ok,imagenesmedimentos/reales/prod-00145.jpg,reales,
+prod-00142,PRUEBA DE EMBARAZO MIDSTREAM,ok,imagenesmedimentos/reales/prod-00142.webp,reales,
+prod-00141,MULTICOMPLEX B COMPLEX,ok,imagenesmedimentos/reales/prod-00141.png,reales,
+prod-00140,LEGRIP PLUS,corregida,imagenesmedimentos/reales/prod-00140.jpg,reales,"QA visual: imagen muestra caja de Noxpirin Plus, no de Legrip Plus, marca distinta; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/noxpirin-plus-142231/p?srsltid=AfmBOorIBFuDjXM2BeNtZR66KkPcm8Y8J5ad7QCIkBI2__7aQG5O9OS9); QA2 tras Fase 2: sigue sin coincidir (Es Noxpirin Plus, no Legrip Plus); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00139,CERITAMIN JARABE 60 ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00138,CERITAMIN GOTAS 10MG,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"Fase 2: reemplazada desde fuente permitida (https://www.cruzverde.com.co/cetirizina-gotas-1-solucion-oral-mk-frasco-x-15-ml/COCV_101608.html); QA2 tras Fase 2: sigue sin coincidir (Muestra marca Cetirizina MK, no Ceritamin); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00137,CERITAMIN,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00136,CALFAFEM D,corregida,imagenesmedimentos/reales/prod-00136.png,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00132,AGUA OXIGENADA,ok,imagenesmedimentos/reales/prod-00132.png,reales,
+prod-00131,GUANTES DE LATEX ALFA SAFE LAT,ok,imagenesmedimentos/reales/prod-00131.png,reales,
+prod-00129,NOXPIRIN TOS SECA JARABE,ok,imagenesmedimentos/reales/prod-00129.jpg,reales,
+prod-00125,SAL DE FRUTAS LUA,ok,imagenesmedimentos/reales/prod-00125.jpg,reales,
+prod-00118,ASPIRINA 100 MF 140 TABLETAS,ok,imagenesmedimentos/reales/prod-00118.jpg,reales,
+prod-00117,ALKA SELTZER 2 TABLETAS EFERVE,ok,imagenesmedimentos/reales/prod-00117.jpg,reales,
+prod-00116,JERINGA 3P 5 ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,"QA visual: foto muestra jeringa de 3ml, el producto es de 5ml; Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/jeringa-alfasafe-3ml-3p-23x1-62548/p?srsltid=AfmBOoq-8YweaD64weyAo-32hO6wn0UeElFzaiuvZmd3NFz94SOGF1tb); QA2 tras Fase 2: sigue sin coincidir (Marca AlfaSafe 3ml, no jeringa 3P 5ml); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles"
+prod-00115,JERINGA 3 P 3ML,ok,imagenesmedimentos/reales/prod-00115.png,reales,
+prod-00114,JERINGA 3P 10 ML,ok,imagenesmedimentos/reales/prod-00114.png,reales,
+prod-00113,ACID MANTLE N 120ML,ok,imagenesmedimentos/reales/prod-00113.jpg,reales,
+prod-00112,DICLOFENACO 1% GEL 50 G ICOM,corregida,imagenesmedimentos/reales/prod-00112.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00109,SEVEDOL EXTRA FUERTE BLISTER D,ok,imagenesmedimentos/reales/prod-00109.png,reales,
+prod-00104,MEPROGAL 7.5 MG 10 TABLETAS,corregida,imagenesmedimentos/reales/prod-00104.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00103,MEPROGAL 15 MG 10 TABLETAS,corregida,imagenesmedimentos/reales/prod-00103.webp,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00101,ATIFLAN 50 MG 20 TABLETAS DICL,corregida,imagenesmedimentos/reales/prod-00101.png,reales,"Fase 2: reemplazada desde fuente permitida (https://www.larebajavirtual.com/diclofenaco-50-mg-la-sante-40545/p?srsltid=AfmBOorMxP5LKnoK9dOPsiW5GvutWRClpgApHorFYXQZuHthMuZrNdaY); QA2 tras Fase 2: sigue sin coincidir (Muestra marca La Sante, no Atiflan); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00099,NEOSALDINA GOTAS 30 ML,ok,imagenesmedimentos/reales/prod-00099.jpg,reales,
+prod-00098,NEOSALDINA 4 GRAGEAS,ok,imagenesmedimentos/reales/prod-00098.webp,reales,
+prod-00095,GELIMED PLUS HMB,ok,imagenesmedimentos/reales/prod-00095.png,reales,
+prod-00094,GELIMED 10 G,ok,imagenesmedimentos/reales/prod-00094.webp,reales,
+prod-00093,NEURO BION 30 TABLETAS,ok,imagenesmedimentos/reales/prod-00093.jpg,reales,
+prod-00091,ACIDO FUSIDICO 2% MK,ok,imagenesmedimentos/reales/prod-00091.png,reales,
+prod-00090,GELCLAIR GEL ORAL CONCENTRADO,ok,imagenesmedimentos/reales/prod-00090.jpg,reales,
+prod-00089,TRAMADOL 100 MG GOTAS 10 ML,ok,imagenesmedimentos/reales/prod-00089.jpg,reales,
+prod-00085,GAVISCON DOBLE ACCION,ok,imagenesmedimentos/reales/prod-00085.png,reales,
+prod-00084,CREMA ANTIHEMORROIDAL MAX FORT,ok,imagenesmedimentos/reales/prod-00084.png,reales,
+prod-00082,MUCOSINA SUSPENSION 120 ML,ok,imagenesmedimentos/reales/prod-00082.png,reales,
+prod-00078,HIALTEARS LUBRICANTE OCULAR 5M,ok,imagenesmedimentos/reales/prod-00078.jpg,reales,
+prod-00076,TAMSULON DUO 30 CAPSULAS,ok,imagenesmedimentos/reales/prod-00076.jpg,reales,
+prod-00075,ZAMBON MONURIL 3 G GRANULADO,ok,imagenesmedimentos/reales/prod-00075.webp,reales,
+prod-00074,B VIT HT 1 JERINGA,ok,imagenesmedimentos/reales/prod-00074.png,reales,
+prod-00072,TENSOFAR LOSARTAN 50 MG,ok,imagenesmedimentos/reales/prod-00072.jpg,reales,
+prod-00069,EVALAX POLVO 250 G,ok,imagenesmedimentos/reales/prod-00069.jpg,reales,
+prod-00066,WASSERTROL GOTAS OFT 5 ML,ok,imagenesmedimentos/reales/prod-00066.jpg,reales,
+prod-00064,BACIPREX 250 MG POLVO,corregida,imagenesmedimentos/reales/prod-00064.png,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00063,BACIPREX 500MG AMOXICILINA,corregida,imagenesmedimentos/reales/prod-00063.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00061,AFELEX 500 MG,corregida,imagenesmedimentos/reales/prod-00061.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00060,ACNIBEN 300 MG,corregida,imagenesmedimentos/reales/prod-00060.jpg,reales,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual
+prod-00059,ADVIL ULTRA 4 CAPSULAS,ok,imagenesmedimentos/reales/prod-00059.jpg,reales,
+prod-00058,ADVIL LIQUID ESPALDA Y CUELLO,ok,imagenesmedimentos/reales/prod-00058.jpg,reales,
+prod-00057,DEXAMETASONA FOSFATO 8 MG/2ML ,ok,imagenesmedimentos/reales/prod-00057.png,reales,
+prod-00055,ALCOHOL ALCOMAX 350 ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual; Fase 2 reintento 3 (12 fuentes): candidato encontrado pero sigue sin coincidir tras QA visual - agotadas las fuentes permitidas disponibles
+prod-00054,ALCOHOL ALCOMAX 700 ML,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas; Fase 2 reintento 2 (dominios ampliados): candidato encontrado pero sigue sin coincidir tras QA visual
+prod-00053,APRONAX LIQUID GELS 275MG,ok,imagenesmedimentos/reales/prod-00053.jpg,reales,
+prod-00051,PEDIALYTE ACTIVE FRESA 500 ML,corregida,imagenesmedimentos/reales/prod-00051.jpg,reales,"QA visual: foto muestra sabor coco, producto es sabor fresa; Fase 2: reemplazada desde fuente permitida (https://www.farmatodo.com.co/producto/1036531-suero-rehidratante-pedialyte-active-fresa-frasco-x-500-ml); QA2 tras Fase 2: sigue sin coincidir (Sabor cereza, no fresa); imagen descartada movida a _descartadas_qa2/; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00048,CRONOFEN L JARABE 100 ML,ok,imagenesmedimentos/reales/prod-00048.jpg,reales,
+prod-00047,CRONOFEN GOTAS 30 ML,ok,imagenesmedimentos/reales/prod-00047.jpg,reales,
+prod-00043,NAPROXENO 250 MG,ok,imagenesmedimentos/reales/prod-00043.jpg,reales,
+prod-00042,NAPROXENO 500 MG,ok,imagenesmedimentos/reales/prod-00042.jpg,reales,
+prod-00041,ENSURE ADVANCE VAINILLA 220 ML,ok,imagenesmedimentos/reales/prod-00041.jpg,reales,
+prod-00039,ASPIRINA EFERVESCENTE CAJA 12 ,ok,imagenesmedimentos/reales/prod-00039.webp,reales,
+prod-00038,ASPIRINA EFERVESCENTE,ok,imagenesmedimentos/reales/prod-00038.png,reales,
+prod-00037,TREDA DIOSMECTITA 3 G,ok,imagenesmedimentos/reales/prod-00037.webp,reales,
+prod-00036,ADVIL CHILDREN JARABE 100 ML,corregida,imagenesmedimentos/reales/prod-00036.jpg,reales,"QA visual: foto muestra envase de 60ml, el producto es de 100ml; Fase 2: reemplazada desde fuente permitida (https://www.locatelcolombia.com/7702132009748-advil-children-suspension-sabor-frutas-x-100ml/p)"
+prod-00035,ADVIL CHILDREN JARABE 60 ML,ok,imagenesmedimentos/reales/prod-00035.jpg,reales,
+prod-00034,ACETAMINOFEN JARABE 100 ML,ok,imagenesmedimentos/reales/prod-00034.jpg,reales,
+prod-00031,CONGESTEX KIDS JARABE 90 ML,ok,imagenesmedimentos/reales/prod-00031.jpg,reales,
+prod-00030,CATALAC ACETAMINOFEN 500 MG,corregida,imagenesmedimentos/reales/prod-00030.png,reales,"QA visual: foto muestra marca La Santé, producto es marca Catalac; Fase 2: sin coincidencia confiable en fuentes permitidas; archivo viejo movido a C:\Users\lenovo\Desktop\proyectohuevo\imagenesmedimentos\reales\_revisar_manual\prod-00030.jpg; Fase 2 reintento 2 (dominios ampliados: Colsubsidio/Olimpica/San Jorge/Exito): confirmada por QA visual"
+prod-00029,PAÑITOS PEQUEÑIN  24 PAÑITOS,ok,imagenesmedimentos/reales/prod-00029.jpg,reales,
+prod-00028,PAÑITOS PEQUEÑIN  70 PAÑITOS,ok,imagenesmedimentos/reales/prod-00028.jpg,reales,
+prod-00027,BISOLVON ADULTOS  120 ML,ok,imagenesmedimentos/reales/prod-00027.jpg,reales,
+prod-00026,FLEXIMAX NAP 14 TABLETAS  CAJA,ok,imagenesmedimentos/reales/prod-00026.jpg,reales,
+prod-00025,ECLOSYNT INHALADOR  50 MCG,ok,imagenesmedimentos/reales/prod-00025.jpg,reales,
+prod-00024,SACRUSYT SALBUTAMOL INHALADOR ,ok,imagenesmedimentos/reales/prod-00024.png,reales,
+prod-00023,DEPO- PROVERA INYECTABLE  150 ,ok,imagenesmedimentos/reales/prod-00023.png,reales,
+prod-00022,MIEL DE ROSAS UNGÜENTO  30 CC,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00019,GLICERINA CARBONATADA GOTAS  3,ok,imagenesmedimentos/reales/prod-00019.jpg,reales,
+prod-00018,PIEDRA ALUMBRE UNGÜENTO  25 G,sin_resolver,imagenesmedimentos/genericas/otros.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00017,VAGINCORT CREMA  20 G,sin_resolver,imagenesmedimentos/genericas/cuidado-personal.svg,genericas,Fase 2: sin coincidencia confiable en fuentes permitidas
+prod-00016,VAGINSOL F CREMA  20 G,ok,imagenesmedimentos/reales/prod-00016.jpg,reales,
+prod-00015,VAGINSOL F OVULOS  3 OVULOS,ok,imagenesmedimentos/reales/prod-00015.jpg,reales,
+prod-00014,COGESTEX KIDS JARABE  90 ML,ok,imagenesmedimentos/reales/prod-00014.png,reales,
+prod-00013,ECLOSYNT INHALADOR  250 MCG X ,ok,imagenesmedimentos/reales/prod-00013.jpg,reales,
+prod-00012,VERDE GALEZ POMADA  23 G,ok,imagenesmedimentos/reales/prod-00012.png,reales,
+prod-00011,BISOLVON MAX JARABE  120 ML  T,ok,imagenesmedimentos/reales/prod-00011.jpg,reales,
+prod-00009,BEDOYECTA INYECTABLE  3 USOS,ok,imagenesmedimentos/reales/prod-00009.jpg,reales,
+prod-00008,BEDOYECTA INYECTABLE  1 USO,ok,imagenesmedimentos/reales/prod-00008.jpg,reales,
+prod-00003,PROVERA TABLETAS  10 MG,ok,imagenesmedimentos/reales/prod-00003.jpg,reales,
+prod-00002,PROVERA TABLETAS  5 MG,ok,imagenesmedimentos/reales/prod-00002.webp,reales,

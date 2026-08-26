@@ -1,0 +1,492 @@
+[
+ {
+  "sku": "prod-00737",
+  "nombre": "IGORA 1-0 NEGRO",
+  "descripcion": "IGORA 1-0 NEGRO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00737.jpg"
+ },
+ {
+  "sku": "prod-00736",
+  "nombre": "2 IGORA 6-34 CHOCOLATE DORADO",
+  "descripcion": "2 IGORA 6-34 CHOCOLATE DORADO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00736.png"
+ },
+ {
+  "sku": "prod-00734",
+  "nombre": "2 TUBOS IGORA 4-0 CASTAÑO MEDI",
+  "descripcion": "2 TUBOS IGORA 4-0 CASTAÑO MEDIO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00734.webp"
+ },
+ {
+  "sku": "prod-00730",
+  "nombre": "STAMYL 20 GRAGEAS",
+  "descripcion": "STAMYL 20 GRAGEAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00730.jpg"
+ },
+ {
+  "sku": "prod-00728",
+  "nombre": "BIGEN MENS SPEEDY 101 NEGRO",
+  "descripcion": "BIGEN MENS SPEEDY 101 NEGRO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00728.jpg"
+ },
+ {
+  "sku": "prod-00727",
+  "nombre": "BIGEN 59 NEGRO ORIENTAL",
+  "descripcion": "BIGEN 59 NEGRO ORIENTAL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00727.webp"
+ },
+ {
+  "sku": "prod-00726",
+  "nombre": "PIROXICAM 0,5% GEL 30G",
+  "descripcion": "PIROXICAM 0,5% GEL 30G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00726.png"
+ },
+ {
+  "sku": "prod-00725",
+  "nombre": "OSCILLOCOCCINUM 6 DOSIS",
+  "descripcion": "OSCILLOCOCCINUM 6 DOSIS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00725.jpg"
+ },
+ {
+  "sku": "prod-00724",
+  "nombre": "PAPEL HIGIENICO FAMILIA",
+  "descripcion": "PAPEL HIGIENICO FAMILIA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00724.png"
+ },
+ {
+  "sku": "prod-00721",
+  "nombre": "LOMOTIL 4 TABLETAS",
+  "descripcion": "LOMOTIL 4 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00721.jpg"
+ },
+ {
+  "sku": "prod-00719",
+  "nombre": "BELLAFACE 21 TABLETAS",
+  "descripcion": "BELLAFACE 21 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00719.jpg"
+ },
+ {
+  "sku": "prod-00718",
+  "nombre": "VALERIANA + PASIFLORA 60ML",
+  "descripcion": "VALERIANA + PASIFLORA 60ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00718.png"
+ },
+ {
+  "sku": "prod-00716",
+  "nombre": "PESTAÑINA VOGUE",
+  "descripcion": "PESTAÑINA VOGUE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00716.png"
+ },
+ {
+  "sku": "prod-00714",
+  "nombre": "RUBOR VOGUE",
+  "descripcion": "RUBOR VOGUE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00714.webp"
+ },
+ {
+  "sku": "prod-00713",
+  "nombre": "RUBOR NAILEN",
+  "descripcion": "RUBOR NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00713.jpg"
+ },
+ {
+  "sku": "prod-00711",
+  "nombre": "PRESTOBARBA VENUS MUJER",
+  "descripcion": "PRESTOBARBA VENUS MUJER",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00711.png"
+ },
+ {
+  "sku": "prod-00709",
+  "nombre": "POLVO NAILEN",
+  "descripcion": "POLVO NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00709.png"
+ },
+ {
+  "sku": "prod-00708",
+  "nombre": "PESTAÑINA NAILEN",
+  "descripcion": "PESTAÑINA NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00708.jpg"
+ },
+ {
+  "sku": "prod-00707",
+  "nombre": "PESTAÑINA VOGUE EFECTO MUÑECA",
+  "descripcion": "PESTAÑINA VOGUE EFECTO MUÑECA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00707.png"
+ },
+ {
+  "sku": "prod-00706",
+  "nombre": "LAPIZ NAILEN CEJA OJO",
+  "descripcion": "LAPIZ NAILEN CEJA OJO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00706.jpg"
+ },
+ {
+  "sku": "prod-00705",
+  "nombre": "LABIAL NAILEN",
+  "descripcion": "LABIAL NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00705.jpg"
+ },
+ {
+  "sku": "prod-00703",
+  "nombre": "LABIAL NAILEN LARGA DURACION",
+  "descripcion": "LABIAL NAILEN LARGA DURACION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00703.png"
+ },
+ {
+  "sku": "prod-00702",
+  "nombre": "JABON NEKO",
+  "descripcion": "JABON NEKO",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00702.png"
+ },
+ {
+  "sku": "prod-00701",
+  "nombre": "ILUMINADOR NAILEN",
+  "descripcion": "ILUMINADOR NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00701.jpg"
+ },
+ {
+  "sku": "prod-00700",
+  "nombre": "CORRECTOR LIQUIDO VOGUE",
+  "descripcion": "CORRECTOR LIQUIDO VOGUE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00700.png"
+ },
+ {
+  "sku": "prod-00699",
+  "nombre": "CORRECTOR LIQUIDO NAILEN",
+  "descripcion": "CORRECTOR LIQUIDO NAILEN",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00699.png"
+ },
+ {
+  "sku": "prod-00698",
+  "nombre": "BASE VOGUE 25ML",
+  "descripcion": "BASE VOGUE 25ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00698.jpg"
+ },
+ {
+  "sku": "prod-00692",
+  "nombre": "OMEGA 3 PHARBIOLAB",
+  "descripcion": "OMEGA 3 PHARBIOLAB",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00692.png"
+ },
+ {
+  "sku": "prod-00686",
+  "nombre": "PROPOLVIK PASTILLAS GARGANTA S",
+  "descripcion": "PROPOLVIK PASTILLAS GARGANTA SOBRE CEREZA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00686.jpg"
+ },
+ {
+  "sku": "prod-00685",
+  "nombre": "FYBOGEL SOBRE",
+  "descripcion": "FYBOGEL SOBRE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00685.png"
+ },
+ {
+  "sku": "prod-00684",
+  "nombre": "VITAFER SACHETS",
+  "descripcion": "VITAFER SACHETS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00684.webp"
+ },
+ {
+  "sku": "prod-00683",
+  "nombre": "ENGYSTOL 50 COMPRIMIDOS",
+  "descripcion": "ENGYSTOL 50 COMPRIMIDOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00683.webp"
+ },
+ {
+  "sku": "prod-00682",
+  "nombre": "MASMELOS MILLOWS",
+  "descripcion": "MASMELOS MILLOWS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00682.jpg"
+ },
+ {
+  "sku": "prod-00681",
+  "nombre": "GOMITAS TRULULU SURTIDO",
+  "descripcion": "GOMITAS TRULULU SURTIDO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00681.jpg"
+ },
+ {
+  "sku": "prod-00678",
+  "nombre": "POPETAS SURTIDAS",
+  "descripcion": "POPETAS SURTIDAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00678.jpg"
+ },
+ {
+  "sku": "prod-00677",
+  "nombre": "CHOCORRAMO GRANDE",
+  "descripcion": "CHOCORRAMO GRANDE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00677.webp"
+ },
+ {
+  "sku": "prod-00676",
+  "nombre": "GALLETA TOSH MIEL",
+  "descripcion": "GALLETA TOSH MIEL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00676.png"
+ },
+ {
+  "sku": "prod-00672",
+  "nombre": "DETODITO SURTIDO",
+  "descripcion": "DETODITO SURTIDO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00672.png"
+ },
+ {
+  "sku": "prod-00671",
+  "nombre": "TRULULU FEROZ",
+  "descripcion": "TRULULU FEROZ",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00671.jpg"
+ },
+ {
+  "sku": "prod-00669",
+  "nombre": "TRIDENT SURTIDOS",
+  "descripcion": "TRIDENT SURTIDOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00669.jpg"
+ },
+ {
+  "sku": "prod-00668",
+  "nombre": "JUMBO MANI GRANDE",
+  "descripcion": "JUMBO MANI GRANDE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00668.png"
+ },
+ {
+  "sku": "prod-00665",
+  "nombre": "GALLETA OREO",
+  "descripcion": "GALLETA OREO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00665.jpg"
+ },
+ {
+  "sku": "prod-00664",
+  "nombre": "AGUA BRISA SURTIDA SABORIZADA",
+  "descripcion": "AGUA BRISA SURTIDA SABORIZADA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00664.webp"
+ },
+ {
+  "sku": "prod-00663",
+  "nombre": "JUGO HIT SURTIDOS",
+  "descripcion": "JUGO HIT SURTIDOS",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00663.jpg"
+ },
+ {
+  "sku": "prod-00662",
+  "nombre": "COCA COLA 400ML",
+  "descripcion": "COCA COLA 400ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00662.webp"
+ },
+ {
+  "sku": "prod-00661",
+  "nombre": "AGUA CRISTAL MINI",
+  "descripcion": "AGUA CRISTAL MINI",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00661.png"
+ },
+ {
+  "sku": "prod-00660",
+  "nombre": "AGUA BRISA CON GAS 600ML",
+  "descripcion": "AGUA BRISA CON GAS 600ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00660.png"
+ },
+ {
+  "sku": "prod-00659",
+  "nombre": "BIPERIDENO 2MG MK",
+  "descripcion": "BIPERIDENO 2MG MK",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00659.png"
+ },
+ {
+  "sku": "prod-00655",
+  "nombre": "IBUPROFENO 800MG CAPS LIQU MK",
+  "descripcion": "IBUPROFENO 800MG CAPS LIQU MK",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00655.jpg"
+ },
+ {
+  "sku": "prod-00654",
+  "nombre": "SHAMPOO NUTRIBELA ARGAN 400ML",
+  "descripcion": "SHAMPOO NUTRIBELA ARGAN 400ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00654.jpg"
+ },
+ {
+  "sku": "prod-00653",
+  "nombre": "POMYS ORIGINAL 6O UNI",
+  "descripcion": "POMYS ORIGINAL 6O UNI",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00653.png"
+ },
+ {
+  "sku": "prod-00649",
+  "nombre": "CLOTRIMAZOL CREMA 40G AG",
+  "descripcion": "CLOTRIMAZOL CREMA 40G AG",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00649.webp"
+ },
+ {
+  "sku": "prod-00648",
+  "nombre": "DOLEX RAPIDA ACCION",
+  "descripcion": "DOLEX RAPIDA ACCION",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00648.jpg"
+ },
+ {
+  "sku": "prod-00645",
+  "nombre": "SODA HATSU 310ML",
+  "descripcion": "SODA HATSU 310ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00645.jpg"
+ },
+ {
+  "sku": "prod-00644",
+  "nombre": "B VIT OFERTA 3 JERINGAS",
+  "descripcion": "B VIT OFERTA 3 JERINGAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00644.jpg"
+ },
+ {
+  "sku": "prod-00643",
+  "nombre": "BETADUO 2ML AMPOLLA",
+  "descripcion": "BETADUO 2ML AMPOLLA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00643.jpg"
+ },
+ {
+  "sku": "prod-00642",
+  "nombre": "ELECTROLIT SABOR MORA AZUL",
+  "descripcion": "ELECTROLIT SABOR MORA AZUL",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00642.jpg"
+ },
+ {
+  "sku": "prod-00641",
+  "nombre": "ELECTROLIT SABOR MANZANA",
+  "descripcion": "ELECTROLIT SABOR MANZANA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00641.jpg"
+ },
+ {
+  "sku": "prod-00639",
+  "nombre": "ELECTROLIT SABOR FRESA",
+  "descripcion": "ELECTROLIT SABOR FRESA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00639.jpg"
+ },
+ {
+  "sku": "prod-00638",
+  "nombre": "FOSFOGEN COMPLEJO B X30 CAPSUL",
+  "descripcion": "FOSFOGEN COMPLEJO B X30 CAPSULAS",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00638.jpg"
+ },
+ {
+  "sku": "prod-00637",
+  "nombre": "COMPLEJO B +ZINC + VITAMINA D3",
+  "descripcion": "COMPLEJO B +ZINC + VITAMINA D3",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00637.jpg"
+ },
+ {
+  "sku": "prod-00634",
+  "nombre": "BISACODILO 10 TABLETAS",
+  "descripcion": "BISACODILO 10 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00634.jpg"
+ },
+ {
+  "sku": "prod-00631",
+  "nombre": "TAPABOCAS INDIVIDUAL",
+  "descripcion": "TAPABOCAS INDIVIDUAL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00631.jpg"
+ },
+ {
+  "sku": "prod-00630",
+  "nombre": "ALCOHOL OSA X345ML",
+  "descripcion": "ALCOHOL OSA X345ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00630.jpg"
+ },
+ {
+  "sku": "prod-00629",
+  "nombre": "ALCOHOL OSA X120ML",
+  "descripcion": "ALCOHOL OSA X120ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00629.jpg"
+ },
+ {
+  "sku": "prod-00628",
+  "nombre": "NEXT GRIPA GEL",
+  "descripcion": "NEXT GRIPA GEL",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00628.jpg"
+ },
+ {
+  "sku": "prod-00627",
+  "nombre": "GENOPRAZOL 20MG 14 CAPSULAS",
+  "descripcion": "GENOPRAZOL 20MG 14 CAPSULAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00627.jpg"
+ },
+ {
+  "sku": "prod-00626",
+  "nombre": "LIMA DELGADA",
+  "descripcion": "LIMA DELGADA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00626.jpg"
+ },
+ {
+  "sku": "prod-00625",
+  "nombre": "REMOVEDOR LANDER TRADICIONAL 3",
+  "descripcion": "REMOVEDOR LANDER TRADICIONAL 35ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00625.png"
+ },
+ {
+  "sku": "prod-00614",
+  "nombre": "LIBELLE 2 TABL NOVAMED",
+  "descripcion": "LIBELLE 2 TABL NOVAMED",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00614.jpg"
+ }
+]

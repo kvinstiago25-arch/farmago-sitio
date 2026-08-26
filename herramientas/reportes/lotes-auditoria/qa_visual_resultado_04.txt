@@ -1,0 +1,70 @@
+prod-00810|ok|
+prod-00811|ok|
+prod-00445|ok|
+prod-00471|ok|
+prod-00068|ok|
+prod-00318|ok|
+prod-00111|ok|
+prod-00549|ok|
+prod-00509|ok|
+prod-00426|ok|
+prod-00589|ok|
+prod-00273|ok|
+prod-00151|ok|
+prod-00297|ok|
+prod-00569|ok|
+prod-00675|ok|
+prod-00836|ok|
+prod-00191|ok|
+prod-00328|ok|
+prod-00893|sospechosa|foto muestra frasco de 10 mL, producto declarado es de 5 mL
+prod-00613|ok|
+prod-00666|ok|
+prod-00593|ok|
+prod-00272|ok|
+prod-00289|ok|
+prod-00291|ok|
+prod-00759|ok|
+prod-00820|ok|
+prod-00144|ok|
+prod-00278|ok|
+prod-00529|ok|
+prod-00733|ok|
+prod-00315|ok|
+prod-00227|ok|
+prod-00307|ok|
+prod-00197|sospechosa|foto muestra Tarrito Rojo sabor Tradicional, producto es sabor Fresa
+prod-00198|sospechosa|foto muestra Tarrito Rojo sabor Tradicional, producto es sabor Fresa
+prod-00097|ok|
+prod-00379|ok|
+prod-00435|ok|
+prod-00522|ok|
+prod-00319|ok|
+prod-00086|ok|
+prod-00204|ok|
+prod-00606|ok|
+prod-00223|ok|
+prod-00504|sospechosa|producto es sachet, foto muestra un frasco/tubo de 60mL
+prod-00545|ok|
+prod-00546|ok|
+prod-00548|ok|
+prod-00547|ok|
+prod-00506|ok|
+prod-00505|ok|
+prod-00425|sospechosa|caja muestra 36 tabletas, producto declarado son 6 tabletas
+prod-00484|ok|
+prod-00633|ok|
+prod-00304|ok|
+prod-00308|ok|
+prod-00442|ok|
+prod-00540|sospechosa|foto muestra venda elastica Supreme, no cinta Micropore
+prod-00845|ok|
+prod-00083|ok|
+prod-00438|ok|
+prod-00437|ok|
+prod-00436|sospechosa|foto muestra sabor Trigo Miel, producto es sabor Trigo Banano
+prod-00607|ok|
+prod-00321|ok|
+prod-00287|ok|
+prod-00747|ok|
+prod-00620|ok|

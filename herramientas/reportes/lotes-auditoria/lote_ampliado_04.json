@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00340",
+  "nombre": "CREMA LUBRIDERM HUMECTACION DE",
+  "descripcion": "CREMA LUBRIDERM HUMECTACION DELICADA  120ML",
+  "categoria": "Cuidado personal",
+  "precio": 16200
+ },
+ {
+  "sku": "prod-00277",
+  "nombre": "HIDROXIDO ALUMINIO - HIDROXIDO",
+  "descripcion": "HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 150ML",
+  "categoria": "Otros",
+  "precio": 11700
+ },
+ {
+  "sku": "prod-00270",
+  "nombre": "CLINDAMIXINA 600MG AMPOLLA",
+  "descripcion": "CLINDAMIXINA 600MG AMPOLLA",
+  "categoria": "Otros",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00116",
+  "nombre": "JERINGA 3P 5 ML",
+  "descripcion": "JERINGA 3P 5 ML",
+  "categoria": "Otros",
+  "precio": 600
+ },
+ {
+  "sku": "prod-00434",
+  "nombre": "ACIDO FUSIDICO CREMA 2% LAPROF",
+  "descripcion": "ACIDO FUSIDICO CREMA 2% LAPROFF",
+  "categoria": "Cuidado personal",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00595",
+  "nombre": "CREMA DE CALENDULA PILI 30G",
+  "descripcion": "CREMA DE CALENDULA PILI 30G",
+  "categoria": "Cuidado personal",
+  "precio": 13800
+ },
+ {
+  "sku": "prod-00615",
+  "nombre": "VITALIS CREMA TOPICA BETAMETAS",
+  "descripcion": "VITALIS CREMA TOPICA BETAMETASONA 0,04%",
+  "categoria": "Cuidado personal",
+  "precio": 13200
+ },
+ {
+  "sku": "prod-00696",
+  "nombre": "ACEITE DE COCO 100ML EXTRA VIR",
+  "descripcion": "ACEITE DE COCO 100ML EXTRA VIR",
+  "categoria": "Otros",
+  "precio": 16800
+ },
+ {
+  "sku": "prod-00772",
+  "nombre": "ACONDICI PANTENE CONTROL CAIDA",
+  "descripcion": "ACONDICI PANTENE CONTROL CAIDA",
+  "categoria": "Otros",
+  "precio": 25000
+ },
+ {
+  "sku": "prod-00775",
+  "nombre": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "descripcion": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "categoria": "Otros",
+  "precio": 3500
+ },
+ {
+  "sku": "prod-00712",
+  "nombre": "PRESTOBARBA GILLETTE NARANJA",
+  "descripcion": "PRESTOBARBA GILLETTE NARANJA",
+  "categoria": "Otros",
+  "precio": 4700
+ },
+ {
+  "sku": "prod-00390",
+  "nombre": "PRUEBA DE EMBARAZO CASSET ALL SET",
+  "descripcion": "PRUEBA DE EMBARAZO CASSET ALL SET",
+  "categoria": "Otros",
+  "precio": 3200
+ },
+ {
+  "sku": "prod-00646",
+  "nombre": "TE HATSU SURTIDO 450ML",
+  "descripcion": "TE HATSU SURTIDO 450ML",
+  "categoria": "Otros",
+  "precio": 4300
+ },
+ {
+  "sku": "prod-00769",
+  "nombre": "TRATAM GLYCOLIC GLOSS 300G ELV",
+  "descripcion": "TRATAM GLYCOLIC GLOSS 300G ELVIVE",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00889",
+  "nombre": "ISOFLAVONAS DE SOYA 500MG",
+  "descripcion": "ISOFLAVONAS DE SOYA 500MG",
+  "categoria": "Otros",
+  "precio": 35000
+ }
+]

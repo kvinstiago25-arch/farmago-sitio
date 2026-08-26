@@ -1,0 +1,70 @@
+prod-00262|ok|
+prod-00263|ok|
+prod-00247|ok|
+prod-00088|ok|
+prod-00267|ok|
+prod-00165|ok|
+prod-00395|ok|
+prod-00249|ok|
+prod-00250|ok|
+prod-00902|ok|
+prod-00597|ok|
+prod-00363|ok|
+prod-00588|sospechosa|foto muestra "Crema Cero", marca distinta a la indicada "Chenier"
+prod-00167|ok|
+prod-00169|ok|
+prod-00585|ok|
+prod-00586|ok|
+prod-00539|sospechosa|foto es Proquident Kids sabor chicle 75ml, no la crema de 95g
+prod-00514|ok|
+prod-00385|sospechosa|empaque dice "Facial 5 en Uno", el nombre indica "7"
+prod-00382|sospechosa|envase muestra 250ml/244g, no 400ml como indica el nombre
+prod-00757|ok|
+prod-00188|ok|
+prod-00560|ok|
+prod-00879|ok|
+prod-00880|ok|
+prod-00189|ok|
+prod-00878|ok|
+prod-00578|sospechosa|foto muestra Mega Pack 100g+25g, no el envase individual de 25g
+prod-00006|ok|
+prod-00750|ok|
+prod-00344|ok|
+prod-00501|ok|
+prod-00343|ok|
+prod-00500|ok|
+prod-00786|ok|
+prod-00472|ok|
+prod-00174|sospechosa|nombre indica 48g pero la imagen muestra envase de 30g
+prod-00175|ok|
+prod-00102|ok|
+prod-00044|sospechosa|foto es jarabe pediátrico Dolex Niños 90ml, no cápsulas de gel
+prod-00474|ok|
+prod-00212|ok|
+prod-00298|ok|
+prod-00396|ok|
+prod-00397|ok|
+prod-00398|ok|
+prod-00399|ok|
+prod-00658|ok|
+prod-00656|ok|
+prod-00479|ok|
+prod-00482|ok|
+prod-00416|sospechosa|empaque muestra jabón azufre estándar, sin variante aloe vera indicada
+prod-00418|ok|
+prod-00488|ok|
+prod-00489|ok|
+prod-00346|ok|
+prod-00335|ok|
+prod-00330|ok|
+prod-00802|ok|
+prod-00566|ok|
+prod-00536|sospechosa|imagen muestra pack doble FPS70 de 177ml, no FPS80 de 120
+prod-00596|ok|
+prod-00598|sospechosa|foto muestra pezoneras Avent, no protectores/almohadillas de lactancia
+prod-00349|ok|
+prod-00170|ok|
+prod-00476|ok|
+prod-00651|sospechosa|envase mostrado es de 180ml, no 375ml como indica el nombre
+prod-00345|sospechosa|producto es sobre/sachet pero la foto muestra botella de 375ml
+prod-00336|ok|

@@ -1,0 +1,121 @@
+﻿Objetivo: 128 | Resueltos: 9 | Sin resolver: 119
+
+prod-00366 | REPELENTE MOSQUITOS OUT 60ML | marca Fly Out 100ml, no OUT 60ml
+prod-00588 | CREMA CALENDULA 30G CHENIER | marca Crema Cero, no Chenier
+prod-00598 | PROTECTORES DE LACTANCIA AVENT | pezonera Avent, no discos protectores de lactancia
+prod-00345 | SHAMPOO HEAD & SHOULDERS SOBRE | botella bomba 1L, no sobre
+prod-00362 | YODORA CLASICO CREMA 12G | Yodora 25g, no 12g
+prod-00556 | ACONDICIONADOR SEDAL 340ML | imagen muestra Sedal Glycol+VitaC 640ml, producto es Ceramidas 340ml
+prod-00464 | AMLODIPINO 5MG - 10 TABL COASP | marca Colmed, no Coaspharma
+prod-00143 | CELECOXIB 100 MG SANFER | marca MK, no Sanfer
+prod-00886 | COLAGENO+BIOTINA PHARBIO X30 | marca SensoLife, no Pharbio
+prod-00893 | GENTAMICINA SOLUCION OPTICA5ML | frasco muestra 10ml, no 5ml
+prod-00197 | KOLA GRANULADA FRESA 135G | sabor tradicional, no fresa
+prod-00198 | KOLA GRANULADA FRESA 380G | sabor tradicional, no fresa
+prod-00443 | PANTOPRAZOL 20MG COLMED 30TABL | marca no coincide con Colmed
+prod-00710 | POLVO COMPA VOGUE | marca Ana Maria, no Vogue
+prod-00312 | PREDNISOLONA 5MG LAPROFF 10 TA | marca Coaspharma 300 tabl, no Laproff 10
+prod-00601 | PROWHEY KALORI 200ML LIQUIDO | lata de polvo, no envase liquido 200ml
+prod-00391 | PRUEBA DE EMBARAZO TIRA ALL SE | Clearblue digital, no tira All Set
+prod-00605 | SOUXA NITAZOXANIDA SUSPENSION | marca MK, no Souxa
+prod-00518 | AZITROMICINA 15ML POLVO LA SAN | marca MK en la caja, no La Santé
+prod-00367 | REPELENTE MOSQUITOS OUT 65G | no se encontro ningun candidato en las fuentes permitidas
+prod-00147 | BAYCUTEN N CREMA 35G | no se encontro ningun candidato en las fuentes permitidas
+prod-00783 | ACONDI SAVITAL SOBRE COMP HIAL | tarro tratamiento capilar, no sobre acondicionador
+prod-00348 | ACONDICIONADOR PANTENE SOBRE REPARACION | no se encontro ningun candidato en las fuentes permitidas
+prod-00150 | FLUCONAZOL 150MG ICOM | no se encontro ningun candidato en las fuentes permitidas
+prod-00324 | INHALOCAMARA ADULTO PROTEX | marca AeroTrach Plus, no Protex
+prod-00504 | LUBRICANTE INTIMAZUL SACHET | producto es sachet, foto muestra un frasco/tubo de 60mL
+prod-00559 | OFERTA PONDS CLARANT B3 100G | no se encontro ningun candidato en las fuentes permitidas
+prod-00673 | PAPA MARGARITA SURTIDA 25G | no se encontro ningun candidato en las fuentes permitidas
+prod-00460 | PRESERVATIVOS EXTASIS LUBRICAD | marca Piel, no Extasis
+prod-00749 | WINADEINE F EUROFARMA | Muestra marca Sanofi, no Eurofarma
+prod-00691 | COMPLEJO B + ZINC + VITA PHARB | Muestra marca Vit Max B, no Pharb
+prod-00444 | VITAMINA E COLMED 10 CAPSULAS | Muestra 100 capsulas, no 10
+prod-00843 | DOMICILIO | Imagen placeholder foto no disponible
+prod-00741 | METOCLOPRAMIDA BLISTER SANFER | Muestra frasco de gotas, no blister de tabletas
+prod-00692 | OMEGA 3 PHARBIOLAB | Muestra marca Sundown Naturals, no Pharbiolab
+prod-00686 | PROPOLVIK PASTILLAS GARGANTA S | Muestra Bucoxol frutos rojos, no Propolvik cereza
+prod-00677 | CHOCORRAMO GRANDE | Es Chocoramo Barrita 40g, no version grande
+prod-00669 | TRIDENT SURTIDOS | Un solo sabor sandia, no surtidos
+prod-00638 | FOSFOGEN COMPLEJO B X30 CAPSUL | Es Complejo B Ecar 250 grageas, no Fosfogen 30 capsulas
+prod-00608 | SERVICIO GLUCOMETRIA | Imagen placeholder foto no disponible
+prod-00544 | ESPADARADRAPO SUPREME 3X5 | Es venda de yeso, no esparadrapo
+prod-00543 | MICROPORE SUPREME 2X5 | foto muestra venda elástica, no cinta micropore
+prod-00527 | CETIRIZINA JARABE 60ML ECAR | Muestra marca Cetirizina MK, no Ecar
+prod-00449 | SHAMPO HEAD & SHOULDERS 375ML  | Variante Anti-Comezon, no Antirresequedad
+prod-00408 | PRUEBA DE EMBARAZO EARLY TEST | Muestra marca Begut, no Early Test
+prod-00389 | JABON INTIMO INTIBON 210 G SAL | Avena y Calendula 120g, no Salvia y Calendula 210g
+prod-00365 | REPELENTE OUT 120ML | Muestra marca Stay OFF!, no OUT
+prod-00340 | CREMA LUBRIDERM HUMECTACION DE | Envase de 400ml, no 120ml
+prod-00277 | HIDROXIDO ALUMINIO - HIDROXIDO | Solo hidroxido de aluminio MK 360ml, falta magnesio y volumen
+prod-00270 | CLINDAMIXINA 600MG AMPOLLA | Es Damiclin K ovulos vaginales, no ampolla inyectable
+prod-00116 | JERINGA 3P 5 ML | Marca AlfaSafe 3ml, no jeringa 3P 5ml
+prod-00434 | ACIDO FUSIDICO CREMA 2% LAPROF | no se encontro ningun candidato en las fuentes permitidas
+prod-00595 | CREMA DE CALENDULA PILI 30G | no se encontro ningun candidato en las fuentes permitidas
+prod-00615 | VITALIS CREMA TOPICA BETAMETAS | no se encontro ningun candidato en las fuentes permitidas
+prod-00696 | ACEITE DE COCO 100ML EXTRA VIR | no se encontro ningun candidato en las fuentes permitidas
+prod-00772 | ACONDICI PANTENE CONTROL CAIDA | no se encontro ningun candidato en las fuentes permitidas
+prod-00775 | CEPILLO DENTAL NIÑOS SONRIDENT | no se encontro ningun candidato en las fuentes permitidas
+prod-00712 | PRESTOBARBA GILLETTE NARANJA | no se encontro ningun candidato en las fuentes permitidas
+prod-00390 | PRUEBA DE EMBARAZO CASSET ALL SET | marca Indiker, no All Set
+prod-00646 | TE HATSU SURTIDO 450ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00769 | TRATAM GLYCOLIC GLOSS 300G ELV | no se encontro ningun candidato en las fuentes permitidas
+prod-00889 | ISOFLAVONAS DE SOYA 500MG | no se encontro ningun candidato en las fuentes permitidas
+prod-00787 | ACONDIC SAVITAL 490ML ELIXIR R | Es shampoo Savital, no acondicionador
+prod-00784 | SHAMPO DOVE RECONSTRUCCION + A | no se encontro ningun candidato en las fuentes permitidas
+prod-00461 | MEGA MAX ENERGY SOBRE | Son gomas Titanium Mega Gums, no sobre energizante
+prod-00458 | VITACEREBRINA 1000ML OMEGA 3,6 | no se encontro ningun candidato en las fuentes permitidas
+prod-00139 | CERITAMIN JARABE 60 ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00138 | CERITAMIN GOTAS 10MG | Muestra marca Cetirizina MK, no Ceritamin
+prod-00055 | ALCOHOL ALCOMAX 350 ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00054 | ALCOHOL ALCOMAX 700 ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00133 | ALGODON MOTOCITOS 25G | no se encontro ningun candidato en las fuentes permitidas
+prod-00134 | ALGODON MOTOCITOS 50G | no se encontro ningun candidato en las fuentes permitidas
+prod-00533 | DESLORATADINA KIDS 60ML MEMPHI | no se encontro ningun candidato en las fuentes permitidas
+prod-00357 | PAÑITOS HUMEDOS TITOS X100 | no se encontro ningun candidato en las fuentes permitidas
+prod-00591 | CLOBETASOL PROPINATO CREMA LAP | no se encontro ningun candidato en las fuentes permitidas
+prod-00885 | GELILAB ADVANCE UVA PHARBIOLAB | no se encontro ningun candidato en las fuentes permitidas
+prod-00537 | PROTECTOR NUDE SOLAR 80FPS 40M | no se encontro ningun candidato en las fuentes permitidas
+prod-00694 | SAVIDOL VITALFARMA GEL 90G | no se encontro ningun candidato en las fuentes permitidas
+prod-00338 | SHAMPOO JOHNSONS BABY GLICERIN | no se encontro ningun candidato en las fuentes permitidas
+prod-00495 | SHAMPOO TIO NACHO CONTROL CAS | no se encontro ningun candidato en las fuentes permitidas
+prod-00243 | AMTRIPTILINA 25 MG AG | no se encontro ningun candidato en las fuentes permitidas
+prod-00858 | ANGIOVAN CILOSTAZOL 50MG TECNO | no se encontro ningun candidato en las fuentes permitidas
+prod-00688 | CITRATO DE POTASIO PREMIUM D3 | no se encontro ningun candidato en las fuentes permitidas
+prod-00256 | CLORFERAMINA JARABE 2MG | no se encontro ningun candidato en las fuentes permitidas
+prod-00502 | MICROPORE KENNEDY PIEL 1/2X5 | no se encontro ningun candidato en las fuentes permitidas
+prod-00503 | MICROPORE KENNEDY PIEL 1X5 | no se encontro ningun candidato en las fuentes permitidas
+prod-00541 | MICROPORE SUPREME 1X1 | no se encontro ningun candidato en las fuentes permitidas
+prod-00693 | MIEL DE ABEJAS LA ESPERANZA 355G | no se encontro ningun candidato en las fuentes permitidas
+prod-00202 | REDOXON TOTAL EFER 10 COMPRIMI | no se encontro ningun candidato en las fuentes permitidas
+prod-00106 | RELAXMENT PLUS 500 MG 30 TABLE | no se encontro ningun candidato en las fuentes permitidas
+prod-00105 | RELAXMENT PLUS 500MG 20 TABLE | no se encontro ningun candidato en las fuentes permitidas
+prod-00731 | REMOVEDOR LANDER + OBSE | no se encontro ningun candidato en las fuentes permitidas
+prod-00751 | SHAMPO DREAM LISO ELVIVE 370ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00755 | SHAMPO GLYCOLIC CRISTAL ELVIVE | no se encontro ningun candidato en las fuentes permitidas
+prod-00888 | SIETE FACTORES DE TRANSF 650MG | no se encontro ningun candidato en las fuentes permitidas
+prod-00689 | SURELAB CHILDREN´S POLVO VAINI | no se encontro ningun candidato en las fuentes permitidas
+prod-00314 | TADALOFILO 20MG | no se encontro ningun candidato en las fuentes permitidas
+prod-00457 | TOROVITAL SANGRE TORO 1000ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00762 | TRATAMI 3 EN 1 HIDRAHIALU 500M | no se encontro ningun candidato en las fuentes permitidas
+prod-00863 | TRIMETOPRIM SULFAMETO F GENGAR | no se encontro ningun candidato en las fuentes permitidas
+prod-00687 | SURELAB ULTRA MULTIVITA VAINIL | no se encontro ningun candidato en las fuentes permitidas
+prod-00773 | ACONDICIONADOR BAMBU PANTENE 4 | no se encontro ningun candidato en las fuentes permitidas
+prod-00754 | SHAMPO REPARA TOTAL5 ELVIVE 37 | no se encontro ningun candidato en las fuentes permitidas
+prod-00690 | SURELAB MAMA POLVO VAINILLA PH | no se encontro ningun candidato en las fuentes permitidas
+prod-00680 | GOMITAS GRISSLY SURTIDAS | no se encontro ningun candidato en las fuentes permitidas
+prod-00667 | JUMBO MANI MEDIANA | no se encontro ningun candidato en las fuentes permitidas
+prod-00636 | ACTIVIT B COMPLEJO B | no se encontro ningun candidato en las fuentes permitidas
+prod-00579 | TERMOMETRO DIGITAL TERMOCARE | no se encontro ningun candidato en las fuentes permitidas
+prod-00557 | SHAMPOO SAVITAL 510ML ELIXIR D | no se encontro ningun candidato en las fuentes permitidas
+prod-00448 | AGUA MICELAR POND ELOE FRUITY  | no se encontro ningun candidato en las fuentes permitidas
+prod-00388 | PROTECTOR SOLAR NIVEA SUN SHIN | no se encontro ningun candidato en las fuentes permitidas
+prod-00387 | PROTECTOR SOLAR NIVEA SUN SHIN | no se encontro ningun candidato en las fuentes permitidas
+prod-00364 | PICAFIN ROLON 60ML | no se encontro ningun candidato en las fuentes permitidas
+prod-00194 | CAJA CROPOLOGICA | no se encontro ningun candidato en las fuentes permitidas
+prod-00166 | CREMA COLGATE LUMINOUS WHITE 9 | no se encontro ningun candidato en las fuentes permitidas
+prod-00137 | CERITAMIN | no se encontro ningun candidato en las fuentes permitidas
+prod-00022 | MIEL DE ROSAS UNGÜENTO  30 CC | no se encontro ningun candidato en las fuentes permitidas
+prod-00018 | PIEDRA ALUMBRE UNGÜENTO  25 G | no se encontro ningun candidato en las fuentes permitidas
+prod-00017 | VAGINCORT CREMA  20 G | no se encontro ningun candidato en las fuentes permitidas

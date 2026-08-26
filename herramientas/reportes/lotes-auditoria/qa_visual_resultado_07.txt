@@ -1,0 +1,70 @@
+prod-00737|ok|
+prod-00736|ok|
+prod-00734|ok|
+prod-00730|ok|
+prod-00728|ok|
+prod-00727|ok|
+prod-00726|ok|
+prod-00725|ok|
+prod-00724|ok|
+prod-00721|ok|
+prod-00719|ok|
+prod-00718|ok|
+prod-00716|ok|
+prod-00714|ok|
+prod-00713|ok|
+prod-00711|ok|
+prod-00709|ok|
+prod-00708|ok|
+prod-00707|ok|
+prod-00706|ok|
+prod-00705|ok|
+prod-00703|ok|
+prod-00702|ok|
+prod-00701|ok|
+prod-00700|ok|
+prod-00699|ok|
+prod-00698|ok|
+prod-00692|sospechosa|foto muestra Sundown Naturals Fish Oil, no marca Pharbiolab
+prod-00686|sospechosa|foto muestra pastillas Bucoxol Garganta, marca distinta a Propolvik
+prod-00685|ok|
+prod-00684|sospechosa|nombre dice sachets pero foto muestra frasco liquido de 500ml
+prod-00683|ok|
+prod-00682|ok|
+prod-00681|ok|
+prod-00678|ok|
+prod-00677|sospechosa|foto muestra barrita pequeña sabor frutos rojos, no el Chocorramo grande clasico
+prod-00676|ok|
+prod-00672|ok|
+prod-00671|ok|
+prod-00669|sospechosa|nombre dice surtidos pero foto muestra un solo sabor Yerbabuena
+prod-00668|sospechosa|nombre dice mani (cacahuate) pero foto muestra Jumbo Almendras
+prod-00665|ok|
+prod-00664|ok|
+prod-00663|ok|
+prod-00662|ok|
+prod-00661|ok|
+prod-00660|ok|
+prod-00659|ok|
+prod-00655|ok|
+prod-00654|ok|
+prod-00653|ok|
+prod-00649|ok|
+prod-00648|ok|
+prod-00645|ok|
+prod-00644|ok|
+prod-00643|ok|
+prod-00642|ok|
+prod-00641|ok|
+prod-00639|sospechosa|nombre dice sabor fresa pero foto muestra Electrolit Fresa-Kiwi
+prod-00638|sospechosa|foto muestra caja generica Complejo-B sin marca Fosfogen
+prod-00637|ok|
+prod-00634|ok|
+prod-00631|ok|
+prod-00630|ok|
+prod-00629|ok|
+prod-00628|ok|
+prod-00627|ok|
+prod-00626|ok|
+prod-00625|ok|
+prod-00614|sospechosa|nombre dice Libelle pero foto muestra Novasleep (eszopiclona), producto distinto

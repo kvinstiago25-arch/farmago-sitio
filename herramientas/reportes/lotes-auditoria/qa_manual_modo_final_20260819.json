@@ -1,0 +1,26 @@
+{
+  "descripcion": "QA visual manual del lote modo-final del 19/08/2026. El reporte automatico reporto 19 actualizados_reales, pero la revision visual encontro que 14 eran incorrectos (marca equivocada o imagen no relacionada) y fueron revertidos a generico.",
+  "correctos_confirmados": [
+    "prod-00362",
+    "prod-00749",
+    "prod-00365",
+    "prod-00116",
+    "prod-00202"
+  ],
+  "revertidos_incorrectos": {
+    "prod-00615": "Vitalis crema betametasona -> foto de ampolla dipirona (producto distinto)",
+    "prod-00348": "Acondicionador Pantene -> foto de Herbal Essences (marca equivocada)",
+    "prod-00556": "Acondicionador Sedal -> foto de Savital (marca equivocada)",
+    "prod-00775": "Cepillo dental ninos Sonrident -> foto cepillo Colgate adulto (marca equivocada)",
+    "prod-00324": "Inhalocamara Protex -> foto marca Inverfarma/Airfarm no verificable",
+    "prod-00502": "Micropore Kennedy -> foto Nexcare (marca equivocada)",
+    "prod-00503": "Micropore Kennedy -> foto Nexcare (marca equivocada)",
+    "prod-00541": "Micropore Supreme -> foto Nexcare (marca equivocada)",
+    "prod-00543": "Micropore Supreme -> foto Nexcare (marca equivocada)",
+    "prod-00390": "Prueba de embarazo -> banner fundacion PruebaT/Carlos Slim (no relacionado)",
+    "prod-00391": "Prueba de embarazo -> foto de estudiante con mochila (no relacionado)",
+    "prod-00408": "Prueba de embarazo Early Test -> foto de profesor en salon de clase (no relacionado)",
+    "prod-00773": "Acondicionador Bambu Pantene -> foto de Dove (marca equivocada)",
+    "prod-00669": "Trident surtidos -> icono generico de sobre/email (no relacionado)"
+  }
+}

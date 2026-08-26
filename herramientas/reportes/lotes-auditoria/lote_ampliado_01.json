@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00366",
+  "nombre": "REPELENTE MOSQUITOS OUT 60ML",
+  "descripcion": "REPELENTE MOSQUITOS OUT 60ML",
+  "categoria": "Antigripales",
+  "precio": 5900
+ },
+ {
+  "sku": "prod-00588",
+  "nombre": "CREMA CALENDULA 30G CHENIER",
+  "descripcion": "CREMA CALENDULA 30G CHENIER",
+  "categoria": "Cuidado personal",
+  "precio": 11800
+ },
+ {
+  "sku": "prod-00598",
+  "nombre": "PROTECTORES DE LACTANCIA AVENT",
+  "descripcion": "PROTECTORES DE LACTANCIA AVENT 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "precio": 32800
+ },
+ {
+  "sku": "prod-00345",
+  "nombre": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "categoria": "Cuidado personal",
+  "precio": 1600
+ },
+ {
+  "sku": "prod-00362",
+  "nombre": "YODORA CLASICO CREMA 12G",
+  "descripcion": "YODORA CLASICO CREMA 12G",
+  "categoria": "Cuidado personal",
+  "precio": 4500
+ },
+ {
+  "sku": "prod-00556",
+  "nombre": "ACONDICIONADOR SEDAL 340ML",
+  "descripcion": "ACONDICIONADOR SEDAL 340ML CERAMIDAS",
+  "categoria": "Otros",
+  "precio": 17000
+ },
+ {
+  "sku": "prod-00464",
+  "nombre": "AMLODIPINO 5MG - 10 TABL COASP",
+  "descripcion": "AMLODIPINO 5MG - 10 TABL COASP",
+  "categoria": "Otros",
+  "precio": 5600
+ },
+ {
+  "sku": "prod-00143",
+  "nombre": "CELECOXIB 100 MG SANFER",
+  "descripcion": "CELECOXIB 100 MG SANFER",
+  "categoria": "Otros",
+  "precio": 32000
+ },
+ {
+  "sku": "prod-00886",
+  "nombre": "COLAGENO+BIOTINA PHARBIO X30",
+  "descripcion": "COLAGENO+BIOTINA PHARBIO X30",
+  "categoria": "Otros",
+  "precio": 34000
+ },
+ {
+  "sku": "prod-00893",
+  "nombre": "GENTAMICINA SOLUCION OPTICA5ML",
+  "descripcion": "GENTAMICINA 0,3% SOLUCION OPTICA 5 ML",
+  "categoria": "Otros",
+  "precio": 12500
+ },
+ {
+  "sku": "prod-00197",
+  "nombre": "KOLA GRANULADA FRESA 135G",
+  "descripcion": "KOLA GRANULADA FRESA 135G",
+  "categoria": "Otros",
+  "precio": 13000
+ },
+ {
+  "sku": "prod-00198",
+  "nombre": "KOLA GRANULADA FRESA 380G",
+  "descripcion": "KOLA GRANULADA FRESA 380G",
+  "categoria": "Otros",
+  "precio": 29000
+ },
+ {
+  "sku": "prod-00443",
+  "nombre": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "descripcion": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "categoria": "Otros",
+  "precio": 102000
+ },
+ {
+  "sku": "prod-00710",
+  "nombre": "POLVO COMPA VOGUE",
+  "descripcion": "POLVO COMPA VOGUE",
+  "categoria": "Otros",
+  "precio": 15200
+ },
+ {
+  "sku": "prod-00312",
+  "nombre": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "descripcion": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "categoria": "Otros",
+  "precio": 17000
+ }
+]

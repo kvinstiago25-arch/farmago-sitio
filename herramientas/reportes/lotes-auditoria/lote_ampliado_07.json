@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00751",
+  "nombre": "SHAMPO DREAM LISO ELVIVE 370ML",
+  "descripcion": "SHAMPO DREAM LISO ELVIVE 370ML",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00755",
+  "nombre": "SHAMPO GLYCOLIC CRISTAL ELVIVE",
+  "descripcion": "SHAMPO GLYCOLIC CRISTAL ELVIVE",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00888",
+  "nombre": "SIETE FACTORES DE TRANSF 650MG",
+  "descripcion": "SIETE FACTORES DE TRANSF 650MG",
+  "categoria": "Otros",
+  "precio": 36000
+ },
+ {
+  "sku": "prod-00689",
+  "nombre": "SURELAB CHILDREN´S POLVO VAINI",
+  "descripcion": "SURELAB CHILDREN´S POLVO VAINI",
+  "categoria": "Otros",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00314",
+  "nombre": "TADALOFILO 20MG",
+  "descripcion": "TADALOFILO 20MG",
+  "categoria": "Otros",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00457",
+  "nombre": "TOROVITAL SANGRE TORO 1000ML",
+  "descripcion": "TOROVITAL SANGRE TORO 1000ML",
+  "categoria": "Otros",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00762",
+  "nombre": "TRATAMI 3 EN 1 HIDRAHIALU 500M",
+  "descripcion": "TRATAMI 3 EN 1 HIDRAHIALU 500M",
+  "categoria": "Otros",
+  "precio": 32000
+ },
+ {
+  "sku": "prod-00863",
+  "nombre": "TRIMETOPRIM SULFAMETO F GENGAR",
+  "descripcion": "TRIMETOPRIM SULFAMETOXAZOL F GENGAR",
+  "categoria": "Otros",
+  "precio": 57000
+ },
+ {
+  "sku": "prod-00687",
+  "nombre": "SURELAB ULTRA MULTIVITA VAINIL",
+  "descripcion": "SURELAB ULTRA MULTIVITA VAINIL",
+  "categoria": "Vitaminas",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00773",
+  "nombre": "ACONDICIONADOR BAMBU PANTENE 4",
+  "descripcion": "ACONDICIONADOR BAMBU PANTENE 400ML",
+  "categoria": "Otros",
+  "precio": 25000
+ },
+ {
+  "sku": "prod-00754",
+  "nombre": "SHAMPO REPARA TOTAL5 ELVIVE 37",
+  "descripcion": "SHAMPO REPARA TOTAL5 ELVIVE 370ML",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00690",
+  "nombre": "SURELAB MAMA POLVO VAINILLA PH",
+  "descripcion": "SURELAB MAMA POLVO VAINILLA PHARBIOLAB",
+  "categoria": "Otros",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00680",
+  "nombre": "GOMITAS GRISSLY SURTIDAS",
+  "descripcion": "GOMITAS GRISSLY SURTIDAS",
+  "categoria": "Otros",
+  "precio": 2500
+ },
+ {
+  "sku": "prod-00667",
+  "nombre": "JUMBO MANI MEDIANA",
+  "descripcion": "JUMBO MANI MEDIANA",
+  "categoria": "Otros",
+  "precio": 4400
+ },
+ {
+  "sku": "prod-00636",
+  "nombre": "ACTIVIT B COMPLEJO B",
+  "descripcion": "ACTIVIT B COMPLEJO B",
+  "categoria": "Vitaminas",
+  "precio": 22300
+ }
+]

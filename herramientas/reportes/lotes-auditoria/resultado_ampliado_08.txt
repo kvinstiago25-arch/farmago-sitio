@@ -1,0 +1,10 @@
+prod-00579|no_encontrado
+prod-00557|encontrado
+prod-00448|revisar_nombre|"ELOE FRUITY" no existe en linea Ponds; posible error de dato
+prod-00388|revisar_nombre|Nivea Sun Shine Control solo existe en 50ML; 40ML no encontrado
+prod-00387|encontrado
+prod-00364|encontrado
+prod-00166|no_encontrado
+prod-00022|encontrado
+prod-00018|encontrado
+prod-00017|encontrado

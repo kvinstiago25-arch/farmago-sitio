@@ -1,0 +1,492 @@
+[
+ {
+  "sku": "prod-00868",
+  "nombre": "ENALAPRIL MALEATO 5MG BLISTER",
+  "descripcion": "ENALAPRIL MALEATO 5MG BLISTER",
+  "categoria": "Adulto mayor",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00868.png"
+ },
+ {
+  "sku": "prod-00432",
+  "nombre": "LOSARTAN 50MG EXPOFARMA 30CAPS",
+  "descripcion": "LOSARTAN 50MG EXPOFARMA 30CAPS",
+  "categoria": "Adulto mayor",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00432.jpg"
+ },
+ {
+  "sku": "prod-00433",
+  "nombre": "ACETAMINOFEN 150MG JARABE 120M",
+  "descripcion": "ACETAMINOFEN 150MG JARABE 120ML LAPROFF",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00433.webp"
+ },
+ {
+  "sku": "prod-00896",
+  "nombre": "ACETAMINOFEN 500MG+CAFEINA 65M",
+  "descripcion": "ACETAMINOFEN 500MG+CAFEINA 65M",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00896.jpg"
+ },
+ {
+  "sku": "prod-00422",
+  "nombre": "ACETAMINOFEN/CODEINA AG 30MG",
+  "descripcion": "ACETAMINOFEN/CODEINA AG 30MG",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00422.png"
+ },
+ {
+  "sku": "prod-00119",
+  "nombre": "CARDIOASPIRINA 100 MG 30 TABLE",
+  "descripcion": "CARDIOASPIRINA 100 MG 30 TABLETAS",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00119.jpg"
+ },
+ {
+  "sku": "prod-00124",
+  "nombre": "CARDIOASPIRINA 81 MG 30 TABLET",
+  "descripcion": "CARDIOASPIRINA 81 MG 30 TABLETAS",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00124.jpg"
+ },
+ {
+  "sku": "prod-00046",
+  "nombre": "DOLEX JARABE NIÑOS 2+",
+  "descripcion": "DOLEX JARABE NIÑOS 2+",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00046.jpg"
+ },
+ {
+  "sku": "prod-00045",
+  "nombre": "DOLEX JARABE NIÑOS 7+",
+  "descripcion": "DOLEX JARABE NIÑOS 7+",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00045.jpg"
+ },
+ {
+  "sku": "prod-00581",
+  "nombre": "DOLEX TABLETAS MASTICABLES 2+",
+  "descripcion": "DOLEX TABLETAS MASTICABLES 2+",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00581.jpg"
+ },
+ {
+  "sku": "prod-00329",
+  "nombre": "HIOSCINA + DIPIRONA 20MG AMPOL",
+  "descripcion": "HIOSCINA + DIPIRONA 20MG AMPOL",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00329.jpg"
+ },
+ {
+  "sku": "prod-00244",
+  "nombre": "AMOXICILINA 100ML SUSPENS AG",
+  "descripcion": "AMOXICILINA 100ML SUSPENS AG",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00244.jpg"
+ },
+ {
+  "sku": "prod-00490",
+  "nombre": "AMOXICILINA 250MG SUSPENSION G",
+  "descripcion": "AMOXICILINA 250MG SUSPENSION G",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00490.jpg"
+ },
+ {
+  "sku": "prod-00245",
+  "nombre": "AMOXICILINA 500MG AG",
+  "descripcion": "AMOXICILINA 500MG AG",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00245.webp"
+ },
+ {
+  "sku": "prod-00516",
+  "nombre": "AMOXICILINA POLVO 100ML LA SAN",
+  "descripcion": "AMOXICILINA POLVO 100ML LA SANTE",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00516.jpg"
+ },
+ {
+  "sku": "prod-00517",
+  "nombre": "AMOXICILINA POLVO 45ML LA SANT",
+  "descripcion": "AMOXICILINA POLVO 45ML LA SANTE",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00517.jpg"
+ },
+ {
+  "sku": "prod-00233",
+  "nombre": "AMOXIDAL DUO 14 COMPRIMIDOS",
+  "descripcion": "AMOXIDAL DUO 14 COMPRIMIDOS",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00233.jpg"
+ },
+ {
+  "sku": "prod-00232",
+  "nombre": "AMOXIDAL DUO SUSPENSION 120ML",
+  "descripcion": "AMOXIDAL DUO SUSPENSION 120ML",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00232.jpg"
+ },
+ {
+  "sku": "prod-00518",
+  "nombre": "AZITROMICINA 15ML POLVO LA SAN",
+  "descripcion": "AZITROMICINA 15ML POLVO LA SANTE",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00518.png"
+ },
+ {
+  "sku": "prod-00246",
+  "nombre": "AZITROMICINA 500MG AG",
+  "descripcion": "AZITROMICINA 500MG",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00246.jpg"
+ },
+ {
+  "sku": "prod-00248",
+  "nombre": "CEFALEXINA 250 MG SUSPENSION",
+  "descripcion": "CEFALEXINA 250 MG SUSPENSION",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00248.png"
+ },
+ {
+  "sku": "prod-00065",
+  "nombre": "CEFALEXINA 500 MG AG TABLETAS",
+  "descripcion": "CEFALEXINA 500 MG AG TABLETAS",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00065.webp"
+ },
+ {
+  "sku": "prod-00080",
+  "nombre": "PROCATEC CIPROFLOXACINA 500 MG",
+  "descripcion": "PROCATEC CIPROFLOXACINA 500 MG",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00080.jpg"
+ },
+ {
+  "sku": "prod-00496",
+  "nombre": "ADVIL GRIPA MAX 2 CAPSULAS",
+  "descripcion": "ADVIL GRIPA MAX 2 CAPSULAS",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00496.webp"
+ },
+ {
+  "sku": "prod-00429",
+  "nombre": "BLOQUEADOR SUNDARK ADULTOS SOB",
+  "descripcion": "BLOQUEADOR SUNDARK ADULTOS SOBRE 10G",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00429.jpg"
+ },
+ {
+  "sku": "prod-00526",
+  "nombre": "DESLORATADINA 5MG 10 TB LAPROF",
+  "descripcion": "DESLORATADINA 5MG 10 TABLETAS LAPROFF",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00526.jpg"
+ },
+ {
+  "sku": "prod-00492",
+  "nombre": "DESLORATADINA 5MG GENFAR 10T",
+  "descripcion": "DESLORATADINA 5MG GENFAR 10T",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00492.jpg"
+ },
+ {
+  "sku": "prod-00521",
+  "nombre": "DESLORATADINA 60ML JARABE LA S",
+  "descripcion": "DESLORATADINA 60ML JARABE LA SANTE",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00521.jpg"
+ },
+ {
+  "sku": "prod-00285",
+  "nombre": "DOLEX GRIPA",
+  "descripcion": "DOLEX GRIPA",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00285.jpg"
+ },
+ {
+  "sku": "prod-00511",
+  "nombre": "LORATADINA 10MG AG 20 TABLETAS",
+  "descripcion": "LORATADINA 10MG AG 20 TABLETAS",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00511.jpg"
+ },
+ {
+  "sku": "prod-00494",
+  "nombre": "LORATADINA JARABE 100ML GENFAR",
+  "descripcion": "LORATADINA JARABE 100ML GENFAR",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00494.jpg"
+ },
+ {
+  "sku": "prod-00530",
+  "nombre": "LORATADINA JARABE 100ML LAPROF",
+  "descripcion": "LORATADINA JARABE 100ML LAPROFF",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00530.webp"
+ },
+ {
+  "sku": "prod-00295",
+  "nombre": "MIELTERTOS NIÑOS JARABE 180ML",
+  "descripcion": "MIELTERTOS NIÑOS JARABE 180ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00295.jpg"
+ },
+ {
+  "sku": "prod-00126",
+  "nombre": "NOXPIRIN DIA MANDARINA 15G",
+  "descripcion": "NOXPIRIN DIA MANDARINA 15G",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00126.jpg"
+ },
+ {
+  "sku": "prod-00127",
+  "nombre": "NOXPIRIN JUNIOR JARABE 120ML",
+  "descripcion": "NOXPIRIN JUNIOR JARABE 120ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00127.webp"
+ },
+ {
+  "sku": "prod-00032",
+  "nombre": "NOXPIRIN NOCHE PANELA-LIMON",
+  "descripcion": "NOXPIRIN NOCHE PANELA-LIMON 10G",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00032.webp"
+ },
+ {
+  "sku": "prod-00366",
+  "nombre": "REPELENTE MOSQUITOS OUT 60ML",
+  "descripcion": "REPELENTE MOSQUITOS OUT 60ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00366.jpg"
+ },
+ {
+  "sku": "prod-00007",
+  "nombre": "VICK 44 EXPECTORANTE ADULTOS J",
+  "descripcion": "VICK 44 EXPECTORANTE ADULTOS J",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00007.jpg"
+ },
+ {
+  "sku": "prod-00100",
+  "nombre": "DICLOFENACO 75 MG AMPOLLAS",
+  "descripcion": "DICLOFENACO 75 MG AMPOLLAS",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00100.jpg"
+ },
+ {
+  "sku": "prod-00110",
+  "nombre": "DORMEX DICLOFENACO 100 MG",
+  "descripcion": "DORMEX DICLOFENACO 100 MG",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00110.jpg"
+ },
+ {
+  "sku": "prod-00554",
+  "nombre": "IBUPROFENO 100MG SUSP MK",
+  "descripcion": "IBUPROFENO 100MG SUSPENSION MK NIÑOS",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00554.png"
+ },
+ {
+  "sku": "prod-00493",
+  "nombre": "IBUPROFENO SUSPEN GENFAR 120ML",
+  "descripcion": "IBUPROFENO SUSPEN KIDS GENFAR 120ML",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00493.png"
+ },
+ {
+  "sku": "prod-00523",
+  "nombre": "MELOXICAM 15MG 10 TABLE LA SAN",
+  "descripcion": "MELOXICAM 15MG 10 TABLETAS LA SANTE",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00523.jpg"
+ },
+ {
+  "sku": "prod-00332",
+  "nombre": "MELOXICAM 15MG AMPOLLA",
+  "descripcion": "MELOXICAM 15MG AMPOLLA",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00332.png"
+ },
+ {
+  "sku": "prod-00891",
+  "nombre": "NAPROXENO 500MG LAPROFF",
+  "descripcion": "NAPROXENO 500MG LAPROFF",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00891.jpg"
+ },
+ {
+  "sku": "prod-00892",
+  "nombre": "PIROXICAM 20MG 10 CAPSULAS",
+  "descripcion": "PIROXICAM 20MG 10 CAPSULAS",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00892.jpg"
+ },
+ {
+  "sku": "prod-00284",
+  "nombre": "DOLEX BEBES JARABE 60ML",
+  "descripcion": "DOLEX BEBES JARABE 60ML",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00284.jpg"
+ },
+ {
+  "sku": "prod-00821",
+  "nombre": "PAÑA WINNY PANTS ETAPA 5 X30",
+  "descripcion": "PAÑA WINNY PANTS ETAPA 5 X30",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00821.jpg"
+ },
+ {
+  "sku": "prod-00359",
+  "nombre": "PAÑALES WINNY ETAPA 2 X30",
+  "descripcion": "PAÑALES WINNY ETAPA 2 X30",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00359.jpg"
+ },
+ {
+  "sku": "prod-00360",
+  "nombre": "PAÑALES WINNY ETAPA 3 X30",
+  "descripcion": "PAÑALES WINNY ETAPA 3 X30",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00360.png"
+ },
+ {
+  "sku": "prod-00358",
+  "nombre": "PAÑALES WINNY ETAPA1 X30",
+  "descripcion": "PAÑALES WINNY ETAPA1 X30",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00358.png"
+ },
+ {
+  "sku": "prod-00824",
+  "nombre": "PAÑALES WINNY SENSITIVE ETA 1",
+  "descripcion": "PAÑALES WINNY SENSITIVE ETAPA 1",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00824.jpg"
+ },
+ {
+  "sku": "prod-00823",
+  "nombre": "SIMILAC MAMA 400G",
+  "descripcion": "SIMILAC MAMA 400G",
+  "categoria": "Bebés",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00823.jpg"
+ },
+ {
+  "sku": "prod-00253",
+  "nombre": "AMITRIPTILINA CLORHIDRATO 25MG",
+  "descripcion": "AMITRIPTILINA CLORHIDRATO 25MG",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00253.jpg"
+ },
+ {
+  "sku": "prod-00120",
+  "nombre": "ELECTROLIT HIDRATANTE FRESA",
+  "descripcion": "ELECTROLIT HIDRATANTE FRESA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00120.webp"
+ },
+ {
+  "sku": "prod-00122",
+  "nombre": "ELECTROLIT HIDRATANTE MARACUYA",
+  "descripcion": "ELECTROLIT HIDRATANTE MARACUYA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00122.jpg"
+ },
+ {
+  "sku": "prod-00121",
+  "nombre": "ELECTROLIT HIDRATANTE UVA",
+  "descripcion": "ELECTROLIT HIDRATANTE UVA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00121.webp"
+ },
+ {
+  "sku": "prod-00640",
+  "nombre": "ELECTROLIT SABOR NARANJA-MANDA",
+  "descripcion": "ELECTROLIT SABOR NARANJA-MANDA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00640.jpg"
+ },
+ {
+  "sku": "prod-00050",
+  "nombre": "PEDIALYTE MAX MANZANA 500 ML",
+  "descripcion": "PEDIALYTE MAX MANZANA 500 ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00050.webp"
+ },
+ {
+  "sku": "prod-00657",
+  "nombre": "SHAMPOO DOVE HIDRATACION 370ML",
+  "descripcion": "SHAMPOO DOVE HIDRATACION 370ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00657.jpg"
+ },
+ {
+  "sku": "prod-00565",
+  "nombre": "SUERO FISIOLOGICO GOTAS 30ML",
+  "descripcion": "SUERO FISIOLOGICO GOTAS 30ML SOLUCION NASAL",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00565.webp"
+ },
+ {
+  "sku": "prod-00624",
+  "nombre": "SUERO SOLHIDREX CEREZA SOBRE",
+  "descripcion": "SUERO SOLHIDREX CEREZA SOBRE",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00624.png"
+ },
+ {
+  "sku": "prod-00623",
+  "nombre": "SUERO SOLHIDREX UVA SOBRE",
+  "descripcion": "SUERO SOLHIDREX UVA SOBRE",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00623.png"
+ },
+ {
+  "sku": "prod-00562",
+  "nombre": "SUEROX SABOR A HIERBABUENA",
+  "descripcion": "SUEROX SABOR A HIERBABUENA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00562.jpg"
+ },
+ {
+  "sku": "prod-00561",
+  "nombre": "SUEROX SABOR A UVA 630ML",
+  "descripcion": "SUEROX SABOR A UVA 630ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00561.jpg"
+ },
+ {
+  "sku": "prod-00394",
+  "nombre": "TRAMADOL CLORHIDRATO ACETAMINO",
+  "descripcion": "TRAMADOL CLORHIDRATO ACETAMINO",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00394.jpg"
+ },
+ {
+  "sku": "prod-00305",
+  "nombre": "TRAZODONA CLORHIDRATO 50MG",
+  "descripcion": "TRAZODONA CLORHIDRATO 50MG",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00305.png"
+ },
+ {
+  "sku": "prod-00264",
+  "nombre": "ACICLOVIR CREMA 5% MK 10G",
+  "descripcion": "ACICLOVIR CREMA 5% MK 10G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00264.jpg"
+ },
+ {
+  "sku": "prod-00087",
+  "nombre": "ACIDO FUSIDICO CREMA AL 2%",
+  "descripcion": "ACIDO FUSIDICO CREMA AL 2% GENFAR",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00087.jpg"
+ },
+ {
+  "sku": "prod-00148",
+  "nombre": "BAYCUTEN CREMA 20G",
+  "descripcion": "BAYCUTEN CREMA 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00148.jpg"
+ }
+]

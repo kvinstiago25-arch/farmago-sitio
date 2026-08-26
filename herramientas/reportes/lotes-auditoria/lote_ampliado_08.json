@@ -1,0 +1,72 @@
+[
+ {
+  "sku": "prod-00579",
+  "nombre": "TERMOMETRO DIGITAL TERMOCARE",
+  "descripcion": "TERMOMETRO DIGITAL TERMOCARE",
+  "categoria": "Otros",
+  "precio": 10200
+ },
+ {
+  "sku": "prod-00557",
+  "nombre": "SHAMPOO SAVITAL 510ML ELIXIR D",
+  "descripcion": "SHAMPOO SAVITAL 510ML ELIXIR DE ROMERO",
+  "categoria": "Cuidado personal",
+  "precio": 16400
+ },
+ {
+  "sku": "prod-00448",
+  "nombre": "AGUA MICELAR POND ELOE FRUITY ",
+  "descripcion": "AGUA MICELAR POND ELOE FRUITY 300ML",
+  "categoria": "Bebidas",
+  "precio": 14900
+ },
+ {
+  "sku": "prod-00388",
+  "nombre": "PROTECTOR SOLAR NIVEA SUN SHIN",
+  "descripcion": "PROTECTOR SOLAR NIVEA SUN SHIN 40ML",
+  "categoria": "Cuidado personal",
+  "precio": 42000
+ },
+ {
+  "sku": "prod-00387",
+  "nombre": "PROTECTOR SOLAR NIVEA SUN SHIN",
+  "descripcion": "PROTECTOR SOLAR NIVEA SUN SHIN 50ML",
+  "categoria": "Cuidado personal",
+  "precio": 43000
+ },
+ {
+  "sku": "prod-00364",
+  "nombre": "PICAFIN ROLON 60ML",
+  "descripcion": "PICAFIN ROLON 60ML",
+  "categoria": "Otros",
+  "precio": 7500
+ },
+ {
+  "sku": "prod-00166",
+  "nombre": "CREMA COLGATE LUMINOUS WHITE 9",
+  "descripcion": "CREMA COLGATE LUMINOUS WHITE 99G",
+  "categoria": "Cuidado personal",
+  "precio": 18200
+ },
+ {
+  "sku": "prod-00022",
+  "nombre": "MIEL DE ROSAS UNGÜENTO  30 CC",
+  "descripcion": "MIEL DE ROSAS UNGÜENTO  30 CC",
+  "categoria": "Otros",
+  "precio": 3800
+ },
+ {
+  "sku": "prod-00018",
+  "nombre": "PIEDRA ALUMBRE UNGÜENTO  25 G",
+  "descripcion": "PIEDRA ALUMBRE UNGÜENTO  25 G",
+  "categoria": "Otros",
+  "precio": 2700
+ },
+ {
+  "sku": "prod-00017",
+  "nombre": "VAGINCORT CREMA  20 G",
+  "descripcion": "VAGINCORT CREMA  20 G",
+  "categoria": "Cuidado personal",
+  "precio": 92000
+ }
+]

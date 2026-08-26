@@ -1,0 +1,15 @@
+prod-00787|encontrado
+prod-00784|no_encontrado
+prod-00461|revisar_nombre|Sin rastro alguno de "Mega Max Energy" sobre en Colombia
+prod-00458|revisar_nombre|Vitacerebrina real no tiene variante 1000ml Omega 3,6,9
+prod-00139|encontrado
+prod-00138|encontrado
+prod-00055|encontrado
+prod-00054|encontrado
+prod-00133|encontrado
+prod-00134|encontrado
+prod-00533|encontrado
+prod-00357|encontrado
+prod-00591|encontrado
+prod-00885|no_encontrado
+prod-00537|no_encontrado

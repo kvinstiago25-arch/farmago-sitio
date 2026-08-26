@@ -1,0 +1,15 @@
+prod-00601|revisar_nombre|Kalori solo existe en polvo, 200ml liquido es linea "Prowhey Net" no "Kalori"
+prod-00391|no_encontrado
+prod-00605|encontrado
+prod-00518|encontrado
+prod-00367|encontrado
+prod-00147|encontrado
+prod-00783|encontrado
+prod-00348|no_encontrado
+prod-00150|encontrado
+prod-00324|encontrado
+prod-00504|encontrado
+prod-00559|encontrado
+prod-00673|encontrado
+prod-00460|encontrado
+prod-00749|encontrado

@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00787",
+  "nombre": "ACONDIC SAVITAL 490ML ELIXIR R",
+  "descripcion": "ACONDIC SAVITAL 490ML ELIXIR ROMERO",
+  "categoria": "Otros",
+  "precio": 16700
+ },
+ {
+  "sku": "prod-00784",
+  "nombre": "SHAMPO DOVE RECONSTRUCCION + A",
+  "descripcion": "SHAMPO DOVE RECONSTRUCCION + AMINO 370ML",
+  "categoria": "Otros",
+  "precio": 24200
+ },
+ {
+  "sku": "prod-00461",
+  "nombre": "MEGA MAX ENERGY SOBRE",
+  "descripcion": "MEGA MAX ENERGY SOBRE",
+  "categoria": "Otros",
+  "precio": 2400
+ },
+ {
+  "sku": "prod-00458",
+  "nombre": "VITACEREBRINA 1000ML OMEGA 3,6",
+  "descripcion": "VITACEREBRINA 1000ML OMEGA 3,6,9",
+  "categoria": "Vitaminas",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00139",
+  "nombre": "CERITAMIN JARABE 60 ML",
+  "descripcion": "CERITAMIN JARABE 60 ML",
+  "categoria": "Otros",
+  "precio": 41000
+ },
+ {
+  "sku": "prod-00138",
+  "nombre": "CERITAMIN GOTAS 10MG",
+  "descripcion": "CERITAMIN GOTAS 10MG",
+  "categoria": "Otros",
+  "precio": 41600
+ },
+ {
+  "sku": "prod-00055",
+  "nombre": "ALCOHOL ALCOMAX 350 ML",
+  "descripcion": "ALCOHOL ALCOMAX 350 ML",
+  "categoria": "Otros",
+  "precio": 6000
+ },
+ {
+  "sku": "prod-00054",
+  "nombre": "ALCOHOL ALCOMAX 700 ML",
+  "descripcion": "ALCOHOL ALCOMAX 700 ML",
+  "categoria": "Otros",
+  "precio": 9000
+ },
+ {
+  "sku": "prod-00133",
+  "nombre": "ALGODON MOTOCITOS 25G",
+  "descripcion": "ALGODON MOTOCITOS 25G",
+  "categoria": "Antigripales",
+  "precio": 3000
+ },
+ {
+  "sku": "prod-00134",
+  "nombre": "ALGODON MOTOCITOS 50G",
+  "descripcion": "ALGODON MOTOCITOS 50G",
+  "categoria": "Antigripales",
+  "precio": 4000
+ },
+ {
+  "sku": "prod-00533",
+  "nombre": "DESLORATADINA KIDS 60ML MEMPHI",
+  "descripcion": "DESLORATADINA KIDS 60ML MEMPHIS",
+  "categoria": "Antigripales",
+  "precio": 9800
+ },
+ {
+  "sku": "prod-00357",
+  "nombre": "PAÑITOS HUMEDOS TITOS X100",
+  "descripcion": "PAÑITOS HUMEDOS TITOS X100",
+  "categoria": "Antigripales",
+  "precio": 6700
+ },
+ {
+  "sku": "prod-00591",
+  "nombre": "CLOBETASOL PROPINATO CREMA LAP",
+  "descripcion": "CLOBETASOL PROPINATO CREMA LAPROFF 0.05%",
+  "categoria": "Cuidado personal",
+  "precio": 11200
+ },
+ {
+  "sku": "prod-00885",
+  "nombre": "GELILAB ADVANCE UVA PHARBIOLAB",
+  "descripcion": "GELILAB ADVANCE UVA PHARBIOLAB",
+  "categoria": "Cuidado personal",
+  "precio": 78000
+ },
+ {
+  "sku": "prod-00537",
+  "nombre": "PROTECTOR NUDE SOLAR 80FPS 40M",
+  "descripcion": "PROTECTOR NUDE SOLAR 80FPS 40ML",
+  "categoria": "Cuidado personal",
+  "precio": 27000
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00691",
+  "nombre": "COMPLEJO B + ZINC + VITA PHARB",
+  "descripcion": "COMPLEJO B + ZINC + VITA PHARB",
+  "categoria": "Vitaminas",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00444",
+  "nombre": "VITAMINA E COLMED 10 CAPSULAS",
+  "descripcion": "VITAMINA E COLMED 10 CAPSULAS",
+  "categoria": "Vitaminas",
+  "precio": 35000
+ },
+ {
+  "sku": "prod-00741",
+  "nombre": "METOCLOPRAMIDA BLISTER SANFER",
+  "descripcion": "METOCLOPRAMIDA BLISTER SANFER",
+  "categoria": "Otros",
+  "precio": 13200
+ },
+ {
+  "sku": "prod-00692",
+  "nombre": "OMEGA 3 PHARBIOLAB",
+  "descripcion": "OMEGA 3 PHARBIOLAB",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00686",
+  "nombre": "PROPOLVIK PASTILLAS GARGANTA S",
+  "descripcion": "PROPOLVIK PASTILLAS GARGANTA SOBRE CEREZA",
+  "categoria": "Otros",
+  "precio": 2700
+ },
+ {
+  "sku": "prod-00677",
+  "nombre": "CHOCORRAMO GRANDE",
+  "descripcion": "CHOCORRAMO GRANDE",
+  "categoria": "Otros",
+  "precio": 3000
+ },
+ {
+  "sku": "prod-00669",
+  "nombre": "TRIDENT SURTIDOS",
+  "descripcion": "TRIDENT SURTIDOS",
+  "categoria": "Otros",
+  "precio": 300
+ },
+ {
+  "sku": "prod-00638",
+  "nombre": "FOSFOGEN COMPLEJO B X30 CAPSUL",
+  "descripcion": "FOSFOGEN COMPLEJO B X30 CAPSULAS",
+  "categoria": "Vitaminas",
+  "precio": 27800
+ },
+ {
+  "sku": "prod-00544",
+  "nombre": "ESPADARADRAPO SUPREME 3X5",
+  "descripcion": "ESPADARADRAPO SUPREME 3X5",
+  "categoria": "Otros",
+  "precio": 12400
+ },
+ {
+  "sku": "prod-00543",
+  "nombre": "MICROPORE SUPREME 2X5",
+  "descripcion": "MICROPORE SUPREME 2X5",
+  "categoria": "Otros",
+  "precio": 6600
+ },
+ {
+  "sku": "prod-00527",
+  "nombre": "CETIRIZINA JARABE 60ML ECAR",
+  "descripcion": "CETIRIZINA JARABE 60ML ECAR",
+  "categoria": "Otros",
+  "precio": 10200
+ },
+ {
+  "sku": "prod-00449",
+  "nombre": "SHAMPO HEAD & SHOULDERS 375ML ",
+  "descripcion": "SHAMPO HEAD & SHOULDERS 375ML ANTIRRESEQUEDAD",
+  "categoria": "Otros",
+  "precio": 24200
+ },
+ {
+  "sku": "prod-00408",
+  "nombre": "PRUEBA DE EMBARAZO EARLY TEST",
+  "descripcion": "PRUEBA DE EMBARAZO EARLY TEST",
+  "categoria": "Otros",
+  "precio": 6200
+ },
+ {
+  "sku": "prod-00389",
+  "nombre": "JABON INTIMO INTIBON 210 G SAL",
+  "descripcion": "JABON INTIMO INTIBON 210 G SALVIA Y CALENDULA",
+  "categoria": "Cuidado personal",
+  "precio": 18600
+ },
+ {
+  "sku": "prod-00365",
+  "nombre": "REPELENTE OUT 120ML",
+  "descripcion": "REPELENTE OUT 120ML",
+  "categoria": "Otros",
+  "precio": 11500
+ }
+]

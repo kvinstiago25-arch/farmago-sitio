@@ -1,0 +1,15 @@
+prod-00691|no_encontrado|WebSearch agotado
+prod-00444|no_encontrado|WebSearch agotado
+prod-00741|no_encontrado|WebSearch agotado
+prod-00692|no_encontrado|WebSearch agotado; pharbiolab.com sin catalogo
+prod-00686|no_encontrado|WebSearch agotado
+prod-00677|no_encontrado|WebSearch agotado; ramo.com.co 403
+prod-00669|no_encontrado|WebSearch agotado
+prod-00638|no_encontrado|WebSearch agotado
+prod-00544|no_encontrado|WebSearch agotado
+prod-00543|no_encontrado|WebSearch agotado
+prod-00527|no_encontrado|WebSearch agotado; ecarfarmaceutica.com no resuelve
+prod-00449|no_encontrado|WebSearch agotado
+prod-00408|no_encontrado|WebSearch agotado
+prod-00389|no_encontrado|WebSearch agotado
+prod-00365|no_encontrado|WebSearch agotado

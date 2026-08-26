@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00694",
+  "nombre": "SAVIDOL VITALFARMA GEL 90G",
+  "descripcion": "SAVIDOL VITALFARMA GEL 90G",
+  "categoria": "Cuidado personal",
+  "precio": 29400
+ },
+ {
+  "sku": "prod-00338",
+  "nombre": "SHAMPOO JOHNSONS BABY GLICERIN",
+  "descripcion": "SHAMPOO JOHNSONS BABY GLICERIN",
+  "categoria": "Cuidado personal",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00495",
+  "nombre": "SHAMPOO TIO NACHO CONTROL CAS",
+  "descripcion": "SHAMPOO TIO NACHO CONTROL CASPA 415ML",
+  "categoria": "Cuidado personal",
+  "precio": 16000
+ },
+ {
+  "sku": "prod-00243",
+  "nombre": "AMTRIPTILINA 25 MG AG",
+  "descripcion": "AMTRIPTILINA 25 MG AG",
+  "categoria": "Otros",
+  "precio": 12100
+ },
+ {
+  "sku": "prod-00858",
+  "nombre": "ANGIOVAN CILOSTAZOL 50MG TECNO",
+  "descripcion": "ANGIOVAN CILOSTAZOL 50MG TECNO",
+  "categoria": "Otros",
+  "precio": 30200
+ },
+ {
+  "sku": "prod-00688",
+  "nombre": "CITRATO DE POTASIO PREMIUM D3",
+  "descripcion": "CITRATO DE POTASIO PREMIUM D3",
+  "categoria": "Otros",
+  "precio": 58000
+ },
+ {
+  "sku": "prod-00256",
+  "nombre": "CLORFERAMINA JARABE 2MG",
+  "descripcion": "CLORFERAMINA JARABE 2MG",
+  "categoria": "Otros",
+  "precio": 11400
+ },
+ {
+  "sku": "prod-00502",
+  "nombre": "MICROPORE KENNEDY PIEL 1/2X5",
+  "descripcion": "MICROPORE KENNEDY PIEL 1/2X5",
+  "categoria": "Otros",
+  "precio": 2800
+ },
+ {
+  "sku": "prod-00503",
+  "nombre": "MICROPORE KENNEDY PIEL 1X5",
+  "descripcion": "MICROPORE KENNEDY PIEL 1X5",
+  "categoria": "Otros",
+  "precio": 5200
+ },
+ {
+  "sku": "prod-00541",
+  "nombre": "MICROPORE SUPREME 1X1",
+  "descripcion": "MICROPORE SUPREME 1X1",
+  "categoria": "Otros",
+  "precio": 2400
+ },
+ {
+  "sku": "prod-00693",
+  "nombre": "MIEL DE ABEJAS LA ESPERANZA 355G",
+  "descripcion": "MIEL DE ABEJAS LA ESPERANZA 355G",
+  "categoria": "Otros",
+  "precio": 19900
+ },
+ {
+  "sku": "prod-00202",
+  "nombre": "REDOXON TOTAL EFER 10 COMPRIMI",
+  "descripcion": "REDOXON TOTAL EFER 10 COMPRIMI",
+  "categoria": "Otros",
+  "precio": 38000
+ },
+ {
+  "sku": "prod-00106",
+  "nombre": "RELAXMENT PLUS 500 MG 30 TABLE",
+  "descripcion": "RELAXMENT PLUS 500 MG 30 TABLE",
+  "categoria": "Otros",
+  "precio": 40000
+ },
+ {
+  "sku": "prod-00105",
+  "nombre": "RELAXMENT PLUS 500MG 20 TABLE",
+  "descripcion": "RELAXMENT PLUS 500MG 20 TABLE",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00731",
+  "nombre": "REMOVEDOR LANDER + OBSE",
+  "descripcion": "REMOVEDOR LANDER + OBSE",
+  "categoria": "Otros",
+  "precio": 8200
+ }
+]

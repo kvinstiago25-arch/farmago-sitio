@@ -1,0 +1,429 @@
+[
+ {
+  "sku": "prod-00118",
+  "nombre": "ASPIRINA 100 MF 140 TABLETAS",
+  "descripcion": "ASPIRINA 100 MF 140 TABLETAS",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00118.jpg"
+ },
+ {
+  "sku": "prod-00117",
+  "nombre": "ALKA SELTZER 2 TABLETAS EFERVE",
+  "descripcion": "ALKA SELTZER 2 TABLETAS EFERVESCENTES",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00117.jpg"
+ },
+ {
+  "sku": "prod-00116",
+  "nombre": "JERINGA 3P 5 ML",
+  "descripcion": "JERINGA 3P 5 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00116.png"
+ },
+ {
+  "sku": "prod-00115",
+  "nombre": "JERINGA 3 P 3ML",
+  "descripcion": "JERINGA 3 P 3ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00115.png"
+ },
+ {
+  "sku": "prod-00114",
+  "nombre": "JERINGA 3P 10 ML",
+  "descripcion": "JERINGA 3P 10 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00114.png"
+ },
+ {
+  "sku": "prod-00113",
+  "nombre": "ACID MANTLE N 120ML",
+  "descripcion": "ACID MANTLE N 120ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00113.jpg"
+ },
+ {
+  "sku": "prod-00109",
+  "nombre": "SEVEDOL EXTRA FUERTE BLISTER D",
+  "descripcion": "SEVEDOL EXTRA FUERTE BLISTER DE 6 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00109.png"
+ },
+ {
+  "sku": "prod-00099",
+  "nombre": "NEOSALDINA GOTAS 30 ML",
+  "descripcion": "NEOSALDINA GOTAS 30 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00099.jpg"
+ },
+ {
+  "sku": "prod-00098",
+  "nombre": "NEOSALDINA 4 GRAGEAS",
+  "descripcion": "NEOSALDINA 4 GRAGEAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00098.webp"
+ },
+ {
+  "sku": "prod-00095",
+  "nombre": "GELIMED PLUS HMB",
+  "descripcion": "GELIMED PLUS HMB",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00095.png"
+ },
+ {
+  "sku": "prod-00094",
+  "nombre": "GELIMED 10 G",
+  "descripcion": "GELIMED 10 G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00094.webp"
+ },
+ {
+  "sku": "prod-00093",
+  "nombre": "NEURO BION 30 TABLETAS",
+  "descripcion": "NEURO BION 30 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00093.jpg"
+ },
+ {
+  "sku": "prod-00091",
+  "nombre": "ACIDO FUSIDICO 2% MK",
+  "descripcion": "ACIDO FUSIDICO 2% MK",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00091.png"
+ },
+ {
+  "sku": "prod-00090",
+  "nombre": "GELCLAIR GEL ORAL CONCENTRADO",
+  "descripcion": "GELCLAIR GEL ORAL CONCENTRADO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00090.jpg"
+ },
+ {
+  "sku": "prod-00089",
+  "nombre": "TRAMADOL 100 MG GOTAS 10 ML",
+  "descripcion": "TRAMADOL 100 MG GOTAS 10 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00089.jpg"
+ },
+ {
+  "sku": "prod-00085",
+  "nombre": "GAVISCON DOBLE ACCION",
+  "descripcion": "GAVISCON DOBLE ACCION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00085.png"
+ },
+ {
+  "sku": "prod-00084",
+  "nombre": "CREMA ANTIHEMORROIDAL MAX FORT",
+  "descripcion": "CREMA ANTIHEMORROIDAL MAX FORTE 80 G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00084.png"
+ },
+ {
+  "sku": "prod-00082",
+  "nombre": "MUCOSINA SUSPENSION 120 ML",
+  "descripcion": "MUCOSINA SUSPENSION 120 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00082.png"
+ },
+ {
+  "sku": "prod-00078",
+  "nombre": "HIALTEARS LUBRICANTE OCULAR 5M",
+  "descripcion": "HIALTEARS LUBRICANTE OCULAR 5ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00078.jpg"
+ },
+ {
+  "sku": "prod-00076",
+  "nombre": "TAMSULON DUO 30 CAPSULAS",
+  "descripcion": "TAMSULON DUO 30 CAPSULAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00076.jpg"
+ },
+ {
+  "sku": "prod-00075",
+  "nombre": "ZAMBON MONURIL 3 G GRANULADO",
+  "descripcion": "ZAMBON MONURIL 3 G GRANULADO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00075.webp"
+ },
+ {
+  "sku": "prod-00074",
+  "nombre": "B VIT HT 1 JERINGA",
+  "descripcion": "B VIT HT 1 JERINGA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00074.png"
+ },
+ {
+  "sku": "prod-00072",
+  "nombre": "TENSOFAR LOSARTAN 50 MG",
+  "descripcion": "TENSOFAR LOSARTAN 50 MG",
+  "categoria": "Adulto mayor",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00072.jpg"
+ },
+ {
+  "sku": "prod-00069",
+  "nombre": "EVALAX POLVO 250 G",
+  "descripcion": "EVALAX POLVO 250 G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00069.jpg"
+ },
+ {
+  "sku": "prod-00066",
+  "nombre": "WASSERTROL GOTAS OFT 5 ML",
+  "descripcion": "WASSERTROL GOTAS OFT 5 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00066.jpg"
+ },
+ {
+  "sku": "prod-00059",
+  "nombre": "ADVIL ULTRA 4 CAPSULAS",
+  "descripcion": "ADVIL ULTRA 4 CAPSULAS",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00059.jpg"
+ },
+ {
+  "sku": "prod-00058",
+  "nombre": "ADVIL LIQUID ESPALDA Y CUELLO",
+  "descripcion": "ADVIL LIQUID ESPALDA Y CUELLO",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00058.jpg"
+ },
+ {
+  "sku": "prod-00057",
+  "nombre": "DEXAMETASONA FOSFATO 8 MG/2ML ",
+  "descripcion": "DEXAMETASONA FOSFATO 8 MG/2ML AMPOLLAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00057.png"
+ },
+ {
+  "sku": "prod-00053",
+  "nombre": "APRONAX LIQUID GELS 275MG",
+  "descripcion": "APRONAX LIQUID GELS 275MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00053.jpg"
+ },
+ {
+  "sku": "prod-00051",
+  "nombre": "PEDIALYTE ACTIVE FRESA 500 ML",
+  "descripcion": "PEDIALYTE ACTIVE FRESA 500 ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00051.jpg"
+ },
+ {
+  "sku": "prod-00048",
+  "nombre": "CRONOFEN L JARABE 100 ML",
+  "descripcion": "CRONOFEN L JARABE 100 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00048.jpg"
+ },
+ {
+  "sku": "prod-00047",
+  "nombre": "CRONOFEN GOTAS 30 ML",
+  "descripcion": "CRONOFEN GOTAS 30 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00047.jpg"
+ },
+ {
+  "sku": "prod-00043",
+  "nombre": "NAPROXENO 250 MG",
+  "descripcion": "NAPROXENO 250 MG",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00043.jpg"
+ },
+ {
+  "sku": "prod-00042",
+  "nombre": "NAPROXENO 500 MG",
+  "descripcion": "NAPROXENO 500 MG",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00042.jpg"
+ },
+ {
+  "sku": "prod-00041",
+  "nombre": "ENSURE ADVANCE VAINILLA 220 ML",
+  "descripcion": "ENSURE ADVANCE VAINILLA 220 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00041.jpg"
+ },
+ {
+  "sku": "prod-00039",
+  "nombre": "ASPIRINA EFERVESCENTE CAJA 12 ",
+  "descripcion": "ASPIRINA EFERVESCENTE CAJA 12 TABLETAS",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00039.webp"
+ },
+ {
+  "sku": "prod-00038",
+  "nombre": "ASPIRINA EFERVESCENTE",
+  "descripcion": "ASPIRINA EFERVESCENTE",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00038.png"
+ },
+ {
+  "sku": "prod-00037",
+  "nombre": "TREDA DIOSMECTITA 3 G",
+  "descripcion": "TREDA DIOSMECTITA 3 G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00037.webp"
+ },
+ {
+  "sku": "prod-00036",
+  "nombre": "ADVIL CHILDREN JARABE 100 ML",
+  "descripcion": "ADVIL CHILDREN JARABE 100 ML",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00036.jpg"
+ },
+ {
+  "sku": "prod-00035",
+  "nombre": "ADVIL CHILDREN JARABE 60 ML",
+  "descripcion": "ADVIL CHILDREN JARABE 60 ML",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00035.jpg"
+ },
+ {
+  "sku": "prod-00034",
+  "nombre": "ACETAMINOFEN JARABE 100 ML",
+  "descripcion": "ACETAMINOFEN JARABE 100 ML",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00034.jpg"
+ },
+ {
+  "sku": "prod-00031",
+  "nombre": "CONGESTEX KIDS JARABE 90 ML",
+  "descripcion": "CONGESTEX KIDS JARABE 90 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00031.jpg"
+ },
+ {
+  "sku": "prod-00030",
+  "nombre": "CATALAC ACETAMINOFEN 500 MG",
+  "descripcion": "CATALAC ACETAMINOFEN 500 MG",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00030.jpg"
+ },
+ {
+  "sku": "prod-00029",
+  "nombre": "PAÑITOS PEQUEÑIN  24 PAÑITOS",
+  "descripcion": "PAÑITOS PEQUEÑIN  24 PAÑITOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00029.jpg"
+ },
+ {
+  "sku": "prod-00028",
+  "nombre": "PAÑITOS PEQUEÑIN  70 PAÑITOS",
+  "descripcion": "PAÑITOS PEQUEÑIN  70 PAÑITOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00028.jpg"
+ },
+ {
+  "sku": "prod-00027",
+  "nombre": "BISOLVON ADULTOS  120 ML",
+  "descripcion": "BISOLVON ADULTOS  120 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00027.jpg"
+ },
+ {
+  "sku": "prod-00026",
+  "nombre": "FLEXIMAX NAP 14 TABLETAS  CAJA",
+  "descripcion": "FLEXIMAX NAP 14 TABLETAS  CAJA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00026.jpg"
+ },
+ {
+  "sku": "prod-00025",
+  "nombre": "ECLOSYNT INHALADOR  50 MCG",
+  "descripcion": "ECLOSYNT INHALADOR  50 MCG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00025.jpg"
+ },
+ {
+  "sku": "prod-00024",
+  "nombre": "SACRUSYT SALBUTAMOL INHALADOR ",
+  "descripcion": "SACRUSYT SALBUTAMOL INHALADOR  100 MCG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00024.png"
+ },
+ {
+  "sku": "prod-00023",
+  "nombre": "DEPO- PROVERA INYECTABLE  150 ",
+  "descripcion": "DEPO- PROVERA INYECTABLE  150 MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00023.png"
+ },
+ {
+  "sku": "prod-00019",
+  "nombre": "GLICERINA CARBONATADA GOTAS  3",
+  "descripcion": "GLICERINA CARBONATADA GOTAS  30 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00019.jpg"
+ },
+ {
+  "sku": "prod-00016",
+  "nombre": "VAGINSOL F CREMA  20 G",
+  "descripcion": "VAGINSOL F CREMA  20 G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00016.jpg"
+ },
+ {
+  "sku": "prod-00015",
+  "nombre": "VAGINSOL F OVULOS  3 OVULOS",
+  "descripcion": "VAGINSOL F OVULOS  3 OVULOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00015.jpg"
+ },
+ {
+  "sku": "prod-00014",
+  "nombre": "COGESTEX KIDS JARABE  90 ML",
+  "descripcion": "COGESTEX KIDS JARABE  90 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00014.png"
+ },
+ {
+  "sku": "prod-00013",
+  "nombre": "ECLOSYNT INHALADOR  250 MCG X ",
+  "descripcion": "ECLOSYNT INHALADOR  250 MCG X DOSIS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00013.jpg"
+ },
+ {
+  "sku": "prod-00012",
+  "nombre": "VERDE GALEZ POMADA  23 G",
+  "descripcion": "VERDE GALEZ POMADA  23 G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00012.png"
+ },
+ {
+  "sku": "prod-00011",
+  "nombre": "BISOLVON MAX JARABE  120 ML  T",
+  "descripcion": "BISOLVON MAX JARABE  120 ML  TOS CON FLEMAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00011.jpg"
+ },
+ {
+  "sku": "prod-00009",
+  "nombre": "BEDOYECTA INYECTABLE  3 USOS",
+  "descripcion": "BEDOYECTA INYECTABLE  3 USOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00009.jpg"
+ },
+ {
+  "sku": "prod-00008",
+  "nombre": "BEDOYECTA INYECTABLE  1 USO",
+  "descripcion": "BEDOYECTA INYECTABLE  1 USO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00008.jpg"
+ },
+ {
+  "sku": "prod-00003",
+  "nombre": "PROVERA TABLETAS  10 MG",
+  "descripcion": "PROVERA TABLETAS  10 MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00003.jpg"
+ },
+ {
+  "sku": "prod-00002",
+  "nombre": "PROVERA TABLETAS  5 MG",
+  "descripcion": "PROVERA TABLETAS  5 MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00002.webp"
+ }
+]

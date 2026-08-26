@@ -1,0 +1,16 @@
+{
+  "descripcion": "SKUs marcados definitivamente como NO APLICA para busqueda de foto real. No son productos fisicos fotografiables y deben ser omitidos por cualquier script de descarga de imagenes en el futuro.",
+  "fecha": "2026-08-19",
+  "excluidos": [
+    {
+      "sku": "prod-00843",
+      "nombre": "DOMICILIO",
+      "motivo": "Cargo de servicio de envio a domicilio, no es un producto fisico."
+    },
+    {
+      "sku": "prod-00608",
+      "nombre": "SERVICIO GLUCOMETRIA",
+      "motivo": "Servicio prestado en tienda, no es un producto fisico."
+    }
+  ]
+}

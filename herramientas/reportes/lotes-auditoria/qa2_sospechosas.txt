@@ -1,0 +1,66 @@
+prod-00518|marca MK en la caja, no La Santé
+prod-00366|marca Fly Out 100ml, no OUT 60ml
+prod-00588|marca Crema Cero, no Chenier
+prod-00539|Proquident adhesivo dental 40g, no crema dental 95g
+prod-00174|Rexona Clinical 30g, no 48g
+prod-00416|Nixoderm Azufre sin mencion de Aloe Vera
+prod-00598|pezonera Avent, no discos protectores de lactancia
+prod-00345|botella bomba 1L, no sobre
+prod-00362|Yodora 25g, no 12g
+prod-00791|variante Jojoba/Argan/Sabila, no Fusion Proteinas
+prod-00783|tarro tratamiento capilar, no sobre acondicionador
+prod-00556|variante Glycol+VitaC, no Ceramidas; volumen distinto
+prod-00464|marca Colmed, no Coaspharma
+prod-00052|caja 60 tabletas, no blister x4
+prod-00143|marca MK, no Sanfer
+prod-00886|marca SensoLife, no Pharbio
+prod-00893|frasco muestra 10ml, no 5ml
+prod-00324|marca AeroTrach Plus, no Protex
+prod-00197|sabor tradicional, no fresa
+prod-00198|sabor tradicional, no fresa
+prod-00425|caja 36 tabletas, no 6
+prod-00540|venda elastica Supreme, no micropore
+prod-00443|marca no coincide con Colmed
+prod-00710|marca Ana Maria, no Vogue
+prod-00312|marca Coaspharma 300 tabl, no Laproff 10
+prod-00460|marca Piel, no Extasis
+prod-00601|lata de polvo, no envase liquido 200ml
+prod-00600|etiqueta muestra 900g, no 460g
+prod-00390|marca Indiker, no All Set
+prod-00391|Clearblue digital, no tira All Set
+prod-00605|marca MK, no Souxa
+prod-00749|Muestra marca Sanofi, no Eurofarma
+prod-00153|Muestra Bactroderm (Ecar), no Yodopovil
+prod-00691|Muestra marca Vit Max B, no Pharb
+prod-00444|Muestra 100 capsulas, no 10
+prod-00850|Es Centrum Silver Men +50, no Centrum Men
+prod-00843|Imagen placeholder foto no disponible
+prod-00787|Es shampoo Savital, no acondicionador
+prod-00741|Muestra frasco de gotas, no blister de tabletas
+prod-00692|Muestra marca Sundown Naturals, no Pharbiolab
+prod-00686|Muestra Bucoxol frutos rojos, no Propolvik cereza
+prod-00684|Muestra frasco Vitafer-L, no sachets
+prod-00677|Es Chocoramo Barrita 40g, no version grande
+prod-00669|Un solo sabor sandia, no surtidos
+prod-00668|Parece galleta/wafer edicion especial, no mani simple
+prod-00639|Sabor ponche de frutas, no fresa
+prod-00638|Es Complejo B Ecar 250 grageas, no Fosfogen 30 capsulas
+prod-00614|Es Novasleep eszopiclona, producto distinto a Libelle
+prod-00608|Imagen placeholder foto no disponible
+prod-00576|Envase de 400ml, no 120ml
+prod-00544|Es venda de yeso, no esparadrapo
+prod-00527|Muestra marca Cetirizina MK, no Ecar
+prod-00461|Son gomas Titanium Mega Gums, no sobre energizante
+prod-00449|Variante Anti-Comezon, no Antirresequedad
+prod-00408|Muestra marca Begut, no Early Test
+prod-00389|Avena y Calendula 120g, no Salvia y Calendula 210g
+prod-00365|Muestra marca Stay OFF!, no OUT
+prod-00340|Envase de 400ml, no 120ml
+prod-00277|Solo hidroxido de aluminio MK 360ml, falta magnesio y volumen
+prod-00270|Es Damiclin K ovulos vaginales, no ampolla inyectable
+prod-00190|Caja de 50 capsulas, no 2 capsulas
+prod-00140|Es Noxpirin Plus, no Legrip Plus
+prod-00138|Muestra marca Cetirizina MK, no Ceritamin
+prod-00116|Marca AlfaSafe 3ml, no jeringa 3P 5ml
+prod-00101|Muestra marca La Sante, no Atiflan
+prod-00051|Sabor cereza, no fresa

@@ -1,0 +1,15 @@
+prod-00366|encontrado
+prod-00588|no_encontrado
+prod-00598|encontrado
+prod-00345|encontrado
+prod-00362|encontrado
+prod-00556|encontrado
+prod-00464|encontrado
+prod-00143|no_encontrado
+prod-00886|no_encontrado
+prod-00893|encontrado
+prod-00197|encontrado
+prod-00198|encontrado
+prod-00443|encontrado
+prod-00710|encontrado
+prod-00312|no_encontrado

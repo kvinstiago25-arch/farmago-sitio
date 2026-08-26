@@ -1,0 +1,28 @@
+# ===== Credenciales / configuración local — nunca se sube al repo =====
+removebg_api_key.txt
+*api_key*.txt
+*.env
+.env.*
+*.pem
+*.key
+.claude/
+
+# ===== Entorno virtual y caché de Python =====
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# ===== Logs =====
+*.log
+
+# ===== Configuración local del editor =====
+.vscode/
+
+# ===== Archivos temporales / de trabajo (no forman parte del sitio) =====
+herramientas/reportes/scratch_tmp/
+duplicados_revisar/
+herramientas/imagenes-sin-uso/
+*.tmp
+Thumbs.db
+.DS_Store

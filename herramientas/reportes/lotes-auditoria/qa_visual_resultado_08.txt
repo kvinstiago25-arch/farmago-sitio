@@ -1,0 +1,70 @@
+prod-00612|ok|
+prod-00608|sospechosa|imagen genérica "foto no disponible", no muestra el producto real
+prod-00604|ok|
+prod-00602|ok|
+prod-00594|ok|
+prod-00592|ok|
+prod-00590|ok|
+prod-00584|ok|
+prod-00582|ok|
+prod-00576|sospechosa|envase muestra 400ml, no coincide con 120ml declarados
+prod-00575|ok|
+prod-00553|ok|
+prod-00552|ok|
+prod-00544|sospechosa|foto muestra gorros desechables, no esparadrapo
+prod-00543|sospechosa|foto muestra venda elástica, no cinta micropore
+prod-00538|ok|
+prod-00535|sospechosa|foto muestra ampollas inyectables, no tabletas de Buscapina Simple
+prod-00532|ok|
+prod-00531|ok|
+prod-00527|sospechosa|foto muestra marca AG, el producto es marca ECAR
+prod-00512|ok|
+prod-00510|ok|
+prod-00508|ok|
+prod-00497|ok|
+prod-00487|ok|
+prod-00486|ok|
+prod-00485|ok|
+prod-00468|ok|
+prod-00466|ok|
+prod-00461|sospechosa|foto muestra gomas energéticas Titanium, marca y producto distintos
+prod-00459|ok|
+prod-00455|ok|
+prod-00451|ok|
+prod-00449|sospechosa|foto muestra variante Men con Old Spice, no antirresequedad
+prod-00441|ok|
+prod-00440|ok|
+prod-00439|sospechosa|foto muestra marca Ziped 90ml, no Pediazinc 120ml
+prod-00421|ok|
+prod-00419|ok|
+prod-00417|ok|
+prod-00410|ok|
+prod-00408|sospechosa|foto muestra prueba Clearblue, no marca Early Test
+prod-00393|ok|
+prod-00389|sospechosa|foto muestra variante avena/caléndula 120g, no salvia/caléndula 210g
+prod-00386|ok|
+prod-00384|ok|
+prod-00375|ok|
+prod-00368|ok|
+prod-00365|sospechosa|foto muestra repelente marca OFF, no marca OUT
+prod-00355|ok|
+prod-00352|ok|
+prod-00350|ok|
+prod-00342|ok|
+prod-00341|ok|
+prod-00340|sospechosa|envase muestra 400ml, no coincide con 120ml declarados
+prod-00334|ok|
+prod-00333|ok|
+prod-00331|ok|
+prod-00327|ok|
+prod-00323|ok|
+prod-00322|ok|
+prod-00317|ok|
+prod-00316|ok|
+prod-00310|ok|
+prod-00309|ok|
+prod-00306|ok|
+prod-00303|ok|
+prod-00302|ok|
+prod-00300|ok|
+prod-00299|ok|

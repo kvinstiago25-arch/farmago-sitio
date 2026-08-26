@@ -1,0 +1,19 @@
+{
+  "procesados": 10,
+  "actualizados_reales": 9,
+  "fallidos": 1,
+  "actualizados_ids": [
+    "prod-00868",
+    "prod-00433",
+    "prod-00896",
+    "prod-00422",
+    "prod-00119",
+    "prod-00124",
+    "prod-00046",
+    "prod-00045",
+    "prod-00581"
+  ],
+  "fallidos_ids": [
+    "prod-00432"
+  ]
+}

@@ -1,0 +1,15 @@
+prod-00694|encontrado
+prod-00338|no_encontrado
+prod-00495|encontrado
+prod-00243|encontrado
+prod-00858|encontrado
+prod-00688|no_encontrado
+prod-00256|encontrado
+prod-00502|encontrado
+prod-00503|encontrado
+prod-00541|encontrado
+prod-00693|encontrado
+prod-00202|encontrado
+prod-00106|encontrado
+prod-00105|encontrado
+prod-00731|revisar_nombre|nombre truncado, "OBSE" no identificable, falta presentacion ml

@@ -1,0 +1,4790 @@
+{
+  "prod-00868": {
+    "imagen": "imagenesmedimentos/reales/prod-00868.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00432": {
+    "imagen": "imagenesmedimentos/reales/prod-00432.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00433": {
+    "imagen": "imagenesmedimentos/reales/prod-00433.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00896": {
+    "imagen": "imagenesmedimentos/reales/prod-00896.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00422": {
+    "imagen": "imagenesmedimentos/reales/prod-00422.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00119": {
+    "imagen": "imagenesmedimentos/reales/prod-00119.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00124": {
+    "imagen": "imagenesmedimentos/reales/prod-00124.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00046": {
+    "imagen": "imagenesmedimentos/reales/prod-00046.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00045": {
+    "imagen": "imagenesmedimentos/reales/prod-00045.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00581": {
+    "imagen": "imagenesmedimentos/reales/prod-00581.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00329": {
+    "imagen": "imagenesmedimentos/reales/prod-00329.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00244": {
+    "imagen": "imagenesmedimentos/reales/prod-00244.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00490": {
+    "imagen": "imagenesmedimentos/reales/prod-00490.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00245": {
+    "imagen": "imagenesmedimentos/reales/prod-00245.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00516": {
+    "imagen": "imagenesmedimentos/reales/prod-00516.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00517": {
+    "imagen": "imagenesmedimentos/reales/prod-00517.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00233": {
+    "imagen": "imagenesmedimentos/reales/prod-00233.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00232": {
+    "imagen": "imagenesmedimentos/reales/prod-00232.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00518": {
+    "imagen": "imagenesmedimentos/reales/prod-00518.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00246": {
+    "imagen": "imagenesmedimentos/reales/prod-00246.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00248": {
+    "imagen": "imagenesmedimentos/reales/prod-00248.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00065": {
+    "imagen": "imagenesmedimentos/reales/prod-00065.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00080": {
+    "imagen": "imagenesmedimentos/reales/prod-00080.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00496": {
+    "imagen": "imagenesmedimentos/reales/prod-00496.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00135": {
+    "imagen": "imagenesmedimentos/reales/prod-00135.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00133": {
+    "imagen": "imagenesmedimentos/reales/prod-00133.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00134": {
+    "imagen": "imagenesmedimentos/reales/prod-00134.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00429": {
+    "imagen": "imagenesmedimentos/reales/prod-00429.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00526": {
+    "imagen": "imagenesmedimentos/reales/prod-00526.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00492": {
+    "imagen": "imagenesmedimentos/reales/prod-00492.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00521": {
+    "imagen": "imagenesmedimentos/reales/prod-00521.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00515": {
+    "imagen": "imagenesmedimentos/reales/prod-00515.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00533": {
+    "imagen": "imagenesmedimentos/reales/prod-00533.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00285": {
+    "imagen": "imagenesmedimentos/reales/prod-00285.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00511": {
+    "imagen": "imagenesmedimentos/reales/prod-00511.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00494": {
+    "imagen": "imagenesmedimentos/reales/prod-00494.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00530": {
+    "imagen": "imagenesmedimentos/reales/prod-00530.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00295": {
+    "imagen": "imagenesmedimentos/reales/prod-00295.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00126": {
+    "imagen": "imagenesmedimentos/reales/prod-00126.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00127": {
+    "imagen": "imagenesmedimentos/reales/prod-00127.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00032": {
+    "imagen": "imagenesmedimentos/reales/prod-00032.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00357": {
+    "imagen": "imagenesmedimentos/reales/prod-00357.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00366": {
+    "imagen": "imagenesmedimentos/reales/prod-00366.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00367": {
+    "imagen": "imagenesmedimentos/reales/prod-00367.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00007": {
+    "imagen": "imagenesmedimentos/reales/prod-00007.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00100": {
+    "imagen": "imagenesmedimentos/reales/prod-00100.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00110": {
+    "imagen": "imagenesmedimentos/reales/prod-00110.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00554": {
+    "imagen": "imagenesmedimentos/reales/prod-00554.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00493": {
+    "imagen": "imagenesmedimentos/reales/prod-00493.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00523": {
+    "imagen": "imagenesmedimentos/reales/prod-00523.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00332": {
+    "imagen": "imagenesmedimentos/reales/prod-00332.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00891": {
+    "imagen": "imagenesmedimentos/reales/prod-00891.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00892": {
+    "imagen": "imagenesmedimentos/reales/prod-00892.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00284": {
+    "imagen": "imagenesmedimentos/reales/prod-00284.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00821": {
+    "imagen": "imagenesmedimentos/reales/prod-00821.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00359": {
+    "imagen": "imagenesmedimentos/reales/prod-00359.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00360": {
+    "imagen": "imagenesmedimentos/reales/prod-00360.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00358": {
+    "imagen": "imagenesmedimentos/reales/prod-00358.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00824": {
+    "imagen": "imagenesmedimentos/reales/prod-00824.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00823": {
+    "imagen": "imagenesmedimentos/reales/prod-00823.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00253": {
+    "imagen": "imagenesmedimentos/reales/prod-00253.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00120": {
+    "imagen": "imagenesmedimentos/reales/prod-00120.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00122": {
+    "imagen": "imagenesmedimentos/reales/prod-00122.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00121": {
+    "imagen": "imagenesmedimentos/reales/prod-00121.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00640": {
+    "imagen": "imagenesmedimentos/reales/prod-00640.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00050": {
+    "imagen": "imagenesmedimentos/reales/prod-00050.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00657": {
+    "imagen": "imagenesmedimentos/reales/prod-00657.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00565": {
+    "imagen": "imagenesmedimentos/reales/prod-00565.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00624": {
+    "imagen": "imagenesmedimentos/reales/prod-00624.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00623": {
+    "imagen": "imagenesmedimentos/reales/prod-00623.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00562": {
+    "imagen": "imagenesmedimentos/reales/prod-00562.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00561": {
+    "imagen": "imagenesmedimentos/reales/prod-00561.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00394": {
+    "imagen": "imagenesmedimentos/reales/prod-00394.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00305": {
+    "imagen": "imagenesmedimentos/reales/prod-00305.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00264": {
+    "imagen": "imagenesmedimentos/reales/prod-00264.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00434": {
+    "imagen": "imagenesmedimentos/reales/prod-00434.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00087": {
+    "imagen": "imagenesmedimentos/reales/prod-00087.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00148": {
+    "imagen": "imagenesmedimentos/reales/prod-00148.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00147": {
+    "imagen": "imagenesmedimentos/reales/prod-00147.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00262": {
+    "imagen": "imagenesmedimentos/reales/prod-00262.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00263": {
+    "imagen": "imagenesmedimentos/reales/prod-00263.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00247": {
+    "imagen": "imagenesmedimentos/reales/prod-00247.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00088": {
+    "imagen": "imagenesmedimentos/reales/prod-00088.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00267": {
+    "imagen": "imagenesmedimentos/reales/prod-00267.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00165": {
+    "imagen": "imagenesmedimentos/reales/prod-00165.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00395": {
+    "imagen": "imagenesmedimentos/reales/prod-00395.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00249": {
+    "imagen": "imagenesmedimentos/reales/prod-00249.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00591": {
+    "imagen": "imagenesmedimentos/reales/prod-00591.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00250": {
+    "imagen": "imagenesmedimentos/reales/prod-00250.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00902": {
+    "imagen": "imagenesmedimentos/reales/prod-00902.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00597": {
+    "imagen": "imagenesmedimentos/reales/prod-00597.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00363": {
+    "imagen": "imagenesmedimentos/reales/prod-00363.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00588": {
+    "imagen": "imagenesmedimentos/reales/prod-00588.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00167": {
+    "imagen": "imagenesmedimentos/reales/prod-00167.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00169": {
+    "imagen": "imagenesmedimentos/reales/prod-00169.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00585": {
+    "imagen": "imagenesmedimentos/reales/prod-00585.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00586": {
+    "imagen": "imagenesmedimentos/reales/prod-00586.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00595": {
+    "imagen": "imagenesmedimentos/reales/prod-00595.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00539": {
+    "imagen": "imagenesmedimentos/reales/prod-00539.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00514": {
+    "imagen": "imagenesmedimentos/reales/prod-00514.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00385": {
+    "imagen": "imagenesmedimentos/reales/prod-00385.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00382": {
+    "imagen": "imagenesmedimentos/reales/prod-00382.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00757": {
+    "imagen": "imagenesmedimentos/reales/prod-00757.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00188": {
+    "imagen": "imagenesmedimentos/reales/prod-00188.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00560": {
+    "imagen": "imagenesmedimentos/reales/prod-00560.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00879": {
+    "imagen": "imagenesmedimentos/reales/prod-00879.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00880": {
+    "imagen": "imagenesmedimentos/reales/prod-00880.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00189": {
+    "imagen": "imagenesmedimentos/reales/prod-00189.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00878": {
+    "imagen": "imagenesmedimentos/reales/prod-00878.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00578": {
+    "imagen": "imagenesmedimentos/reales/prod-00578.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00006": {
+    "imagen": "imagenesmedimentos/reales/prod-00006.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00750": {
+    "imagen": "imagenesmedimentos/reales/prod-00750.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00344": {
+    "imagen": "imagenesmedimentos/reales/prod-00344.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00501": {
+    "imagen": "imagenesmedimentos/reales/prod-00501.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00343": {
+    "imagen": "imagenesmedimentos/reales/prod-00343.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00500": {
+    "imagen": "imagenesmedimentos/reales/prod-00500.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00786": {
+    "imagen": "imagenesmedimentos/reales/prod-00786.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00472": {
+    "imagen": "imagenesmedimentos/reales/prod-00472.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00473": {
+    "imagen": "imagenesmedimentos/reales/prod-00473.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00174": {
+    "imagen": "imagenesmedimentos/reales/prod-00174.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00175": {
+    "imagen": "imagenesmedimentos/reales/prod-00175.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00102": {
+    "imagen": "imagenesmedimentos/reales/prod-00102.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00044": {
+    "imagen": "imagenesmedimentos/reales/prod-00044.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00474": {
+    "imagen": "imagenesmedimentos/reales/prod-00474.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00885": {
+    "imagen": "imagenesmedimentos/reales/prod-00885.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00212": {
+    "imagen": "imagenesmedimentos/reales/prod-00212.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00298": {
+    "imagen": "imagenesmedimentos/reales/prod-00298.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00396": {
+    "imagen": "imagenesmedimentos/reales/prod-00396.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00397": {
+    "imagen": "imagenesmedimentos/reales/prod-00397.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00398": {
+    "imagen": "imagenesmedimentos/reales/prod-00398.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00399": {
+    "imagen": "imagenesmedimentos/reales/prod-00399.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00658": {
+    "imagen": "imagenesmedimentos/reales/prod-00658.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00656": {
+    "imagen": "imagenesmedimentos/reales/prod-00656.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00479": {
+    "imagen": "imagenesmedimentos/reales/prod-00479.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00482": {
+    "imagen": "imagenesmedimentos/reales/prod-00482.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00416": {
+    "imagen": "imagenesmedimentos/reales/prod-00416.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00418": {
+    "imagen": "imagenesmedimentos/reales/prod-00418.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00488": {
+    "imagen": "imagenesmedimentos/reales/prod-00488.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00489": {
+    "imagen": "imagenesmedimentos/reales/prod-00489.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00346": {
+    "imagen": "imagenesmedimentos/reales/prod-00346.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00335": {
+    "imagen": "imagenesmedimentos/reales/prod-00335.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00330": {
+    "imagen": "imagenesmedimentos/reales/prod-00330.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00802": {
+    "imagen": "imagenesmedimentos/reales/prod-00802.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00566": {
+    "imagen": "imagenesmedimentos/reales/prod-00566.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00536": {
+    "imagen": "imagenesmedimentos/reales/prod-00536.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00537": {
+    "imagen": "imagenesmedimentos/reales/prod-00537.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00596": {
+    "imagen": "imagenesmedimentos/reales/prod-00596.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00598": {
+    "imagen": "imagenesmedimentos/reales/prod-00598.png",
+    "modo": "RGBA",
+    "pct_transparente": 37.79,
+    "transparente": true
+  },
+  "prod-00349": {
+    "imagen": "imagenesmedimentos/reales/prod-00349.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00694": {
+    "imagen": "imagenesmedimentos/reales/prod-00694.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00170": {
+    "imagen": "imagenesmedimentos/reales/prod-00170.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00476": {
+    "imagen": "imagenesmedimentos/reales/prod-00476.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00651": {
+    "imagen": "imagenesmedimentos/reales/prod-00651.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00345": {
+    "imagen": "imagenesmedimentos/reales/prod-00345.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00338": {
+    "imagen": "imagenesmedimentos/reales/prod-00338.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00336": {
+    "imagen": "imagenesmedimentos/reales/prod-00336.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00652": {
+    "imagen": "imagenesmedimentos/reales/prod-00652.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00347": {
+    "imagen": "imagenesmedimentos/reales/prod-00347.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00789": {
+    "imagen": "imagenesmedimentos/reales/prod-00789.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00555": {
+    "imagen": "imagenesmedimentos/reales/prod-00555.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00495": {
+    "imagen": "imagenesmedimentos/reales/prod-00495.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00230": {
+    "imagen": "imagenesmedimentos/reales/prod-00230.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00875": {
+    "imagen": "imagenesmedimentos/reales/prod-00875.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00187": {
+    "imagen": "imagenesmedimentos/reales/prod-00187.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00185": {
+    "imagen": "imagenesmedimentos/reales/prod-00185.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00184": {
+    "imagen": "imagenesmedimentos/reales/prod-00184.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00181": {
+    "imagen": "imagenesmedimentos/reales/prod-00181.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00183": {
+    "imagen": "imagenesmedimentos/reales/prod-00183.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00161": {
+    "imagen": "imagenesmedimentos/reales/prod-00161.png",
+    "modo": "RGBA",
+    "pct_transparente": 38.18,
+    "transparente": true
+  },
+  "prod-00615": {
+    "imagen": "imagenesmedimentos/reales/prod-00615.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00362": {
+    "imagen": "imagenesmedimentos/reales/prod-00362.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00696": {
+    "imagen": "imagenesmedimentos/reales/prod-00696.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00235": {
+    "imagen": "imagenesmedimentos/reales/prod-00235.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00092": {
+    "imagen": "imagenesmedimentos/reales/prod-00092.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00096": {
+    "imagen": "imagenesmedimentos/reales/prod-00096.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00573": {
+    "imagen": "imagenesmedimentos/reales/prod-00573.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00572": {
+    "imagen": "imagenesmedimentos/reales/prod-00572.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00867": {
+    "imagen": "imagenesmedimentos/reales/prod-00867.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00176": {
+    "imagen": "imagenesmedimentos/reales/prod-00176.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00791": {
+    "imagen": "imagenesmedimentos/reales/prod-00791.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00783": {
+    "imagen": "imagenesmedimentos/reales/prod-00783.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00772": {
+    "imagen": "imagenesmedimentos/reales/prod-00772.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00348": {
+    "imagen": "imagenesmedimentos/reales/prod-00348.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00556": {
+    "imagen": "imagenesmedimentos/reales/prod-00556.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00236": {
+    "imagen": "imagenesmedimentos/reales/prod-00236.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00498": {
+    "imagen": "imagenesmedimentos/reales/prod-00498.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00193": {
+    "imagen": "imagenesmedimentos/reales/prod-00193.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00650": {
+    "imagen": "imagenesmedimentos/reales/prod-00650.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00265": {
+    "imagen": "imagenesmedimentos/reales/prod-00265.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00551": {
+    "imagen": "imagenesmedimentos/reales/prod-00551.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00464": {
+    "imagen": "imagenesmedimentos/reales/prod-00464.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00465": {
+    "imagen": "imagenesmedimentos/reales/prod-00465.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00467": {
+    "imagen": "imagenesmedimentos/reales/prod-00467.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00243": {
+    "imagen": "imagenesmedimentos/reales/prod-00243.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00858": {
+    "imagen": "imagenesmedimentos/reales/prod-00858.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00052": {
+    "imagen": "imagenesmedimentos/reales/prod-00052.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00073": {
+    "imagen": "imagenesmedimentos/reales/prod-00073.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00704": {
+    "imagen": "imagenesmedimentos/reales/prod-00704.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00697": {
+    "imagen": "imagenesmedimentos/reales/prod-00697.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00470": {
+    "imagen": "imagenesmedimentos/reales/prod-00470.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00268": {
+    "imagen": "imagenesmedimentos/reales/prod-00268.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00534": {
+    "imagen": "imagenesmedimentos/reales/prod-00534.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00206": {
+    "imagen": "imagenesmedimentos/reales/prod-00206.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00430": {
+    "imagen": "imagenesmedimentos/reales/prod-00430.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00431": {
+    "imagen": "imagenesmedimentos/reales/prod-00431.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00001": {
+    "imagen": "imagenesmedimentos/reales/prod-00001.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00123": {
+    "imagen": "imagenesmedimentos/reales/prod-00123.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00071": {
+    "imagen": "imagenesmedimentos/reales/prod-00071.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00415": {
+    "imagen": "imagenesmedimentos/reales/prod-00415.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00237": {
+    "imagen": "imagenesmedimentos/reales/prod-00237.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00081": {
+    "imagen": "imagenesmedimentos/reales/prod-00081.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00412": {
+    "imagen": "imagenesmedimentos/reales/prod-00412.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00413": {
+    "imagen": "imagenesmedimentos/reales/prod-00413.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00414": {
+    "imagen": "imagenesmedimentos/reales/prod-00414.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00378": {
+    "imagen": "imagenesmedimentos/reales/prod-00378.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00143": {
+    "imagen": "imagenesmedimentos/reales/prod-00143.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00775": {
+    "imagen": "imagenesmedimentos/reales/prod-00775.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00507": {
+    "imagen": "imagenesmedimentos/reales/prod-00507.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00520": {
+    "imagen": "imagenesmedimentos/reales/prod-00520.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00688": {
+    "imagen": "imagenesmedimentos/reales/prod-00688.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00256": {
+    "imagen": "imagenesmedimentos/reales/prod-00256.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00070": {
+    "imagen": "imagenesmedimentos/reales/prod-00070.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00886": {
+    "imagen": "imagenesmedimentos/reales/prod-00886.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00887": {
+    "imagen": "imagenesmedimentos/reales/prod-00887.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00478": {
+    "imagen": "imagenesmedimentos/reales/prod-00478.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00477": {
+    "imagen": "imagenesmedimentos/reales/prod-00477.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00021": {
+    "imagen": "imagenesmedimentos/reales/prod-00021.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00833": {
+    "imagen": "imagenesmedimentos/reales/prod-00833.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00632": {
+    "imagen": "imagenesmedimentos/reales/prod-00632.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00894": {
+    "imagen": "imagenesmedimentos/reales/prod-00894.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00251": {
+    "imagen": "imagenesmedimentos/reales/prod-00251.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00056": {
+    "imagen": "imagenesmedimentos/reales/prod-00056.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00424": {
+    "imagen": "imagenesmedimentos/reales/prod-00424.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00407": {
+    "imagen": "imagenesmedimentos/reales/prod-00407.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00903": {
+    "imagen": "imagenesmedimentos/reales/prod-00903.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00282": {
+    "imagen": "imagenesmedimentos/reales/prod-00282.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00856": {
+    "imagen": "imagenesmedimentos/reales/prod-00856.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00079": {
+    "imagen": "imagenesmedimentos/reales/prod-00079.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00810": {
+    "imagen": "imagenesmedimentos/reales/prod-00810.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00811": {
+    "imagen": "imagenesmedimentos/reales/prod-00811.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00445": {
+    "imagen": "imagenesmedimentos/reales/prod-00445.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00471": {
+    "imagen": "imagenesmedimentos/reales/prod-00471.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00068": {
+    "imagen": "imagenesmedimentos/reales/prod-00068.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00318": {
+    "imagen": "imagenesmedimentos/reales/prod-00318.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00111": {
+    "imagen": "imagenesmedimentos/reales/prod-00111.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00549": {
+    "imagen": "imagenesmedimentos/reales/prod-00549.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00509": {
+    "imagen": "imagenesmedimentos/reales/prod-00509.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00426": {
+    "imagen": "imagenesmedimentos/reales/prod-00426.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00589": {
+    "imagen": "imagenesmedimentos/reales/prod-00589.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00273": {
+    "imagen": "imagenesmedimentos/reales/prod-00273.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00150": {
+    "imagen": "imagenesmedimentos/reales/prod-00150.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00151": {
+    "imagen": "imagenesmedimentos/reales/prod-00151.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00297": {
+    "imagen": "imagenesmedimentos/reales/prod-00297.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00569": {
+    "imagen": "imagenesmedimentos/reales/prod-00569.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00675": {
+    "imagen": "imagenesmedimentos/reales/prod-00675.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00836": {
+    "imagen": "imagenesmedimentos/reales/prod-00836.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00191": {
+    "imagen": "imagenesmedimentos/reales/prod-00191.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00328": {
+    "imagen": "imagenesmedimentos/reales/prod-00328.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00893": {
+    "imagen": "imagenesmedimentos/reales/prod-00893.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00613": {
+    "imagen": "imagenesmedimentos/reales/prod-00613.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00666": {
+    "imagen": "imagenesmedimentos/reales/prod-00666.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00593": {
+    "imagen": "imagenesmedimentos/reales/prod-00593.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00272": {
+    "imagen": "imagenesmedimentos/reales/prod-00272.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00720": {
+    "imagen": "imagenesmedimentos/reales/prod-00720.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00289": {
+    "imagen": "imagenesmedimentos/reales/prod-00289.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00291": {
+    "imagen": "imagenesmedimentos/reales/prod-00291.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00759": {
+    "imagen": "imagenesmedimentos/reales/prod-00759.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00820": {
+    "imagen": "imagenesmedimentos/reales/prod-00820.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00144": {
+    "imagen": "imagenesmedimentos/reales/prod-00144.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00278": {
+    "imagen": "imagenesmedimentos/reales/prod-00278.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00529": {
+    "imagen": "imagenesmedimentos/reales/prod-00529.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00733": {
+    "imagen": "imagenesmedimentos/reales/prod-00733.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00324": {
+    "imagen": "imagenesmedimentos/reales/prod-00324.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00315": {
+    "imagen": "imagenesmedimentos/reales/prod-00315.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00227": {
+    "imagen": "imagenesmedimentos/reales/prod-00227.webp",
+    "modo": "RGBA",
+    "pct_transparente": 65.3,
+    "transparente": true
+  },
+  "prod-00307": {
+    "imagen": "imagenesmedimentos/reales/prod-00307.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00197": {
+    "imagen": "imagenesmedimentos/reales/prod-00197.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00198": {
+    "imagen": "imagenesmedimentos/reales/prod-00198.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00196": {
+    "imagen": "imagenesmedimentos/reales/prod-00196.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00097": {
+    "imagen": "imagenesmedimentos/reales/prod-00097.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00379": {
+    "imagen": "imagenesmedimentos/reales/prod-00379.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00435": {
+    "imagen": "imagenesmedimentos/reales/prod-00435.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00522": {
+    "imagen": "imagenesmedimentos/reales/prod-00522.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00005": {
+    "imagen": "imagenesmedimentos/reales/prod-00005.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00319": {
+    "imagen": "imagenesmedimentos/reales/prod-00319.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00086": {
+    "imagen": "imagenesmedimentos/reales/prod-00086.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00204": {
+    "imagen": "imagenesmedimentos/reales/prod-00204.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00606": {
+    "imagen": "imagenesmedimentos/reales/prod-00606.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00223": {
+    "imagen": "imagenesmedimentos/reales/prod-00223.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00504": {
+    "imagen": "imagenesmedimentos/reales/prod-00504.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00545": {
+    "imagen": "imagenesmedimentos/reales/prod-00545.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00546": {
+    "imagen": "imagenesmedimentos/reales/prod-00546.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00548": {
+    "imagen": "imagenesmedimentos/reales/prod-00548.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00547": {
+    "imagen": "imagenesmedimentos/reales/prod-00547.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00506": {
+    "imagen": "imagenesmedimentos/reales/prod-00506.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00505": {
+    "imagen": "imagenesmedimentos/reales/prod-00505.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00425": {
+    "imagen": "imagenesmedimentos/reales/prod-00425.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00484": {
+    "imagen": "imagenesmedimentos/reales/prod-00484.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00633": {
+    "imagen": "imagenesmedimentos/reales/prod-00633.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00304": {
+    "imagen": "imagenesmedimentos/reales/prod-00304.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00308": {
+    "imagen": "imagenesmedimentos/reales/prod-00308.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00442": {
+    "imagen": "imagenesmedimentos/reales/prod-00442.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00502": {
+    "imagen": "imagenesmedimentos/reales/prod-00502.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00503": {
+    "imagen": "imagenesmedimentos/reales/prod-00503.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00540": {
+    "imagen": "imagenesmedimentos/reales/prod-00540.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00541": {
+    "imagen": "imagenesmedimentos/reales/prod-00541.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00693": {
+    "imagen": "imagenesmedimentos/reales/prod-00693.png",
+    "modo": "P",
+    "pct_transparente": 70.64,
+    "transparente": true
+  },
+  "prod-00845": {
+    "imagen": "imagenesmedimentos/reales/prod-00845.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00083": {
+    "imagen": "imagenesmedimentos/reales/prod-00083.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00438": {
+    "imagen": "imagenesmedimentos/reales/prod-00438.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00437": {
+    "imagen": "imagenesmedimentos/reales/prod-00437.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00436": {
+    "imagen": "imagenesmedimentos/reales/prod-00436.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00607": {
+    "imagen": "imagenesmedimentos/reales/prod-00607.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00321": {
+    "imagen": "imagenesmedimentos/reales/prod-00321.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00287": {
+    "imagen": "imagenesmedimentos/reales/prod-00287.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00618": {
+    "imagen": "imagenesmedimentos/reales/prod-00618.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00747": {
+    "imagen": "imagenesmedimentos/reales/prod-00747.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00620": {
+    "imagen": "imagenesmedimentos/reales/prod-00620.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00559": {
+    "imagen": "imagenesmedimentos/reales/prod-00559.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00558": {
+    "imagen": "imagenesmedimentos/reales/prod-00558.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00320": {
+    "imagen": "imagenesmedimentos/reales/prod-00320.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00427": {
+    "imagen": "imagenesmedimentos/reales/prod-00427.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00513": {
+    "imagen": "imagenesmedimentos/reales/prod-00513.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00222": {
+    "imagen": "imagenesmedimentos/reales/prod-00222.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00286": {
+    "imagen": "imagenesmedimentos/reales/prod-00286.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00499": {
+    "imagen": "imagenesmedimentos/reales/prod-00499.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00443": {
+    "imagen": "imagenesmedimentos/reales/prod-00443.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00673": {
+    "imagen": "imagenesmedimentos/reales/prod-00673.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00049": {
+    "imagen": "imagenesmedimentos/reales/prod-00049.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00796": {
+    "imagen": "imagenesmedimentos/reales/prod-00796.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00795": {
+    "imagen": "imagenesmedimentos/reales/prod-00795.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00130": {
+    "imagen": "imagenesmedimentos/reales/prod-00130.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00866": {
+    "imagen": "imagenesmedimentos/reales/prod-00866.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00717": {
+    "imagen": "imagenesmedimentos/reales/prod-00717.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00325": {
+    "imagen": "imagenesmedimentos/reales/prod-00325.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00710": {
+    "imagen": "imagenesmedimentos/reales/prod-00710.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00353": {
+    "imagen": "imagenesmedimentos/reales/prod-00353.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00354": {
+    "imagen": "imagenesmedimentos/reales/prod-00354.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00895": {
+    "imagen": "imagenesmedimentos/reales/prod-00895.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00301": {
+    "imagen": "imagenesmedimentos/reales/prod-00301.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00004": {
+    "imagen": "imagenesmedimentos/reales/prod-00004.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00312": {
+    "imagen": "imagenesmedimentos/reales/prod-00312.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00403": {
+    "imagen": "imagenesmedimentos/reales/prod-00403.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00404": {
+    "imagen": "imagenesmedimentos/reales/prod-00404.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00405": {
+    "imagen": "imagenesmedimentos/reales/prod-00405.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00400": {
+    "imagen": "imagenesmedimentos/reales/prod-00400.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00402": {
+    "imagen": "imagenesmedimentos/reales/prod-00402.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00401": {
+    "imagen": "imagenesmedimentos/reales/prod-00401.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00460": {
+    "imagen": "imagenesmedimentos/reales/prod-00460.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00392": {
+    "imagen": "imagenesmedimentos/reales/prod-00392.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00712": {
+    "imagen": "imagenesmedimentos/reales/prod-00712.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00601": {
+    "imagen": "imagenesmedimentos/reales/prod-00601.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00600": {
+    "imagen": "imagenesmedimentos/reales/prod-00600.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00390": {
+    "imagen": "imagenesmedimentos/reales/prod-00390.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00391": {
+    "imagen": "imagenesmedimentos/reales/prod-00391.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00202": {
+    "imagen": "imagenesmedimentos/reales/prod-00202.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00106": {
+    "imagen": "imagenesmedimentos/reales/prod-00106.png",
+    "modo": "RGBA",
+    "pct_transparente": 77.55,
+    "transparente": true
+  },
+  "prod-00105": {
+    "imagen": "imagenesmedimentos/reales/prod-00105.png",
+    "modo": "RGBA",
+    "pct_transparente": 77.55,
+    "transparente": true
+  },
+  "prod-00731": {
+    "imagen": "imagenesmedimentos/reales/prod-00731.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00524": {
+    "imagen": "imagenesmedimentos/reales/prod-00524.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00525": {
+    "imagen": "imagenesmedimentos/reales/prod-00525.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00609": {
+    "imagen": "imagenesmedimentos/reales/prod-00609.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00107": {
+    "imagen": "imagenesmedimentos/reales/prod-00107.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00108": {
+    "imagen": "imagenesmedimentos/reales/prod-00108.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00751": {
+    "imagen": "imagenesmedimentos/reales/prod-00751.png",
+    "modo": "RGBA",
+    "pct_transparente": 69.32,
+    "transparente": true
+  },
+  "prod-00755": {
+    "imagen": "imagenesmedimentos/reales/prod-00755.png",
+    "modo": "RGBA",
+    "pct_transparente": 36.32,
+    "transparente": true
+  },
+  "prod-00450": {
+    "imagen": "imagenesmedimentos/reales/prod-00450.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00753": {
+    "imagen": "imagenesmedimentos/reales/prod-00753.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00752": {
+    "imagen": "imagenesmedimentos/reales/prod-00752.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00774": {
+    "imagen": "imagenesmedimentos/reales/prod-00774.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00790": {
+    "imagen": "imagenesmedimentos/reales/prod-00790.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00888": {
+    "imagen": "imagenesmedimentos/reales/prod-00888.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00428": {
+    "imagen": "imagenesmedimentos/reales/prod-00428.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00564": {
+    "imagen": "imagenesmedimentos/reales/prod-00564.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00605": {
+    "imagen": "imagenesmedimentos/reales/prod-00605.png",
+    "modo": "RGBA",
+    "pct_transparente": 52.83,
+    "transparente": true
+  },
+  "prod-00177": {
+    "imagen": "imagenesmedimentos/reales/prod-00177.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00313": {
+    "imagen": "imagenesmedimentos/reales/prod-00313.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00583": {
+    "imagen": "imagenesmedimentos/reales/prod-00583.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00689": {
+    "imagen": "imagenesmedimentos/reales/prod-00689.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00228": {
+    "imagen": "imagenesmedimentos/reales/prod-00228.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00229": {
+    "imagen": "imagenesmedimentos/reales/prod-00229.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00314": {
+    "imagen": "imagenesmedimentos/reales/prod-00314.png",
+    "modo": "P",
+    "pct_transparente": 73.11,
+    "transparente": true
+  },
+  "prod-00715": {
+    "imagen": "imagenesmedimentos/reales/prod-00715.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00550": {
+    "imagen": "imagenesmedimentos/reales/prod-00550.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00792": {
+    "imagen": "imagenesmedimentos/reales/prod-00792.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00179": {
+    "imagen": "imagenesmedimentos/reales/prod-00179.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00646": {
+    "imagen": "imagenesmedimentos/reales/prod-00646.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00311": {
+    "imagen": "imagenesmedimentos/reales/prod-00311.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00457": {
+    "imagen": "imagenesmedimentos/reales/prod-00457.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00326": {
+    "imagen": "imagenesmedimentos/reales/prod-00326.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00420": {
+    "imagen": "imagenesmedimentos/reales/prod-00420.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00452": {
+    "imagen": "imagenesmedimentos/reales/prod-00452.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00777": {
+    "imagen": "imagenesmedimentos/reales/prod-00777.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00767": {
+    "imagen": "imagenesmedimentos/reales/prod-00767.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00768": {
+    "imagen": "imagenesmedimentos/reales/prod-00768.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00766": {
+    "imagen": "imagenesmedimentos/reales/prod-00766.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00769": {
+    "imagen": "imagenesmedimentos/reales/prod-00769.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00770": {
+    "imagen": "imagenesmedimentos/reales/prod-00770.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00780": {
+    "imagen": "imagenesmedimentos/reales/prod-00780.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00779": {
+    "imagen": "imagenesmedimentos/reales/prod-00779.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00778": {
+    "imagen": "imagenesmedimentos/reales/prod-00778.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00762": {
+    "imagen": "imagenesmedimentos/reales/prod-00762.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00764": {
+    "imagen": "imagenesmedimentos/reales/prod-00764.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00761": {
+    "imagen": "imagenesmedimentos/reales/prod-00761.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00758": {
+    "imagen": "imagenesmedimentos/reales/prod-00758.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00785": {
+    "imagen": "imagenesmedimentos/reales/prod-00785.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00567": {
+    "imagen": "imagenesmedimentos/reales/prod-00567.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00568": {
+    "imagen": "imagenesmedimentos/reales/prod-00568.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00863": {
+    "imagen": "imagenesmedimentos/reales/prod-00863.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00670": {
+    "imagen": "imagenesmedimentos/reales/prod-00670.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00874": {
+    "imagen": "imagenesmedimentos/reales/prod-00874.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00371": {
+    "imagen": "imagenesmedimentos/reales/prod-00371.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00372": {
+    "imagen": "imagenesmedimentos/reales/prod-00372.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00373": {
+    "imagen": "imagenesmedimentos/reales/prod-00373.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00374": {
+    "imagen": "imagenesmedimentos/reales/prod-00374.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00380": {
+    "imagen": "imagenesmedimentos/reales/prod-00380.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00219": {
+    "imagen": "imagenesmedimentos/reales/prod-00219.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00218": {
+    "imagen": "imagenesmedimentos/reales/prod-00218.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00067": {
+    "imagen": "imagenesmedimentos/reales/prod-00067.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00749": {
+    "imagen": "imagenesmedimentos/reales/prod-00749.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00149": {
+    "imagen": "imagenesmedimentos/reales/prod-00149.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00153": {
+    "imagen": "imagenesmedimentos/reales/prod-00153.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00154": {
+    "imagen": "imagenesmedimentos/reales/prod-00154.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00208": {
+    "imagen": "imagenesmedimentos/reales/prod-00208.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00852": {
+    "imagen": "imagenesmedimentos/reales/prod-00852.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00851": {
+    "imagen": "imagenesmedimentos/reales/prod-00851.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00691": {
+    "imagen": "imagenesmedimentos/reales/prod-00691.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00687": {
+    "imagen": "imagenesmedimentos/reales/prod-00687.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00444": {
+    "imagen": "imagenesmedimentos/reales/prod-00444.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00901": {
+    "imagen": "imagenesmedimentos/reales/prod-00901.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00900": {
+    "imagen": "imagenesmedimentos/reales/prod-00900.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00899": {
+    "imagen": "imagenesmedimentos/reales/prod-00899.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00898": {
+    "imagen": "imagenesmedimentos/reales/prod-00898.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00897": {
+    "imagen": "imagenesmedimentos/reales/prod-00897.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00889": {
+    "imagen": "imagenesmedimentos/reales/prod-00889.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00877": {
+    "imagen": "imagenesmedimentos/reales/prod-00877.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00876": {
+    "imagen": "imagenesmedimentos/reales/prod-00876.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00873": {
+    "imagen": "imagenesmedimentos/reales/prod-00873.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00865": {
+    "imagen": "imagenesmedimentos/reales/prod-00865.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00864": {
+    "imagen": "imagenesmedimentos/reales/prod-00864.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00859": {
+    "imagen": "imagenesmedimentos/reales/prod-00859.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00857": {
+    "imagen": "imagenesmedimentos/reales/prod-00857.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00855": {
+    "imagen": "imagenesmedimentos/reales/prod-00855.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00854": {
+    "imagen": "imagenesmedimentos/reales/prod-00854.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00853": {
+    "imagen": "imagenesmedimentos/reales/prod-00853.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00850": {
+    "imagen": "imagenesmedimentos/reales/prod-00850.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00849": {
+    "imagen": "imagenesmedimentos/reales/prod-00849.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00848": {
+    "imagen": "imagenesmedimentos/reales/prod-00848.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00844": {
+    "imagen": "imagenesmedimentos/reales/prod-00844.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00843": {
+    "imagen": "imagenesmedimentos/reales/prod-00843.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00842": {
+    "imagen": "imagenesmedimentos/reales/prod-00842.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00840": {
+    "imagen": "imagenesmedimentos/reales/prod-00840.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00839": {
+    "imagen": "imagenesmedimentos/reales/prod-00839.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00838": {
+    "imagen": "imagenesmedimentos/reales/prod-00838.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00837": {
+    "imagen": "imagenesmedimentos/reales/prod-00837.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00835": {
+    "imagen": "imagenesmedimentos/reales/prod-00835.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00834": {
+    "imagen": "imagenesmedimentos/reales/prod-00834.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00832": {
+    "imagen": "imagenesmedimentos/reales/prod-00832.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00831": {
+    "imagen": "imagenesmedimentos/reales/prod-00831.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00830": {
+    "imagen": "imagenesmedimentos/reales/prod-00830.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00829": {
+    "imagen": "imagenesmedimentos/reales/prod-00829.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00828": {
+    "imagen": "imagenesmedimentos/reales/prod-00828.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00827": {
+    "imagen": "imagenesmedimentos/reales/prod-00827.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00826": {
+    "imagen": "imagenesmedimentos/reales/prod-00826.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00825": {
+    "imagen": "imagenesmedimentos/reales/prod-00825.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00822": {
+    "imagen": "imagenesmedimentos/reales/prod-00822.png",
+    "modo": "P",
+    "pct_transparente": 39.1,
+    "transparente": true
+  },
+  "prod-00819": {
+    "imagen": "imagenesmedimentos/reales/prod-00819.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00818": {
+    "imagen": "imagenesmedimentos/reales/prod-00818.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00816": {
+    "imagen": "imagenesmedimentos/reales/prod-00816.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00808": {
+    "imagen": "imagenesmedimentos/reales/prod-00808.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00807": {
+    "imagen": "imagenesmedimentos/reales/prod-00807.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00806": {
+    "imagen": "imagenesmedimentos/reales/prod-00806.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00803": {
+    "imagen": "imagenesmedimentos/reales/prod-00803.jpg",
+    "modo": "P",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00799": {
+    "imagen": "imagenesmedimentos/reales/prod-00799.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00787": {
+    "imagen": "imagenesmedimentos/reales/prod-00787.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00784": {
+    "imagen": "imagenesmedimentos/reales/prod-00784.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00781": {
+    "imagen": "imagenesmedimentos/reales/prod-00781.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00776": {
+    "imagen": "imagenesmedimentos/reales/prod-00776.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00773": {
+    "imagen": "imagenesmedimentos/reales/prod-00773.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00771": {
+    "imagen": "imagenesmedimentos/reales/prod-00771.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00760": {
+    "imagen": "imagenesmedimentos/reales/prod-00760.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00754": {
+    "imagen": "imagenesmedimentos/reales/prod-00754.png",
+    "modo": "P",
+    "pct_transparente": 39.84,
+    "transparente": true
+  },
+  "prod-00745": {
+    "imagen": "imagenesmedimentos/reales/prod-00745.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00744": {
+    "imagen": "imagenesmedimentos/reales/prod-00744.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00743": {
+    "imagen": "imagenesmedimentos/reales/prod-00743.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00742": {
+    "imagen": "imagenesmedimentos/reales/prod-00742.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00741": {
+    "imagen": "imagenesmedimentos/reales/prod-00741.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00739": {
+    "imagen": "imagenesmedimentos/reales/prod-00739.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00738": {
+    "imagen": "imagenesmedimentos/reales/prod-00738.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00737": {
+    "imagen": "imagenesmedimentos/reales/prod-00737.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00736": {
+    "imagen": "imagenesmedimentos/reales/prod-00736.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00734": {
+    "imagen": "imagenesmedimentos/reales/prod-00734.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00732": {
+    "imagen": "imagenesmedimentos/reales/prod-00732.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00730": {
+    "imagen": "imagenesmedimentos/reales/prod-00730.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00728": {
+    "imagen": "imagenesmedimentos/reales/prod-00728.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00727": {
+    "imagen": "imagenesmedimentos/reales/prod-00727.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00726": {
+    "imagen": "imagenesmedimentos/reales/prod-00726.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00725": {
+    "imagen": "imagenesmedimentos/reales/prod-00725.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00724": {
+    "imagen": "imagenesmedimentos/reales/prod-00724.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00721": {
+    "imagen": "imagenesmedimentos/reales/prod-00721.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00719": {
+    "imagen": "imagenesmedimentos/reales/prod-00719.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00718": {
+    "imagen": "imagenesmedimentos/reales/prod-00718.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00716": {
+    "imagen": "imagenesmedimentos/reales/prod-00716.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00714": {
+    "imagen": "imagenesmedimentos/reales/prod-00714.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00713": {
+    "imagen": "imagenesmedimentos/reales/prod-00713.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00711": {
+    "imagen": "imagenesmedimentos/reales/prod-00711.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00709": {
+    "imagen": "imagenesmedimentos/reales/prod-00709.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00708": {
+    "imagen": "imagenesmedimentos/reales/prod-00708.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00707": {
+    "imagen": "imagenesmedimentos/reales/prod-00707.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00706": {
+    "imagen": "imagenesmedimentos/reales/prod-00706.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00705": {
+    "imagen": "imagenesmedimentos/reales/prod-00705.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00703": {
+    "imagen": "imagenesmedimentos/reales/prod-00703.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00702": {
+    "imagen": "imagenesmedimentos/reales/prod-00702.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00701": {
+    "imagen": "imagenesmedimentos/reales/prod-00701.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00700": {
+    "imagen": "imagenesmedimentos/reales/prod-00700.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00699": {
+    "imagen": "imagenesmedimentos/reales/prod-00699.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00698": {
+    "imagen": "imagenesmedimentos/reales/prod-00698.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00695": {
+    "imagen": "imagenesmedimentos/reales/prod-00695.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00692": {
+    "imagen": "imagenesmedimentos/reales/prod-00692.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00690": {
+    "imagen": "imagenesmedimentos/reales/prod-00690.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00686": {
+    "imagen": "imagenesmedimentos/reales/prod-00686.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00685": {
+    "imagen": "imagenesmedimentos/reales/prod-00685.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00684": {
+    "imagen": "imagenesmedimentos/reales/prod-00684.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00683": {
+    "imagen": "imagenesmedimentos/reales/prod-00683.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00682": {
+    "imagen": "imagenesmedimentos/reales/prod-00682.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00681": {
+    "imagen": "imagenesmedimentos/reales/prod-00681.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00680": {
+    "imagen": "imagenesmedimentos/reales/prod-00680.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00679": {
+    "imagen": "imagenesmedimentos/reales/prod-00679.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00678": {
+    "imagen": "imagenesmedimentos/reales/prod-00678.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00677": {
+    "imagen": "imagenesmedimentos/reales/prod-00677.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00676": {
+    "imagen": "imagenesmedimentos/reales/prod-00676.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00674": {
+    "imagen": "imagenesmedimentos/reales/prod-00674.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00672": {
+    "imagen": "imagenesmedimentos/reales/prod-00672.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00671": {
+    "imagen": "imagenesmedimentos/reales/prod-00671.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00669": {
+    "imagen": "imagenesmedimentos/reales/prod-00669.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00668": {
+    "imagen": "imagenesmedimentos/reales/prod-00668.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00667": {
+    "imagen": "imagenesmedimentos/reales/prod-00667.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00665": {
+    "imagen": "imagenesmedimentos/reales/prod-00665.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00664": {
+    "imagen": "imagenesmedimentos/reales/prod-00664.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00663": {
+    "imagen": "imagenesmedimentos/reales/prod-00663.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00662": {
+    "imagen": "imagenesmedimentos/reales/prod-00662.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00661": {
+    "imagen": "imagenesmedimentos/reales/prod-00661.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00660": {
+    "imagen": "imagenesmedimentos/reales/prod-00660.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00659": {
+    "imagen": "imagenesmedimentos/reales/prod-00659.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00655": {
+    "imagen": "imagenesmedimentos/reales/prod-00655.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00654": {
+    "imagen": "imagenesmedimentos/reales/prod-00654.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00653": {
+    "imagen": "imagenesmedimentos/reales/prod-00653.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00649": {
+    "imagen": "imagenesmedimentos/reales/prod-00649.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00648": {
+    "imagen": "imagenesmedimentos/reales/prod-00648.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00645": {
+    "imagen": "imagenesmedimentos/reales/prod-00645.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00644": {
+    "imagen": "imagenesmedimentos/reales/prod-00644.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00643": {
+    "imagen": "imagenesmedimentos/reales/prod-00643.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00642": {
+    "imagen": "imagenesmedimentos/reales/prod-00642.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00641": {
+    "imagen": "imagenesmedimentos/reales/prod-00641.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00639": {
+    "imagen": "imagenesmedimentos/reales/prod-00639.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00638": {
+    "imagen": "imagenesmedimentos/reales/prod-00638.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00637": {
+    "imagen": "imagenesmedimentos/reales/prod-00637.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00636": {
+    "imagen": "imagenesmedimentos/reales/prod-00636.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00634": {
+    "imagen": "imagenesmedimentos/reales/prod-00634.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00631": {
+    "imagen": "imagenesmedimentos/reales/prod-00631.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00630": {
+    "imagen": "imagenesmedimentos/reales/prod-00630.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00629": {
+    "imagen": "imagenesmedimentos/reales/prod-00629.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00628": {
+    "imagen": "imagenesmedimentos/reales/prod-00628.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00627": {
+    "imagen": "imagenesmedimentos/reales/prod-00627.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00626": {
+    "imagen": "imagenesmedimentos/reales/prod-00626.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00625": {
+    "imagen": "imagenesmedimentos/reales/prod-00625.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00614": {
+    "imagen": "imagenesmedimentos/reales/prod-00614.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00612": {
+    "imagen": "imagenesmedimentos/reales/prod-00612.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00608": {
+    "imagen": "imagenesmedimentos/reales/prod-00608.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00604": {
+    "imagen": "imagenesmedimentos/reales/prod-00604.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00602": {
+    "imagen": "imagenesmedimentos/reales/prod-00602.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00594": {
+    "imagen": "imagenesmedimentos/reales/prod-00594.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00592": {
+    "imagen": "imagenesmedimentos/reales/prod-00592.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00590": {
+    "imagen": "imagenesmedimentos/reales/prod-00590.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00584": {
+    "imagen": "imagenesmedimentos/reales/prod-00584.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00582": {
+    "imagen": "imagenesmedimentos/reales/prod-00582.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00579": {
+    "imagen": "imagenesmedimentos/reales/prod-00579.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00576": {
+    "imagen": "imagenesmedimentos/reales/prod-00576.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00575": {
+    "imagen": "imagenesmedimentos/reales/prod-00575.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00570": {
+    "imagen": "imagenesmedimentos/reales/prod-00570.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00557": {
+    "imagen": "imagenesmedimentos/reales/prod-00557.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00553": {
+    "imagen": "imagenesmedimentos/reales/prod-00553.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00552": {
+    "imagen": "imagenesmedimentos/reales/prod-00552.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00544": {
+    "imagen": "imagenesmedimentos/reales/prod-00544.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00543": {
+    "imagen": "imagenesmedimentos/reales/prod-00543.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00542": {
+    "imagen": "imagenesmedimentos/reales/prod-00542.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00538": {
+    "imagen": "imagenesmedimentos/reales/prod-00538.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00535": {
+    "imagen": "imagenesmedimentos/reales/prod-00535.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00532": {
+    "imagen": "imagenesmedimentos/reales/prod-00532.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00531": {
+    "imagen": "imagenesmedimentos/reales/prod-00531.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00527": {
+    "imagen": "imagenesmedimentos/reales/prod-00527.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00512": {
+    "imagen": "imagenesmedimentos/reales/prod-00512.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00510": {
+    "imagen": "imagenesmedimentos/reales/prod-00510.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00508": {
+    "imagen": "imagenesmedimentos/reales/prod-00508.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00497": {
+    "imagen": "imagenesmedimentos/reales/prod-00497.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00487": {
+    "imagen": "imagenesmedimentos/reales/prod-00487.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00486": {
+    "imagen": "imagenesmedimentos/reales/prod-00486.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00485": {
+    "imagen": "imagenesmedimentos/reales/prod-00485.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00469": {
+    "imagen": "imagenesmedimentos/reales/prod-00469.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00468": {
+    "imagen": "imagenesmedimentos/reales/prod-00468.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00466": {
+    "imagen": "imagenesmedimentos/reales/prod-00466.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00461": {
+    "imagen": "imagenesmedimentos/reales/prod-00461.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00459": {
+    "imagen": "imagenesmedimentos/reales/prod-00459.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00458": {
+    "imagen": "imagenesmedimentos/reales/prod-00458.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00455": {
+    "imagen": "imagenesmedimentos/reales/prod-00455.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00453": {
+    "imagen": "imagenesmedimentos/reales/prod-00453.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00451": {
+    "imagen": "imagenesmedimentos/reales/prod-00451.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00449": {
+    "imagen": "imagenesmedimentos/reales/prod-00449.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00448": {
+    "imagen": "imagenesmedimentos/reales/prod-00448.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00441": {
+    "imagen": "imagenesmedimentos/reales/prod-00441.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00440": {
+    "imagen": "imagenesmedimentos/reales/prod-00440.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00439": {
+    "imagen": "imagenesmedimentos/reales/prod-00439.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00421": {
+    "imagen": "imagenesmedimentos/reales/prod-00421.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00419": {
+    "imagen": "imagenesmedimentos/reales/prod-00419.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00417": {
+    "imagen": "imagenesmedimentos/reales/prod-00417.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00410": {
+    "imagen": "imagenesmedimentos/reales/prod-00410.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00408": {
+    "imagen": "imagenesmedimentos/reales/prod-00408.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00393": {
+    "imagen": "imagenesmedimentos/reales/prod-00393.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00389": {
+    "imagen": "imagenesmedimentos/reales/prod-00389.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00388": {
+    "imagen": "imagenesmedimentos/reales/prod-00388.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00387": {
+    "imagen": "imagenesmedimentos/reales/prod-00387.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00386": {
+    "imagen": "imagenesmedimentos/reales/prod-00386.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00384": {
+    "imagen": "imagenesmedimentos/reales/prod-00384.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00375": {
+    "imagen": "imagenesmedimentos/reales/prod-00375.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00368": {
+    "imagen": "imagenesmedimentos/reales/prod-00368.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00365": {
+    "imagen": "imagenesmedimentos/reales/prod-00365.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00364": {
+    "imagen": "imagenesmedimentos/reales/prod-00364.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00355": {
+    "imagen": "imagenesmedimentos/reales/prod-00355.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00352": {
+    "imagen": "imagenesmedimentos/reales/prod-00352.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00350": {
+    "imagen": "imagenesmedimentos/reales/prod-00350.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00342": {
+    "imagen": "imagenesmedimentos/reales/prod-00342.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00341": {
+    "imagen": "imagenesmedimentos/reales/prod-00341.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00340": {
+    "imagen": "imagenesmedimentos/reales/prod-00340.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00334": {
+    "imagen": "imagenesmedimentos/reales/prod-00334.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00333": {
+    "imagen": "imagenesmedimentos/reales/prod-00333.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00331": {
+    "imagen": "imagenesmedimentos/reales/prod-00331.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00327": {
+    "imagen": "imagenesmedimentos/reales/prod-00327.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00323": {
+    "imagen": "imagenesmedimentos/reales/prod-00323.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00322": {
+    "imagen": "imagenesmedimentos/reales/prod-00322.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00317": {
+    "imagen": "imagenesmedimentos/reales/prod-00317.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00316": {
+    "imagen": "imagenesmedimentos/reales/prod-00316.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00310": {
+    "imagen": "imagenesmedimentos/reales/prod-00310.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00309": {
+    "imagen": "imagenesmedimentos/reales/prod-00309.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00306": {
+    "imagen": "imagenesmedimentos/reales/prod-00306.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00303": {
+    "imagen": "imagenesmedimentos/reales/prod-00303.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00302": {
+    "imagen": "imagenesmedimentos/reales/prod-00302.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00300": {
+    "imagen": "imagenesmedimentos/reales/prod-00300.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00299": {
+    "imagen": "imagenesmedimentos/reales/prod-00299.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00296": {
+    "imagen": "imagenesmedimentos/reales/prod-00296.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00294": {
+    "imagen": "imagenesmedimentos/reales/prod-00294.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00290": {
+    "imagen": "imagenesmedimentos/reales/prod-00290.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00288": {
+    "imagen": "imagenesmedimentos/reales/prod-00288.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00283": {
+    "imagen": "imagenesmedimentos/reales/prod-00283.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00281": {
+    "imagen": "imagenesmedimentos/reales/prod-00281.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00280": {
+    "imagen": "imagenesmedimentos/reales/prod-00280.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00279": {
+    "imagen": "imagenesmedimentos/reales/prod-00279.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00277": {
+    "imagen": "imagenesmedimentos/reales/prod-00277.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00276": {
+    "imagen": "imagenesmedimentos/reales/prod-00276.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00275": {
+    "imagen": "imagenesmedimentos/reales/prod-00275.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00274": {
+    "imagen": "imagenesmedimentos/reales/prod-00274.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00271": {
+    "imagen": "imagenesmedimentos/reales/prod-00271.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00270": {
+    "imagen": "imagenesmedimentos/reales/prod-00270.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00269": {
+    "imagen": "imagenesmedimentos/reales/prod-00269.png",
+    "modo": "RGBA",
+    "pct_transparente": 42.98,
+    "transparente": true
+  },
+  "prod-00266": {
+    "imagen": "imagenesmedimentos/reales/prod-00266.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00261": {
+    "imagen": "imagenesmedimentos/reales/prod-00261.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00260": {
+    "imagen": "imagenesmedimentos/reales/prod-00260.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00257": {
+    "imagen": "imagenesmedimentos/reales/prod-00257.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00255": {
+    "imagen": "imagenesmedimentos/reales/prod-00255.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00254": {
+    "imagen": "imagenesmedimentos/reales/prod-00254.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00252": {
+    "imagen": "imagenesmedimentos/reales/prod-00252.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00242": {
+    "imagen": "imagenesmedimentos/reales/prod-00242.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00241": {
+    "imagen": "imagenesmedimentos/reales/prod-00241.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00240": {
+    "imagen": "imagenesmedimentos/reales/prod-00240.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00239": {
+    "imagen": "imagenesmedimentos/reales/prod-00239.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00238": {
+    "imagen": "imagenesmedimentos/reales/prod-00238.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00234": {
+    "imagen": "imagenesmedimentos/reales/prod-00234.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00231": {
+    "imagen": "imagenesmedimentos/reales/prod-00231.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00226": {
+    "imagen": "imagenesmedimentos/reales/prod-00226.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00225": {
+    "imagen": "imagenesmedimentos/reales/prod-00225.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00224": {
+    "imagen": "imagenesmedimentos/reales/prod-00224.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00221": {
+    "imagen": "imagenesmedimentos/reales/prod-00221.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00220": {
+    "imagen": "imagenesmedimentos/reales/prod-00220.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00217": {
+    "imagen": "imagenesmedimentos/reales/prod-00217.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00216": {
+    "imagen": "imagenesmedimentos/reales/prod-00216.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00215": {
+    "imagen": "imagenesmedimentos/reales/prod-00215.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00214": {
+    "imagen": "imagenesmedimentos/reales/prod-00214.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00213": {
+    "imagen": "imagenesmedimentos/reales/prod-00213.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00211": {
+    "imagen": "imagenesmedimentos/reales/prod-00211.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00210": {
+    "imagen": "imagenesmedimentos/reales/prod-00210.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00209": {
+    "imagen": "imagenesmedimentos/reales/prod-00209.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00205": {
+    "imagen": "imagenesmedimentos/reales/prod-00205.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00201": {
+    "imagen": "imagenesmedimentos/reales/prod-00201.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00200": {
+    "imagen": "imagenesmedimentos/reales/prod-00200.png",
+    "modo": "RGBA",
+    "pct_transparente": 27.06,
+    "transparente": true
+  },
+  "prod-00199": {
+    "imagen": "imagenesmedimentos/reales/prod-00199.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00195": {
+    "imagen": "imagenesmedimentos/reales/prod-00195.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00194": {
+    "imagen": "imagenesmedimentos/reales/prod-00194.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00192": {
+    "imagen": "imagenesmedimentos/reales/prod-00192.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00190": {
+    "imagen": "imagenesmedimentos/reales/prod-00190.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00186": {
+    "imagen": "imagenesmedimentos/reales/prod-00186.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00178": {
+    "imagen": "imagenesmedimentos/reales/prod-00178.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00173": {
+    "imagen": "imagenesmedimentos/reales/prod-00173.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00172": {
+    "imagen": "imagenesmedimentos/reales/prod-00172.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00166": {
+    "imagen": "imagenesmedimentos/reales/prod-00166.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00164": {
+    "imagen": "imagenesmedimentos/reales/prod-00164.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00163": {
+    "imagen": "imagenesmedimentos/reales/prod-00163.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00162": {
+    "imagen": "imagenesmedimentos/reales/prod-00162.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00158": {
+    "imagen": "imagenesmedimentos/reales/prod-00158.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00157": {
+    "imagen": "imagenesmedimentos/reales/prod-00157.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00156": {
+    "imagen": "imagenesmedimentos/reales/prod-00156.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00155": {
+    "imagen": "imagenesmedimentos/reales/prod-00155.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00152": {
+    "imagen": "imagenesmedimentos/reales/prod-00152.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00146": {
+    "imagen": "imagenesmedimentos/reales/prod-00146.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00145": {
+    "imagen": "imagenesmedimentos/reales/prod-00145.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00142": {
+    "imagen": "imagenesmedimentos/reales/prod-00142.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00141": {
+    "imagen": "imagenesmedimentos/reales/prod-00141.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00140": {
+    "imagen": "imagenesmedimentos/reales/prod-00140.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00139": {
+    "imagen": "imagenesmedimentos/reales/prod-00139.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00138": {
+    "imagen": "imagenesmedimentos/reales/prod-00138.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00137": {
+    "imagen": "imagenesmedimentos/reales/prod-00137.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00136": {
+    "imagen": "imagenesmedimentos/reales/prod-00136.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00132": {
+    "imagen": "imagenesmedimentos/reales/prod-00132.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00131": {
+    "imagen": "imagenesmedimentos/reales/prod-00131.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00129": {
+    "imagen": "imagenesmedimentos/reales/prod-00129.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00125": {
+    "imagen": "imagenesmedimentos/reales/prod-00125.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00118": {
+    "imagen": "imagenesmedimentos/reales/prod-00118.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00117": {
+    "imagen": "imagenesmedimentos/reales/prod-00117.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00116": {
+    "imagen": "imagenesmedimentos/reales/prod-00116.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00115": {
+    "imagen": "imagenesmedimentos/reales/prod-00115.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00114": {
+    "imagen": "imagenesmedimentos/reales/prod-00114.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00113": {
+    "imagen": "imagenesmedimentos/reales/prod-00113.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00112": {
+    "imagen": "imagenesmedimentos/reales/prod-00112.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00109": {
+    "imagen": "imagenesmedimentos/reales/prod-00109.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00104": {
+    "imagen": "imagenesmedimentos/reales/prod-00104.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00103": {
+    "imagen": "imagenesmedimentos/reales/prod-00103.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00101": {
+    "imagen": "imagenesmedimentos/reales/prod-00101.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00099": {
+    "imagen": "imagenesmedimentos/reales/prod-00099.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00098": {
+    "imagen": "imagenesmedimentos/reales/prod-00098.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00095": {
+    "imagen": "imagenesmedimentos/reales/prod-00095.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00094": {
+    "imagen": "imagenesmedimentos/reales/prod-00094.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00093": {
+    "imagen": "imagenesmedimentos/reales/prod-00093.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00091": {
+    "imagen": "imagenesmedimentos/reales/prod-00091.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00090": {
+    "imagen": "imagenesmedimentos/reales/prod-00090.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00089": {
+    "imagen": "imagenesmedimentos/reales/prod-00089.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00085": {
+    "imagen": "imagenesmedimentos/reales/prod-00085.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00084": {
+    "imagen": "imagenesmedimentos/reales/prod-00084.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00082": {
+    "imagen": "imagenesmedimentos/reales/prod-00082.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00078": {
+    "imagen": "imagenesmedimentos/reales/prod-00078.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00076": {
+    "imagen": "imagenesmedimentos/reales/prod-00076.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00075": {
+    "imagen": "imagenesmedimentos/reales/prod-00075.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00074": {
+    "imagen": "imagenesmedimentos/reales/prod-00074.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00072": {
+    "imagen": "imagenesmedimentos/reales/prod-00072.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00069": {
+    "imagen": "imagenesmedimentos/reales/prod-00069.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00066": {
+    "imagen": "imagenesmedimentos/reales/prod-00066.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00064": {
+    "imagen": "imagenesmedimentos/reales/prod-00064.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00063": {
+    "imagen": "imagenesmedimentos/reales/prod-00063.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00061": {
+    "imagen": "imagenesmedimentos/reales/prod-00061.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00060": {
+    "imagen": "imagenesmedimentos/reales/prod-00060.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00059": {
+    "imagen": "imagenesmedimentos/reales/prod-00059.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00058": {
+    "imagen": "imagenesmedimentos/reales/prod-00058.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00057": {
+    "imagen": "imagenesmedimentos/reales/prod-00057.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00055": {
+    "imagen": "imagenesmedimentos/reales/prod-00055.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00054": {
+    "imagen": "imagenesmedimentos/reales/prod-00054.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00053": {
+    "imagen": "imagenesmedimentos/reales/prod-00053.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00051": {
+    "imagen": "imagenesmedimentos/reales/prod-00051.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00048": {
+    "imagen": "imagenesmedimentos/reales/prod-00048.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00047": {
+    "imagen": "imagenesmedimentos/reales/prod-00047.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00043": {
+    "imagen": "imagenesmedimentos/reales/prod-00043.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00042": {
+    "imagen": "imagenesmedimentos/reales/prod-00042.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00041": {
+    "imagen": "imagenesmedimentos/reales/prod-00041.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00039": {
+    "imagen": "imagenesmedimentos/reales/prod-00039.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00038": {
+    "imagen": "imagenesmedimentos/reales/prod-00038.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00037": {
+    "imagen": "imagenesmedimentos/reales/prod-00037.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00036": {
+    "imagen": "imagenesmedimentos/reales/prod-00036.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00035": {
+    "imagen": "imagenesmedimentos/reales/prod-00035.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00034": {
+    "imagen": "imagenesmedimentos/reales/prod-00034.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00031": {
+    "imagen": "imagenesmedimentos/reales/prod-00031.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00030": {
+    "imagen": "imagenesmedimentos/reales/prod-00030.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00029": {
+    "imagen": "imagenesmedimentos/reales/prod-00029.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00028": {
+    "imagen": "imagenesmedimentos/reales/prod-00028.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00027": {
+    "imagen": "imagenesmedimentos/reales/prod-00027.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00026": {
+    "imagen": "imagenesmedimentos/reales/prod-00026.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00025": {
+    "imagen": "imagenesmedimentos/reales/prod-00025.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00024": {
+    "imagen": "imagenesmedimentos/reales/prod-00024.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00023": {
+    "imagen": "imagenesmedimentos/reales/prod-00023.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00022": {
+    "imagen": "imagenesmedimentos/reales/prod-00022.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00019": {
+    "imagen": "imagenesmedimentos/reales/prod-00019.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00018": {
+    "imagen": "imagenesmedimentos/reales/prod-00018.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00017": {
+    "imagen": "imagenesmedimentos/reales/prod-00017.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00016": {
+    "imagen": "imagenesmedimentos/reales/prod-00016.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00015": {
+    "imagen": "imagenesmedimentos/reales/prod-00015.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00014": {
+    "imagen": "imagenesmedimentos/reales/prod-00014.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00013": {
+    "imagen": "imagenesmedimentos/reales/prod-00013.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00012": {
+    "imagen": "imagenesmedimentos/reales/prod-00012.png",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00011": {
+    "imagen": "imagenesmedimentos/reales/prod-00011.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00009": {
+    "imagen": "imagenesmedimentos/reales/prod-00009.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00008": {
+    "imagen": "imagenesmedimentos/reales/prod-00008.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00003": {
+    "imagen": "imagenesmedimentos/reales/prod-00003.jpg",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  },
+  "prod-00002": {
+    "imagen": "imagenesmedimentos/reales/prod-00002.webp",
+    "modo": "RGB",
+    "pct_transparente": 0.0,
+    "transparente": false
+  }
+}

@@ -1,0 +1,410 @@
+[
+ {
+  "sku": "prod-00366",
+  "nombre": "REPELENTE MOSQUITOS OUT 60ML",
+  "descripcion": "REPELENTE MOSQUITOS OUT 60ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00366.jpg",
+  "fuente": "https://www.exito.com/repelente-en-spray-x-120-ml-934744/p"
+ },
+ {
+  "sku": "prod-00588",
+  "nombre": "CREMA CALENDULA 30G CHENIER",
+  "descripcion": "CREMA CALENDULA 30G CHENIER",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00588.jpg",
+  "fuente": "https://www.farmaciaspasteur.com.co/salud-y-medicamentos-medicamentos-naturales-medicamentos-naturales-calendula-crema-pote-60-g-618081/p?srsltid=AfmBOor1ceruiqfjgRmJWTHC9uMAlToAj6Mzg5_U7q1wKmsqIQa-HsaN"
+ },
+ {
+  "sku": "prod-00174",
+  "nombre": "DESODORANTE REXONA CLINICAL",
+  "descripcion": "DESODORANTE REXONA CLINICAL CREMA DAMA 48G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00174.jpg",
+  "fuente": "https://www.exito.com/desodorante-rexona-clinical-cream-women-x-48-gr-111798/p"
+ },
+ {
+  "sku": "prod-00416",
+  "nombre": "JABON NIXODERM AZUFRE ALOE VER",
+  "descripcion": "JABON NIXODERM AZUFRE ALOE VERA",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00416.jpg",
+  "fuente": "https://www.olimpica.com/nixoderm-jabon-azufre-aloe-vera-x-100-gramos/p"
+ },
+ {
+  "sku": "prod-00598",
+  "nombre": "PROTECTORES DE LACTANCIA AVENT",
+  "descripcion": "PROTECTORES DE LACTANCIA AVENT 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00598.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/1032481-protector-de-pezon"
+ },
+ {
+  "sku": "prod-00345",
+  "nombre": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00345.jpg",
+  "fuente": "https://www.locatelcolombia.com/7500435231237-shampoo-head---shoulders-anti-comezon-x-375ml/p"
+ },
+ {
+  "sku": "prod-00362",
+  "nombre": "YODORA CLASICO CREMA 12G",
+  "descripcion": "YODORA CLASICO CREMA 12G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00362.jpg",
+  "fuente": "https://www.olimpica.com/desodorante-yodora-crema-clasica-60-g-x-2-unidades-7702057085599--1602482/p"
+ },
+ {
+  "sku": "prod-00791",
+  "nombre": "ACONDI SAVITAL 490ML FUSION PR",
+  "descripcion": "ACONDICIONADOR SAVITAL 490ML FUSION PROTEINAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00791.jpg",
+  "fuente": "https://www.olimpica.com/savital--acondicionador--fusion-proteinas--490ml/p"
+ },
+ {
+  "sku": "prod-00556",
+  "nombre": "ACONDICIONADOR SEDAL 340ML",
+  "descripcion": "ACONDICIONADOR SEDAL 340ML CERAMIDAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00556.jpg",
+  "fuente": "https://www.olimpica.com/acondicionador-sedal-keratina-x-340-ml-7506306237940--1330548/p"
+ },
+ {
+  "sku": "prod-00464",
+  "nombre": "AMLODIPINO 5MG - 10 TABL COASP",
+  "descripcion": "AMLODIPINO 5MG - 10 TABL COASP",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00464.png",
+  "fuente": "https://www.larebajavirtual.com/amlodipino-10-mg-coaspharma-36956/p?srsltid=AfmBOooZyCmaedtOaLlAqm24jHjzHr5cQkgGLbrscnFrSKaTx8CsSZfU"
+ },
+ {
+  "sku": "prod-00052",
+  "nombre": "APRONAX 550 MG BLISTER X4",
+  "descripcion": "APRONAX 550 MG BLISTER X4",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00052.png",
+  "fuente": "https://www.larebajavirtual.com/apronax-275-mg-liquido-gel-19668/p?srsltid=AfmBOoqhikaie1rnp35WZ-jlxECvo40wjLYdhdh4h-h_UmdRknc--3tz"
+ },
+ {
+  "sku": "prod-00143",
+  "nombre": "CELECOXIB 100 MG SANFER",
+  "descripcion": "CELECOXIB 100 MG SANFER",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00143.jpg",
+  "fuente": "https://www.farmalisto.com.co/formulados/34864-comprar-celecoxib-200-mg-caja-con-10-capsulas-rx-precio-7702195057304.html?srsltid=AfmBOooZR_SDQgUHNYyzU5jjg3TjgBzQyuKvDYRNLKwmZrMerDWIE7Ed"
+ },
+ {
+  "sku": "prod-00886",
+  "nombre": "COLAGENO+BIOTINA PHARBIO X30",
+  "descripcion": "COLAGENO+BIOTINA PHARBIO X30",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00886.jpg",
+  "fuente": "https://www.cruzverde.com.co/colageno-biotina-200mg-900mcg-capsulas-blandas-frasco-x-60/COCV_556754.html"
+ },
+ {
+  "sku": "prod-00893",
+  "nombre": "GENTAMICINA SOLUCION OPTICA5ML",
+  "descripcion": "GENTAMICINA 0,3% SOLUCION OPTICA 5 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00893.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/gentamicina-03-solucion-oftalmica-la-sante-7703763665013/p?srsltid=AfmBOooh-LNMFUw1bHb0NypuI579fTrey5xmvtHg2JSc1INJlnA2uJOZ"
+ },
+ {
+  "sku": "prod-00197",
+  "nombre": "KOLA GRANULADA FRESA 135G",
+  "descripcion": "KOLA GRANULADA FRESA 135G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00197.jpg",
+  "fuente": "https://www.olimpica.com/tarrito-rojo-jgb-super-ahorro-fresa-x-330g/p"
+ },
+ {
+  "sku": "prod-00198",
+  "nombre": "KOLA GRANULADA FRESA 380G",
+  "descripcion": "KOLA GRANULADA FRESA 380G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00198.jpg",
+  "fuente": "https://www.olimpica.com/kola-granul-tarrito-roj-fresa-135g/p"
+ },
+ {
+  "sku": "prod-00540",
+  "nombre": "MICROPORE SUPREME 1/2 X5",
+  "descripcion": "MICROPORE SUPREME 1/2 X5",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00540.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/cinta-microporosa-supreme-piel-12x5-yardas-7707270369471/p?srsltid=AfmBOorGpTknq_qLarAhxq0yTXwCdk3LdaKwU_neXzbbN6fJuLxC4RAC"
+ },
+ {
+  "sku": "prod-00443",
+  "nombre": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "descripcion": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00443.png",
+  "fuente": "https://www.farmatodo.com.co/producto/213750091-pantoprazol-40-mg-colmed-caja-x-30-tabletas"
+ },
+ {
+  "sku": "prod-00710",
+  "nombre": "POLVO COMPA VOGUE",
+  "descripcion": "POLVO COMPA VOGUE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00710.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/1052841-polvo-jolie-de-vogue"
+ },
+ {
+  "sku": "prod-00312",
+  "nombre": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "descripcion": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00312.png",
+  "fuente": "https://www.drogueriascolsubsidio.com/prednisolona-5-mg-tableta-genfar-7702605107469/p?srsltid=AfmBOoog9naZDammZN9fbexE1z-2zkeCgl89lc210pc6mSH9p6XPFEov"
+ },
+ {
+  "sku": "prod-00601",
+  "nombre": "PROWHEY KALORI 200ML LIQUIDO",
+  "descripcion": "PROWHEY KALORI 200ML LIQUIDO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00601.jpg",
+  "fuente": "https://www.drogueriascafam.com.co/nutricion/31439-comprar-en-cafam-prowhey-kalori-sabor-vainilla-lata-con-460-g-precio-7709729471735.html?srsltid=AfmBOophsolNpkhKPI4U8Sbg_k6xKWO7lw4Sa8Xyv1JTlseoRPkjX_Ma"
+ },
+ {
+  "sku": "prod-00391",
+  "nombre": "PRUEBA DE EMBARAZO TIRA ALL SE",
+  "descripcion": "PRUEBA DE EMBARAZO TIRA ALL SET",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00391.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/salud-sexual/prueba-de-embarazo-icom-cassette/?srsltid=AfmBOoqOrKzjPCo9sFZcxsvaG76TV0k1Kv7TJU2vR0B1IvdQsh2wOj2_"
+ },
+ {
+  "sku": "prod-00605",
+  "nombre": "SOUXA NITAZOXANIDA SUSPENSION",
+  "descripcion": "SOUXA NITAZOXANIDA SUSPENSION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00605.jpg",
+  "fuente": "https://www.cruzverde.com.co/nitazoxanida-500mg-caja-x-6-tabletas-recubiertas/COCV_98042.html"
+ },
+ {
+  "sku": "prod-00515",
+  "nombre": "DESLORATADINA JARABE ECAR 60ML",
+  "descripcion": "DESLORATADINA JARABE ECAR 60ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00515.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/229550220-desloratadina-05-mg-laproff-jarabe-frasco-x-60-ml"
+ },
+ {
+  "sku": "prod-00367",
+  "nombre": "REPELENTE MOSQUITOS OUT 65G",
+  "descripcion": "REPELENTE MOSQUITOS OUT 65G",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00367.jpg",
+  "fuente": "https://www.farmaciaspasteur.com.co/cuidado-personal-maquinas-de-afeitar-repelentes-repelente-fly-out-oferta-pague-1-lleve-2da-con-70--833028/p?srsltid=AfmBOoojv4rMI1bs33hkITnxVVBD5suHh92WmM-giJYCCW-VtC8BNi1T"
+ },
+ {
+  "sku": "prod-00147",
+  "nombre": "BAYCUTEN N CREMA 35G",
+  "descripcion": "BAYCUTEN N CREMA 35G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00147.jpg",
+  "fuente": "https://www.cruzverde.com.co/baycuten-n-crema-via-topica-tubo-x-20-gr/COCV_20479.html"
+ },
+ {
+  "sku": "prod-00187",
+  "nombre": "TOALLAS NOSOTRAS EXTRA PROTECC",
+  "descripcion": "TOALLAS NOSOTRAS EXTRA PROTECCION TELA SUAVE 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00187.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/cuidado-personal/aseo-cuidado-femenino/toalla-nosotras-extra-proteccion-dia-y-noche-24-unidades/?srsltid=AfmBOorf8IQVOmqHofZ_Any0mFhcpKDMcktCKl-mk3fJC5R1fBsZXwBd"
+ },
+ {
+  "sku": "prod-00348",
+  "nombre": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "descripcion": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00348.jpg",
+  "fuente": "https://www.locatelcolombia.com/7500435106382-acondicionador-pantene-pro-v-3-minute-miracle-restauracion-x-170ml/p"
+ },
+ {
+  "sku": "prod-00150",
+  "nombre": "FLUCONAZOL 150MG ICOM",
+  "descripcion": "FLUCONAZOL 150MG ICOM",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00150.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/fluconazol-200-mg-4-capsulas-icom/?srsltid=AfmBOoqf2SMwsWfehXZzrcjSbJmM1ohqtn0NUjSuudx9-7aCyXeyk4E3"
+ },
+ {
+  "sku": "prod-00324",
+  "nombre": "INHALOCAMARA ADULTO PROTEX",
+  "descripcion": "INHALOCAMARA ADULTO PROTEX",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00324.jpg",
+  "fuente": "https://www.drogueriascafam.com.co/equipos-medicos/29386-inhalocamara-para-traqueostomia-trudell-12809875.html?srsltid=AfmBOormR9kAraYuU-534MPKijK1vH5zBtavy-Y1cUdiL5-fW2-nUXxM"
+ },
+ {
+  "sku": "prod-00196",
+  "nombre": "KOLA GRANULADA TRADICIONAL135G",
+  "descripcion": "KOLA GRANULADA TRADICIONAL135G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00196.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/nutricion-y-suplementos/vitaminas/kola-granulada-tradicional-135-gr/?srsltid=AfmBOopzimcxd0d1GgkBJvQ4fZvBuH_zXOgUuuC6Gji0RtWIKH3eBYD7"
+ },
+ {
+  "sku": "prod-00559",
+  "nombre": "OFERTA PONDS CLARANT B3 100G",
+  "descripcion": "CREMA PONDS CLARANT B3 100G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00559.png",
+  "fuente": "https://www.larebajavirtual.com/ponds-cr-clarant-b3-fps30-12x45g-149709/p?srsltid=AfmBOopSYjrKwao9ps4G8JW9jCgDHVaOFSxEkNshh_oEq883qmXsUPK4"
+ },
+ {
+  "sku": "prod-00673",
+  "nombre": "PAPA MARGARITA SURTIDA 25G",
+  "descripcion": "PAPA MARGARITA SURTIDA 25G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00673.jpg",
+  "fuente": "https://www.exito.com/multipack-margarita-surtido-papa-225-gr-3182114/p"
+ },
+ {
+  "sku": "prod-00460",
+  "nombre": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "descripcion": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00460.jpg",
+  "fuente": "https://www.olimpica.com/condon-today-lubricado-8-x-6-unidades-oferta-7702132047610-1482994/p"
+ },
+ {
+  "sku": "prod-00749",
+  "nombre": "WINADEINE F EUROFARMA",
+  "descripcion": "WINADEINE F EUROFARMA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00749.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/1050476-acetaminofen--codeina-325mg30mg-winadeine-f-eurofarma-caja-x-10-tabletas"
+ },
+ {
+  "sku": "prod-00153",
+  "nombre": "YODOPOVIL ESPUMA 60 ML",
+  "descripcion": "YODOPOVIL ESPUMA 60 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00153.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/yodopovil-espuma-60-ml-icom/?srsltid=AfmBOoqZCbhxaNkZAmwfKCYUbdGnMSswCXXcKrsslFkVQzohnKZLFbsc"
+ },
+ {
+  "sku": "prod-00691",
+  "nombre": "COMPLEJO B + ZINC + VITA PHARB",
+  "descripcion": "COMPLEJO B + ZINC + VITA PHARB",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00691.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/500024390-multivitaminico-vitmax-b-complejo-b---zinc-x-30-capsulas-vitmax-b-caja-x-x-30-unidades"
+ },
+ {
+  "sku": "prod-00444",
+  "nombre": "VITAMINA E COLMED 10 CAPSULAS",
+  "descripcion": "VITAMINA E COLMED 10 CAPSULAS",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00444.jpg",
+  "fuente": "https://www.farmaciaspasteur.com.co/salud-y-medicamentos-maternidad-vitaminas-vitamina-e-colmed-capsulas-blandas-400-ui-639846/p?srsltid=AfmBOopu4dRWD9r1bMDlRMQTetK4tIl2hWJBVy32evqpQ-_pHmgF3jMD"
+ },
+ {
+  "sku": "prod-00850",
+  "nombre": "CENTRUM MEN 30 TABLETAS",
+  "descripcion": "CENTRUM MEN 30 TABLETAS",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00850.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/nutricion-y-suplementos/vitaminas/centrum-men-30tab/?srsltid=AfmBOopxs_etK2GbDt1DBwmlSs3Dg7yu1f7x-n4KSUwPGtqWhyearleo"
+ },
+ {
+  "sku": "prod-00843",
+  "nombre": "DOMICILIO",
+  "descripcion": "DOMICILIO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00843.jpg",
+  "fuente": "https://www.olimpica.com/domicilios"
+ },
+ {
+  "sku": "prod-00741",
+  "nombre": "METOCLOPRAMIDA BLISTER SANFER",
+  "descripcion": "METOCLOPRAMIDA BLISTER SANFER",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00741.webp",
+  "fuente": "https://www.farmatodo.com.co/producto/214850238-metoclopramida-4-mgml--sanfer-solucion-oral-gotas-x-30-ml"
+ },
+ {
+  "sku": "prod-00692",
+  "nombre": "OMEGA 3 PHARBIOLAB",
+  "descripcion": "OMEGA 3 PHARBIOLAB",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00692.jpg",
+  "fuente": "https://www.locatelcolombia.com/811726001178-omega-3-prime-health-1000mg-x-100-capsulas-1/p"
+ },
+ {
+  "sku": "prod-00686",
+  "nombre": "PROPOLVIK PASTILLAS GARGANTA S",
+  "descripcion": "PROPOLVIK PASTILLAS GARGANTA SOBRE CEREZA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00686.jpg",
+  "fuente": "https://www.farmatodo.com.co/a/p/pastillas-garganta-irritada.html"
+ },
+ {
+  "sku": "prod-00684",
+  "nombre": "VITAFER SACHETS",
+  "descripcion": "VITAFER SACHETS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00684.jpg",
+  "fuente": "https://www.exito.com/6-sachet-potenciador-y-estimulante-sexual-vitafer-l-102397503-mp/p"
+ },
+ {
+  "sku": "prod-00677",
+  "nombre": "CHOCORRAMO GRANDE",
+  "descripcion": "CHOCORRAMO GRANDE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00677.jpg",
+  "fuente": "https://www.exito.com/t/chocorramo"
+ },
+ {
+  "sku": "prod-00669",
+  "nombre": "TRIDENT SURTIDOS",
+  "descripcion": "TRIDENT SURTIDOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00669.jpg",
+  "fuente": "https://www.exito.com/display-goma-trident-mascar-centro-liquido-fresa-li-2676-gr-3207526/p"
+ },
+ {
+  "sku": "prod-00668",
+  "nombre": "JUMBO MANI GRANDE",
+  "descripcion": "JUMBO MANI GRANDE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00668.jpg",
+  "fuente": "https://www.exito.com/glina-chocolate-mani-jumbo-90-gr-3148606/p"
+ },
+ {
+  "sku": "prod-00639",
+  "nombre": "ELECTROLIT SABOR FRESA",
+  "descripcion": "ELECTROLIT SABOR FRESA",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00639.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/otc/electrolit-rehidratante-sabor-a-fresa-625-ml/?srsltid=AfmBOor1QBLTp-37O7obmiioZphD36xS9uj0nNvvkbFuf8T8udlaRWBq"
+ },
+ {
+  "sku": "prod-00638",
+  "nombre": "FOSFOGEN COMPLEJO B X30 CAPSUL",
+  "descripcion": "FOSFOGEN COMPLEJO B X30 CAPSULAS",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00638.jpg",
+  "fuente": "https://www.drogueriascafam.com.co/smart-nutrition/788-comprar-en-cafam-complejo-b-mk-caja-con-250-tabletas-precio-7702057072063.html?srsltid=AfmBOoogvueOWyRtC0MAdPRc9H_78kGTihEFZMcuiqPKKNw3EvXOUUFI"
+ },
+ {
+  "sku": "prod-00614",
+  "nombre": "LIBELLE 2 TABL NOVAMED",
+  "descripcion": "LIBELLE 2 TABL NOVAMED",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00614.jpg",
+  "fuente": "https://www.exito.com/libelle-tab-rec-0-75-mg-oral-cja-2-un-101212053-mp/p"
+ },
+ {
+  "sku": "prod-00608",
+  "nombre": "SERVICIO GLUCOMETRIA",
+  "descripcion": "SERVICIO GLUCOMETRIA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00608.webp",
+  "fuente": "https://www.farmatodo.com.co/producto/1053441-servicio"
+ }
+]

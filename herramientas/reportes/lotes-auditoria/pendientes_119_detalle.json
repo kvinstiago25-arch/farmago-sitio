@@ -1,0 +1,835 @@
+[
+ {
+  "sku": "prod-00366",
+  "nombre": "REPELENTE MOSQUITOS OUT 60ML",
+  "descripcion": "REPELENTE MOSQUITOS OUT 60ML",
+  "categoria": "Antigripales",
+  "precio": 5900
+ },
+ {
+  "sku": "prod-00588",
+  "nombre": "CREMA CALENDULA 30G CHENIER",
+  "descripcion": "CREMA CALENDULA 30G CHENIER",
+  "categoria": "Cuidado personal",
+  "precio": 11800
+ },
+ {
+  "sku": "prod-00598",
+  "nombre": "PROTECTORES DE LACTANCIA AVENT",
+  "descripcion": "PROTECTORES DE LACTANCIA AVENT 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "precio": 32800
+ },
+ {
+  "sku": "prod-00345",
+  "nombre": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "categoria": "Cuidado personal",
+  "precio": 1600
+ },
+ {
+  "sku": "prod-00362",
+  "nombre": "YODORA CLASICO CREMA 12G",
+  "descripcion": "YODORA CLASICO CREMA 12G",
+  "categoria": "Cuidado personal",
+  "precio": 4500
+ },
+ {
+  "sku": "prod-00556",
+  "nombre": "ACONDICIONADOR SEDAL 340ML",
+  "descripcion": "ACONDICIONADOR SEDAL 340ML CERAMIDAS",
+  "categoria": "Otros",
+  "precio": 17000
+ },
+ {
+  "sku": "prod-00464",
+  "nombre": "AMLODIPINO 5MG - 10 TABL COASP",
+  "descripcion": "AMLODIPINO 5MG - 10 TABL COASP",
+  "categoria": "Otros",
+  "precio": 5600
+ },
+ {
+  "sku": "prod-00143",
+  "nombre": "CELECOXIB 100 MG SANFER",
+  "descripcion": "CELECOXIB 100 MG SANFER",
+  "categoria": "Otros",
+  "precio": 32000
+ },
+ {
+  "sku": "prod-00886",
+  "nombre": "COLAGENO+BIOTINA PHARBIO X30",
+  "descripcion": "COLAGENO+BIOTINA PHARBIO X30",
+  "categoria": "Otros",
+  "precio": 34000
+ },
+ {
+  "sku": "prod-00893",
+  "nombre": "GENTAMICINA SOLUCION OPTICA5ML",
+  "descripcion": "GENTAMICINA 0,3% SOLUCION OPTICA 5 ML",
+  "categoria": "Otros",
+  "precio": 12500
+ },
+ {
+  "sku": "prod-00197",
+  "nombre": "KOLA GRANULADA FRESA 135G",
+  "descripcion": "KOLA GRANULADA FRESA 135G",
+  "categoria": "Otros",
+  "precio": 13000
+ },
+ {
+  "sku": "prod-00198",
+  "nombre": "KOLA GRANULADA FRESA 380G",
+  "descripcion": "KOLA GRANULADA FRESA 380G",
+  "categoria": "Otros",
+  "precio": 29000
+ },
+ {
+  "sku": "prod-00443",
+  "nombre": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "descripcion": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "categoria": "Otros",
+  "precio": 102000
+ },
+ {
+  "sku": "prod-00710",
+  "nombre": "POLVO COMPA VOGUE",
+  "descripcion": "POLVO COMPA VOGUE",
+  "categoria": "Otros",
+  "precio": 15200
+ },
+ {
+  "sku": "prod-00312",
+  "nombre": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "descripcion": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "categoria": "Otros",
+  "precio": 17000
+ },
+ {
+  "sku": "prod-00601",
+  "nombre": "PROWHEY KALORI 200ML LIQUIDO",
+  "descripcion": "PROWHEY KALORI 200ML LIQUIDO",
+  "categoria": "Otros",
+  "precio": 12000
+ },
+ {
+  "sku": "prod-00391",
+  "nombre": "PRUEBA DE EMBARAZO TIRA ALL SE",
+  "descripcion": "PRUEBA DE EMBARAZO TIRA ALL SET",
+  "categoria": "Otros",
+  "precio": 2600
+ },
+ {
+  "sku": "prod-00605",
+  "nombre": "SOUXA NITAZOXANIDA SUSPENSION",
+  "descripcion": "SOUXA NITAZOXANIDA SUSPENSION",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00518",
+  "nombre": "AZITROMICINA 15ML POLVO LA SAN",
+  "descripcion": "AZITROMICINA 15ML POLVO LA SANTE",
+  "categoria": "Antibióticos",
+  "precio": 19300
+ },
+ {
+  "sku": "prod-00367",
+  "nombre": "REPELENTE MOSQUITOS OUT 65G",
+  "descripcion": "REPELENTE MOSQUITOS OUT 65G",
+  "categoria": "Antigripales",
+  "precio": 6500
+ },
+ {
+  "sku": "prod-00147",
+  "nombre": "BAYCUTEN N CREMA 35G",
+  "descripcion": "BAYCUTEN N CREMA 35G",
+  "categoria": "Cuidado personal",
+  "precio": 42000
+ },
+ {
+  "sku": "prod-00783",
+  "nombre": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "descripcion": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "categoria": "Otros",
+  "precio": 1000
+ },
+ {
+  "sku": "prod-00348",
+  "nombre": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "descripcion": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "categoria": "Otros",
+  "precio": 1600
+ },
+ {
+  "sku": "prod-00150",
+  "nombre": "FLUCONAZOL 150MG ICOM",
+  "descripcion": "FLUCONAZOL 150MG ICOM",
+  "categoria": "Otros",
+  "precio": 3300
+ },
+ {
+  "sku": "prod-00324",
+  "nombre": "INHALOCAMARA ADULTO PROTEX",
+  "descripcion": "INHALOCAMARA ADULTO PROTEX",
+  "categoria": "Otros",
+  "precio": 9800
+ },
+ {
+  "sku": "prod-00504",
+  "nombre": "LUBRICANTE INTIMAZUL SACHET",
+  "descripcion": "LUBRICANTE INTIMAZUL SACHET",
+  "categoria": "Otros",
+  "precio": 24000
+ },
+ {
+  "sku": "prod-00559",
+  "nombre": "OFERTA PONDS CLARANT B3 100G",
+  "descripcion": "CREMA PONDS CLARANT B3 100G",
+  "categoria": "Otros",
+  "precio": 29000
+ },
+ {
+  "sku": "prod-00673",
+  "nombre": "PAPA MARGARITA SURTIDA 25G",
+  "descripcion": "PAPA MARGARITA SURTIDA 25G",
+  "categoria": "Otros",
+  "precio": 2200
+ },
+ {
+  "sku": "prod-00460",
+  "nombre": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "descripcion": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "categoria": "Otros",
+  "precio": 2200
+ },
+ {
+  "sku": "prod-00749",
+  "nombre": "WINADEINE F EUROFARMA",
+  "descripcion": "WINADEINE F EUROFARMA",
+  "categoria": "Otros",
+  "precio": 15000
+ },
+ {
+  "sku": "prod-00691",
+  "nombre": "COMPLEJO B + ZINC + VITA PHARB",
+  "descripcion": "COMPLEJO B + ZINC + VITA PHARB",
+  "categoria": "Vitaminas",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00444",
+  "nombre": "VITAMINA E COLMED 10 CAPSULAS",
+  "descripcion": "VITAMINA E COLMED 10 CAPSULAS",
+  "categoria": "Vitaminas",
+  "precio": 35000
+ },
+ {
+  "sku": "prod-00843",
+  "nombre": "DOMICILIO",
+  "descripcion": "DOMICILIO",
+  "categoria": "Otros",
+  "precio": 5000
+ },
+ {
+  "sku": "prod-00741",
+  "nombre": "METOCLOPRAMIDA BLISTER SANFER",
+  "descripcion": "METOCLOPRAMIDA BLISTER SANFER",
+  "categoria": "Otros",
+  "precio": 13200
+ },
+ {
+  "sku": "prod-00692",
+  "nombre": "OMEGA 3 PHARBIOLAB",
+  "descripcion": "OMEGA 3 PHARBIOLAB",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00686",
+  "nombre": "PROPOLVIK PASTILLAS GARGANTA S",
+  "descripcion": "PROPOLVIK PASTILLAS GARGANTA SOBRE CEREZA",
+  "categoria": "Otros",
+  "precio": 2700
+ },
+ {
+  "sku": "prod-00677",
+  "nombre": "CHOCORRAMO GRANDE",
+  "descripcion": "CHOCORRAMO GRANDE",
+  "categoria": "Otros",
+  "precio": 3000
+ },
+ {
+  "sku": "prod-00669",
+  "nombre": "TRIDENT SURTIDOS",
+  "descripcion": "TRIDENT SURTIDOS",
+  "categoria": "Otros",
+  "precio": 300
+ },
+ {
+  "sku": "prod-00638",
+  "nombre": "FOSFOGEN COMPLEJO B X30 CAPSUL",
+  "descripcion": "FOSFOGEN COMPLEJO B X30 CAPSULAS",
+  "categoria": "Vitaminas",
+  "precio": 27800
+ },
+ {
+  "sku": "prod-00608",
+  "nombre": "SERVICIO GLUCOMETRIA",
+  "descripcion": "SERVICIO GLUCOMETRIA",
+  "categoria": "Otros",
+  "precio": 6000
+ },
+ {
+  "sku": "prod-00544",
+  "nombre": "ESPADARADRAPO SUPREME 3X5",
+  "descripcion": "ESPADARADRAPO SUPREME 3X5",
+  "categoria": "Otros",
+  "precio": 12400
+ },
+ {
+  "sku": "prod-00543",
+  "nombre": "MICROPORE SUPREME 2X5",
+  "descripcion": "MICROPORE SUPREME 2X5",
+  "categoria": "Otros",
+  "precio": 6600
+ },
+ {
+  "sku": "prod-00527",
+  "nombre": "CETIRIZINA JARABE 60ML ECAR",
+  "descripcion": "CETIRIZINA JARABE 60ML ECAR",
+  "categoria": "Otros",
+  "precio": 10200
+ },
+ {
+  "sku": "prod-00449",
+  "nombre": "SHAMPO HEAD & SHOULDERS 375ML ",
+  "descripcion": "SHAMPO HEAD & SHOULDERS 375ML ANTIRRESEQUEDAD",
+  "categoria": "Otros",
+  "precio": 24200
+ },
+ {
+  "sku": "prod-00408",
+  "nombre": "PRUEBA DE EMBARAZO EARLY TEST",
+  "descripcion": "PRUEBA DE EMBARAZO EARLY TEST",
+  "categoria": "Otros",
+  "precio": 6200
+ },
+ {
+  "sku": "prod-00389",
+  "nombre": "JABON INTIMO INTIBON 210 G SAL",
+  "descripcion": "JABON INTIMO INTIBON 210 G SALVIA Y CALENDULA",
+  "categoria": "Cuidado personal",
+  "precio": 18600
+ },
+ {
+  "sku": "prod-00365",
+  "nombre": "REPELENTE OUT 120ML",
+  "descripcion": "REPELENTE OUT 120ML",
+  "categoria": "Otros",
+  "precio": 11500
+ },
+ {
+  "sku": "prod-00340",
+  "nombre": "CREMA LUBRIDERM HUMECTACION DE",
+  "descripcion": "CREMA LUBRIDERM HUMECTACION DELICADA  120ML",
+  "categoria": "Cuidado personal",
+  "precio": 16200
+ },
+ {
+  "sku": "prod-00277",
+  "nombre": "HIDROXIDO ALUMINIO - HIDROXIDO",
+  "descripcion": "HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 150ML",
+  "categoria": "Otros",
+  "precio": 11700
+ },
+ {
+  "sku": "prod-00270",
+  "nombre": "CLINDAMIXINA 600MG AMPOLLA",
+  "descripcion": "CLINDAMIXINA 600MG AMPOLLA",
+  "categoria": "Otros",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00116",
+  "nombre": "JERINGA 3P 5 ML",
+  "descripcion": "JERINGA 3P 5 ML",
+  "categoria": "Otros",
+  "precio": 600
+ },
+ {
+  "sku": "prod-00434",
+  "nombre": "ACIDO FUSIDICO CREMA 2% LAPROF",
+  "descripcion": "ACIDO FUSIDICO CREMA 2% LAPROFF",
+  "categoria": "Cuidado personal",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00595",
+  "nombre": "CREMA DE CALENDULA PILI 30G",
+  "descripcion": "CREMA DE CALENDULA PILI 30G",
+  "categoria": "Cuidado personal",
+  "precio": 13800
+ },
+ {
+  "sku": "prod-00615",
+  "nombre": "VITALIS CREMA TOPICA BETAMETAS",
+  "descripcion": "VITALIS CREMA TOPICA BETAMETASONA 0,04%",
+  "categoria": "Cuidado personal",
+  "precio": 13200
+ },
+ {
+  "sku": "prod-00696",
+  "nombre": "ACEITE DE COCO 100ML EXTRA VIR",
+  "descripcion": "ACEITE DE COCO 100ML EXTRA VIR",
+  "categoria": "Otros",
+  "precio": 16800
+ },
+ {
+  "sku": "prod-00772",
+  "nombre": "ACONDICI PANTENE CONTROL CAIDA",
+  "descripcion": "ACONDICI PANTENE CONTROL CAIDA",
+  "categoria": "Otros",
+  "precio": 25000
+ },
+ {
+  "sku": "prod-00775",
+  "nombre": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "descripcion": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "categoria": "Otros",
+  "precio": 3500
+ },
+ {
+  "sku": "prod-00712",
+  "nombre": "PRESTOBARBA GILLETTE NARANJA",
+  "descripcion": "PRESTOBARBA GILLETTE NARANJA",
+  "categoria": "Otros",
+  "precio": 4700
+ },
+ {
+  "sku": "prod-00390",
+  "nombre": "PRUEBA DE EMBARAZO CASSET ALL SET",
+  "descripcion": "PRUEBA DE EMBARAZO CASSET ALL SET",
+  "categoria": "Otros",
+  "precio": 3200
+ },
+ {
+  "sku": "prod-00646",
+  "nombre": "TE HATSU SURTIDO 450ML",
+  "descripcion": "TE HATSU SURTIDO 450ML",
+  "categoria": "Otros",
+  "precio": 4300
+ },
+ {
+  "sku": "prod-00769",
+  "nombre": "TRATAM GLYCOLIC GLOSS 300G ELV",
+  "descripcion": "TRATAM GLYCOLIC GLOSS 300G ELVIVE",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00889",
+  "nombre": "ISOFLAVONAS DE SOYA 500MG",
+  "descripcion": "ISOFLAVONAS DE SOYA 500MG",
+  "categoria": "Otros",
+  "precio": 35000
+ },
+ {
+  "sku": "prod-00787",
+  "nombre": "ACONDIC SAVITAL 490ML ELIXIR R",
+  "descripcion": "ACONDIC SAVITAL 490ML ELIXIR ROMERO",
+  "categoria": "Otros",
+  "precio": 16700
+ },
+ {
+  "sku": "prod-00784",
+  "nombre": "SHAMPO DOVE RECONSTRUCCION + A",
+  "descripcion": "SHAMPO DOVE RECONSTRUCCION + AMINO 370ML",
+  "categoria": "Otros",
+  "precio": 24200
+ },
+ {
+  "sku": "prod-00461",
+  "nombre": "MEGA MAX ENERGY SOBRE",
+  "descripcion": "MEGA MAX ENERGY SOBRE",
+  "categoria": "Otros",
+  "precio": 2400
+ },
+ {
+  "sku": "prod-00458",
+  "nombre": "VITACEREBRINA 1000ML OMEGA 3,6",
+  "descripcion": "VITACEREBRINA 1000ML OMEGA 3,6,9",
+  "categoria": "Vitaminas",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00139",
+  "nombre": "CERITAMIN JARABE 60 ML",
+  "descripcion": "CERITAMIN JARABE 60 ML",
+  "categoria": "Otros",
+  "precio": 41000
+ },
+ {
+  "sku": "prod-00138",
+  "nombre": "CERITAMIN GOTAS 10MG",
+  "descripcion": "CERITAMIN GOTAS 10MG",
+  "categoria": "Otros",
+  "precio": 41600
+ },
+ {
+  "sku": "prod-00055",
+  "nombre": "ALCOHOL ALCOMAX 350 ML",
+  "descripcion": "ALCOHOL ALCOMAX 350 ML",
+  "categoria": "Otros",
+  "precio": 6000
+ },
+ {
+  "sku": "prod-00054",
+  "nombre": "ALCOHOL ALCOMAX 700 ML",
+  "descripcion": "ALCOHOL ALCOMAX 700 ML",
+  "categoria": "Otros",
+  "precio": 9000
+ },
+ {
+  "sku": "prod-00133",
+  "nombre": "ALGODON MOTOCITOS 25G",
+  "descripcion": "ALGODON MOTOCITOS 25G",
+  "categoria": "Antigripales",
+  "precio": 3000
+ },
+ {
+  "sku": "prod-00134",
+  "nombre": "ALGODON MOTOCITOS 50G",
+  "descripcion": "ALGODON MOTOCITOS 50G",
+  "categoria": "Antigripales",
+  "precio": 4000
+ },
+ {
+  "sku": "prod-00533",
+  "nombre": "DESLORATADINA KIDS 60ML MEMPHI",
+  "descripcion": "DESLORATADINA KIDS 60ML MEMPHIS",
+  "categoria": "Antigripales",
+  "precio": 9800
+ },
+ {
+  "sku": "prod-00357",
+  "nombre": "PAÑITOS HUMEDOS TITOS X100",
+  "descripcion": "PAÑITOS HUMEDOS TITOS X100",
+  "categoria": "Antigripales",
+  "precio": 6700
+ },
+ {
+  "sku": "prod-00591",
+  "nombre": "CLOBETASOL PROPINATO CREMA LAP",
+  "descripcion": "CLOBETASOL PROPINATO CREMA LAPROFF 0.05%",
+  "categoria": "Cuidado personal",
+  "precio": 11200
+ },
+ {
+  "sku": "prod-00885",
+  "nombre": "GELILAB ADVANCE UVA PHARBIOLAB",
+  "descripcion": "GELILAB ADVANCE UVA PHARBIOLAB",
+  "categoria": "Cuidado personal",
+  "precio": 78000
+ },
+ {
+  "sku": "prod-00537",
+  "nombre": "PROTECTOR NUDE SOLAR 80FPS 40M",
+  "descripcion": "PROTECTOR NUDE SOLAR 80FPS 40ML",
+  "categoria": "Cuidado personal",
+  "precio": 27000
+ },
+ {
+  "sku": "prod-00694",
+  "nombre": "SAVIDOL VITALFARMA GEL 90G",
+  "descripcion": "SAVIDOL VITALFARMA GEL 90G",
+  "categoria": "Cuidado personal",
+  "precio": 29400
+ },
+ {
+  "sku": "prod-00338",
+  "nombre": "SHAMPOO JOHNSONS BABY GLICERIN",
+  "descripcion": "SHAMPOO JOHNSONS BABY GLICERIN",
+  "categoria": "Cuidado personal",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00495",
+  "nombre": "SHAMPOO TIO NACHO CONTROL CAS",
+  "descripcion": "SHAMPOO TIO NACHO CONTROL CASPA 415ML",
+  "categoria": "Cuidado personal",
+  "precio": 16000
+ },
+ {
+  "sku": "prod-00243",
+  "nombre": "AMTRIPTILINA 25 MG AG",
+  "descripcion": "AMTRIPTILINA 25 MG AG",
+  "categoria": "Otros",
+  "precio": 12100
+ },
+ {
+  "sku": "prod-00858",
+  "nombre": "ANGIOVAN CILOSTAZOL 50MG TECNO",
+  "descripcion": "ANGIOVAN CILOSTAZOL 50MG TECNO",
+  "categoria": "Otros",
+  "precio": 30200
+ },
+ {
+  "sku": "prod-00688",
+  "nombre": "CITRATO DE POTASIO PREMIUM D3",
+  "descripcion": "CITRATO DE POTASIO PREMIUM D3",
+  "categoria": "Otros",
+  "precio": 58000
+ },
+ {
+  "sku": "prod-00256",
+  "nombre": "CLORFERAMINA JARABE 2MG",
+  "descripcion": "CLORFERAMINA JARABE 2MG",
+  "categoria": "Otros",
+  "precio": 11400
+ },
+ {
+  "sku": "prod-00502",
+  "nombre": "MICROPORE KENNEDY PIEL 1/2X5",
+  "descripcion": "MICROPORE KENNEDY PIEL 1/2X5",
+  "categoria": "Otros",
+  "precio": 2800
+ },
+ {
+  "sku": "prod-00503",
+  "nombre": "MICROPORE KENNEDY PIEL 1X5",
+  "descripcion": "MICROPORE KENNEDY PIEL 1X5",
+  "categoria": "Otros",
+  "precio": 5200
+ },
+ {
+  "sku": "prod-00541",
+  "nombre": "MICROPORE SUPREME 1X1",
+  "descripcion": "MICROPORE SUPREME 1X1",
+  "categoria": "Otros",
+  "precio": 2400
+ },
+ {
+  "sku": "prod-00693",
+  "nombre": "MIEL DE ABEJAS LA ESPERANZA 355G",
+  "descripcion": "MIEL DE ABEJAS LA ESPERANZA 355G",
+  "categoria": "Otros",
+  "precio": 19900
+ },
+ {
+  "sku": "prod-00202",
+  "nombre": "REDOXON TOTAL EFER 10 COMPRIMI",
+  "descripcion": "REDOXON TOTAL EFER 10 COMPRIMI",
+  "categoria": "Otros",
+  "precio": 38000
+ },
+ {
+  "sku": "prod-00106",
+  "nombre": "RELAXMENT PLUS 500 MG 30 TABLE",
+  "descripcion": "RELAXMENT PLUS 500 MG 30 TABLE",
+  "categoria": "Otros",
+  "precio": 40000
+ },
+ {
+  "sku": "prod-00105",
+  "nombre": "RELAXMENT PLUS 500MG 20 TABLE",
+  "descripcion": "RELAXMENT PLUS 500MG 20 TABLE",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00731",
+  "nombre": "REMOVEDOR LANDER + OBSE",
+  "descripcion": "REMOVEDOR LANDER + OBSE",
+  "categoria": "Otros",
+  "precio": 8200
+ },
+ {
+  "sku": "prod-00751",
+  "nombre": "SHAMPO DREAM LISO ELVIVE 370ML",
+  "descripcion": "SHAMPO DREAM LISO ELVIVE 370ML",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00755",
+  "nombre": "SHAMPO GLYCOLIC CRISTAL ELVIVE",
+  "descripcion": "SHAMPO GLYCOLIC CRISTAL ELVIVE",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00888",
+  "nombre": "SIETE FACTORES DE TRANSF 650MG",
+  "descripcion": "SIETE FACTORES DE TRANSF 650MG",
+  "categoria": "Otros",
+  "precio": 36000
+ },
+ {
+  "sku": "prod-00689",
+  "nombre": "SURELAB CHILDREN´S POLVO VAINI",
+  "descripcion": "SURELAB CHILDREN´S POLVO VAINI",
+  "categoria": "Otros",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00314",
+  "nombre": "TADALOFILO 20MG",
+  "descripcion": "TADALOFILO 20MG",
+  "categoria": "Otros",
+  "precio": 11000
+ },
+ {
+  "sku": "prod-00457",
+  "nombre": "TOROVITAL SANGRE TORO 1000ML",
+  "descripcion": "TOROVITAL SANGRE TORO 1000ML",
+  "categoria": "Otros",
+  "precio": 20000
+ },
+ {
+  "sku": "prod-00762",
+  "nombre": "TRATAMI 3 EN 1 HIDRAHIALU 500M",
+  "descripcion": "TRATAMI 3 EN 1 HIDRAHIALU 500M",
+  "categoria": "Otros",
+  "precio": 32000
+ },
+ {
+  "sku": "prod-00863",
+  "nombre": "TRIMETOPRIM SULFAMETO F GENGAR",
+  "descripcion": "TRIMETOPRIM SULFAMETOXAZOL F GENGAR",
+  "categoria": "Otros",
+  "precio": 57000
+ },
+ {
+  "sku": "prod-00687",
+  "nombre": "SURELAB ULTRA MULTIVITA VAINIL",
+  "descripcion": "SURELAB ULTRA MULTIVITA VAINIL",
+  "categoria": "Vitaminas",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00773",
+  "nombre": "ACONDICIONADOR BAMBU PANTENE 4",
+  "descripcion": "ACONDICIONADOR BAMBU PANTENE 400ML",
+  "categoria": "Otros",
+  "precio": 25000
+ },
+ {
+  "sku": "prod-00754",
+  "nombre": "SHAMPO REPARA TOTAL5 ELVIVE 37",
+  "descripcion": "SHAMPO REPARA TOTAL5 ELVIVE 370ML",
+  "categoria": "Otros",
+  "precio": 26200
+ },
+ {
+  "sku": "prod-00690",
+  "nombre": "SURELAB MAMA POLVO VAINILLA PH",
+  "descripcion": "SURELAB MAMA POLVO VAINILLA PHARBIOLAB",
+  "categoria": "Otros",
+  "precio": 68000
+ },
+ {
+  "sku": "prod-00680",
+  "nombre": "GOMITAS GRISSLY SURTIDAS",
+  "descripcion": "GOMITAS GRISSLY SURTIDAS",
+  "categoria": "Otros",
+  "precio": 2500
+ },
+ {
+  "sku": "prod-00667",
+  "nombre": "JUMBO MANI MEDIANA",
+  "descripcion": "JUMBO MANI MEDIANA",
+  "categoria": "Otros",
+  "precio": 4400
+ },
+ {
+  "sku": "prod-00636",
+  "nombre": "ACTIVIT B COMPLEJO B",
+  "descripcion": "ACTIVIT B COMPLEJO B",
+  "categoria": "Vitaminas",
+  "precio": 22300
+ },
+ {
+  "sku": "prod-00579",
+  "nombre": "TERMOMETRO DIGITAL TERMOCARE",
+  "descripcion": "TERMOMETRO DIGITAL TERMOCARE",
+  "categoria": "Otros",
+  "precio": 10200
+ },
+ {
+  "sku": "prod-00557",
+  "nombre": "SHAMPOO SAVITAL 510ML ELIXIR D",
+  "descripcion": "SHAMPOO SAVITAL 510ML ELIXIR DE ROMERO",
+  "categoria": "Cuidado personal",
+  "precio": 16400
+ },
+ {
+  "sku": "prod-00448",
+  "nombre": "AGUA MICELAR POND ELOE FRUITY ",
+  "descripcion": "AGUA MICELAR POND ELOE FRUITY 300ML",
+  "categoria": "Bebidas",
+  "precio": 14900
+ },
+ {
+  "sku": "prod-00388",
+  "nombre": "PROTECTOR SOLAR NIVEA SUN SHIN",
+  "descripcion": "PROTECTOR SOLAR NIVEA SUN SHIN 40ML",
+  "categoria": "Cuidado personal",
+  "precio": 42000
+ },
+ {
+  "sku": "prod-00387",
+  "nombre": "PROTECTOR SOLAR NIVEA SUN SHIN",
+  "descripcion": "PROTECTOR SOLAR NIVEA SUN SHIN 50ML",
+  "categoria": "Cuidado personal",
+  "precio": 43000
+ },
+ {
+  "sku": "prod-00364",
+  "nombre": "PICAFIN ROLON 60ML",
+  "descripcion": "PICAFIN ROLON 60ML",
+  "categoria": "Otros",
+  "precio": 7500
+ },
+ {
+  "sku": "prod-00194",
+  "nombre": "CAJA CROPOLOGICA",
+  "descripcion": "CAJA CROPOLOGICA",
+  "categoria": "Otros",
+  "precio": 700
+ },
+ {
+  "sku": "prod-00166",
+  "nombre": "CREMA COLGATE LUMINOUS WHITE 9",
+  "descripcion": "CREMA COLGATE LUMINOUS WHITE 99G",
+  "categoria": "Cuidado personal",
+  "precio": 18200
+ },
+ {
+  "sku": "prod-00137",
+  "nombre": "CERITAMIN",
+  "descripcion": "CERITAMIN",
+  "categoria": "Otros",
+  "precio": 28200
+ },
+ {
+  "sku": "prod-00022",
+  "nombre": "MIEL DE ROSAS UNGÜENTO  30 CC",
+  "descripcion": "MIEL DE ROSAS UNGÜENTO  30 CC",
+  "categoria": "Otros",
+  "precio": 3800
+ },
+ {
+  "sku": "prod-00018",
+  "nombre": "PIEDRA ALUMBRE UNGÜENTO  25 G",
+  "descripcion": "PIEDRA ALUMBRE UNGÜENTO  25 G",
+  "categoria": "Otros",
+  "precio": 2700
+ },
+ {
+  "sku": "prod-00017",
+  "nombre": "VAGINCORT CREMA  20 G",
+  "descripcion": "VAGINCORT CREMA  20 G",
+  "categoria": "Cuidado personal",
+  "precio": 92000
+ }
+]

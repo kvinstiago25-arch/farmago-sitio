@@ -1,0 +1,70 @@
+prod-00652|ok|
+prod-00347|ok|
+prod-00789|ok|
+prod-00555|ok|
+prod-00230|ok|
+prod-00875|ok|
+prod-00185|ok|
+prod-00184|ok|
+prod-00181|ok|
+prod-00183|ok|
+prod-00161|ok|
+prod-00362|sospechosa|imagen muestra desodorante en barra 2x50g, no crema de 12g
+prod-00235|ok|
+prod-00092|ok|
+prod-00096|ok|
+prod-00573|ok|
+prod-00572|ok|
+prod-00867|sospechosa|imagen muestra locion corporal diurna, el producto nocturno es solo un regalo
+prod-00176|ok|
+prod-00791|sospechosa|imagen muestra variante Restauracion Profunda/Serum Aminoacidos, no Fusion Proteinas
+prod-00783|sospechosa|imagen muestra tarro de tratamiento, no sobre/sachet como indica el nombre
+prod-00556|sospechosa|imagen muestra Sedal Glycol+VitaC 640ml, producto es Ceramidas 340ml
+prod-00236|ok|
+prod-00498|ok|
+prod-00193|ok|
+prod-00650|ok|
+prod-00265|ok|
+prod-00551|ok|
+prod-00464|sospechosa|imagen muestra Amlodipino 10mg marca Colmed, producto es 5mg marca Coasp
+prod-00465|ok|
+prod-00467|ok|
+prod-00052|sospechosa|imagen muestra caja de 60 tabletas, producto es blister x4
+prod-00073|ok|
+prod-00704|ok|
+prod-00697|ok|
+prod-00470|ok|
+prod-00268|ok|
+prod-00534|ok|
+prod-00206|ok|
+prod-00430|ok|
+prod-00431|ok|
+prod-00001|ok|
+prod-00123|ok|
+prod-00071|ok|
+prod-00415|ok|
+prod-00237|ok|
+prod-00081|ok|
+prod-00412|ok|
+prod-00413|ok|
+prod-00414|ok|
+prod-00378|ok|
+prod-00143|sospechosa|imagen muestra marca MK, producto especifica marca Sanfer
+prod-00507|ok|
+prod-00520|ok|
+prod-00070|ok|
+prod-00886|sospechosa|imagen muestra marca Pharmalight con Vitamina E, no marca Pharbio
+prod-00887|ok|
+prod-00478|ok|
+prod-00021|ok|
+prod-00833|ok|
+prod-00632|ok|
+prod-00894|ok|
+prod-00251|ok|
+prod-00056|ok|
+prod-00424|ok|
+prod-00407|ok|
+prod-00903|ok|
+prod-00282|ok|
+prod-00856|sospechosa|imagen muestra caja de 20 grageas, producto es de 10
+prod-00079|ok|

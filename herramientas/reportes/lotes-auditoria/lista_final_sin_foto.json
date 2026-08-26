@@ -1,0 +1,552 @@
+﻿[
+    {
+        "id":  "prod-00518",
+        "nombre":  "AZITROMICINA 15ML POLVO LA SAN",
+        "categoria":  "Antibióticos"
+    },
+    {
+        "id":  "prod-00133",
+        "nombre":  "ALGODON MOTOCITOS 25G",
+        "categoria":  "Antigripales"
+    },
+    {
+        "id":  "prod-00134",
+        "nombre":  "ALGODON MOTOCITOS 50G",
+        "categoria":  "Antigripales"
+    },
+    {
+        "id":  "prod-00533",
+        "nombre":  "DESLORATADINA KIDS 60ML MEMPHI",
+        "categoria":  "Antigripales"
+    },
+    {
+        "id":  "prod-00357",
+        "nombre":  "PAÑITOS HUMEDOS TITOS X100",
+        "categoria":  "Antigripales"
+    },
+    {
+        "id":  "prod-00434",
+        "nombre":  "ACIDO FUSIDICO CREMA 2% LAPROF",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00147",
+        "nombre":  "BAYCUTEN N CREMA 35G",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00591",
+        "nombre":  "CLOBETASOL PROPINATO CREMA LAP",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00588",
+        "nombre":  "CREMA CALENDULA 30G CHENIER",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00595",
+        "nombre":  "CREMA DE CALENDULA PILI 30G",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00885",
+        "nombre":  "GELILAB ADVANCE UVA PHARBIOLAB",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00537",
+        "nombre":  "PROTECTOR NUDE SOLAR 80FPS 40M",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00598",
+        "nombre":  "PROTECTORES DE LACTANCIA AVENT",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00694",
+        "nombre":  "SAVIDOL VITALFARMA GEL 90G",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00345",
+        "nombre":  "SHAMPOO HEAD \u0026 SHOULDERS SOBRE",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00338",
+        "nombre":  "SHAMPOO JOHNSONS BABY GLICERIN",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00495",
+        "nombre":  "SHAMPOO TIO NACHO CONTROL CAS",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00615",
+        "nombre":  "VITALIS CREMA TOPICA BETAMETAS",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00696",
+        "nombre":  "ACEITE DE COCO 100ML EXTRA VIR",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00783",
+        "nombre":  "ACONDI SAVITAL SOBRE COMP HIAL",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00772",
+        "nombre":  "ACONDICI PANTENE CONTROL CAIDA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00348",
+        "nombre":  "ACONDICIONADOR PANTENE SOBRE REPARACION",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00556",
+        "nombre":  "ACONDICIONADOR SEDAL 340ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00464",
+        "nombre":  "AMLODIPINO 5MG - 10 TABL COASP",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00243",
+        "nombre":  "AMTRIPTILINA 25 MG AG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00858",
+        "nombre":  "ANGIOVAN CILOSTAZOL 50MG TECNO",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00143",
+        "nombre":  "CELECOXIB 100 MG SANFER",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00775",
+        "nombre":  "CEPILLO DENTAL NIÑOS SONRIDENT",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00688",
+        "nombre":  "CITRATO DE POTASIO PREMIUM D3",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00256",
+        "nombre":  "CLORFERAMINA JARABE 2MG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00886",
+        "nombre":  "COLAGENO+BIOTINA PHARBIO X30",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00150",
+        "nombre":  "FLUCONAZOL 150MG ICOM",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00893",
+        "nombre":  "GENTAMICINA SOLUCION OPTICA5ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00324",
+        "nombre":  "INHALOCAMARA ADULTO PROTEX",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00197",
+        "nombre":  "KOLA GRANULADA FRESA 135G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00198",
+        "nombre":  "KOLA GRANULADA FRESA 380G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00504",
+        "nombre":  "LUBRICANTE INTIMAZUL SACHET",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00502",
+        "nombre":  "MICROPORE KENNEDY PIEL 1/2X5",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00503",
+        "nombre":  "MICROPORE KENNEDY PIEL 1X5",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00541",
+        "nombre":  "MICROPORE SUPREME 1X1",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00693",
+        "nombre":  "MIEL DE ABEJAS LA ESPERANZA 355G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00559",
+        "nombre":  "OFERTA PONDS CLARANT B3 100G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00443",
+        "nombre":  "PANTOPRAZOL 20MG COLMED 30TABL",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00673",
+        "nombre":  "PAPA MARGARITA SURTIDA 25G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00710",
+        "nombre":  "POLVO COMPA VOGUE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00312",
+        "nombre":  "PREDNISOLONA 5MG LAPROFF 10 TA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00460",
+        "nombre":  "PRESERVATIVOS EXTASIS LUBRICAD",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00712",
+        "nombre":  "PRESTOBARBA GILLETTE NARANJA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00601",
+        "nombre":  "PROWHEY KALORI 200ML LIQUIDO",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00390",
+        "nombre":  "PRUEBA DE EMBARAZO CASSET ALL SET",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00391",
+        "nombre":  "PRUEBA DE EMBARAZO TIRA ALL SE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00106",
+        "nombre":  "RELAXMENT PLUS 500 MG 30 TABLE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00105",
+        "nombre":  "RELAXMENT PLUS 500MG 20 TABLE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00731",
+        "nombre":  "REMOVEDOR LANDER + OBSE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00751",
+        "nombre":  "SHAMPO DREAM LISO ELVIVE 370ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00755",
+        "nombre":  "SHAMPO GLYCOLIC CRISTAL ELVIVE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00888",
+        "nombre":  "SIETE FACTORES DE TRANSF 650MG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00605",
+        "nombre":  "SOUXA NITAZOXANIDA SUSPENSION",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00689",
+        "nombre":  "SURELAB CHILDREN´S POLVO VAINI",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00314",
+        "nombre":  "TADALOFILO 20MG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00646",
+        "nombre":  "TE HATSU SURTIDO 450ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00457",
+        "nombre":  "TOROVITAL SANGRE TORO 1000ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00769",
+        "nombre":  "TRATAM GLYCOLIC GLOSS 300G ELV",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00762",
+        "nombre":  "TRATAMI 3 EN 1 HIDRAHIALU 500M",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00863",
+        "nombre":  "TRIMETOPRIM SULFAMETO F GENGAR",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00691",
+        "nombre":  "COMPLEJO B + ZINC + VITA PHARB",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00687",
+        "nombre":  "SURELAB ULTRA MULTIVITA VAINIL",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00444",
+        "nombre":  "VITAMINA E COLMED 10 CAPSULAS",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00889",
+        "nombre":  "ISOFLAVONAS DE SOYA 500MG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00787",
+        "nombre":  "ACONDIC SAVITAL 490ML ELIXIR R",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00784",
+        "nombre":  "SHAMPO DOVE RECONSTRUCCION + A",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00773",
+        "nombre":  "ACONDICIONADOR BAMBU PANTENE 4",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00754",
+        "nombre":  "SHAMPO REPARA TOTAL5 ELVIVE 37",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00741",
+        "nombre":  "METOCLOPRAMIDA BLISTER SANFER",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00692",
+        "nombre":  "OMEGA 3 PHARBIOLAB",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00690",
+        "nombre":  "SURELAB MAMA POLVO VAINILLA PH",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00686",
+        "nombre":  "PROPOLVIK PASTILLAS GARGANTA S",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00680",
+        "nombre":  "GOMITAS GRISSLY SURTIDAS",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00677",
+        "nombre":  "CHOCORRAMO GRANDE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00669",
+        "nombre":  "TRIDENT SURTIDOS",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00667",
+        "nombre":  "JUMBO MANI MEDIANA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00638",
+        "nombre":  "FOSFOGEN COMPLEJO B X30 CAPSUL",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00636",
+        "nombre":  "ACTIVIT B COMPLEJO B",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00579",
+        "nombre":  "TERMOMETRO DIGITAL TERMOCARE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00557",
+        "nombre":  "SHAMPOO SAVITAL 510ML ELIXIR D",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00544",
+        "nombre":  "ESPADARADRAPO SUPREME 3X5",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00543",
+        "nombre":  "MICROPORE SUPREME 2X5",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00527",
+        "nombre":  "CETIRIZINA JARABE 60ML ECAR",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00461",
+        "nombre":  "MEGA MAX ENERGY SOBRE",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00458",
+        "nombre":  "VITACEREBRINA 1000ML OMEGA 3,6",
+        "categoria":  "Vitaminas"
+    },
+    {
+        "id":  "prod-00449",
+        "nombre":  "SHAMPO HEAD \u0026 SHOULDERS 375ML ",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00448",
+        "nombre":  "AGUA MICELAR POND ELOE FRUITY ",
+        "categoria":  "Bebidas"
+    },
+    {
+        "id":  "prod-00408",
+        "nombre":  "PRUEBA DE EMBARAZO EARLY TEST",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00389",
+        "nombre":  "JABON INTIMO INTIBON 210 G SAL",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00388",
+        "nombre":  "PROTECTOR SOLAR NIVEA SUN SHIN",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00387",
+        "nombre":  "PROTECTOR SOLAR NIVEA SUN SHIN",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00364",
+        "nombre":  "PICAFIN ROLON 60ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00340",
+        "nombre":  "CREMA LUBRIDERM HUMECTACION DE",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00277",
+        "nombre":  "HIDROXIDO ALUMINIO - HIDROXIDO",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00270",
+        "nombre":  "CLINDAMIXINA 600MG AMPOLLA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00194",
+        "nombre":  "CAJA CROPOLOGICA",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00166",
+        "nombre":  "CREMA COLGATE LUMINOUS WHITE 9",
+        "categoria":  "Cuidado personal"
+    },
+    {
+        "id":  "prod-00139",
+        "nombre":  "CERITAMIN JARABE 60 ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00138",
+        "nombre":  "CERITAMIN GOTAS 10MG",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00137",
+        "nombre":  "CERITAMIN",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00055",
+        "nombre":  "ALCOHOL ALCOMAX 350 ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00054",
+        "nombre":  "ALCOHOL ALCOMAX 700 ML",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00022",
+        "nombre":  "MIEL DE ROSAS UNGÜENTO  30 CC",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00018",
+        "nombre":  "PIEDRA ALUMBRE UNGÜENTO  25 G",
+        "categoria":  "Otros"
+    },
+    {
+        "id":  "prod-00017",
+        "nombre":  "VAGINCORT CREMA  20 G",
+        "categoria":  "Cuidado personal"
+    }
+]

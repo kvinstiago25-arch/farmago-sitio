@@ -1,0 +1,43 @@
+{
+  "procesados": 34,
+  "actualizados_reales": 10,
+  "fallidos": 24,
+  "actualizados_ids": [
+    "prod-00533",
+    "prod-00591",
+    "prod-00537",
+    "prod-00338",
+    "prod-00772",
+    "prod-00348",
+    "prod-00751",
+    "prod-00755",
+    "prod-00769",
+    "prod-00754"
+  ],
+  "fallidos_ids": [
+    "prod-00147",
+    "prod-00885",
+    "prod-00694",
+    "prod-00783",
+    "prod-00243",
+    "prod-00858",
+    "prod-00256",
+    "prod-00693",
+    "prod-00106",
+    "prod-00105",
+    "prod-00731",
+    "prod-00888",
+    "prod-00689",
+    "prod-00314",
+    "prod-00863",
+    "prod-00690",
+    "prod-00667",
+    "prod-00579",
+    "prod-00448",
+    "prod-00364",
+    "prod-00194",
+    "prod-00166",
+    "prod-00022",
+    "prod-00017"
+  ]
+}

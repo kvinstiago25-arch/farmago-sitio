@@ -1,0 +1,46 @@
+{
+  "timestamp": "20260819_124444",
+  "json": "productos.json",
+  "output_dir": "imagenesmedimentos\\reales",
+  "escaneados": 43,
+  "procesados_objetivo": 5,
+  "actualizados_reales": 0,
+  "reasignados_genericos": 5,
+  "conservados": 37,
+  "fallidos": 5,
+  "updated_ids": [],
+  "generic_ids": [
+    "prod-00518",
+    "prod-00133",
+    "prod-00134",
+    "prod-00533",
+    "prod-00357"
+  ],
+  "failed_ids": [
+    "prod-00518",
+    "prod-00133",
+    "prod-00134",
+    "prod-00533",
+    "prod-00357"
+  ],
+  "excluidos_no_producto": 0,
+  "excluidos_no_producto_ids": [],
+  "modo_final": true,
+  "min_white_ratio_usado": 0.05,
+  "allowed_sources": [
+    "articulo.mercadolibre.com.co",
+    "cruzverde.com.co",
+    "drogueriascafam.com.co",
+    "farmatodo.com.co",
+    "larebajavirtual.com",
+    "listado.mercadolibre.com.co",
+    "mercadolibre.com.co",
+    "rappi.com.co",
+    "www.cruzverde.com.co",
+    "www.drogueriascafam.com.co",
+    "www.farmatodo.com.co",
+    "www.larebajavirtual.com",
+    "www.mercadolibre.com.co",
+    "www.rappi.com.co"
+  ]
+}

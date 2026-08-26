@@ -1,0 +1,70 @@
+prod-00558|ok|
+prod-00320|ok|
+prod-00427|ok|
+prod-00513|ok|
+prod-00222|ok|
+prod-00286|ok|
+prod-00499|ok|
+prod-00443|sospechosa|foto muestra Pantoprazol de laboratorio MK, no Colmed como indica el nombre
+prod-00049|ok|
+prod-00796|ok|
+prod-00795|ok|
+prod-00130|ok|
+prod-00866|ok|
+prod-00717|ok|
+prod-00325|ok|
+prod-00710|sospechosa|foto muestra polvo compacto marca Ana María, no Vogue
+prod-00353|ok|
+prod-00354|ok|
+prod-00895|ok|
+prod-00301|ok|
+prod-00004|ok|
+prod-00312|sospechosa|foto muestra Prednisolona Coaspharma 30 tabletas, no Laproff 10 tabletas
+prod-00403|ok|
+prod-00404|ok|
+prod-00405|sospechosa|foto muestra condón Today Lubricado, no variante Mutual Sensation
+prod-00400|ok|
+prod-00402|ok|
+prod-00401|ok|
+prod-00460|sospechosa|foto muestra condones marca Today, no marca Extasis
+prod-00392|ok|
+prod-00601|sospechosa|foto muestra lata de polvo Prowhey, no presentación líquida de 200ml
+prod-00600|sospechosa|foto muestra empaque de 900g, no coincide con 460g del nombre
+prod-00390|sospechosa|foto muestra prueba de embarazo marca Indiker, no marca All Set
+prod-00391|sospechosa|foto muestra test digital Clearblue, no tira marca All Set
+prod-00524|ok|
+prod-00525|ok|
+prod-00609|ok|
+prod-00107|ok|
+prod-00108|ok|
+prod-00450|ok|
+prod-00752|ok|
+prod-00774|ok|
+prod-00790|ok|
+prod-00428|ok|
+prod-00605|sospechosa|foto muestra Nitazoxanida marca MK, no marca Souxa
+prod-00177|ok|
+prod-00313|ok|
+prod-00583|ok|
+prod-00228|ok|
+prod-00229|ok|
+prod-00715|ok|
+prod-00550|ok|
+prod-00792|ok|
+prod-00179|ok|
+prod-00311|ok|
+prod-00326|ok|
+prod-00452|ok|
+prod-00777|ok|
+prod-00767|ok|
+prod-00768|sospechosa|foto muestra Elvive Glycolic Gloss, no línea de Colágeno
+prod-00766|ok|
+prod-00770|sospechosa|foto muestra Elvive Reparación Total 5 con keratina, no Hidra Hialurónico
+prod-00780|ok|
+prod-00779|ok|
+prod-00778|ok|
+prod-00764|ok|
+prod-00761|sospechosa|foto muestra producto genérico "Recupera tus Rizos" 1kg, no Elvive 500ml
+prod-00758|ok|
+prod-00785|ok|
+prod-00567|ok|

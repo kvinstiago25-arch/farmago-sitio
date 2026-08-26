@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260805_171735",
+  "escaneados": 4,
+  "procesados_objetivo": 3,
+  "actualizados_reales": 0,
+  "reasignados_genericos": 3,
+  "conservados": 0,
+  "fallidos": 3,
+  "updated_ids": [],
+  "failed_ids": [
+    "prod-00868",
+    "prod-00432",
+    "prod-00433"
+  ]
+}

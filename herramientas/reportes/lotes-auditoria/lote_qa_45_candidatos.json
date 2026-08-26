@@ -1,0 +1,317 @@
+[
+ {
+  "sku": "prod-00518",
+  "nombre": "AZITROMICINA 15ML POLVO LA SAN",
+  "descripcion": "AZITROMICINA 15ML POLVO LA SANTE",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00518.jpg"
+ },
+ {
+  "sku": "prod-00515",
+  "nombre": "DESLORATADINA JARABE ECAR 60ML",
+  "descripcion": "DESLORATADINA JARABE ECAR 60ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00515.jpg"
+ },
+ {
+  "sku": "prod-00366",
+  "nombre": "REPELENTE MOSQUITOS OUT 60ML",
+  "descripcion": "REPELENTE MOSQUITOS OUT 60ML",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00366.jpg"
+ },
+ {
+  "sku": "prod-00367",
+  "nombre": "REPELENTE MOSQUITOS OUT 65G",
+  "descripcion": "REPELENTE MOSQUITOS OUT 65G",
+  "categoria": "Antigripales",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00367.jpg"
+ },
+ {
+  "sku": "prod-00434",
+  "nombre": "ACIDO FUSIDICO CREMA 2% LAPROF",
+  "descripcion": "ACIDO FUSIDICO CREMA 2% LAPROFF",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00434.png"
+ },
+ {
+  "sku": "prod-00147",
+  "nombre": "BAYCUTEN N CREMA 35G",
+  "descripcion": "BAYCUTEN N CREMA 35G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00147.jpg"
+ },
+ {
+  "sku": "prod-00588",
+  "nombre": "CREMA CALENDULA 30G CHENIER",
+  "descripcion": "CREMA CALENDULA 30G CHENIER",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00588.png"
+ },
+ {
+  "sku": "prod-00539",
+  "nombre": "CREMA DENTAL PROQUIDENT 95G",
+  "descripcion": "CREMA DENTAL PROQUIDENT 95G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00539.jpg"
+ },
+ {
+  "sku": "prod-00473",
+  "nombre": "DESODORANTE NIVEA MIRACLE SWEE",
+  "descripcion": "DESODORANTE NIVEA MIRACLE SWEE",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00473.png"
+ },
+ {
+  "sku": "prod-00174",
+  "nombre": "DESODORANTE REXONA CLINICAL",
+  "descripcion": "DESODORANTE REXONA CLINICAL CREMA DAMA 48G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00174.jpg"
+ },
+ {
+  "sku": "prod-00416",
+  "nombre": "JABON NIXODERM AZUFRE ALOE VER",
+  "descripcion": "JABON NIXODERM AZUFRE ALOE VERA",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00416.jpg"
+ },
+ {
+  "sku": "prod-00598",
+  "nombre": "PROTECTORES DE LACTANCIA AVENT",
+  "descripcion": "PROTECTORES DE LACTANCIA AVENT 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00598.jpg"
+ },
+ {
+  "sku": "prod-00345",
+  "nombre": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00345.jpg"
+ },
+ {
+  "sku": "prod-00187",
+  "nombre": "TOALLAS NOSOTRAS EXTRA PROTECC",
+  "descripcion": "TOALLAS NOSOTRAS EXTRA PROTECCION TELA SUAVE 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00187.jpg"
+ },
+ {
+  "sku": "prod-00615",
+  "nombre": "VITALIS CREMA TOPICA BETAMETAS",
+  "descripcion": "VITALIS CREMA TOPICA BETAMETASONA 0,04%",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00615.jpg"
+ },
+ {
+  "sku": "prod-00362",
+  "nombre": "YODORA CLASICO CREMA 12G",
+  "descripcion": "YODORA CLASICO CREMA 12G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00362.jpg"
+ },
+ {
+  "sku": "prod-00791",
+  "nombre": "ACONDI SAVITAL 490ML FUSION PR",
+  "descripcion": "ACONDICIONADOR SAVITAL 490ML FUSION PROTEINAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00791.jpg"
+ },
+ {
+  "sku": "prod-00783",
+  "nombre": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "descripcion": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00783.jpg"
+ },
+ {
+  "sku": "prod-00772",
+  "nombre": "ACONDICI PANTENE CONTROL CAIDA",
+  "descripcion": "ACONDICI PANTENE CONTROL CAIDA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00772.jpg"
+ },
+ {
+  "sku": "prod-00348",
+  "nombre": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "descripcion": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00348.jpg"
+ },
+ {
+  "sku": "prod-00556",
+  "nombre": "ACONDICIONADOR SEDAL 340ML",
+  "descripcion": "ACONDICIONADOR SEDAL 340ML CERAMIDAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00556.jpg"
+ },
+ {
+  "sku": "prod-00464",
+  "nombre": "AMLODIPINO 5MG - 10 TABL COASP",
+  "descripcion": "AMLODIPINO 5MG - 10 TABL COASP",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00464.png"
+ },
+ {
+  "sku": "prod-00052",
+  "nombre": "APRONAX 550 MG BLISTER X4",
+  "descripcion": "APRONAX 550 MG BLISTER X4",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00052.png"
+ },
+ {
+  "sku": "prod-00143",
+  "nombre": "CELECOXIB 100 MG SANFER",
+  "descripcion": "CELECOXIB 100 MG SANFER",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00143.jpg"
+ },
+ {
+  "sku": "prod-00886",
+  "nombre": "COLAGENO+BIOTINA PHARBIO X30",
+  "descripcion": "COLAGENO+BIOTINA PHARBIO X30",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00886.png"
+ },
+ {
+  "sku": "prod-00150",
+  "nombre": "FLUCONAZOL 150MG ICOM",
+  "descripcion": "FLUCONAZOL 150MG ICOM",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00150.png"
+ },
+ {
+  "sku": "prod-00893",
+  "nombre": "GENTAMICINA SOLUCION OPTICA5ML",
+  "descripcion": "GENTAMICINA 0,3% SOLUCION OPTICA 5 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00893.png"
+ },
+ {
+  "sku": "prod-00720",
+  "nombre": "HEMOCYTON JARABE TECNOQUIMICAS",
+  "descripcion": "HEMOCYTON JARABE TECNOQUIMICAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00720.jpg"
+ },
+ {
+  "sku": "prod-00324",
+  "nombre": "INHALOCAMARA ADULTO PROTEX",
+  "descripcion": "INHALOCAMARA ADULTO PROTEX",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00324.jpg"
+ },
+ {
+  "sku": "prod-00197",
+  "nombre": "KOLA GRANULADA FRESA 135G",
+  "descripcion": "KOLA GRANULADA FRESA 135G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00197.jpg"
+ },
+ {
+  "sku": "prod-00198",
+  "nombre": "KOLA GRANULADA FRESA 380G",
+  "descripcion": "KOLA GRANULADA FRESA 380G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00198.png"
+ },
+ {
+  "sku": "prod-00196",
+  "nombre": "KOLA GRANULADA TRADICIONAL135G",
+  "descripcion": "KOLA GRANULADA TRADICIONAL135G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00196.jpg"
+ },
+ {
+  "sku": "prod-00504",
+  "nombre": "LUBRICANTE INTIMAZUL SACHET",
+  "descripcion": "LUBRICANTE INTIMAZUL SACHET",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00504.png"
+ },
+ {
+  "sku": "prod-00425",
+  "nombre": "LUMBAL FORTE 6 TABLETAS",
+  "descripcion": "LUMBAL FORTE 6 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00425.jpg"
+ },
+ {
+  "sku": "prod-00540",
+  "nombre": "MICROPORE SUPREME 1/2 X5",
+  "descripcion": "MICROPORE SUPREME 1/2 X5",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00540.jpg"
+ },
+ {
+  "sku": "prod-00559",
+  "nombre": "OFERTA PONDS CLARANT B3 100G",
+  "descripcion": "CREMA PONDS CLARANT B3 100G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00559.jpg"
+ },
+ {
+  "sku": "prod-00443",
+  "nombre": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "descripcion": "PANTOPRAZOL 20MG COLMED 30TABL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00443.jpg"
+ },
+ {
+  "sku": "prod-00673",
+  "nombre": "PAPA MARGARITA SURTIDA 25G",
+  "descripcion": "PAPA MARGARITA SURTIDA 25G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00673.jpg"
+ },
+ {
+  "sku": "prod-00710",
+  "nombre": "POLVO COMPA VOGUE",
+  "descripcion": "POLVO COMPA VOGUE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00710.jpg"
+ },
+ {
+  "sku": "prod-00312",
+  "nombre": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "descripcion": "PREDNISOLONA 5MG LAPROFF 10 TA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00312.jpg"
+ },
+ {
+  "sku": "prod-00601",
+  "nombre": "PROWHEY KALORI 200ML LIQUIDO",
+  "descripcion": "PROWHEY KALORI 200ML LIQUIDO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00601.jpg"
+ },
+ {
+  "sku": "prod-00600",
+  "nombre": "PROWHEY KALORI 460G",
+  "descripcion": "PROWHEY KALORI 460G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00600.webp"
+ },
+ {
+  "sku": "prod-00391",
+  "nombre": "PRUEBA DE EMBARAZO TIRA ALL SE",
+  "descripcion": "PRUEBA DE EMBARAZO TIRA ALL SET",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00391.png"
+ },
+ {
+  "sku": "prod-00753",
+  "nombre": "SHAMPO HIALURONICO PURE ELVIVE",
+  "descripcion": "SHAMPO HIALURONICO PURE ELVIVE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00753.png"
+ },
+ {
+  "sku": "prod-00605",
+  "nombre": "SOUXA NITAZOXANIDA SUSPENSION",
+  "descripcion": "SOUXA NITAZOXANIDA SUSPENSION",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00605.jpg"
+ }
+]

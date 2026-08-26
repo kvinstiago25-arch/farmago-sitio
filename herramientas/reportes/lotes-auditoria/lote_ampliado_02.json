@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "prod-00601",
+  "nombre": "PROWHEY KALORI 200ML LIQUIDO",
+  "descripcion": "PROWHEY KALORI 200ML LIQUIDO",
+  "categoria": "Otros",
+  "precio": 12000
+ },
+ {
+  "sku": "prod-00391",
+  "nombre": "PRUEBA DE EMBARAZO TIRA ALL SE",
+  "descripcion": "PRUEBA DE EMBARAZO TIRA ALL SET",
+  "categoria": "Otros",
+  "precio": 2600
+ },
+ {
+  "sku": "prod-00605",
+  "nombre": "SOUXA NITAZOXANIDA SUSPENSION",
+  "descripcion": "SOUXA NITAZOXANIDA SUSPENSION",
+  "categoria": "Otros",
+  "precio": 30000
+ },
+ {
+  "sku": "prod-00518",
+  "nombre": "AZITROMICINA 15ML POLVO LA SAN",
+  "descripcion": "AZITROMICINA 15ML POLVO LA SANTE",
+  "categoria": "Antibióticos",
+  "precio": 19300
+ },
+ {
+  "sku": "prod-00367",
+  "nombre": "REPELENTE MOSQUITOS OUT 65G",
+  "descripcion": "REPELENTE MOSQUITOS OUT 65G",
+  "categoria": "Antigripales",
+  "precio": 6500
+ },
+ {
+  "sku": "prod-00147",
+  "nombre": "BAYCUTEN N CREMA 35G",
+  "descripcion": "BAYCUTEN N CREMA 35G",
+  "categoria": "Cuidado personal",
+  "precio": 42000
+ },
+ {
+  "sku": "prod-00783",
+  "nombre": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "descripcion": "ACONDI SAVITAL SOBRE COMP HIAL",
+  "categoria": "Otros",
+  "precio": 1000
+ },
+ {
+  "sku": "prod-00348",
+  "nombre": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "descripcion": "ACONDICIONADOR PANTENE SOBRE REPARACION",
+  "categoria": "Otros",
+  "precio": 1600
+ },
+ {
+  "sku": "prod-00150",
+  "nombre": "FLUCONAZOL 150MG ICOM",
+  "descripcion": "FLUCONAZOL 150MG ICOM",
+  "categoria": "Otros",
+  "precio": 3300
+ },
+ {
+  "sku": "prod-00324",
+  "nombre": "INHALOCAMARA ADULTO PROTEX",
+  "descripcion": "INHALOCAMARA ADULTO PROTEX",
+  "categoria": "Otros",
+  "precio": 9800
+ },
+ {
+  "sku": "prod-00504",
+  "nombre": "LUBRICANTE INTIMAZUL SACHET",
+  "descripcion": "LUBRICANTE INTIMAZUL SACHET",
+  "categoria": "Otros",
+  "precio": 24000
+ },
+ {
+  "sku": "prod-00559",
+  "nombre": "OFERTA PONDS CLARANT B3 100G",
+  "descripcion": "CREMA PONDS CLARANT B3 100G",
+  "categoria": "Otros",
+  "precio": 29000
+ },
+ {
+  "sku": "prod-00673",
+  "nombre": "PAPA MARGARITA SURTIDA 25G",
+  "descripcion": "PAPA MARGARITA SURTIDA 25G",
+  "categoria": "Otros",
+  "precio": 2200
+ },
+ {
+  "sku": "prod-00460",
+  "nombre": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "descripcion": "PRESERVATIVOS EXTASIS LUBRICAD",
+  "categoria": "Otros",
+  "precio": 2200
+ },
+ {
+  "sku": "prod-00749",
+  "nombre": "WINADEINE F EUROFARMA",
+  "descripcion": "WINADEINE F EUROFARMA",
+  "categoria": "Otros",
+  "precio": 15000
+ }
+]

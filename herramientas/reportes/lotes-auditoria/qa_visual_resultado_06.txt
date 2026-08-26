@@ -1,0 +1,70 @@
+prod-00568|ok|
+prod-00874|ok|
+prod-00371|ok|
+prod-00372|ok|
+prod-00373|ok|
+prod-00374|ok|
+prod-00380|ok|
+prod-00219|ok|
+prod-00218|ok|
+prod-00067|ok|
+prod-00749|sospechosa|foto muestra Winadeine F de Sanofi, no Eurofarma como indica el nombre
+prod-00149|ok|
+prod-00153|sospechosa|foto muestra Bactroderm yodopovidona, marca distinta a Yodopovil
+prod-00208|ok|
+prod-00852|ok|
+prod-00851|ok|
+prod-00691|sospechosa|foto muestra marca Vit Max B, no Pharb como indica el nombre
+prod-00444|sospechosa|foto muestra envase de 100 cápsulas, no 10 como indica el nombre
+prod-00901|ok|
+prod-00900|ok|
+prod-00898|ok|
+prod-00897|ok|
+prod-00877|ok|
+prod-00876|ok|
+prod-00873|ok|
+prod-00865|ok|
+prod-00864|ok|
+prod-00859|ok|
+prod-00857|ok|
+prod-00855|ok|
+prod-00854|ok|
+prod-00853|ok|
+prod-00850|sospechosa|foto muestra envase de 60 tabletas, no 30 como indica el nombre
+prod-00849|ok|
+prod-00848|ok|
+prod-00844|ok|
+prod-00843|sospechosa|imagen es un placeholder de foto no disponible, no un producto real
+prod-00842|ok|
+prod-00840|ok|
+prod-00839|ok|
+prod-00838|ok|
+prod-00837|ok|
+prod-00835|ok|
+prod-00834|sospechosa|foto muestra sabor frutos del bosque, no cereza como indica el nombre
+prod-00832|ok|
+prod-00831|ok|
+prod-00830|ok|
+prod-00829|ok|
+prod-00828|ok|
+prod-00827|ok|
+prod-00826|ok|
+prod-00822|ok|
+prod-00819|ok|
+prod-00818|ok|
+prod-00816|sospechosa|foto muestra lata de 355ml, no 250ml como indica el nombre
+prod-00808|ok|
+prod-00807|ok|
+prod-00806|ok|
+prod-00799|ok|
+prod-00787|sospechosa|foto muestra shampoo, no acondicionador; volumen 510ml no 490ml
+prod-00776|ok|
+prod-00771|ok|
+prod-00760|ok|
+prod-00745|ok|
+prod-00744|ok|
+prod-00743|ok|
+prod-00742|ok|
+prod-00741|sospechosa|foto muestra ampollas inyectables Genfar, no blister de tabletas Sanfer
+prod-00739|ok|
+prod-00738|ok|

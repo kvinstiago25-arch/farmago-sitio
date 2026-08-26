@@ -1,0 +1,492 @@
+[
+ {
+  "sku": "prod-00262",
+  "nombre": "BENLIC CREMA TOPICA 20G",
+  "descripcion": "BENLIC CREMA TOPICA 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00262.png"
+ },
+ {
+  "sku": "prod-00263",
+  "nombre": "BENLIC CREMA TOPICA 40G",
+  "descripcion": "BENLIC CREMA TOPICA 40G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00263.png"
+ },
+ {
+  "sku": "prod-00247",
+  "nombre": "BETAMETASONA 0.1% CREMA 20G",
+  "descripcion": "BETAMETASONA 0.1% CREMA 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00247.jpg"
+ },
+ {
+  "sku": "prod-00088",
+  "nombre": "BETAMETASONA CREMA AL 0.05%",
+  "descripcion": "BETAMETASONA CREMA AL 0.05%",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00088.jpg"
+ },
+ {
+  "sku": "prod-00267",
+  "nombre": "BLANKISIMA CREMA 60G",
+  "descripcion": "BLANKISIMA CREMA 60G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00267.jpg"
+ },
+ {
+  "sku": "prod-00165",
+  "nombre": "CEPILLO COLGATE TRIPLE ACCION",
+  "descripcion": "CEPILLO COLGATE TRIPLE ACCION",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00165.png"
+ },
+ {
+  "sku": "prod-00395",
+  "nombre": "CICATRICURE GEL 30G CICATRICES",
+  "descripcion": "CICATRICURE GEL 30G CICATRICES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00395.jpg"
+ },
+ {
+  "sku": "prod-00249",
+  "nombre": "CLOBETASOL PROPI CREMA AG",
+  "descripcion": "CLOBETASOL PROPIONATO 0.05% CREMA 40G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00249.png"
+ },
+ {
+  "sku": "prod-00250",
+  "nombre": "CLOTRIMAZOL CREMA VAGIN 1% AG",
+  "descripcion": "CLOTRIMAZOL 40G CREMA 1% AG",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00250.png"
+ },
+ {
+  "sku": "prod-00902",
+  "nombre": "CREMA #4 MEDICADA 30G",
+  "descripcion": "CREMA #4 MEDICADA 30G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00902.jpg"
+ },
+ {
+  "sku": "prod-00597",
+  "nombre": "CREMA #4 NATURAL 20G",
+  "descripcion": "CREMA #4 NATURAL 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00597.jpg"
+ },
+ {
+  "sku": "prod-00363",
+  "nombre": "CREMA #4 ORIGINAL 20G",
+  "descripcion": "CREMA #4 ORIGINAL 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00363.jpg"
+ },
+ {
+  "sku": "prod-00588",
+  "nombre": "CREMA CALENDULA 30G CHENIER",
+  "descripcion": "CREMA CALENDULA 30G CHENIER",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00588.jpg"
+ },
+ {
+  "sku": "prod-00167",
+  "nombre": "CREMA COLGATE SENSITIVE PRO AL",
+  "descripcion": "CREMA COLGATE SENSITIVE PRO ALIVIO 110G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00167.png"
+ },
+ {
+  "sku": "prod-00169",
+  "nombre": "CREMA COLGATE TOTAL WHITENING",
+  "descripcion": "CREMA COLGATE TOTAL WHITENING",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00169.jpg"
+ },
+ {
+  "sku": "prod-00585",
+  "nombre": "CREMA DE ARNICA 60G FRESHLY",
+  "descripcion": "CREMA DE ARNICA 60G NATURAL FRESHLY",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00585.jpg"
+ },
+ {
+  "sku": "prod-00586",
+  "nombre": "CREMA DE CALENDULA 60G FRESHLY",
+  "descripcion": "CREMA DE CALENDULA 60G NATURAL FRESHLY",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00586.jpg"
+ },
+ {
+  "sku": "prod-00539",
+  "nombre": "CREMA DENTAL PROQUIDENT 95G",
+  "descripcion": "CREMA DENTAL PROQUIDENT 95G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00539.png"
+ },
+ {
+  "sku": "prod-00514",
+  "nombre": "CREMA DENTAL VITIS ENCIAS 100M",
+  "descripcion": "CREMA DENTAL VITIS ENCIAS 100ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00514.jpg"
+ },
+ {
+  "sku": "prod-00385",
+  "nombre": "CREMA NIVEA CUIDADO FACIL 7 - 100ML",
+  "descripcion": "CREMA NIVEA CUIDADO FACIL 7 - 100ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00385.jpg"
+ },
+ {
+  "sku": "prod-00382",
+  "nombre": "CREMA NIVEA MILK NUTRITIVA 400",
+  "descripcion": "CREMA NIVEA MILK NUTRITIVA 400ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00382.jpg"
+ },
+ {
+  "sku": "prod-00757",
+  "nombre": "CREMA PEINAR CAIDA RESIST ELVI",
+  "descripcion": "CREMA PEINAR CAIDA RESIST ELVI",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00757.jpg"
+ },
+ {
+  "sku": "prod-00188",
+  "nombre": "CREMA PONDS CLARANT B3 45G",
+  "descripcion": "CREMA PONDS CLARANT B3 FACIL CON PROTECCION SOLAR 45G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00188.webp"
+ },
+ {
+  "sku": "prod-00560",
+  "nombre": "CREMA PONDS CLARANT B3 50G",
+  "descripcion": "CREMA PONDS CLARANT B3 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00560.png"
+ },
+ {
+  "sku": "prod-00879",
+  "nombre": "CREMA PONDS NUTRITIVA 200G",
+  "descripcion": "CREMA PONDS NUTRITIVA 200G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00879.jpg"
+ },
+ {
+  "sku": "prod-00880",
+  "nombre": "CREMA PONDS NUTRITIVA 50G",
+  "descripcion": "CREMA PONDS NUTRITIVA 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00880.png"
+ },
+ {
+  "sku": "prod-00189",
+  "nombre": "CREMA PONDS REJUVENESS 50G",
+  "descripcion": "CREMA PONDS REJUVENESS 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00189.jpg"
+ },
+ {
+  "sku": "prod-00878",
+  "nombre": "CREMA PONDS VERDE PEPINO 50G",
+  "descripcion": "CREMA PONDS VERDE PEPINO 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00878.png"
+ },
+ {
+  "sku": "prod-00578",
+  "nombre": "CREMA PROTECTORA ARRURRU 25G",
+  "descripcion": "CREMA PROTECTORA ARRURRU 25G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00578.jpg"
+ },
+ {
+  "sku": "prod-00006",
+  "nombre": "DERMASKIN CREMA 20 G",
+  "descripcion": "DERMASKIN CREMA 20 G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00006.png"
+ },
+ {
+  "sku": "prod-00750",
+  "nombre": "DERMASKIN CREMA 40G",
+  "descripcion": "DERMASKIN CREMA 40G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00750.png"
+ },
+ {
+  "sku": "prod-00344",
+  "nombre": "DESODORANTE BALANCE MEN 30G",
+  "descripcion": "DESODORANTE BALANCE MEN 30G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00344.jpg"
+ },
+ {
+  "sku": "prod-00501",
+  "nombre": "DESODORANTE BALANCE MEN 50G",
+  "descripcion": "DESODORANTE BALANCE CLINICAL CREMA MEN 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00501.jpg"
+ },
+ {
+  "sku": "prod-00343",
+  "nombre": "DESODORANTE BALANCE WOMEN 30G",
+  "descripcion": "DESODORANTE BALANCE WOMEN 30G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00343.jpg"
+ },
+ {
+  "sku": "prod-00500",
+  "nombre": "DESODORANTE BALANCE WOMEN 50G",
+  "descripcion": "DESODORANTE BALANCE CLINICAL CREMA WOMEN 50G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00500.jpg"
+ },
+ {
+  "sku": "prod-00786",
+  "nombre": "DESODORANTE DOVE SPRAY 150ML",
+  "descripcion": "DESODORANTE DOVE SPRAY 150ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00786.jpg"
+ },
+ {
+  "sku": "prod-00472",
+  "nombre": "DESODORANTE NIVEA ACLARANTE",
+  "descripcion": "DESODORANTE NIVEA ACLARANTE 50ML ROLON",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00472.jpg"
+ },
+ {
+  "sku": "prod-00174",
+  "nombre": "DESODORANTE REXONA CLINICAL",
+  "descripcion": "DESODORANTE REXONA CLINICAL CREMA DAMA 48G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00174.jpg"
+ },
+ {
+  "sku": "prod-00175",
+  "nombre": "DESODORANTE REXONA ROLON HOMBR",
+  "descripcion": "DESODORANTE REXONA ROLON HOMBR",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00175.png"
+ },
+ {
+  "sku": "prod-00102",
+  "nombre": "DICLOFENACO GEL TOPICO 1%",
+  "descripcion": "DICLOFENACO GEL TOPICO 1%",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00102.jpg"
+ },
+ {
+  "sku": "prod-00044",
+  "nombre": "DOLEX ACTIV GEL 10 CAPS",
+  "descripcion": "DOLEX ACTIV GEL 10 CAPS",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00044.jpg"
+ },
+ {
+  "sku": "prod-00474",
+  "nombre": "GEL LUBRICANTE DUO PURE 75ML",
+  "descripcion": "GEL LUBRICANTE DUO PURE 75ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00474.webp"
+ },
+ {
+  "sku": "prod-00212",
+  "nombre": "GELPIN FAST 4 TABLETAS",
+  "descripcion": "GELPIN FAST 4 TABLETAS",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00212.jpg"
+ },
+ {
+  "sku": "prod-00298",
+  "nombre": "HIDROCORTISONA CREMA 1% AG 15G",
+  "descripcion": "HIDROCORTISONA CREMA 1% AG 15G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00298.png"
+ },
+ {
+  "sku": "prod-00396",
+  "nombre": "JABON ASEPXIA AZUFRE 100G",
+  "descripcion": "JABON ASEPXIA AZUFRE 100G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00396.jpg"
+ },
+ {
+  "sku": "prod-00397",
+  "nombre": "JABON ASEPXIA BICARBONATO 100G",
+  "descripcion": "JABON ASEPXIA BICARBONATO 100G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00397.png"
+ },
+ {
+  "sku": "prod-00398",
+  "nombre": "JABON ASEPXIA ESPONJA 80G",
+  "descripcion": "JABON ASEPXIA ESPONJA 80G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00398.webp"
+ },
+ {
+  "sku": "prod-00399",
+  "nombre": "JABON ASEPXIA EXFOLIANTE 100G",
+  "descripcion": "JABON ASEPXIA EXFOLIANTE 100G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00399.png"
+ },
+ {
+  "sku": "prod-00658",
+  "nombre": "JABON BABY DOVE 400ML HIPOALER",
+  "descripcion": "JABON BABY DOVE 400ML HIPOALER",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00658.jpg"
+ },
+ {
+  "sku": "prod-00656",
+  "nombre": "JABON DOVE REVIGORANTE 90G",
+  "descripcion": "JABON DOVE REVIGORANTE 90G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00656.jpg"
+ },
+ {
+  "sku": "prod-00479",
+  "nombre": "JABON INTIMO MUJER CALENDULA",
+  "descripcion": "JABON INTIMO MUJER CALENDULA 210G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00479.webp"
+ },
+ {
+  "sku": "prod-00482",
+  "nombre": "JABON INTIMO MUJER SALVIA Y CALENDULA 210G + VINAGRE DE MANZANA Y CALENDULA 55G",
+  "descripcion": "JABON INTIMO MUJER SALVIA Y CALENDULA 210G + VINAGRE DE MANZANA Y CALENDULA 55G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00482.jpg"
+ },
+ {
+  "sku": "prod-00416",
+  "nombre": "JABON NIXODERM AZUFRE ALOE VER",
+  "descripcion": "JABON NIXODERM AZUFRE ALOE VERA",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00416.png"
+ },
+ {
+  "sku": "prod-00418",
+  "nombre": "JABON NIXODERM AZUFRE EXTRACTO",
+  "descripcion": "JABON NIXODERM AZUFRE EXTRACTO DE ARROZ",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00418.png"
+ },
+ {
+  "sku": "prod-00488",
+  "nombre": "JABON PALMOLIVE AVENA Y AZUCAR",
+  "descripcion": "JABON PALMOLIVE AVENA Y AZUCAR",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00488.jpg"
+ },
+ {
+  "sku": "prod-00489",
+  "nombre": "JABON PALMOLIVE SANDIA Y LYCHE",
+  "descripcion": "JABON PALMOLIVE SANDIA Y LYCHE",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00489.jpg"
+ },
+ {
+  "sku": "prod-00346",
+  "nombre": "JABON PROTEX HERBAL 110G",
+  "descripcion": "JABON PROTEX HERBAL 110G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00346.jpg"
+ },
+ {
+  "sku": "prod-00335",
+  "nombre": "JABON SOHNSONS BABY 110G",
+  "descripcion": "JABON SOHNSONS BABY 110G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00335.jpg"
+ },
+ {
+  "sku": "prod-00330",
+  "nombre": "KETOPROFENO GEL 2.5%",
+  "descripcion": "KETOPROFENO GEL 2.5%",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00330.png"
+ },
+ {
+  "sku": "prod-00802",
+  "nombre": "LASONIL ACTIVE GEL 30G",
+  "descripcion": "LASONIL ACTIVE GEL 30G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00802.png"
+ },
+ {
+  "sku": "prod-00566",
+  "nombre": "NEOTRISONA CREMA 20G",
+  "descripcion": "NEOTRISONA CREMA 20G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00566.jpg"
+ },
+ {
+  "sku": "prod-00536",
+  "nombre": "PROTECTOR NUDE SOLAR 80FPS 120",
+  "descripcion": "PROTECTOR NUDE SOLAR 80FPS 120",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00536.jpg"
+ },
+ {
+  "sku": "prod-00596",
+  "nombre": "PROTECTORES DE LACTANCIA 40 NOSOTRAS",
+  "descripcion": "PROTECTORES DE LACTANCIA 40 NOSOTRAS",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00596.jpg"
+ },
+ {
+  "sku": "prod-00598",
+  "nombre": "PROTECTORES DE LACTANCIA AVENT",
+  "descripcion": "PROTECTORES DE LACTANCIA AVENT 24 UNIDADES",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00598.jpg"
+ },
+ {
+  "sku": "prod-00349",
+  "nombre": "PROTECTORES NOSOTRAS X15",
+  "descripcion": "PROTECTORES NOSOTRAS X15",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00349.jpg"
+ },
+ {
+  "sku": "prod-00170",
+  "nombre": "SEDA DENTAL COLGATE TOTAL HILO 25MTS",
+  "descripcion": "SEDA DENTAL COLGATE TOTAL HILO 25MTS",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00170.jpg"
+ },
+ {
+  "sku": "prod-00476",
+  "nombre": "SHAMPOO ARRURRU MANZANILLA 400",
+  "descripcion": "SHAMPOO ARRURRU MANZANILLA 400ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00476.png"
+ },
+ {
+  "sku": "prod-00651",
+  "nombre": "SHAMPOO HEAD & SHOULDERS 375ML",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS 375ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00651.jpg"
+ },
+ {
+  "sku": "prod-00345",
+  "nombre": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "descripcion": "SHAMPOO HEAD & SHOULDERS SOBRE",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00345.jpg"
+ },
+ {
+  "sku": "prod-00336",
+  "nombre": "SHAMPOO JOHNSONS BABY MANZANIL",
+  "descripcion": "SHAMPOO JOHNSONS BABY MANZANIL",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00336.jpg"
+ }
+]

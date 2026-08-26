@@ -1,0 +1,418 @@
+[
+ {
+  "sku": "prod-00576",
+  "nombre": "COLONIA ARRURRU ROSADO 120ML",
+  "descripcion": "COLONIA ARRURRU ROSADO 120ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00576.webp",
+  "fuente": "https://www.farmatodo.com.co/producto/1037685-colonia-arrurru-naturals"
+ },
+ {
+  "sku": "prod-00544",
+  "nombre": "ESPADARADRAPO SUPREME 3X5",
+  "descripcion": "ESPADARADRAPO SUPREME 3X5",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00544.jpg",
+  "fuente": "https://www.locatelcolombia.com/7707710160651-venda-de-yeso-supreme-3x5-yds/p"
+ },
+ {
+  "sku": "prod-00543",
+  "nombre": "MICROPORE SUPREME 2X5",
+  "descripcion": "MICROPORE SUPREME 2X5",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00543.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/cinta-microporosa-supreme-piel-1x5-yardas-7707270368528/p?srsltid=AfmBOoqGZab3OJE-gTHiVfnOQOPy_8LkXbE-5_bhUQ9vSS4vuJrvMNGj"
+ },
+ {
+  "sku": "prod-00527",
+  "nombre": "CETIRIZINA JARABE 60ML ECAR",
+  "descripcion": "CETIRIZINA JARABE 60ML ECAR",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00527.jpg",
+  "fuente": "https://www.farmalisto.com.co/formulados/78911-cetirizina-100-mg-ecar-caja-de-400-tabs-7702184876732.html?srsltid=AfmBOoq-nylqbB-9JOHkQWr4qsI_epbF3t3Mn25hLTeKBc8q54gpwVyQ"
+ },
+ {
+  "sku": "prod-00449",
+  "nombre": "SHAMPO HEAD & SHOULDERS 375ML ",
+  "descripcion": "SHAMPO HEAD & SHOULDERS 375ML ANTIRRESEQUEDAD",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00449.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/shampoo-head--shoulders-limpieza-renovadora-7500435019958/p?srsltid=AfmBOophwsrfctYjO6BK71dy26WZwV2pK9OEFIeR95P1QqJ3VwhX2xsO"
+ },
+ {
+  "sku": "prod-00408",
+  "nombre": "PRUEBA DE EMBARAZO EARLY TEST",
+  "descripcion": "PRUEBA DE EMBARAZO EARLY TEST",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00408.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/211700605-prueba-de-embarazo-begut---tipo-cassete-caja-x-1-und"
+ },
+ {
+  "sku": "prod-00389",
+  "nombre": "JABON INTIMO INTIBON 210 G SAL",
+  "descripcion": "JABON INTIMO INTIBON 210 G SALVIA Y CALENDULA",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00389.webp",
+  "fuente": "https://www.farmatodo.com.co/producto/213951109-jabon-intibon-ropa---intima-x-300-ml"
+ },
+ {
+  "sku": "prod-00365",
+  "nombre": "REPELENTE OUT 120ML",
+  "descripcion": "REPELENTE OUT 120ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00365.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/repelente-fly-out-ninos-spray-7707355058160/p?srsltid=AfmBOor41RXocyCgzex_9dNor04yEKuRFR3hK69DwKfLflyj4XMG5vdT"
+ },
+ {
+  "sku": "prod-00340",
+  "nombre": "CREMA LUBRIDERM HUMECTACION DE",
+  "descripcion": "CREMA LUBRIDERM HUMECTACION DELICADA  120ML",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00340.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/cuidado-personal/cuidado-corporal/crema-lubriderm-extra-humectante-200-ml/?srsltid=AfmBOooNjhBtyeMl2u7wtR8VVw5CMCz5C3ANSeqjIT8nBwKI6iYDidBN"
+ },
+ {
+  "sku": "prod-00277",
+  "nombre": "HIDROXIDO ALUMINIO - HIDROXIDO",
+  "descripcion": "HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 150ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00277.jpg",
+  "fuente": "https://www.locatelcolombia.com/7702057073602-hidroxido-de-aluminio-mk-suspension-6g-100ml-x-360ml/p"
+ },
+ {
+  "sku": "prod-00270",
+  "nombre": "CLINDAMIXINA 600MG AMPOLLA",
+  "descripcion": "CLINDAMIXINA 600MG AMPOLLA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00270.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/209050113-clindamicina-vitalis"
+ },
+ {
+  "sku": "prod-00190",
+  "nombre": "STOPEN 2 CAPSULAS",
+  "descripcion": "STOPEN 2 CAPSULAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00190.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/stopen-dispensador-25-sbs-2-capsulas/?srsltid=AfmBOorar2AGAmQhGqAVm-sw42htV0m0d74_6myGKpkEVbrrSXRZKM5J"
+ },
+ {
+  "sku": "prod-00140",
+  "nombre": "LEGRIP PLUS",
+  "descripcion": "LEGRIP PLUS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00140.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/otc/legrip-plus-10-capsulas-blandas/?srsltid=AfmBOoocno6eSj1KhhRK8FYkoALA8CTbaY6gjJGNxhJpu8wKy_SLrqSK"
+ },
+ {
+  "sku": "prod-00116",
+  "nombre": "JERINGA 3P 5 ML",
+  "descripcion": "JERINGA 3P 5 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00116.png",
+  "fuente": "https://www.larebajavirtual.com/jeringa-alfasafe-3ml-3p-23x1-62548/p?srsltid=AfmBOood6zE12UQb0dr3KbONHIYeIycPKKmR28P6t9ljJ32nw3QU3PON"
+ },
+ {
+  "sku": "prod-00051",
+  "nombre": "PEDIALYTE ACTIVE FRESA 500 ML",
+  "descripcion": "PEDIALYTE ACTIVE FRESA 500 ML",
+  "categoria": "Bebidas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00051.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/1036531-suero-rehidratante-pedialyte-active-fresa-frasco-x-500-ml"
+ },
+ {
+  "sku": "prod-00030",
+  "nombre": "CATALAC ACETAMINOFEN 500 MG",
+  "descripcion": "CATALAC ACETAMINOFEN 500 MG",
+  "categoria": "Analgésicos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00030.png",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/catalac-500-mg-100-tabletas-icom/?srsltid=AfmBOorrkFjho8SF42VTNpqL-FtoXAjGdL3ImujYVAmTJiZ9CXNCrvo5"
+ },
+ {
+  "sku": "prod-00595",
+  "nombre": "CREMA DE CALENDULA PILI 30G",
+  "descripcion": "CREMA DE CALENDULA PILI 30G",
+  "categoria": "Cuidado personal",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00595.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/propios-san-jorge/cosmeticos/crema-de-calendula-pili/?srsltid=AfmBOorEj0FqjVyvdDyFbwJKqcmMb7p74j7bBe2WKzUOK0R1xYaqDDfT"
+ },
+ {
+  "sku": "prod-00696",
+  "nombre": "ACEITE DE COCO 100ML EXTRA VIR",
+  "descripcion": "ACEITE DE COCO 100ML EXTRA VIR",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00696.jpg",
+  "fuente": "https://www.farmatodo.com.co/a/p/aceite-coco.html"
+ },
+ {
+  "sku": "prod-00775",
+  "nombre": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "descripcion": "CEPILLO DENTAL NIÑOS SONRIDENT",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00775.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/refrescante-bucal-sonrident-cool--x-treme-menta-limon-20-ml-7702314502302/p?srsltid=AfmBOorlsnuMj6SAGpeMOpVNGVPTKBQsMcKieF5tkK4lhw88sYxgqd6I"
+ },
+ {
+  "sku": "prod-00712",
+  "nombre": "PRESTOBARBA GILLETTE NARANJA",
+  "descripcion": "PRESTOBARBA GILLETTE NARANJA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00712.jpg",
+  "fuente": "https://www.olimpica.com/maquina-de-afeitar-recargable-de-5-hojas-gillette-fusion5-1-ud/p"
+ },
+ {
+  "sku": "prod-00564",
+  "nombre": "SOLUCION SALINA INYECTA 250ML",
+  "descripcion": "SOLUCION SALINA INYECTABLE 250ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00564.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/solucion-salina-09--7707141349298/p?srsltid=AfmBOopbZVTBZ0Tmy4AP65HvwvhD5n-CjV2lfog5GHgGzYgHz4f1rBni"
+ },
+ {
+  "sku": "prod-00646",
+  "nombre": "TE HATSU SURTIDO 450ML",
+  "descripcion": "TE HATSU SURTIDO 450ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00646.jpg",
+  "fuente": "https://www.exito.com/te-tetrapak-surtido-x-12-933249/p"
+ },
+ {
+  "sku": "prod-00420",
+  "nombre": "TOTUMO JARABE 240ML FRESLY",
+  "descripcion": "TOTUMO JARABE 240ML FRESLY",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00420.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/naturales/manejo-resfriados/jbe-totumo-240ml-freslhy/?srsltid=AfmBOori-OD2WltqyXyblg_CeRZHngjlwg7uMOOk2B58U5YLv4bUZX8p"
+ },
+ {
+  "sku": "prod-00769",
+  "nombre": "TRATAM GLYCOLIC GLOSS 300G ELV",
+  "descripcion": "TRATAM GLYCOLIC GLOSS 300G ELVIVE",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00769.jpg",
+  "fuente": "https://www.exito.com/tratamiento-3-en-1-elvive-glycolic-gloss-500-ml-3229135/p"
+ },
+ {
+  "sku": "prod-00670",
+  "nombre": "TRULULU PIRAMIDAL",
+  "descripcion": "TRULULU PIRAMIDAL",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00670.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/gomas-trululu-snacks-osos-oro-x-70gr-7702993051771/p?srsltid=AfmBOoqLTtAfzQA28fCxfJR6vLO3boIySde7Awnz8OwTtZad7ITMUKEJ"
+ },
+ {
+  "sku": "prod-00154",
+  "nombre": "YODOPOVIL SOLUCION 60ML",
+  "descripcion": "YODOPOVIL SOLUCION 60ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00154.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/yodopovil-solucion-60-ml-icom/?srsltid=AfmBOopIDU8xpeg_EMZ_bAjjWQm13SUbb73oLkvHjfFDWtNxEGJ5PEb0"
+ },
+ {
+  "sku": "prod-00899",
+  "nombre": "CLARITROMICINA 500 MG LAPROFF",
+  "descripcion": "CLARITROMICINA 500 MG LAPROFF",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00899.jpg",
+  "fuente": "https://www.farmalisto.com.co/formulados/2359-comprar-claritromicina-500-mg-caja-con-10-tabletas-recubiertas-orales-rx-precio-7703153014674.html?srsltid=AfmBOoqHCgQ6pBSCVJk4VvNz15GAperRlwhHE_59CQeJpx18qY3_ruj4"
+ },
+ {
+  "sku": "prod-00889",
+  "nombre": "ISOFLAVONAS DE SOYA 500MG",
+  "descripcion": "ISOFLAVONAS DE SOYA 500MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00889.jpg",
+  "fuente": "https://www.farmatodo.com.co/producto/1023182-freshlypausia-isoflavonas-de-soya-560-mg-natural-freshly-frasco-x-50-capsulas"
+ },
+ {
+  "sku": "prod-00825",
+  "nombre": "HELADO ARTESANAL MANDARINA",
+  "descripcion": "HELADO ARTESANAL MANDARINA",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00825.jpg",
+  "fuente": "https://www.exito.com/artesanal-mandarina-crem-helado-artesanal-dulce-de-mandarina-70-gr-3252678/p"
+ },
+ {
+  "sku": "prod-00803",
+  "nombre": "CHOCOCONO X90G",
+  "descripcion": "CHOCOCONO X90G",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00803.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/cono-chococono-crem-helado-7702402054416/p?srsltid=AfmBOoogFvQ8Ak62ufZG1RqaUNvmQuOkAAqT5EZ7IsJmRvcH47rJPS6v"
+ },
+ {
+  "sku": "prod-00784",
+  "nombre": "SHAMPO DOVE RECONSTRUCCION + A",
+  "descripcion": "SHAMPO DOVE RECONSTRUCCION + AMINO 370ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00784.jpg",
+  "fuente": "https://www.exito.com/shampoo-dove-reconstruccion-completa-bote-x-750ml-983978/p"
+ },
+ {
+  "sku": "prod-00732",
+  "nombre": "IGORA 606 CHOCOLATE INTENSO BR",
+  "descripcion": "IGORA 606 CHOCOLATE INTENSO BRILLANCE 2 TUBOS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00732.jpg",
+  "fuente": "https://www.exito.com/tintura-permanente-606-chocolate-intenso-doble-tubo-931804/p"
+ },
+ {
+  "sku": "prod-00695",
+  "nombre": "ACEITE DE CALENDULA 120ML",
+  "descripcion": "ACEITE DE CALENDULA 120ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00695.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/ancestral/secretos-de-belleza/ace-calendula-120-cc/?srsltid=AfmBOor9GPtfXDCeNidOS_IGsn3TYiavfPnszQ9pt3dlatdO38q8qkXo"
+ },
+ {
+  "sku": "prod-00679",
+  "nombre": "BOM BOM BUM SURTIDO",
+  "descripcion": "BOM BOM BUM SURTIDO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00679.jpg",
+  "fuente": "https://www.olimpica.com/bom-bom-bum-surtido-24-und-456-g-7702011242570--1216640/p"
+ },
+ {
+  "sku": "prod-00570",
+  "nombre": "CHUPO REPUESTO AVENTS",
+  "descripcion": "CHUPO REPUESTO AVENTS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00570.jpg",
+  "fuente": "https://www.exito.com/2-chupos-repuesto-tetero-avent-natural-flujo-rapido-6-meses-corte-y-espesos-tetina-101150528-mp/p"
+ },
+ {
+  "sku": "prod-00542",
+  "nombre": "MICROPORE SUPREME 1X5",
+  "descripcion": "MICROPORE SUPREME 1X5",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00542.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/cinta-microporosa-supreme-piel-12x5-yardas-7707270369471/p?srsltid=AfmBOoo2t-kZeS6RRsA9nptSX9DrFDA2pq12ro95Nc6z4esIIq6woYnX"
+ },
+ {
+  "sku": "prod-00469",
+  "nombre": "GEL LUBRICANTE HOT CALIENTE PI",
+  "descripcion": "GEL LUBRICANTE HOT CALIENTE PIEL 30ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00469.jpg",
+  "fuente": "https://www.drogueriascolsubsidio.com/gel-lubricante-piel-hotcaliente-prf-7703689792244/p?srsltid=AfmBOopm8UjLIS4gglzlDM_QWhb6xmwYKxAY3of1-5t5uGXutP5AIpoH"
+ },
+ {
+  "sku": "prod-00458",
+  "nombre": "VITACEREBRINA 1000ML OMEGA 3,6",
+  "descripcion": "VITACEREBRINA 1000ML OMEGA 3,6,9",
+  "categoria": "Vitaminas",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00458.png",
+  "fuente": "https://www.locatelcolombia.com/7707056218566-vitacerebrina-finlay-naranja-jarab-180ml-1/p"
+ },
+ {
+  "sku": "prod-00453",
+  "nombre": "SILDENAFIL 50MG RC",
+  "descripcion": "SILDENAFIL 50MG RC",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00453.jpg",
+  "fuente": "https://www.drogueriascafam.com.co/medicamentos/6796-comprar-en-cafam-sildenafil-50-mg-caja-con-4-tabletas-recubiertas-american-generics-precio-7706569002778.html?srsltid=AfmBOoq5ZFkrnoRDWNRNNY32QoGEjVYdkGhgdDFf32wCu--Z84tYySUc"
+ },
+ {
+  "sku": "prod-00139",
+  "nombre": "CERITAMIN JARABE 60 ML",
+  "descripcion": "CERITAMIN JARABE 60 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00139.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/ceritamin-10-mg-10-tab-icom/?srsltid=AfmBOoqPjmY-c5FGDjSzX2astAoPbXISun4IqLOUSs3FT3C_U2bW-iwM"
+ },
+ {
+  "sku": "prod-00138",
+  "nombre": "CERITAMIN GOTAS 10MG",
+  "descripcion": "CERITAMIN GOTAS 10MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00138.jpg",
+  "fuente": "https://www.drogueriascafam.com.co/medicamentos/30879-comprar-en-cafam-ceritizina-1-memphis-gotas-frasco-con-15-ml-precio-7704412118898.html?srsltid=AfmBOoqcrgLkueyldZSyuNZfzZBxkBws1YI9hpaM2s4zoWVmrWs-G8qd"
+ },
+ {
+  "sku": "prod-00136",
+  "nombre": "CALFAFEM D",
+  "descripcion": "CALFAFEM D",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00136.png",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/nutricion-y-suplementos/suplementos-dietarios/suplementos-de-calcio/calfafem-calciod-600mg-30cap-icom/?srsltid=AfmBOoqBk-jQtHjy2vVv1IQuY5DorVgfmkcZrivYEMiYe3KchDsk6Zsq"
+ },
+ {
+  "sku": "prod-00112",
+  "nombre": "DICLOFENACO 1% GEL 50 G ICOM",
+  "descripcion": "DICLOFENACO 1% GEL 50 G ICOM",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00112.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/diclofenaco-1-gel-50-gr-icom/?srsltid=AfmBOop6n1KFHqwzQ7o-RyEZw34ZlekIeVafE6J-JVtfdtFh_BmEchTF"
+ },
+ {
+  "sku": "prod-00104",
+  "nombre": "MEPROGAL 7.5 MG 10 TABLETAS",
+  "descripcion": "MEPROGAL 7.5 MG 10 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00104.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/meprogal-7-5mg-10-tabletas-icom/?srsltid=AfmBOoowAeAvz2pKtzdh3vTkBbMXVmhR16Lf66KiVp74x0-jJxAZvSxR"
+ },
+ {
+  "sku": "prod-00103",
+  "nombre": "MEPROGAL 15 MG 10 TABLETAS",
+  "descripcion": "MEPROGAL 15 MG 10 TABLETAS",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00103.webp",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/meprogal-15-mg-10-tabletas-icom/?srsltid=AfmBOoqQFCCONlEFo4tTd1VQdA0hrbxoQE8reSrZfZwNrj9txsjClLZj"
+ },
+ {
+  "sku": "prod-00101",
+  "nombre": "ATIFLAN 50 MG 20 TABLETAS DICL",
+  "descripcion": "ATIFLAN 50 MG 20 TABLETAS DICLOFENACO SODICO",
+  "categoria": "Antiinflamatorios",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00101.png",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/atiflan-50mg-20-tabletas-icom/?srsltid=AfmBOopaXjHluKoj7F1_vIr-xOkY083djiBvclDEtNIaqs6Xrc0FvOD0"
+ },
+ {
+  "sku": "prod-00064",
+  "nombre": "BACIPREX 250 MG POLVO",
+  "descripcion": "BACIPREX 250 MG POLVO",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00064.png",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/baciprex-250mg-susp-100ml-icom/?srsltid=AfmBOorpLIUgYsqxHVpU1pJd3lbd4KBsVw0vNjvTVEAXZR30ySjo58_d"
+ },
+ {
+  "sku": "prod-00063",
+  "nombre": "BACIPREX 500MG AMOXICILINA",
+  "descripcion": "BACIPREX 500MG AMOXICILINA",
+  "categoria": "Antibióticos",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00063.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/baciprex-500-mg-50-capsulas-icom/?srsltid=AfmBOoqMUSaCrvuKQ3DQF7m9qyM1mbsCepBmIZr1vFA5tcwuJoqa_Nnq"
+ },
+ {
+  "sku": "prod-00061",
+  "nombre": "AFELEX 500 MG",
+  "descripcion": "AFELEX 500 MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00061.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/afelex-500-mg-10-capsulas-icom/?srsltid=AfmBOor10f_2H5NK7odujmHMCzESTlFBWi6NNUCgzsRNtUJaWtBGTUCs"
+ },
+ {
+  "sku": "prod-00060",
+  "nombre": "ACNIBEN 300 MG",
+  "descripcion": "ACNIBEN 300 MG",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00060.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/medicamentos-2/acniben-300-mg-24-capsulas-icom/?srsltid=AfmBOoqf1WhcO5DK99nT5jkXTqh4gGr4_VmSoWbMlWJgo93AhwE74oSs"
+ },
+ {
+  "sku": "prod-00055",
+  "nombre": "ALCOHOL ALCOMAX 350 ML",
+  "descripcion": "ALCOHOL ALCOMAX 350 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00055.jpg",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/hospitalarios/alcohol-antiseptico-alcomax-130-ml/?srsltid=AfmBOop1rYBJxTheNPHWE4A4YRDeLvwAvFHINFX8b9o8Ah5CkqIhMBHi"
+ },
+ {
+  "sku": "prod-00054",
+  "nombre": "ALCOHOL ALCOMAX 700 ML",
+  "descripcion": "ALCOHOL ALCOMAX 700 ML",
+  "categoria": "Otros",
+  "ruta_abs": "C:\\Users\\lenovo\\Desktop\\proyectohuevo\\imagenesmedimentos\\reales\\prod-00054.png",
+  "fuente": "https://www.drogueriasanjorge.com/tienda/medicamentos-y-droguerias/hospitalarios/alcohol-antiseptico-alcomax-130-ml/?srsltid=AfmBOor3AHUR-nt-kgYmgijn42eY1ybrqWIH0d_MxAClwLdBf4_NQUD_"
+ }
+]
