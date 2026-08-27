@@ -3711,8 +3711,15 @@ html, body { overflow-x: hidden !important; max-width: 100%; }
    ===================================================================== */
 #publicView #catalogo #productList,
 #catalogo #productList {
-  /* 4 filas completas de 300px + 3 espacios de 1.75rem (gap) entre ellas,
-     visibles antes de hacer scroll o pulsar "Ver más productos". */
+  /* min-height evita que la rejilla se ENCOJA (y mueva el fondo fixed)
+     cuando una categoría tiene pocos productos. El max-height de 1284px
+     SÍ es seguro aquí (a diferencia del de mobile, ver el bloque de
+     abajo en @media max-width:767.98px): en escritorio/tablet esta misma
+     altura viene acompañada de overflow-y:auto (ver el bloque "ARMA TU
+     PEDIDO: 4 filas..." más arriba en este archivo), así que el exceso
+     de productos hace scroll DENTRO de la caja en vez de desbordarse
+     sobre las secciones siguientes. Es un diseño intencional (ventana de
+     4 filas + scroll interno + botón "Ver más productos"). */
   min-height: 1284px !important;
   max-height: 1284px !important;
   align-content: start;
@@ -3743,8 +3750,12 @@ html, body { overflow-x: hidden !important; max-width: 100%; }
 @media (max-width: 767.98px) {
   #publicView #catalogo #productList,
   #catalogo #productList {
+    /* max-height: none (ver nota arriba, misma razón): en mobile la
+       rejilla es de 2 columnas, así que 42 productos son ~21 filas, muy
+       por encima de 70vh. Con un tope + overflow:visible esas filas se
+       pintaban fuera de la sección, encima de Marcas/Local/Contacto/footer. */
     min-height: 70vh !important;
-    max-height: 70vh !important;
+    max-height: none !important;
   }
   #publicView #catalogEmptyState,
   #catalogEmptyState { min-height: 70vh; }
@@ -7381,3 +7392,63 @@ html, body, #publicView {
   background: linear-gradient(180deg, rgba(8,12,24,0.72) 0%, rgba(8,12,24,0.55) 45%, rgba(8,12,24,0.78) 100%);
 }
 .marcas-head-shadow { text-shadow: 0 2px 16px rgba(0,0,0,0.6); }
+
+/* =====================================================================
+   ★★★  RENDIMIENTO EN MÓVIL: quitar background-attachment:fixed  ★★★
+
+   #publicView y #inicio ya tenían un fallback a "scroll" en mobile
+   (@media max-width:767.98px, ver más arriba en este archivo), pero
+   quedó neutralizado: hay bloques MÁS ABAJO en el archivo que vuelven a
+   poner "fixed !important" sin condición de ancho (el de #publicView
+   por el comentario "el lienzo no se recalcula al cambiar de categoría",
+   y el de #inicio por "el degradado pasa a ser el respaldo de la foto").
+   Misma especificidad + !important en ambos lados → gana el que está
+   más abajo en el archivo, así que en mobile terminaba ganando "fixed"
+   de nuevo. Se repite aquí, al final del archivo, para que estas SÍ
+   sean las últimas en la cascada.
+
+   Por qué importa: background-attachment:fixed obliga a mantener ese
+   fondo (un gradiente a pantalla completa) recompuesto de forma
+   independiente al hacer scroll. Sumado a los ~40+ backdrop-filter:blur
+   de las tarjetas de #productList (cada uno debe volver a muestrear lo
+   que tiene detrás), es una causa real de scroll pesado en Safari
+   iOS/iPadOS en una página tan larga. En mobile no se pierde nada
+   visual: el fondo ya usa background-size:cover ahí, así que con
+   "scroll" se ve igual de bien, solo que ya no exige ese recálculo. */
+@media (max-width: 767.98px) {
+  #publicView {
+    background-attachment: scroll !important;
+    background-size: cover !important;
+  }
+  #publicView #inicio, #inicio {
+    background-attachment: scroll !important;
+    background-size: cover !important;
+  }
+}
+
+/* =====================================================================
+   ★★★  RENDIMIENTO EN MÓVIL: menos backdrop-filter en las tarjetas  ★★★
+
+   La versión final de la tarjeta de producto (#catalogo #productList
+   > div, "TARJETAS TRANSPARENTES") usa backdrop-filter: blur(18px)
+   saturate(1.15) en TODAS las tarjetas, sin excepción para mobile. Con
+   la grilla de 2 columnas de mobile, los 42 productos de una página son
+   21 filas = 42 tarjetas con blur simultáneo. A diferencia del bug de
+   background-attachment, esto no es una cascada rota: es un costo real
+   y buscado (efecto cristal), pero backdrop-filter es de los efectos
+   más caros para el GPU, y ×42 elementos a la vez es objetivamente
+   pesado para el compositor de Safari iOS en una página tan larga.
+
+   En mobile se sube la opacidad del fondo de la tarjeta y se quita el
+   desenfoque: se pierde el efecto "vidrio esmerilado" (se ve un panel
+   translúcido liso en su lugar), pero el texto sigue siendo legible
+   sobre la foto y cada tarjeta deja de exigirle al navegador volver a
+   muestrear/difuminar lo que tiene detrás en cada frame de scroll. En
+   escritorio no cambia nada. */
+@media (max-width: 767.98px) {
+  #catalogo #productList > div {
+    background: rgba(15, 23, 38, 0.62) !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+}
