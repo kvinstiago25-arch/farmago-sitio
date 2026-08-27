@@ -115,11 +115,19 @@
 
   <div id="mobileMenu" class="lg:hidden max-h-0 opacity-0 overflow-hidden bg-paper/98 backdrop-blur-lg border-t border-ink/10 transition-all duration-300">
     <div class="flex flex-col gap-4 px-6 py-6 font-medium text-ink/80">
+      <!-- data-mega-key (no data-jump-cat): reutiliza MEGA_MENU[key].catsTodas,
+           que ya mapea cada categoría "visible" a sus nombres reales en
+           productos.json (p.ej. "Bebidas" -> "Snacks y bebidas"). Con
+           data-jump-cat se comparaba contra el nombre exacto de la
+           categoría y no coincidía con casi ningún producto. -->
       <a href="#catalogo" data-jump-cat="todas">Catálogo</a>
-      <a href="#catalogo" data-jump-cat="Cuidado personal">Cuidado personal</a>
-      <a href="#catalogo" data-jump-cat="Bebidas">Bebidas</a>
-      <a href="#catalogo" data-jump-cat="Bebés">Bebés</a>
-      <a href="#catalogo" data-jump-cat="Adulto mayor">Adulto mayor</a>
+      <a href="#catalogo" data-mega-key="ofertas">Ofertas</a>
+      <a href="#catalogo" data-mega-key="medicamentos">Medicamentos</a>
+      <a href="#catalogo" data-mega-key="vitaminas">Vitaminas</a>
+      <a href="#catalogo" data-mega-key="bebidas">Bebidas</a>
+      <a href="#catalogo" data-mega-key="cuidado-personal">Cuidado personal</a>
+      <a href="#catalogo" data-mega-key="bebes">Bebés</a>
+      <a href="#catalogo" data-mega-key="adulto-mayor">Adulto mayor</a>
       <a href="#local">Nuestro local</a>
       <a href="#contacto">Contacto</a>
       <a href="https://wa.me/573014466722?text=%C2%A1Hola%20FarmaGo!%20Quiero%20hacer%20un%20pedido" target="_blank" rel="noopener" class="bg-whatsapp text-white text-center font-semibold py-2.5 rounded-full btn-3d btn-3d-green">Pedir por WhatsApp</a>
