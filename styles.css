@@ -5650,6 +5650,14 @@ html, body, #publicView {
 #burgerBtn, .burger-toggle { color: #102A43 !important; }
 #burgerBtn:hover, .burger-toggle:hover { color: #0B1F3A !important; }
 
+/* #burgerBtnMobile (fila del buscador, solo mobile) queda en blanco:
+   ese botón vive dentro del mismo header azul, así que el navy quedaba
+   casi invisible ahí. El ícono usa fa-solid (SVG con fill: currentColor
+   vía Font Awesome), así que basta con cambiar "color". Especificidad
+   por ID: gana sobre el navy de .burger-toggle de arriba. */
+#burgerBtnMobile,
+#burgerBtnMobile:hover { color: #FFFFFF !important; }
+
 /* Buscador: quitar el resplandor y borde naranja del focus (paleta azul) */
 #headerSearch:focus,
 #headerSearchMobile:focus {
