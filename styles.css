@@ -3455,6 +3455,17 @@ footer > * { position: relative; z-index: 2; }
   object-fit: contain !important; transform: scale(1.30) !important;
 }
 
+/* ICOM: igual que Buscapina/AG (fondo blanco en archivo y en círculo). El
+   logo es rectangular y ancho (texto "ICOM" + línea de subtítulo), así
+   que se amplía para que ocupe bien el círculo sin recortarse contra el
+   borde redondeado. */
+#publicView #marcas .bc-icom, #marcas .bc-icom {
+  background: #FFFFFF !important;
+}
+#publicView #marcas .bc-icom img, #marcas .bc-icom img {
+  object-fit: contain !important; transform: scale(1.35) !important;
+}
+
 /* =====================================================================
    ISMAEL — asesor virtual del carrito
    El globo ahora lo presenta por su nombre, así que el nombre se
