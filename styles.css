@@ -4568,10 +4568,19 @@ header .max-w-7xl {
 #categoriesMenuBtn {
   display: inline-flex !important;
 }
-#publicView header .relative.shrink-0,
-header .relative.shrink-0 {
-  display: inline-flex !important;
-  align-items: center !important;
+/* Solo en md+: en mobile este selector coincidía también con el envoltorio
+   "hidden md:block" del botón de categorías (tiene .relative y .shrink-0),
+   forzándolo a mostrarse con display:inline-flex por encima del "hidden" de
+   Tailwind. Esto dejaba el botón de categorías (pensado solo para escritorio)
+   visible y tocable en el celular, y al abrirlo se desplegaba el menú de
+   860px de ancho encima del header. Con el media query, la regla ya no
+   compite con "hidden" en mobile. */
+@media (min-width: 768px) {
+  #publicView header .relative.shrink-0,
+  header .relative.shrink-0 {
+    display: inline-flex !important;
+    align-items: center !important;
+  }
 }
 
 /* Ícono de menú a la altura del logo */
