@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Droguería FarmaGo | Salud y bienestar a tu alcance</title>
+<meta name="description" content="Droguería FarmaGo en Ibagué, Tolima. Medicamentos, cuidado personal e inyectología. Pide por WhatsApp o sube tu fórmula." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          ink: '#1F2933',
+          orange: '#C48A3A',
+          'orange-dark': '#B7791F',
+          'orange-light': '#F5E7CE',
+          blue: '#102A43',
+          'blue-dark': '#0B1F3A',
+          'blue-light': '#E8EDF3',
+          paper: '#FFFFFF',
+          cloud: '#F5F7FA',
+          navy: '#0B1F3A',
+          'navy-mid': '#102A43',
+          'navy-soft': '#16324F',
+          copper: '#C48A3A',
+          'copper-dark': '#B7791F',
+          gold: '#D4A017',
+          graphite: '#1F2933',
+          whatsapp: '#25D366',
+          danger: '#DC2626',
+          warn: '#D97706',
+        },
+        fontFamily: {
+          display: ['Fraunces', 'serif'],
+          body: ['Inter', 'sans-serif'],
+        },
+      },
+    },
+  };
+</script>
+<link rel="stylesheet" href="styles.css?v=20260822-1">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body class="text-ink">
+<div id="publicView">
+
+<!-- ===== HEADER (sticky global) ===== -->
+<header id="mainNav" class="relative z-30 transition-all duration-300 mainnav-text-shadow">
+  <!-- Header principal -->
+  <div class="mainnav-inner">
+    <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 md:px-6 py-1.5">
+      <div class="relative hidden md:block shrink-0">
+        <button id="categoriesMenuBtn" class="menu-icon-btn flex items-center justify-center" aria-label="Abrir menú de categorías">
+          <span class="w-9 h-9 rounded-full flex items-center justify-center">
+            <i class="fa-solid fa-bars"></i>
+          </span>
+        </button>
+        <div id="categoriesMenuDropdown" class="megamenu-dropdown hidden absolute left-0 top-full mt-2 w-[860px] max-w-[92vw] rounded-2xl overflow-hidden z-50 flex opacity-0 scale-[0.98] transition-all duration-200 origin-top-left">
+          <div id="categoriesMenuList" class="megamenu-list w-60 shrink-0 py-2 max-h-[460px] overflow-y-auto"></div>
+          <div id="categoriesMenuPanel" class="megamenu-panel flex-1 p-6 max-h-[460px] overflow-y-auto"></div>
+        </div>
+      </div>
+
+      <a href="#inicio" class="flex items-center gap-2.5 shrink-0 site-logo-link">
+        <img src="assets/logo/logo-icono.png" alt="" class="site-logo-icon" />
+        <span class="leading-none">
+          <span class="site-logo-kicker block"><span class="site-logo-kicker-accent">DRO</span>GUERÍA</span>
+          <span class="site-logo-brand block">Farma<span class="site-logo-brand-accent">Go</span></span>
+          <span class="site-logo-tagline block">Salud y bienestar a tu alcance</span>
+        </span>
+      </a>
+
+      <div class="flex-1 relative hidden md:block">
+        <input id="headerSearch" type="text" autocomplete="off" class="w-full pl-4 pr-11 py-2.5 rounded-full border border-white/30 bg-white shadow-sm text-sm text-ink focus:outline-none focus:border-orange" />
+        <button id="headerSearchBtn" class="absolute right-1.5 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-orange text-white flex items-center justify-center">
+          <i class="fa-solid fa-magnifying-glass text-xs"></i>
+        </button>
+        <div id="searchResultsDesktop" class="hidden absolute left-0 right-0 top-full mt-2 bg-white rounded-2xl shadow-2xl border border-ink/10 max-h-96 overflow-y-auto z-50"></div>
+      </div>
+
+      <button id="cartFabHeader" class="relative flex items-center gap-2 shrink-0">
+        <span class="relative inline-flex">
+          <i class="fa-solid fa-cart-shopping text-lg"></i>
+          <span id="cartCountHeader" class="hidden absolute -top-2 -right-2 w-5 h-5 rounded-full text-[10px] font-bold flex items-center justify-center">0</span>
+        </span>
+        <span class="hidden md:inline text-sm font-medium">Mi carrito</span>
+      </button>
+
+      <button id="burgerBtn" class="lg:hidden text-2xl shrink-0 text-white" aria-label="Abrir menú">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+    </div>
+
+    <div class="md:hidden px-4 pb-3">
+      <div class="relative">
+        <input id="headerSearchMobile" type="text" autocomplete="off" class="w-full pl-4 pr-11 py-2.5 rounded-full border border-white/30 bg-white shadow-sm text-sm text-ink focus:outline-none focus:border-orange" />
+        <button id="headerSearchBtnMobile" class="absolute right-1.5 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-orange text-white flex items-center justify-center">
+          <i class="fa-solid fa-magnifying-glass text-xs"></i>
+        </button>
+        <div id="searchResultsMobile" class="hidden absolute left-0 right-0 top-full mt-2 bg-white rounded-2xl shadow-2xl border border-ink/10 max-h-96 overflow-y-auto z-50"></div>
+      </div>
+    </div>
+
+    <!-- Fila de categorías eliminada: la navegación queda solo en el botón Menú -->
+  </div>
+
+  <div id="mobileMenu" class="lg:hidden max-h-0 opacity-0 overflow-hidden bg-paper/98 backdrop-blur-lg border-t border-ink/10 transition-all duration-300">
+    <div class="flex flex-col gap-4 px-6 py-6 font-medium text-ink/80">
+      <a href="#catalogo" data-jump-cat="todas">Catálogo</a>
+      <a href="#catalogo" data-jump-cat="Cuidado personal">Cuidado personal</a>
+      <a href="#catalogo" data-jump-cat="Bebidas">Bebidas</a>
+      <a href="#catalogo" data-jump-cat="Bebés">Bebés</a>
+      <a href="#catalogo" data-jump-cat="Adulto mayor">Adulto mayor</a>
+      <a href="#local">Nuestro local</a>
+      <a href="#contacto">Contacto</a>
+      <a href="https://wa.me/573014466722?text=%C2%A1Hola%20FarmaGo!%20Quiero%20hacer%20un%20pedido" target="_blank" rel="noopener" class="bg-whatsapp text-white text-center font-semibold py-2.5 rounded-full btn-3d btn-3d-green">Pedir por WhatsApp</a>
+    </div>
+  </div>
+</header>
+
+
+<!-- ===== PORTADA A PANTALLA COMPLETA: fachada real de fondo ===== -->
+<section id="inicio" class="hero-seccion">
+
+
+
+  <div class="hero-layout">
+    <div class="hero-card">
+      <img src="assets/fondodesecciones/fondodelocal.png" alt="Droguería FarmaGo - nuestro local"
+       class="hero-bg-photo" />
+      <div class="hero-bg-overlay"></div>
+      <div class="hero-card-contenido">
+        
+
+  <!-- Texto superpuesto, integrado sobre la foto -->
+  <div class="hero-text-outer">
+    <div class="hero-text-wrap">
+      <div class="hero-text-inner">
+        <!-- Antetítulo del hero eliminado por solicitud del usuario -->
+        <h1 class="font-display hero-title-text">
+          Salud y bienestar,<br />a tu alcance
+        </h1>
+        <p class="hero-subtitle-text">
+          Envía tu pedido o receta por WhatsApp. Cotización al instante, atención personalizada y entrega rápida directo a tu puerta.
+        </p>
+
+        <!-- Botón de WhatsApp del hero eliminado por solicitud del usuario -->
+        <!-- Franja de sellos eliminada por solicitud del usuario -->
+      </div>
+    </div>
+  </div>
+
+      </div>
+    </div>
+
+    <div class="hero-promos">
+      <div class="promo-grid">
+      <a href="#catalogo" class="promo-card promo-alergia">
+        <img src="assets/fondodesecciones/fondodealergia.jpeg" alt="" class="promo-img"
+             loading="lazy" />
+      </a>
+      <a href="#catalogo" class="promo-card promo-familia">
+        <img src="assets/fondodesecciones/fondodeparatodos.jpeg" alt="" class="promo-img"
+             loading="lazy" />
+      </a>
+    </div>
+    </div>
+  </div>
+
+</section>
+
+
+<!-- ===== BANNERS PROMOCIONALES + CATEGORÍAS (estilo referencia) ===== -->
+<section id="destacados" class="destacados-wrap px-6">
+  <div class="max-w-7xl mx-auto">
+
+    <!-- Dos banners lado a lado -->
+    <!-- Banners movidos junto al hero -->
+
+    <!-- Cuadrícula de categorías -->
+    <div class="cat-grid">
+      <a href="#catalogo" class="cat-card" data-mega-key="medicamentos">
+        <span class="cat-icono"><img src="assets/categorias/medicamentos.png" alt="Medicamentos" loading="lazy" /></span>
+        <span class="cat-nombre">Medicamentos</span>
+      </a>
+      <a href="#catalogo" class="cat-card" data-mega-key="cuidado-personal">
+        <span class="cat-icono"><img src="assets/categorias/higiene-personal.png" alt="Higiene Personal" loading="lazy" /></span>
+        <span class="cat-nombre">Higiene Personal</span>
+      </a>
+      <a href="#catalogo" class="cat-card" data-mega-key="bebes">
+        <span class="cat-icono"><img src="assets/categorias/cuidado-infantil.png" alt="Cuidado Infantil" loading="lazy" /></span>
+        <span class="cat-nombre">Cuidado Infantil</span>
+      </a>
+      <a href="#catalogo" class="cat-card" data-mega-key="vitaminas">
+        <span class="cat-icono"><img src="assets/categorias/vitaminas.png" alt="Vitaminas" loading="lazy" /></span>
+        <span class="cat-nombre">Vitaminas</span>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<!-- ===== CATÁLOGO Y PEDIDO ===== -->
+<section id="catalogo" class="section-dark relative py-20 md:py-28 px-6 overflow-hidden">
+  <img src="assets/fondodesecciones/fondodesaludybienestar.jpeg" alt="Estantería de productos en Droguería FarmaGo"
+       class="absolute inset-0 w-full h-full object-cover pointer-events-none select-none" />
+  <div class="absolute inset-0 pointer-events-none catalogo-bg-overlay"></div>
+
+  <div class="relative z-10 max-w-7xl mx-auto">
+    <div class="text-center max-w-2xl mx-auto mb-10 catalogo-head-shadow">
+      <h2 class="font-display text-4xl md:text-5xl mt-3 mb-4 text-white">Arma tu pedido</h2>
+    </div>
+
+    <div class="catalogo-search-wrap max-w-xl mx-auto mb-6">
+      <div class="catalogo-search relative">
+        <i class="fa-solid fa-magnifying-glass catalogo-search-icon"></i>
+        <input type="search" id="catalogoSearch" autocomplete="off"
+               class="catalogo-search-input"
+               placeholder="Busca por nombre o marca dentro del catálogo…"
+               aria-label="Buscar productos dentro del catálogo" />
+        <button type="button" id="catalogoSearchClear" class="catalogo-search-clear hidden" aria-label="Limpiar búsqueda">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+      <p id="catalogoSearchCount" class="catalogo-search-count hidden"></p>
+    </div>
+
+    <div id="categoryTabs" class="flex gap-2 overflow-x-auto pb-2 mb-7 -mx-1 px-1"></div>
+
+    <div id="productList" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 mb-4"></div>
+    <div id="productListMore" class="hidden flex flex-col items-center gap-2 mb-4">
+      <button type="button" id="productListMoreBtn" class="inline-flex items-center gap-2 bg-white text-ink font-semibold px-6 py-3 rounded-full border border-ink/15 hover:border-orange transition">
+        Ver más productos <i class="fa-solid fa-chevron-down text-xs"></i>
+      </button>
+      <p id="productListMoreCount" class="text-xs text-ink/50"></p>
+    </div>
+    <p id="catalogEmptyState" class="hidden text-center text-ink/40 text-sm py-10">
+      No hay productos disponibles en esta categoría por ahora. Escríbenos por WhatsApp y te ayudamos igual.
+    </p>
+  </div>
+</section>
+<!-- ===== NUESTRO LOCAL ===== -->
+<section id="local" class="py-20 md:py-24 px-6 bg-gray-100">
+  <div class="max-w-7xl mx-auto">
+    <div class="text-center max-w-xl mx-auto mb-10 u-opacity-visible">
+      <h2 class="font-display text-3xl md:text-4xl mt-3 mb-3 text-ink local-head-title">Te esperamos en Ibagué</h2>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="relative rounded-2xl overflow-hidden shadow-md h-72 bg-cover bg-center local-photo-fachada">
+        <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/0 to-transparent"></div>
+        <p class="absolute bottom-4 left-4 text-white font-semibold text-sm">Fachada · Cra. 6 #18-79</p>
+      </div>
+      <div class="relative rounded-2xl overflow-hidden shadow-md h-72 bg-cover bg-center local-photo-entrada">
+        <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/0 to-transparent"></div>
+        <p class="absolute bottom-4 left-4 text-white font-semibold text-sm">Entrada</p>
+      </div>
+      <div class="relative rounded-2xl overflow-hidden shadow-md h-72 bg-cover bg-center local-photo-interior">
+        <div class="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/0 to-transparent"></div>
+        <p class="absolute bottom-4 left-4 text-white font-semibold text-sm">Interior y mostrador</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== MISIÓN Y VISIÓN ===== -->
+<!-- ===== MARCAS DESTACADAS ===== -->
+<section id="marcas" class="section-dark relative px-6 py-24 overflow-hidden">
+  <img src="assets/fondodesecciones/fondodesaludybienestar.jpeg" alt="Marcas de dermocosmética en Droguería FarmaGo" class="marcas-bg-photo" />
+  <div class="marcas-bg-overlay"></div>
+  <div class="relative z-10 max-w-7xl mx-auto text-center">
+    <h2 class="font-display text-3xl md:text-4xl text-white mb-10 relative inline-block marcas-head-shadow">
+      Líderes en Salud
+    </h2>
+    <div class="brand-marquee">
+      <div class="brand-track">
+        <div class="brand-circle bc-nivea"><img src="assets/logosmarcas/Nivea_Logo.png" alt="NIVEA" loading="lazy" /></div>
+        <div class="brand-circle bc-bayer"><img src="assets/logosmarcas/bayer.png" alt="Bayer" loading="lazy" /></div>
+        <div class="brand-circle bc-mk"><img src="assets/logosmarcas/mk.webp" alt="MK" loading="lazy" /></div>
+        <div class="brand-circle bc-genfar"><img src="assets/logosmarcas/genfar.jpg" alt="Genfar" loading="lazy" /></div>
+        <div class="brand-circle bc-lasante"><img src="assets/logosmarcas/lasante.jpg" alt="La Santé" loading="lazy" /></div>
+        <div class="brand-circle bc-buscapina"><img src="assets/logosmarcas/buscapina.jpg" alt="Buscapina" loading="lazy" /></div>
+        <div class="brand-circle bc-johnson"><img src="assets/logosmarcas/johnson.jpg" alt="Johnson &amp; Johnson" loading="lazy" /></div>
+        <div class="brand-circle bc-eucerin"><img src="assets/logosmarcas/eucerin.jpg" alt="Eucerin" loading="lazy" /></div>
+        <div class="brand-circle bc-ag"><img src="assets/logosmarcas/ag.png" alt="AG" loading="lazy" /></div>
+        <div class="brand-circle bc-nivea"><img src="assets/logosmarcas/Nivea_Logo.png" alt="NIVEA" loading="lazy" /></div>
+        <div class="brand-circle bc-bayer"><img src="assets/logosmarcas/bayer.png" alt="Bayer" loading="lazy" /></div>
+        <div class="brand-circle bc-mk"><img src="assets/logosmarcas/mk.webp" alt="MK" loading="lazy" /></div>
+        <div class="brand-circle bc-genfar"><img src="assets/logosmarcas/genfar.jpg" alt="Genfar" loading="lazy" /></div>
+        <div class="brand-circle bc-lasante"><img src="assets/logosmarcas/lasante.jpg" alt="La Santé" loading="lazy" /></div>
+        <div class="brand-circle bc-buscapina"><img src="assets/logosmarcas/buscapina.jpg" alt="Buscapina" loading="lazy" /></div>
+        <div class="brand-circle bc-johnson"><img src="assets/logosmarcas/johnson.jpg" alt="Johnson &amp; Johnson" loading="lazy" /></div>
+        <div class="brand-circle bc-eucerin"><img src="assets/logosmarcas/eucerin.jpg" alt="Eucerin" loading="lazy" /></div>
+        <div class="brand-circle bc-ag"><img src="assets/logosmarcas/ag.png" alt="AG" loading="lazy" /></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Franja de confianza eliminada por solicitud del usuario -->
+
+
+
+
+
+
+
+
+
+<!-- ===== CARRITO DE PEDIDO (flotante) ===== -->
+<button id="cartFab" class="fixed bottom-24 right-6 z-40 w-14 h-14 rounded-full bg-blue text-white shadow-lg hover:scale-110 transition flex items-center justify-center">
+  <i class="fa-solid fa-cart-shopping text-lg"></i>
+  <span id="cartCount" class="hidden absolute -top-1 -right-1 w-5 h-5 rounded-full bg-orange text-white text-[10px] font-bold flex items-center justify-center">0</span>
+</button>
+
+<!-- ===== WHATSAPP (flotante, debajo del carrito) ===== -->
+<a id="whatsappFab" href="https://wa.me/573014466722?text=%C2%A1Hola%20FarmaGo!%20Quiero%20hacer%20un%20pedido"
+   target="_blank" rel="noopener"
+   class="fixed bottom-6 right-6 z-40 w-14 h-14 rounded-full bg-whatsapp text-white shadow-lg hover:scale-110 transition flex items-center justify-center"
+   aria-label="Pedir por WhatsApp">
+  <i class="fa-brands fa-whatsapp text-2xl"></i>
+</a>
+
+<div id="cartOverlay" class="hidden fixed inset-0 bg-ink/50 z-50"></div>
+<div id="cartPanel" class="hidden fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[92%] max-w-[480px] z-50 rounded-3xl flex flex-col overflow-hidden">
+  <div class="cart-panel-header cart-hero">
+    <div class="cart-hero-halo" aria-hidden="true"></div>
+    <svg class="cart-hero-orange-wave" viewBox="0 0 400 26" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,14 C70,26 140,2 200,12 C260,22 330,4 400,16 L400,26 L0,26 Z"></path>
+    </svg>
+    <button id="closeCartBtn" class="cart-close-btn cart-hero-close" aria-label="Cerrar"><i class="fa-solid fa-xmark"></i></button>
+    <div class="cart-hero-content">
+      <div class="cart-hero-titulo">
+<span class="cart-carrito-stage">
+  <img src="assets/logospagos/carrito.png" alt="" class="cart-hero-carrito-img" />
+</span>        <div>
+<h3 class="font-display text-2xl">¡TU PEDIDO!</h3>          <p class="cart-hero-saludo">Droguería FarmaGo</p>
+          <p class="cart-hero-sub">Salud y bienestar a tu alcance</p>
+        </div>
+      </div>
+    </div>
+    <img src="assets/imagenesmedimentos/farmaceutica.png" alt="Ismael, asesor de Droguería FarmaGo" class="cart-hero-farmaceutico" />
+  </div>
+
+  <div class="cart-panel-scroll">
+    <div id="cartItems" class="px-6 py-4 space-y-3"></div>
+    <div id="cartEmptyMsg" class="cart-empty-msg hidden"></div>
+
+    <div class="cart-panel-footer px-6 py-4 space-y-3">
+      <div>
+        <p class="cart-envio-titulo">Información de envío</p>
+        <p class="cart-envio-sub">Al confirmar por WhatsApp, simplificamos el proceso. ¡Es más rápido y amigable!</p>
+      </div>
+      <!-- Honeypot anti-spam: invisible para personas, visible para bots que
+           autocompletan cualquier input. Si llega con texto, se descarta el
+           pedido en silencio (ver validación en script.js). -->
+      <div class="cart-honeypot" aria-hidden="true">
+        <label for="cartWebsite">Sitio web</label>
+        <input id="cartWebsite" name="website" type="text" tabindex="-1" autocomplete="off" />
+      </div>
+      <div>
+        <label class="cart-label block text-xs font-semibold uppercase mb-1.5">Nombre completo</label>
+        <input id="cartNombre" type="text" placeholder="Tu nombre, ej: María García" class="cart-input w-full px-3 py-2.5 rounded-lg text-sm focus:outline-none" />
+      </div>
+      <div>
+        <label class="cart-label block text-xs font-semibold uppercase mb-1.5">Dirección de entrega</label>
+        <input id="cartDireccion" type="text" placeholder="Ej: Calle 5 # 10-20, Barrio Centro" class="cart-input w-full px-3 py-2.5 rounded-lg text-sm focus:outline-none" />
+      </div>
+      <div>
+        <label class="cart-label block text-xs font-semibold uppercase mb-1.5">Teléfono de contacto</label>
+        <input id="cartTelefono" type="tel" placeholder="Ej: 3011234567" class="cart-input w-full px-3 py-2.5 rounded-lg text-sm focus:outline-none" />
+      </div>
+      <div>
+        <label class="cart-label block text-xs font-semibold uppercase mb-1.5">Observaciones (opcional)</label>
+        <textarea id="cartObservaciones" rows="2" placeholder="Ej: si no hay esta marca, cualquier genérico sirve" class="cart-input w-full px-3 py-2.5 rounded-lg text-sm focus:outline-none"></textarea>
+      </div>
+
+      <div class="cart-pagos">
+        <p class="cart-pagos-titulo">Métodos de pago aceptados por chat</p>
+        <div class="cart-pagos-logos">
+          <span class="cart-pago-item">
+            <img src="assets/logospagos/visa.png" alt="Visa" class="cart-pago-img" />
+            <i class="fa-brands fa-cc-visa cart-pago-visa u-hidden-fallback" title="Visa"></i>
+          </span>
+          <span class="cart-pago-item">
+            <img src="assets/logospagos/mastercard.png" alt="Mastercard" class="cart-pago-img" />
+            <i class="fa-brands fa-cc-mastercard cart-pago-mc u-hidden-fallback" title="Mastercard"></i>
+          </span>
+          <span class="cart-pago-item">
+            <img src="assets/logospagos/nequi.png" alt="Nequi" class="cart-pago-img" />
+            <span class="cart-pago-badge cart-pago-nequi u-hidden-fallback" title="Nequi">Nequi</span>
+          </span>
+          <span class="cart-pago-item">
+            <img src="assets/logospagos/daviplata.png" alt="DaviPlata" class="cart-pago-img" />
+            <span class="cart-pago-badge cart-pago-davi u-hidden-fallback" title="DaviPlata">DaviPlata</span>
+          </span>
+<span class="cart-pago-item cart-pago-item-efectivo">
+  <img src="assets/logospagos/efectivo.png" alt="Efectivo" class="cart-pago-img" />
+  <span class="cart-pago-efectivo u-hidden-fallback" title="Efectivo"><i class="fa-solid fa-money-bill-1"></i> Efectivo</span>
+  <span class="cart-pago-efectivo-label">Efectivo</span>
+</span>
+</div>
+      </div>
+      <button id="sendCartBtn" class="w-full inline-flex items-center justify-center gap-2 bg-whatsapp text-white font-semibold py-3 rounded-full hover:brightness-105 transition btn-3d btn-3d-green">
+        <i class="fa-brands fa-whatsapp text-lg"></i> Confirmar pedido por WhatsApp
+      </button>
+
+      <p class="cart-pie-nota">Finaliza tu compra por WhatsApp para mayor agilidad.</p>
+      <p class="cart-pie-privacidad"><i class="fa-solid fa-lock"></i> Tus datos están protegidos y solo se usarán para procesar tu pedido.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ===== MODAL: DETALLE DE PRODUCTO ===== -->
+<div id="productDetailOverlay" class="hidden fixed inset-0 bg-ink/50 z-50"></div>
+<div id="productDetailPanel" class="hidden fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[92%] max-w-[440px] max-h-[88vh] z-50 rounded-3xl overflow-hidden pd-panel">
+  <button id="closeProductDetailBtn" class="pd-close-btn" aria-label="Cerrar"><i class="fa-solid fa-xmark"></i></button>
+  <div class="pd-scroll">
+    <div class="pd-img-wrap">
+      <svg class="cart-hero-orange-wave pd-orange-wave" viewBox="0 0 400 26" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0,14 C70,26 140,2 200,12 C260,22 330,4 400,16 L400,26 L0,26 Z"></path>
+      </svg>
+      <div class="pd-img-card">
+        <img id="pdImg" src="" alt="" class="pd-img" />
+      </div>
+    </div>
+    <div class="pd-body">
+      <p id="pdFabricante" class="pd-fabricante hidden"></p>
+      <h3 id="pdNombre" class="pd-nombre"></h3>
+      <p id="pdCategoria" class="pd-categoria hidden"></p>
+      <p id="pdDescripcion" class="pd-descripcion hidden"></p>
+      <p id="pdPresentacion" class="pd-presentacion hidden"></p>
+      <p id="pdPrecio" class="pd-precio"></p>
+      <div id="pdAcciones" class="pd-acciones"></div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<!-- ===== CONTACTO / HORARIO ===== -->
+<section id="contacto" class="section-dark py-20 md:py-24 px-6 bg-slate-900 final-section fg-contact">
+  <svg class="fg-contact-wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,34 C240,4 480,58 720,38 C960,18 1200,52 1440,26 L1440,0 L0,0 Z"></path>
+  </svg>
+  <div class="max-w-7xl mx-auto relative">
+
+    <div class="text-center max-w-xl mx-auto mb-10 fg-contact-head u-opacity-visible">
+      <h2 class="font-display text-3xl md:text-4xl mb-3 fg-contact-title u-opacity-visible u-text-shadow-none">Contacto y horario</h2>
+    </div>
+
+    <div id="openStatusBanner" class="max-w-3xl mx-auto mb-10 rounded-2xl px-6 py-4 flex items-center justify-center gap-3 bg-gradient-to-r from-orange to-blue text-white shadow-lg fg-contact-status">
+      <span class="relative flex h-3 w-3">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-3 w-3 bg-white"></span>
+      </span>
+      <p id="openStatusText" class="font-semibold text-sm md:text-base">Abierto ahora · 8:00 a.m. – 8:00 p.m.</p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-6">
+
+      <div class="bg-white border border-ink/10 rounded-2xl p-7 shadow-sm fg-contact-card">
+        <div class="flex items-center gap-3 mb-6">
+          <h3 class="font-display text-2xl fg-contact-card-title u-opacity-visible">Nos ubicamos</h3>
+        </div>
+
+        <div class="space-y-4 text-sm mb-6">
+          <div class="dato-contacto">
+            <span class="dato-contacto-rotulo u-opacity-visible u-font-bold">Nuestra sede principal:</span>
+            <span class="dato-contacto-valor">Cra. 6 #18-79, Ibagué, Tolima</span>
+          </div>
+          <div class="dato-contacto">
+            <span class="dato-contacto-rotulo u-opacity-visible u-font-bold">Contáctanos:</span>
+            <a href="tel:+573014466722" class="dato-contacto-valor dato-contacto-enlace">301 446 6722</a>
+          </div>
+          <div class="flex items-center gap-3">
+            <span class="w-9 h-9 shrink-0 rounded-full bg-whatsapp/10 flex items-center justify-center text-whatsapp"><i class="fa-brands fa-whatsapp"></i></span>
+            <a href="https://wa.me/573014466722" target="_blank" rel="noopener" class="fg-contact-wa-link u-opacity-visible">Escríbenos por WhatsApp</a>
+          </div>
+        </div>
+
+        <a href="https://wa.me/573014466722?text=%C2%A1Hola%20FarmaGo!%20Quiero%20hacer%20un%20pedido"
+           target="_blank" rel="noopener"
+           class="inline-flex items-center gap-2 text-white font-semibold px-6 py-3 rounded-full hover:brightness-105 transition mb-6 btn-3d btn-3d-orange fg-contact-cta">
+          <i class="fa-brands fa-whatsapp"></i> Pedir por WhatsApp
+        </a>
+
+        <div class="rounded-2xl overflow-hidden border border-ink/10 h-56 shadow-inner fg-contact-map">
+          <iframe
+            class="w-full h-full fg-contact-map-frame u-border-none"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            src="https://maps.google.com/maps?q=Cra.%206%20%2318-79%2C%20Ibagu%C3%A9%2C%20Tolima&z=16&output=embed">
+          </iframe>
+        </div>
+      </div>
+
+      <div class="bg-white border border-ink/10 rounded-2xl p-7 shadow-sm fg-contact-card fg-contact-card-hours">
+        <div class="flex items-center gap-3 mb-6">
+          <h3 class="font-display text-2xl fg-contact-card-title u-opacity-visible">Horario de atención</h3>
+        </div>
+
+        <ul id="scheduleList" class="text-sm text-ink/80 space-y-1.5">
+          <li data-day="1" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Lunes</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="2" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Martes</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="3" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Miércoles</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="4" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Jueves</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="5" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Viernes</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="6" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Sábado</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+          <li data-day="0" class="flex justify-between items-center py-2.5 px-3 rounded-xl transition"><span class="font-medium">Domingo</span><b class="text-blue">8:00 a.m. – 8:00 p.m.</b></li>
+        </ul>
+
+        <!-- Nota "Ate  ndemos los 7 días" eliminada por solicitud del usuario -->
+
+        
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer final-section fg-footer px-6">
+  <div class="max-w-7xl mx-auto premium-footer-grid mb-2">
+    <!-- Zona 1: Identidad FarmaGo -->
+    <div class="footer-col footer-col-brand fg-col">
+      <div class="mb-4">
+        <img src="assets/logo/logooriginal.jpeg" alt="Droguería FarmaGo" class="fg-logo" />
+      </div>
+      <h4 class="fg-brand-heading">Droguería Digital</h4>
+      <p class="text-sm max-w-xs leading-relaxed mb-3 fg-desc">Tu droguería de confianza en Ibagué. Medicamentos, cuidado personal e inyectología con atención cercana y entrega a domicilio.</p>
+      <p class="fg-location"><i class="fa-solid fa-location-dot"></i>Ibagué, Tolima</p>
+      <div class="footer-trust-row" aria-label="Métodos de pago y confianza">
+        <img src="assets/logospagos/visa.png" alt="Visa" loading="lazy" />
+        <img src="assets/logospagos/mastercard.png" alt="Mastercard" loading="lazy" />
+        <img src="assets/logospagos/nequi.png" alt="Nequi" loading="lazy" />
+        <img src="assets/logospagos/daviplata.png" alt="Daviplata" loading="lazy" />
+      </div>
+    </div>
+
+    <!-- Zona 2: Enlaces rápidos -->
+    <div class="footer-col fg-col">
+      <h4 class="fo-col-title">Enlaces rápidos</h4>
+      <div class="flex flex-col gap-2.5 text-sm fg-links">
+        <a href="#inicio" class="fo-link">Inicio</a>
+        <a href="#catalogo" class="fo-link">Catálogo</a>
+        <a href="#local" class="fo-link">Nuestro local</a>
+        <a href="#contacto" class="fo-link">Horario</a>
+        <a href="#contacto" class="fo-link">Contacto</a>
+      </div>
+    </div>
+
+    <!-- Zona 3: Atención al cliente -->
+    <div class="footer-col fg-col">
+      <h4 class="fo-col-title">Atención al cliente</h4>
+      <div class="flex flex-col gap-2.5 text-sm mb-4 fg-links">
+        <span class="fo-link">Domicilios en Ibagué</span>
+        <span class="fo-link">Servicio de inyectología</span>
+        <span class="fo-link">Validación de fórmula médica</span>
+        <a href="https://wa.me/573014466722" target="_blank" rel="noopener" class="fo-link">301 446 6722</a>
+        <a href="mailto:servicio@farmago.com.co" class="fo-link">servicio@farmago.com.co</a>
+      </div>
+    </div>
+
+    <!-- Zona 4: Conecta con FarmaGo -->
+    <div class="footer-col fg-col">
+      <h4 class="fo-col-title">Conecta con FarmaGo</h4>
+      <p class="text-sm mb-3 fg-desc">Recibe promociones y consejos de bienestar.</p>
+      <form class="footer-subscribe" action="#" method="post">
+        <label for="footerEmail" class="sr-only">Correo electrónico</label>
+        <input id="footerEmail" type="email" placeholder="Tu correo electrónico" autocomplete="email" />
+        <button type="submit">Suscribirme</button>
+      </form>
+      <div class="flex items-center gap-3 social-3d mt-4">
+        <a href="https://wa.me/573014466722" target="_blank" rel="noopener" class="social-btn social-whatsapp" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+        <a href="#" target="_blank" rel="noopener" class="social-btn social-facebook" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+        <a href="#" target="_blank" rel="noopener" class="social-btn social-instagram" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+      </div>
+      <div class="fg-mini-info">
+        <p>Cra. 6 #18-79, Ibagué, Tolima</p>
+        <p>Todos los días 8 a.m. – 8 p.m.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Zona 5: Franja de beneficios -->
+<div class="fg-benefits">
+  <div class="max-w-7xl mx-auto fg-benefits-grid">
+    <div class="fg-benefit">
+      <span class="fg-benefit-icon"><img src="assets/iconosbeneficios/domicilios-rapidos.png" alt="" class="fg-benefit-icon-img" /></span>
+      <div class="fg-benefit-text"><strong>Domicilios rápidos</strong></div>
+    </div>
+    <div class="fg-benefit">
+      <span class="fg-benefit-icon"><img src="assets/iconosbeneficios/productos-originales.png" alt="" class="fg-benefit-icon-img" /></span>
+      <div class="fg-benefit-text"><strong>Productos 100% originales</strong></div>
+    </div>
+    <div class="fg-benefit">
+      <span class="fg-benefit-icon"><img src="assets/iconosbeneficios/atencion-cercana.png" alt="" class="fg-benefit-icon-img" /></span>
+      <div class="fg-benefit-text"><strong>Atención cercana</strong></div>
+    </div>
+    <div class="fg-benefit">
+      <span class="fg-benefit-icon"><img src="assets/iconosbeneficios/compra-facil-segura.png" alt="" class="fg-benefit-icon-img" /></span>
+      <div class="fg-benefit-text"><strong>Compra fácil y segura</strong></div>
+    </div>
+  </div>
+</div>
+
+<!-- Ícono flotante de WhatsApp eliminado por solicitud del usuario -->
+
+<!-- ===== ZONA 6: BARRA FINAL ===== -->
+<div id="bottomBar" role="contentinfo" class="fg-bottombar">
+  <svg class="fg-bottombar-wave" viewBox="0 0 1440 44" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,28 C240,50 420,4 720,14 C1020,24 1200,46 1440,18 L1440,44 L0,44 Z"></path>
+  </svg>
+  <div class="max-w-7xl mx-auto fg-bottombar-inner">
+    <div class="fg-bb-brand">
+      <img src="assets/logo/logooriginal.jpeg" alt="Droguería FarmaGo" />
+      <div>
+        <p class="fg-bb-copy">© 2024 Droguería FarmaGo. Tu farmacia de confianza en Ibagué.</p>
+        <p class="fg-bb-trust">Salud y bienestar a tu alcance</p>
+      </div>
+    </div>
+    <div class="fg-bb-chips">
+      <div class="fg-bb-chip">
+        <i class="fa-solid fa-headset"></i>
+        <div><strong>Atención 24/7</strong></div>
+      </div>
+      <a href="https://wa.me/573014466722?text=%C2%A1Hola%20FarmaGo!%20Quiero%20hacer%20un%20pedido" target="_blank" rel="noopener" class="fg-bb-chip fg-bb-chip-whatsapp">
+        <i class="fa-brands fa-whatsapp"></i>
+        <div><strong>Contáctanos por WhatsApp</strong></div>
+      </a>
+      <div class="fg-bb-chip fg-bb-chip-qr">
+        <div><strong>Escanea y visita nuestra tienda online</strong><span class="fg-bb-qr-arrow">Ver más <i class="fa-solid fa-arrow-right"></i></span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- ===== DATOS DEL ÁLBUM DE PRODUCTOS (150-200 más buscados) ===== -->
+
+
+<!-- ===== LÓGICA DEL ÁLBUM DE PRODUCTOS ===== -->
+
+
+
+  <script src="script.js"></script>
+
+  <!-- Carrusel de marcas: movimiento continuo + arrastre con el mouse o el dedo -->
+  <script>
+  (function () {
+    const marquee = document.querySelector('.brand-marquee');
+    const track = document.querySelector('.brand-track');
+    if (!marquee || !track) return;
+
+    let pos = 0, mitad = 0, velocidad = 0.42;
+    let arrastrando = false, pausado = false, inicioX = 0, inicioPos = 0;
+
+    function medir() { mitad = track.scrollWidth / 2; }
+    medir();
+    window.addEventListener('resize', medir);
+    window.addEventListener('load', medir);
+
+    function normalizar() {
+      if (!mitad) return;
+      while (pos <= -mitad) pos += mitad;
+      while (pos > 0) pos -= mitad;
+    }
+    function pintar() { track.style.transform = 'translateX(' + pos + 'px)'; }
+
+    function animar() {
+      if (!arrastrando && !pausado) { pos -= velocidad; normalizar(); pintar(); }
+      requestAnimationFrame(animar);
+    }
+    animar();
+
+    marquee.addEventListener('pointerdown', (e) => {
+      arrastrando = true;
+      inicioX = e.clientX;
+      inicioPos = pos;
+      marquee.classList.add('dragging');
+      marquee.setPointerCapture(e.pointerId);
+    });
+    marquee.addEventListener('pointermove', (e) => {
+      if (!arrastrando) return;
+      pos = inicioPos + (e.clientX - inicioX);
+      normalizar();
+      pintar();
+    });
+    ['pointerup', 'pointercancel'].forEach(ev => {
+      marquee.addEventListener(ev, () => {
+        arrastrando = false;
+        marquee.classList.remove('dragging');
+      });
+    });
+  })();
+  </script>
+
+  <!-- Aparición suave del contenido al hacer scroll -->
+  <script>
+  (function () {
+    if (!('IntersectionObserver' in window)) return;
+    const objetivos = document.querySelectorAll(
+      '#publicView section > div > .text-center, ' +
+      '#publicView .lab-card, ' +
+      '#publicView #productList > div, ' +
+      '#publicView .brand-marquee, ' +
+      '#publicView .lab-cta'
+    );
+    objetivos.forEach(el => el.classList.add('reveal-up'));
+    const obs = new IntersectionObserver((entradas) => {
+      entradas.forEach(en => {
+        if (en.isIntersecting) {
+          en.target.classList.add('revealed');
+          obs.unobserve(en.target);
+        }
+      });
+    }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
+    objetivos.forEach(el => obs.observe(el));
+
+    // Los productos se renderizan dinámicamente: revelarlos al crearse
+    const lista = document.getElementById('productList');
+    if (lista) {
+      new MutationObserver(() => {
+        lista.querySelectorAll(':scope > div:not(.revealed)').forEach((el, i) => {
+          el.classList.add('reveal-up');
+          setTimeout(() => el.classList.add('revealed'), 60 + i * 45);
+        });
+      }).observe(lista, { childList: true });
+    }
+  })();
+  </script>
+  <!-- ===== Toggle de menús (autónomo, no depende de script.js) ===== -->
+  <script>
+  (function () {
+    // Espera a que el DOM esté listo
+    function init() {
+      var catBtn   = document.getElementById('categoriesMenuBtn');
+      var dropdown = document.getElementById('categoriesMenuDropdown');
+      var burger   = document.getElementById('burgerBtn');
+      var mobile   = document.getElementById('mobileMenu');
+
+      // --- Desplegable de categorías (escritorio) ---
+      if (catBtn && dropdown) {
+        function openDrop() {
+          dropdown.classList.remove('hidden');
+          // fuerza reflow para que la transición se aplique
+          void dropdown.offsetWidth;
+          dropdown.classList.add('menu-open');
+        }
+        function closeDrop() {
+          dropdown.classList.remove('menu-open');
+          setTimeout(function () {
+            if (!dropdown.classList.contains('menu-open')) {
+              dropdown.classList.add('hidden');
+            }
+          }, 200);
+        }
+        catBtn.addEventListener('click', function (e) {
+          e.stopPropagation();
+          if (dropdown.classList.contains('menu-open')) { closeDrop(); }
+          else { openDrop(); }
+        });
+        // Cerrar al hacer clic fuera
+        document.addEventListener('click', function (e) {
+          if (!dropdown.contains(e.target) && !catBtn.contains(e.target)) {
+            if (dropdown.classList.contains('menu-open')) closeDrop();
+          }
+        });
+        // Cerrar con Escape
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && dropdown.classList.contains('menu-open')) closeDrop();
+        });
+      }
+
+      // --- Menú hamburguesa (móvil) ---
+      if (burger && mobile) {
+        burger.addEventListener('click', function (e) {
+          e.stopPropagation();
+          mobile.classList.toggle('menu-open');
+        });
+        document.addEventListener('click', function (e) {
+          if (!mobile.contains(e.target) && !burger.contains(e.target)) {
+            mobile.classList.remove('menu-open');
+          }
+        });
+        // Cerrar el menú móvil al tocar un enlace
+        mobile.querySelectorAll('a').forEach(function (a) {
+          a.addEventListener('click', function () {
+            mobile.classList.remove('menu-open');
+          });
+        });
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+  </script>
+</body>
+</html>

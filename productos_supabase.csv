@@ -1,0 +1,799 @@
+id,nombre,precio,categoria,descripcion,imagen,stock,disponible,imagen_transparente
+prod-00868,ENALAPRIL MALEATO 5MG BLISTER,17000,Cardiovascular y metabólico,ENALAPRIL MALEATO 5MG BLISTER,assets/imagenesmedimentos/reales/prod-00868.png,1,true,false
+prod-00432,LOSARTAN 50MG EXPOFARMA 30CAPS,11300,Cardiovascular y metabólico,LOSARTAN 50MG EXPOFARMA 30CAPS,assets/imagenesmedimentos/reales/prod-00432.jpg,4,true,false
+prod-00433,ACETAMINOFEN 150MG JARABE 120M,4300,Analgésicos y antiinflamatorios,ACETAMINOFEN 150MG JARABE 120ML LAPROFF,assets/imagenesmedimentos/reales/prod-00433.webp,5,true,false
+prod-00896,ACETAMINOFEN 500MG+CAFEINA 65M,50400,Analgésicos y antiinflamatorios,ACETAMINOFEN 500MG+CAFEINA 65M,assets/imagenesmedimentos/reales/prod-00896.jpg,1,true,false
+prod-00422,ACETAMINOFEN/CODEINA AG 30MG,40000,Analgésicos y antiinflamatorios,ACETAMINOFEN/CODEINA AG 30MG,assets/imagenesmedimentos/reales/prod-00422.png,2,true,false
+prod-00119,CARDIOASPIRINA 100 MG 30 TABLE,53000,Cardiovascular y metabólico,CARDIOASPIRINA 100 MG 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00119.jpg,1,true,false
+prod-00124,CARDIOASPIRINA 81 MG 30 TABLET,47200,Cardiovascular y metabólico,CARDIOASPIRINA 81 MG 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00124.jpg,1,true,false
+prod-00046,DOLEX JARABE NIÑOS 2+,18200,Analgésicos y antiinflamatorios,DOLEX JARABE NIÑOS 2+,assets/imagenesmedimentos/reales/prod-00046.jpg,2,true,false
+prod-00045,DOLEX JARABE NIÑOS 7+,29100,Analgésicos y antiinflamatorios,DOLEX JARABE NIÑOS 7+,assets/imagenesmedimentos/reales/prod-00045.jpg,2,true,false
+prod-00581,DOLEX TABLETAS MASTICABLES 2+,160000,Analgésicos y antiinflamatorios,DOLEX TABLETAS MASTICABLES 2+,assets/imagenesmedimentos/reales/prod-00581.jpg,0,false,false
+prod-00329,HIOSCINA + DIPIRONA 20MG AMPOL,10100,Gastrointestinal,HIOSCINA + DIPIRONA 20MG AMPOL,assets/imagenesmedimentos/reales/prod-00329.jpg,2,true,false
+prod-00244,AMOXICILINA 100ML SUSPENS AG,11200,Antibióticos,AMOXICILINA 100ML SUSPENS AG,assets/imagenesmedimentos/reales/prod-00244.jpg,3,true,false
+prod-00490,AMOXICILINA 250MG SUSPENSION G,13800,Antibióticos,AMOXICILINA 250MG SUSPENSION G,assets/imagenesmedimentos/reales/prod-00490.jpg,1,true,false
+prod-00245,AMOXICILINA 500MG AG,40000,Antibióticos,AMOXICILINA 500MG AG,assets/imagenesmedimentos/reales/prod-00245.webp,0,false,false
+prod-00516,AMOXICILINA POLVO 100ML LA SAN,10200,Antibióticos,AMOXICILINA POLVO 100ML LA SANTE,assets/imagenesmedimentos/reales/prod-00516.jpg,1,true,false
+prod-00517,AMOXICILINA POLVO 45ML LA SANT,7000,Antibióticos,AMOXICILINA POLVO 45ML LA SANTE,assets/imagenesmedimentos/reales/prod-00517.jpg,1,true,false
+prod-00233,AMOXIDAL DUO 14 COMPRIMIDOS,82000,Antibióticos,AMOXIDAL DUO 14 COMPRIMIDOS,assets/imagenesmedimentos/reales/prod-00233.jpg,2,true,false
+prod-00232,AMOXIDAL DUO SUSPENSION 120ML,79000,Antibióticos,AMOXIDAL DUO SUSPENSION 120ML,assets/imagenesmedimentos/reales/prod-00232.jpg,1,true,false
+prod-00518,AZITROMICINA 15ML POLVO LA SAN,19300,Antibióticos,AZITROMICINA 15ML POLVO LA SANTE,assets/imagenesmedimentos/reales/prod-00518.jpg,1,true,false
+prod-00246,AZITROMICINA 500MG AG,16900,Antibióticos,AZITROMICINA 500MG,assets/imagenesmedimentos/reales/prod-00246.jpg,3,true,false
+prod-00248,CEFALEXINA 250 MG SUSPENSION,11900,Antibióticos,CEFALEXINA 250 MG SUSPENSION,assets/imagenesmedimentos/reales/prod-00248.png,1,true,false
+prod-00065,CEFALEXINA 500 MG AG TABLETAS,58000,Antibióticos,CEFALEXINA 500 MG AG TABLETAS,assets/imagenesmedimentos/reales/prod-00065.webp,1,true,false
+prod-00080,PROCATEC CIPROFLOXACINA 500 MG,10100,Antibióticos,PROCATEC CIPROFLOXACINA 500 MG,assets/imagenesmedimentos/reales/prod-00080.jpg,6,true,false
+prod-00496,ADVIL GRIPA MAX 2 CAPSULAS,4200,Antigripales y tos,ADVIL GRIPA MAX 2 CAPSULAS,assets/imagenesmedimentos/reales/prod-00496.webp,17,true,false
+prod-00135,ALGODON MOTOCITOS 100G,6000,Insumos y curación médica,ALGODON MOTOCITOS 100G,assets/imagenesmedimentos/reales/prod-00135.jpg,4,true,false
+prod-00133,ALGODON MOTOCITOS 25G,3000,Insumos y curación médica,ALGODON MOTOCITOS 25G,assets/imagenesmedimentos/reales/prod-00133.webp,14,true,false
+prod-00134,ALGODON MOTOCITOS 50G,4000,Insumos y curación médica,ALGODON MOTOCITOS 50G,assets/imagenesmedimentos/reales/prod-00134.webp,14,true,false
+prod-00429,BLOQUEADOR SUNDARK ADULTOS SOB,3600,Maquillaje y cuidado facial/labial,BLOQUEADOR SUNDARK ADULTOS SOBRE 10G,assets/imagenesmedimentos/reales/prod-00429.jpg,8,true,false
+prod-00526,DESLORATADINA 5MG 10 TB LAPROF,8200,Alergias y antihistamínicos,DESLORATADINA 5MG 10 TABLETAS LAPROFF,assets/imagenesmedimentos/reales/prod-00526.jpg,2,true,false
+prod-00492,DESLORATADINA 5MG GENFAR 10T,31400,Alergias y antihistamínicos,DESLORATADINA 5MG GENFAR 10T,assets/imagenesmedimentos/reales/prod-00492.jpg,1,true,false
+prod-00521,DESLORATADINA 60ML JARABE LA S,21600,Alergias y antihistamínicos,DESLORATADINA 60ML JARABE LA SANTE,assets/imagenesmedimentos/reales/prod-00521.jpg,2,true,false
+prod-00515,DESLORATADINA JARABE ECAR 60ML,8300,Alergias y antihistamínicos,DESLORATADINA JARABE ECAR 60ML,assets/imagenesmedimentos/reales/prod-00515.jpg,4,true,false
+prod-00533,DESLORATADINA KIDS 60ML MEMPHI,9800,Alergias y antihistamínicos,DESLORATADINA KIDS 60ML MEMPHIS,assets/imagenesmedimentos/reales/prod-00533.jpg,1,true,false
+prod-00285,DOLEX GRIPA,18700,Analgésicos y antiinflamatorios,DOLEX GRIPA,assets/imagenesmedimentos/reales/prod-00285.jpg,23,true,false
+prod-00511,LORATADINA 10MG AG 20 TABLETAS,7600,Alergias y antihistamínicos,LORATADINA 10MG AG 20 TABLETAS,assets/imagenesmedimentos/reales/prod-00511.jpg,2,true,false
+prod-00494,LORATADINA JARABE 100ML GENFAR,13600,Alergias y antihistamínicos,LORATADINA JARABE 100ML GENFAR,assets/imagenesmedimentos/reales/prod-00494.jpg,1,true,false
+prod-00530,LORATADINA JARABE 100ML LAPROF,6900,Alergias y antihistamínicos,LORATADINA JARABE 100ML LAPROFF,assets/imagenesmedimentos/reales/prod-00530.webp,2,true,false
+prod-00295,MIELTERTOS NIÑOS JARABE 180ML,31000,Antigripales y tos,MIELTERTOS NIÑOS JARABE 180ML,assets/imagenesmedimentos/reales/prod-00295.jpg,1,true,false
+prod-00126,NOXPIRIN DIA MANDARINA 15G,72000,Antigripales y tos,NOXPIRIN DIA MANDARINA 15G,assets/imagenesmedimentos/reales/prod-00126.jpg,1,true,false
+prod-00127,NOXPIRIN JUNIOR JARABE 120ML,19600,Antigripales y tos,NOXPIRIN JUNIOR JARABE 120ML,assets/imagenesmedimentos/reales/prod-00127.webp,3,true,false
+prod-00032,NOXPIRIN NOCHE PANELA-LIMON,150000,Antigripales y tos,NOXPIRIN NOCHE PANELA-LIMON 10G,assets/imagenesmedimentos/reales/prod-00032.webp,1,true,false
+prod-00357,PAÑITOS HUMEDOS TITOS X100,6700,Bebés y maternidad,PAÑITOS HUMEDOS TITOS X100,assets/imagenesmedimentos/reales/prod-00357.webp,1,true,false
+prod-00366,REPELENTE MOSQUITOS OUT 60ML,5900,Dermatológico y piel,REPELENTE MOSQUITOS OUT 60ML,assets/imagenesmedimentos/reales/prod-00366.jpg,1,true,false
+prod-00367,REPELENTE MOSQUITOS OUT 65G,6500,Dermatológico y piel,REPELENTE MOSQUITOS OUT 65G,assets/imagenesmedimentos/reales/prod-00367.jpg,1,true,false
+prod-00007,VICK 44 EXPECTORANTE ADULTOS J,36600,Antigripales y tos,VICK 44 EXPECTORANTE ADULTOS J,assets/imagenesmedimentos/reales/prod-00007.jpg,2,true,false
+prod-00100,DICLOFENACO 75 MG AMPOLLAS,3000,Analgésicos y antiinflamatorios,DICLOFENACO 75 MG AMPOLLAS,assets/imagenesmedimentos/reales/prod-00100.jpg,17,true,false
+prod-00110,DORMEX DICLOFENACO 100 MG,52000,Analgésicos y antiinflamatorios,DORMEX DICLOFENACO 100 MG,assets/imagenesmedimentos/reales/prod-00110.jpg,10,true,false
+prod-00554,IBUPROFENO 100MG SUSP MK,16200,Analgésicos y antiinflamatorios,IBUPROFENO 100MG SUSPENSION MK NIÑOS,assets/imagenesmedimentos/reales/prod-00554.png,1,true,false
+prod-00493,IBUPROFENO SUSPEN GENFAR 120ML,14300,Analgésicos y antiinflamatorios,IBUPROFENO SUSPEN KIDS GENFAR 120ML,assets/imagenesmedimentos/reales/prod-00493.png,1,true,false
+prod-00523,MELOXICAM 15MG 10 TABLE LA SAN,14200,Analgésicos y antiinflamatorios,MELOXICAM 15MG 10 TABLETAS LA SANTE,assets/imagenesmedimentos/reales/prod-00523.jpg,1,true,false
+prod-00332,MELOXICAM 15MG AMPOLLA,10000,Analgésicos y antiinflamatorios,MELOXICAM 15MG AMPOLLA,assets/imagenesmedimentos/reales/prod-00332.png,2,true,false
+prod-00891,NAPROXENO 500MG LAPROFF,210000,Analgésicos y antiinflamatorios,NAPROXENO 500MG LAPROFF,assets/imagenesmedimentos/reales/prod-00891.jpg,1,true,false
+prod-00892,PIROXICAM 20MG 10 CAPSULAS,6500,Analgésicos y antiinflamatorios,PIROXICAM 20MG 10 CAPSULAS,assets/imagenesmedimentos/reales/prod-00892.jpg,3,true,false
+prod-00284,DOLEX BEBES JARABE 60ML,17100,Analgésicos y antiinflamatorios,DOLEX BEBES JARABE 60ML,assets/imagenesmedimentos/reales/prod-00284.jpg,2,true,false
+prod-00821,PAÑA WINNY PANTS ETAPA 5 X30,52800,Pañales y protección,PAÑA WINNY PANTS ETAPA 5 X30,assets/imagenesmedimentos/reales/prod-00821.jpg,1,true,false
+prod-00359,PAÑALES WINNY ETAPA 2 X30,32700,Pañales y protección,PAÑALES WINNY ETAPA 2 X30,assets/imagenesmedimentos/reales/prod-00359.jpg,1,true,false
+prod-00360,PAÑALES WINNY ETAPA 3 X30,39000,Pañales y protección,PAÑALES WINNY ETAPA 3 X30,assets/imagenesmedimentos/reales/prod-00360.png,1,true,false
+prod-00358,PAÑALES WINNY ETAPA1 X30,28600,Pañales y protección,PAÑALES WINNY ETAPA1 X30,assets/imagenesmedimentos/reales/prod-00358.png,1,true,false
+prod-00824,PAÑALES WINNY SENSITIVE ETA 1,32000,Pañales y protección,PAÑALES WINNY SENSITIVE ETAPA 1,assets/imagenesmedimentos/reales/prod-00824.jpg,1,true,false
+prod-00823,SIMILAC MAMA 400G,69000,Bebés y maternidad,SIMILAC MAMA 400G,assets/imagenesmedimentos/reales/prod-00823.jpg,2,true,false
+prod-00253,AMITRIPTILINA CLORHIDRATO 25MG,117000,Salud mental y sistema nervioso,AMITRIPTILINA CLORHIDRATO 25MG,assets/imagenesmedimentos/reales/prod-00253.jpg,1,true,false
+prod-00120,ELECTROLIT HIDRATANTE FRESA,8700,Snacks y bebidas,ELECTROLIT HIDRATANTE FRESA,assets/imagenesmedimentos/reales/prod-00120.webp,9,true,false
+prod-00122,ELECTROLIT HIDRATANTE MARACUYA,8700,Snacks y bebidas,ELECTROLIT HIDRATANTE MARACUYA,assets/imagenesmedimentos/reales/prod-00122.jpg,10,true,false
+prod-00121,ELECTROLIT HIDRATANTE UVA,8700,Snacks y bebidas,ELECTROLIT HIDRATANTE UVA,assets/imagenesmedimentos/reales/prod-00121.webp,7,true,false
+prod-00640,ELECTROLIT SABOR NARANJA-MANDA,8700,Snacks y bebidas,ELECTROLIT SABOR NARANJA-MANDA,assets/imagenesmedimentos/reales/prod-00640.jpg,5,true,false
+prod-00050,PEDIALYTE MAX MANZANA 500 ML,9800,Bebés y maternidad,PEDIALYTE MAX MANZANA 500 ML,assets/imagenesmedimentos/reales/prod-00050.webp,4,true,false
+prod-00657,SHAMPOO DOVE HIDRATACION 370ML,24200,Cuidado del cabello,SHAMPOO DOVE HIDRATACION 370ML,assets/imagenesmedimentos/reales/prod-00657.jpg,1,true,false
+prod-00565,SUERO FISIOLOGICO GOTAS 30ML,4200,Insumos y curación médica,SUERO FISIOLOGICO GOTAS 30ML SOLUCION NASAL,assets/imagenesmedimentos/reales/prod-00565.webp,3,true,false
+prod-00624,SUERO SOLHIDREX CEREZA SOBRE,78000,Snacks y bebidas,SUERO SOLHIDREX CEREZA SOBRE,assets/imagenesmedimentos/reales/prod-00624.png,0,false,false
+prod-00623,SUERO SOLHIDREX UVA SOBRE,78000,Snacks y bebidas,SUERO SOLHIDREX UVA SOBRE,assets/imagenesmedimentos/reales/prod-00623.png,0,false,false
+prod-00562,SUEROX SABOR A HIERBABUENA,5300,Snacks y bebidas,SUEROX SABOR A HIERBABUENA,assets/imagenesmedimentos/reales/prod-00562.jpg,3,true,false
+prod-00561,SUEROX SABOR A UVA 630ML,5300,Snacks y bebidas,SUEROX SABOR A UVA 630ML,assets/imagenesmedimentos/reales/prod-00561.jpg,5,true,false
+prod-00394,TRAMADOL CLORHIDRATO ACETAMINO,58000,Analgésicos y antiinflamatorios,TRAMADOL CLORHIDRATO ACETAMINO,assets/imagenesmedimentos/reales/prod-00394.jpg,1,true,false
+prod-00305,TRAZODONA CLORHIDRATO 50MG,92000,Salud mental y sistema nervioso,TRAZODONA CLORHIDRATO 50MG,assets/imagenesmedimentos/reales/prod-00305.png,1,true,false
+prod-00264,ACICLOVIR CREMA 5% MK 10G,12700,Dermatológico y piel,ACICLOVIR CREMA 5% MK 10G,assets/imagenesmedimentos/reales/prod-00264.jpg,1,true,false
+prod-00434,ACIDO FUSIDICO CREMA 2% LAPROF,11000,Antibióticos,ACIDO FUSIDICO CREMA 2% LAPROFF,assets/imagenesmedimentos/reales/prod-00434.jpg,2,true,false
+prod-00087,ACIDO FUSIDICO CREMA AL 2%,16000,Antibióticos,ACIDO FUSIDICO CREMA AL 2% GENFAR,assets/imagenesmedimentos/reales/prod-00087.jpg,2,true,false
+prod-00148,BAYCUTEN CREMA 20G,27000,Cuidado personal,BAYCUTEN CREMA 20G,assets/imagenesmedimentos/reales/prod-00148.jpg,1,true,false
+prod-00147,BAYCUTEN N CREMA 35G,42000,Cuidado personal,BAYCUTEN N CREMA 35G,assets/imagenesmedimentos/reales/prod-00147.jpg,2,true,false
+prod-00262,BENLIC CREMA TOPICA 20G,16200,Cuidado personal,BENLIC CREMA TOPICA 20G,assets/imagenesmedimentos/reales/prod-00262.png,2,true,false
+prod-00263,BENLIC CREMA TOPICA 40G,29200,Cuidado personal,BENLIC CREMA TOPICA 40G,assets/imagenesmedimentos/reales/prod-00263.png,2,true,false
+prod-00247,BETAMETASONA 0.1% CREMA 20G,15600,Analgésicos y antiinflamatorios,BETAMETASONA 0.1% CREMA 20G,assets/imagenesmedimentos/reales/prod-00247.jpg,2,true,false
+prod-00088,BETAMETASONA CREMA AL 0.05%,12300,Analgésicos y antiinflamatorios,BETAMETASONA CREMA AL 0.05%,assets/imagenesmedimentos/reales/prod-00088.jpg,4,true,false
+prod-00267,BLANKISIMA CREMA 60G,38800,Cuidado personal,BLANKISIMA CREMA 60G,assets/imagenesmedimentos/reales/prod-00267.jpg,1,true,false
+prod-00165,CEPILLO COLGATE TRIPLE ACCION,5600,Cuidado personal,CEPILLO COLGATE TRIPLE ACCION,assets/imagenesmedimentos/reales/prod-00165.png,5,true,false
+prod-00395,CICATRICURE GEL 30G CICATRICES,43000,Cuidado personal,CICATRICURE GEL 30G CICATRICES,assets/imagenesmedimentos/reales/prod-00395.jpg,2,true,false
+prod-00249,CLOBETASOL PROPI CREMA AG,26200,Cuidado personal,CLOBETASOL PROPIONATO 0.05% CREMA 40G,assets/imagenesmedimentos/reales/prod-00249.png,2,true,false
+prod-00591,CLOBETASOL PROPINATO CREMA LAP,11200,Cuidado personal,CLOBETASOL PROPINATO CREMA LAPROFF 0.05%,assets/imagenesmedimentos/reales/prod-00591.jpg,1,true,false
+prod-00250,CLOTRIMAZOL CREMA VAGIN 1% AG,25600,Cuidado personal,CLOTRIMAZOL 40G CREMA 1% AG,assets/imagenesmedimentos/reales/prod-00250.png,1,true,false
+prod-00902,CREMA #4 MEDICADA 30G,20200,Cuidado personal,CREMA #4 MEDICADA 30G,assets/imagenesmedimentos/reales/prod-00902.jpg,2,true,false
+prod-00597,CREMA #4 NATURAL 20G,11800,Cuidado personal,CREMA #4 NATURAL 20G,assets/imagenesmedimentos/reales/prod-00597.jpg,1,true,false
+prod-00363,CREMA #4 ORIGINAL 20G,10400,Cuidado personal,CREMA #4 ORIGINAL 20G,assets/imagenesmedimentos/reales/prod-00363.jpg,2,true,false
+prod-00588,CREMA CALENDULA 30G CHENIER,11800,Cuidado personal,CREMA CALENDULA 30G CHENIER,assets/imagenesmedimentos/reales/prod-00588.webp,1,true,false
+prod-00167,CREMA COLGATE SENSITIVE PRO AL,19800,Cuidado personal,CREMA COLGATE SENSITIVE PRO ALIVIO 110G,assets/imagenesmedimentos/reales/prod-00167.png,3,true,false
+prod-00169,CREMA COLGATE TOTAL WHITENING,13100,Cuidado personal,CREMA COLGATE TOTAL WHITENING,assets/imagenesmedimentos/reales/prod-00169.jpg,5,true,false
+prod-00585,CREMA DE ARNICA 60G FRESHLY,28600,Cuidado personal,CREMA DE ARNICA 60G NATURAL FRESHLY,assets/imagenesmedimentos/reales/prod-00585.jpg,1,true,false
+prod-00586,CREMA DE CALENDULA 60G FRESHLY,21200,Cuidado personal,CREMA DE CALENDULA 60G NATURAL FRESHLY,assets/imagenesmedimentos/reales/prod-00586.jpg,1,true,false
+prod-00595,CREMA DE CALENDULA PILI 30G,13800,Cuidado personal,CREMA DE CALENDULA PILI 30G,assets/imagenesmedimentos/reales/prod-00595.jpg,1,true,false
+prod-00539,CREMA DENTAL PROQUIDENT 95G,9200,Cuidado personal,CREMA DENTAL PROQUIDENT 95G,assets/imagenesmedimentos/reales/prod-00539.jpg,1,true,false
+prod-00514,CREMA DENTAL VITIS ENCIAS 100M,28200,Cuidado personal,CREMA DENTAL VITIS ENCIAS 100ML,assets/imagenesmedimentos/reales/prod-00514.jpg,1,true,false
+prod-00385,CREMA NIVEA CUIDADO FACIL 7 - 100ML,24000,Cuidado personal,CREMA NIVEA CUIDADO FACIL 7 - 100ML,assets/imagenesmedimentos/reales/prod-00385.jpg,1,true,false
+prod-00382,CREMA NIVEA MILK NUTRITIVA 400,33000,Cuidado personal,CREMA NIVEA MILK NUTRITIVA 400ML,assets/imagenesmedimentos/reales/prod-00382.jpg,1,true,false
+prod-00757,CREMA PEINAR CAIDA RESIST ELVI,22000,Cuidado personal,CREMA PEINAR CAIDA RESIST ELVI,assets/imagenesmedimentos/reales/prod-00757.jpg,1,true,false
+prod-00188,CREMA PONDS CLARANT B3 45G,22000,Cuidado personal,CREMA PONDS CLARANT B3 FACIL CON PROTECCION SOLAR 45G,assets/imagenesmedimentos/reales/prod-00188.webp,2,true,false
+prod-00560,CREMA PONDS CLARANT B3 50G,19000,Cuidado personal,CREMA PONDS CLARANT B3 50G,assets/imagenesmedimentos/reales/prod-00560.png,2,true,false
+prod-00879,CREMA PONDS NUTRITIVA 200G,41000,Cuidado personal,CREMA PONDS NUTRITIVA 200G,assets/imagenesmedimentos/reales/prod-00879.jpg,1,true,false
+prod-00880,CREMA PONDS NUTRITIVA 50G,20500,Cuidado personal,CREMA PONDS NUTRITIVA 50G,assets/imagenesmedimentos/reales/prod-00880.png,1,true,false
+prod-00189,CREMA PONDS REJUVENESS 50G,19000,Cuidado personal,CREMA PONDS REJUVENESS 50G,assets/imagenesmedimentos/reales/prod-00189.jpg,4,true,false
+prod-00878,CREMA PONDS VERDE PEPINO 50G,19000,Cuidado personal,CREMA PONDS VERDE PEPINO 50G,assets/imagenesmedimentos/reales/prod-00878.png,1,true,false
+prod-00578,CREMA PROTECTORA ARRURRU 25G,11800,Cuidado personal,CREMA PROTECTORA ARRURRU 25G,assets/imagenesmedimentos/reales/prod-00578.jpg,1,true,false
+prod-00006,DERMASKIN CREMA 20 G,14600,Cuidado personal,DERMASKIN CREMA 20 G,assets/imagenesmedimentos/reales/prod-00006.png,3,true,false
+prod-00750,DERMASKIN CREMA 40G,23000,Cuidado personal,DERMASKIN CREMA 40G,assets/imagenesmedimentos/reales/prod-00750.png,2,true,false
+prod-00344,DESODORANTE BALANCE MEN 30G,4900,Cuidado personal,DESODORANTE BALANCE MEN 30G,assets/imagenesmedimentos/reales/prod-00344.jpg,2,true,false
+prod-00501,DESODORANTE BALANCE MEN 50G,22800,Cuidado personal,DESODORANTE BALANCE CLINICAL CREMA MEN 50G,assets/imagenesmedimentos/reales/prod-00501.jpg,1,true,false
+prod-00343,DESODORANTE BALANCE WOMEN 30G,4900,Cuidado personal,DESODORANTE BALANCE WOMEN 30G,assets/imagenesmedimentos/reales/prod-00343.jpg,2,true,false
+prod-00500,DESODORANTE BALANCE WOMEN 50G,22800,Cuidado personal,DESODORANTE BALANCE CLINICAL CREMA WOMEN 50G,assets/imagenesmedimentos/reales/prod-00500.jpg,2,true,false
+prod-00786,DESODORANTE DOVE SPRAY 150ML,22800,Cuidado personal,DESODORANTE DOVE SPRAY 150ML,assets/imagenesmedimentos/reales/prod-00786.jpg,2,true,false
+prod-00472,DESODORANTE NIVEA ACLARANTE,15800,Cuidado personal,DESODORANTE NIVEA ACLARANTE 50ML ROLON,assets/imagenesmedimentos/reales/prod-00472.jpg,2,true,false
+prod-00473,DESODORANTE NIVEA MIRACLE SWEE,15800,Cuidado personal,DESODORANTE NIVEA MIRACLE SWEE,assets/imagenesmedimentos/reales/prod-00473.png,2,true,false
+prod-00174,DESODORANTE REXONA CLINICAL,24800,Cuidado personal,DESODORANTE REXONA CLINICAL CREMA DAMA 48G,assets/imagenesmedimentos/reales/prod-00174.jpg,3,true,false
+prod-00175,DESODORANTE REXONA ROLON HOMBR,11400,Cuidado personal,DESODORANTE REXONA ROLON HOMBR,assets/imagenesmedimentos/reales/prod-00175.png,2,true,false
+prod-00102,DICLOFENACO GEL TOPICO 1%,17300,Analgésicos y antiinflamatorios,DICLOFENACO GEL TOPICO 1%,assets/imagenesmedimentos/reales/prod-00102.jpg,2,true,false
+prod-00044,DOLEX ACTIV GEL 10 CAPS,17500,Analgésicos y antiinflamatorios,DOLEX ACTIV GEL 10 CAPS,assets/imagenesmedimentos/reales/prod-00044.jpg,8,true,false
+prod-00474,GEL LUBRICANTE DUO PURE 75ML,29200,Anticonceptivos y salud sexual,GEL LUBRICANTE DUO PURE 75ML,assets/imagenesmedimentos/reales/prod-00474.webp,1,true,false
+prod-00885,GELILAB ADVANCE UVA PHARBIOLAB,78000,Cuidado personal,GELILAB ADVANCE UVA PHARBIOLAB,assets/imagenesmedimentos/reales/prod-00885.jpg,1,true,false
+prod-00212,GELPIN FAST 4 TABLETAS,14200,Analgésicos y antiinflamatorios,GELPIN FAST 4 TABLETAS,assets/imagenesmedimentos/reales/prod-00212.jpg,2,true,false
+prod-00298,HIDROCORTISONA CREMA 1% AG 15G,7600,Cuidado personal,HIDROCORTISONA CREMA 1% AG 15G,assets/imagenesmedimentos/reales/prod-00298.png,2,true,false
+prod-00396,JABON ASEPXIA AZUFRE 100G,16300,Cuidado personal,JABON ASEPXIA AZUFRE 100G,assets/imagenesmedimentos/reales/prod-00396.jpg,1,true,false
+prod-00397,JABON ASEPXIA BICARBONATO 100G,16300,Cuidado personal,JABON ASEPXIA BICARBONATO 100G,assets/imagenesmedimentos/reales/prod-00397.png,1,true,false
+prod-00398,JABON ASEPXIA ESPONJA 80G,16300,Cuidado personal,JABON ASEPXIA ESPONJA 80G,assets/imagenesmedimentos/reales/prod-00398.webp,1,true,false
+prod-00399,JABON ASEPXIA EXFOLIANTE 100G,16300,Cuidado personal,JABON ASEPXIA EXFOLIANTE 100G,assets/imagenesmedimentos/reales/prod-00399.png,14,true,false
+prod-00658,JABON BABY DOVE 400ML HIPOALER,31200,Cuidado personal,JABON BABY DOVE 400ML HIPOALER,assets/imagenesmedimentos/reales/prod-00658.jpg,1,true,false
+prod-00656,JABON DOVE REVIGORANTE 90G,7800,Cuidado del cabello,JABON DOVE REVIGORANTE 90G,assets/imagenesmedimentos/reales/prod-00656.jpg,3,true,false
+prod-00479,JABON INTIMO MUJER CALENDULA,21200,Cuidado personal,JABON INTIMO MUJER CALENDULA 210G,assets/imagenesmedimentos/reales/prod-00479.webp,1,true,false
+prod-00482,JABON INTIMO MUJER SALVIA Y CALENDULA 210G + VINAGRE DE MANZANA Y CALENDULA 55G,14200,Cuidado personal,JABON INTIMO MUJER SALVIA Y CALENDULA 210G + VINAGRE DE MANZANA Y CALENDULA 55G,assets/imagenesmedimentos/reales/prod-00482.jpg,1,true,false
+prod-00416,JABON NIXODERM AZUFRE ALOE VER,12000,Cuidado personal,JABON NIXODERM AZUFRE ALOE VERA,assets/imagenesmedimentos/reales/prod-00416.jpg,1,true,false
+prod-00418,JABON NIXODERM AZUFRE EXTRACTO,13200,Cuidado personal,JABON NIXODERM AZUFRE EXTRACTO DE ARROZ,assets/imagenesmedimentos/reales/prod-00418.png,1,true,false
+prod-00488,JABON PALMOLIVE AVENA Y AZUCAR,4000,Cuidado personal,JABON PALMOLIVE AVENA Y AZUCAR,assets/imagenesmedimentos/reales/prod-00488.jpg,2,true,false
+prod-00489,JABON PALMOLIVE SANDIA Y LYCHE,4000,Cuidado personal,JABON PALMOLIVE SANDIA Y LYCHE,assets/imagenesmedimentos/reales/prod-00489.jpg,1,true,false
+prod-00346,JABON PROTEX HERBAL 110G,4100,Cuidado personal,JABON PROTEX HERBAL 110G,assets/imagenesmedimentos/reales/prod-00346.jpg,3,true,false
+prod-00335,JABON SOHNSONS BABY 110G,5400,Cuidado personal,JABON SOHNSONS BABY 110G,assets/imagenesmedimentos/reales/prod-00335.jpg,1,true,false
+prod-00330,KETOPROFENO GEL 2.5%,35000,Cuidado personal,KETOPROFENO GEL 2.5%,assets/imagenesmedimentos/reales/prod-00330.png,1,true,false
+prod-00802,LASONIL ACTIVE GEL 30G,70000,Cuidado personal,LASONIL ACTIVE GEL 30G,assets/imagenesmedimentos/reales/prod-00802.png,1,true,false
+prod-00566,NEOTRISONA CREMA 20G,13400,Cuidado personal,NEOTRISONA CREMA 20G,assets/imagenesmedimentos/reales/prod-00566.jpg,1,true,false
+prod-00536,PROTECTOR NUDE SOLAR 80FPS 120,59000,Cuidado personal,PROTECTOR NUDE SOLAR 80FPS 120,assets/imagenesmedimentos/reales/prod-00536.jpg,1,true,false
+prod-00537,PROTECTOR NUDE SOLAR 80FPS 40M,27000,Cuidado personal,PROTECTOR NUDE SOLAR 80FPS 40ML,assets/imagenesmedimentos/reales/prod-00537.png,1,true,false
+prod-00596,PROTECTORES DE LACTANCIA 40 NOSOTRAS,19800,Cuidado personal,PROTECTORES DE LACTANCIA 40 NOSOTRAS,assets/imagenesmedimentos/reales/prod-00596.jpg,1,true,false
+prod-00598,PROTECTORES DE LACTANCIA AVENT,32800,Cuidado personal,PROTECTORES DE LACTANCIA AVENT 24 UNIDADES,assets/imagenesmedimentos/reales/prod-00598.png,1,true,true
+prod-00349,PROTECTORES NOSOTRAS X15,2200,Cuidado personal,PROTECTORES NOSOTRAS X15,assets/imagenesmedimentos/reales/prod-00349.jpg,2,true,false
+prod-00694,SAVIDOL VITALFARMA GEL 90G,29400,Cuidado personal,SAVIDOL VITALFARMA GEL 90G,assets/imagenesmedimentos/reales/prod-00694.webp,2,true,false
+prod-00170,SEDA DENTAL COLGATE TOTAL HILO 25MTS,13200,Cuidado personal,SEDA DENTAL COLGATE TOTAL HILO 25MTS,assets/imagenesmedimentos/reales/prod-00170.jpg,3,true,false
+prod-00476,SHAMPOO ARRURRU MANZANILLA 400,26800,Cuidado del cabello,SHAMPOO ARRURRU MANZANILLA 400ML,assets/imagenesmedimentos/reales/prod-00476.png,2,true,false
+prod-00651,SHAMPOO HEAD & SHOULDERS 375ML,24200,Cuidado del cabello,SHAMPOO HEAD & SHOULDERS 375ML,assets/imagenesmedimentos/reales/prod-00651.jpg,1,true,false
+prod-00345,SHAMPOO HEAD & SHOULDERS SOBRE,1600,Cuidado del cabello,SHAMPOO HEAD & SHOULDERS SOBRE,assets/imagenesmedimentos/reales/prod-00345.webp,12,true,false
+prod-00338,SHAMPOO JOHNSONS BABY GLICERIN,20000,Cuidado del cabello,SHAMPOO JOHNSONS BABY GLICERIN,assets/imagenesmedimentos/reales/prod-00338.jpg,1,true,false
+prod-00336,SHAMPOO JOHNSONS BABY MANZANIL,21000,Cuidado del cabello,SHAMPOO JOHNSONS BABY MANZANIL,assets/imagenesmedimentos/reales/prod-00336.jpg,1,true,false
+prod-00652,SHAMPOO PANTENE RESTAURA 400ML,25800,Cuidado del cabello,SHAMPOO PANTENE RESTAURACION 400ML,assets/imagenesmedimentos/reales/prod-00652.jpg,1,true,false
+prod-00347,SHAMPOO PANTENE SOBRE COLAGENO,1600,Cuidado del cabello,SHAMPOO PANTENE SOBRE COLAGENO,assets/imagenesmedimentos/reales/prod-00347.jpg,12,true,false
+prod-00789,SHAMPOO SAVITAL 510ML HIALURON,16200,Cuidado del cabello,SHAMPOO SAVITAL 510ML HIALURON,assets/imagenesmedimentos/reales/prod-00789.jpg,2,true,false
+prod-00555,SHAMPOO SEDAL CERAMIDAS 340ML,17000,Cuidado del cabello,SHAMPOO SEDAL CERAMIDAS 340ML,assets/imagenesmedimentos/reales/prod-00555.webp,1,true,false
+prod-00495,SHAMPOO TIO NACHO CONTROL CAS,16000,Cuidado del cabello,SHAMPOO TIO NACHO CONTROL CASPA 415ML,assets/imagenesmedimentos/reales/prod-00495.webp,1,true,false
+prod-00230,SYSTANE GEL GOTAS 10 ML,76000,Oftálmico y ótico,SYSTANE GEL GOTAS 10 ML,assets/imagenesmedimentos/reales/prod-00230.png,1,true,false
+prod-00875,TOALLAS DESMAQUILLANTES POMYS,7500,Snacks y bebidas,TOALLAS DESMAQUILLANTES POMYS,assets/imagenesmedimentos/reales/prod-00875.png,1,true,false
+prod-00187,TOALLAS NOSOTRAS EXTRA PROTECC,14600,Salud femenina,TOALLAS NOSOTRAS EXTRA PROTECCION TELA SUAVE 24 UNIDADES,assets/imagenesmedimentos/reales/prod-00187.jpg,0,false,false
+prod-00185,TOALLAS NOSOTRAS INVISIBLE CLA (26013.400),13400,Salud femenina,TOALLAS NOSOTRAS INVISIBLE CLA (26013.400),assets/imagenesmedimentos/reales/prod-00185.jpg,1,true,false
+prod-00184,TOALLAS NOSOTRAS INVISIBLE CLA (2605.200),5200,Salud femenina,TOALLAS NOSOTRAS INVISIBLE CLA (2605.200),assets/imagenesmedimentos/reales/prod-00184.jpg,1,true,false
+prod-00181,TOALLAS NOSOTRAS MATERNIDAD,18600,Salud femenina,TOALLAS NOSOTRAS MATERNIDAD,assets/imagenesmedimentos/reales/prod-00181.webp,1,true,false
+prod-00183,TOALLAS NOSOTRAS PLUS CANAGEL,4600,Salud femenina,TOALLAS NOSOTRAS PLUS CANAGEL TELA SUAVE 0 UNIDADES,assets/imagenesmedimentos/reales/prod-00183.jpg,1,true,false
+prod-00161,TRIGENTAX CREMA TOPICA 20G,31200,Cuidado personal,TRIGENTAX CREMA TOPICA 20G,assets/imagenesmedimentos/reales/prod-00161.png,2,true,true
+prod-00615,VITALIS CREMA TOPICA BETAMETAS,13200,Cuidado personal,"VITALIS CREMA TOPICA BETAMETASONA 0,04%",assets/imagenesmedimentos/reales/prod-00615.jpg,3,true,false
+prod-00362,YODORA CLASICO CREMA 12G,4500,Cuidado personal,YODORA CLASICO CREMA 12G,assets/imagenesmedimentos/reales/prod-00362.webp,1,true,false
+prod-00696,ACEITE DE COCO 100ML EXTRA VIR,16800,Dermatológico y piel,ACEITE DE COCO 100ML EXTRA VIR,assets/imagenesmedimentos/reales/prod-00696.webp,1,true,false
+prod-00235,ACICLOVIR 15G UNGUENTO AL 5%,14600,Dermatológico y piel,ACICLOVIR 15G UNGUENTO AL 5%,assets/imagenesmedimentos/reales/prod-00235.jpg,1,true,false
+prod-00092,ACICLOVIR 5% UNGUENTO TOPICO,17000,Dermatológico y piel,ACICLOVIR 5% UNGUENTO TOPICO,assets/imagenesmedimentos/reales/prod-00092.png,4,true,false
+prod-00096,ACICLOVIR 800 MG 10 TABLETAS LA SANTE,21200,Dermatológico y piel,ACICLOVIR 800 MG 10 TABLETAS LA SANTE,assets/imagenesmedimentos/reales/prod-00096.png,4,true,false
+prod-00573,ACID MANTLE BABY 100G,43000,Maquillaje y cuidado facial/labial,ACID MANTLE BABY 100G,assets/imagenesmedimentos/reales/prod-00573.jpg,1,true,false
+prod-00572,ACID MANTLE BABY 30G,14000,Maquillaje y cuidado facial/labial,ACID MANTLE BABY 30G,assets/imagenesmedimentos/reales/prod-00572.jpg,1,true,false
+prod-00867,ACID MANTLE PRO B5 NOCTURNA,61000,Maquillaje y cuidado facial/labial,ACID MANTLE PRO B5 NOCTURNA,assets/imagenesmedimentos/reales/prod-00867.jpg,1,true,false
+prod-00176,ACIDO FOLICO 1MG 60 TABLETAS,12400,Vitaminas y suplementos,ACIDO FOLICO 1MG 60 TABLETAS,assets/imagenesmedimentos/reales/prod-00176.jpg,3,true,false
+prod-00791,ACONDICIONADOR SAVITAL 490ML FUSION PR,19200,Cuidado del cabello,ACONDICIONADOR SAVITAL 490ML FUSION PROTEINAS,assets/imagenesmedimentos/reales/prod-00791.jpg,1,true,false
+prod-00783,ACONDICIONADOR SAVITAL SOBRE COMP HIAL,1000,Cuidado del cabello,ACONDICIONADOR SAVITAL SOBRE COMP HIAL,assets/imagenesmedimentos/reales/prod-00783.jpg,20,true,false
+prod-00772,ACONDICIONADOR PANTENE CONTROL CAIDA,25000,Cuidado del cabello,ACONDICIONADOR PANTENE CONTROL CAIDA,assets/imagenesmedimentos/reales/prod-00772.webp,1,true,false
+prod-00348,ACONDICIONADOR PANTENE SOBRE REPARACION,1600,Cuidado del cabello,ACONDICIONADOR PANTENE SOBRE REPARACION,assets/imagenesmedimentos/reales/prod-00348.jpg,12,true,false
+prod-00556,ACONDICIONADOR SEDAL 340ML,17000,Cuidado del cabello,ACONDICIONADOR SEDAL 340ML CERAMIDAS,assets/imagenesmedimentos/reales/prod-00556.jpg,1,true,false
+prod-00236,ACTIVA 21 GRAGEAS,6800,Anticonceptivos y salud sexual,ACTIVA 21 GRAGEAS,assets/imagenesmedimentos/reales/prod-00236.jpg,4,true,false
+prod-00498,ADHESIVA COREGA SIN SABOR 20G,26400,Cuidado bucal,ADHESIVA COREGA SIN SABOR 20G,assets/imagenesmedimentos/reales/prod-00498.jpg,1,true,false
+prod-00193,AGUA BRISA 600 ML,2000,Snacks y bebidas,AGUA BRISA 600 ML,assets/imagenesmedimentos/reales/prod-00193.jpg,69,true,false
+prod-00650,AGUA MICELAR GARNIER 100ML,11400,Maquillaje y cuidado facial/labial,AGUA MICELAR GARNIER 100ML,assets/imagenesmedimentos/reales/prod-00650.png,1,true,false
+prod-00265,ALBENDAZOL 200MG MK,4800,Antimicóticos y antiparasitarios,ALBENDAZOL 200MG MK,assets/imagenesmedimentos/reales/prod-00265.png,2,true,false
+prod-00551,ALGODON MK POMOS BOLSA 40G,5500,Insumos y curación médica,ALGODON MK POMOS BOLSA 40G,assets/imagenesmedimentos/reales/prod-00551.jpg,2,true,false
+prod-00464,AMLODIPINO 5MG - 10 TABL COASP,5600,Cardiovascular y metabólico,AMLODIPINO 5MG - 10 TABL COASP,assets/imagenesmedimentos/reales/prod-00464.jpg,4,true,false
+prod-00465,AMLODIPINO 5MG GENFAR 10 TABLE,8200,Cardiovascular y metabólico,AMLODIPINO 5MG GENFAR 10 TABLE,assets/imagenesmedimentos/reales/prod-00465.webp,2,true,false
+prod-00467,AMLODIPINO 5MG LAPROFF,3000,Cardiovascular y metabólico,AMLODIPINO 5MG LAPROFF,assets/imagenesmedimentos/reales/prod-00467.jpg,4,true,false
+prod-00243,AMITRIPTILINA 25 MG AG,12100,Salud mental y sistema nervioso,AMITRIPTILINA 25 MG AG,assets/imagenesmedimentos/reales/prod-00243.webp,3,true,false
+prod-00858,ANGIOVAN CILOSTAZOL 50MG TECNO,30200,Cardiovascular y metabólico,ANGIOVAN CILOSTAZOL 50MG TECNO,assets/imagenesmedimentos/reales/prod-00858.jpg,1,true,false
+prod-00052,APRONAX 550 MG BLISTER X4,210000,Analgésicos y antiinflamatorios,APRONAX 550 MG BLISTER X4,assets/imagenesmedimentos/reales/prod-00052.jpg,1,true,false
+prod-00073,B VIT HT 3 JERINGAS,90000,Insumos y curación médica,B VIT HT CAJA DE 3 JERINGAS,assets/imagenesmedimentos/reales/prod-00073.jpg,16,true,false
+prod-00704,BALSAMO LAB VOGUE PROTE LABIOS,8400,Maquillaje y cuidado facial/labial,BALSAMO LAB VOGUE PROTE LABIOS,assets/imagenesmedimentos/reales/prod-00704.webp,2,true,false
+prod-00697,BASE LIQUIDA NAILEN SURTIDA,13200,Maquillaje y cuidado facial/labial,BASE LIQUIDA NAILEN SURTIDA,assets/imagenesmedimentos/reales/prod-00697.jpg,3,true,false
+prod-00470,BETALOC ZOK 25MG METROPROLOL,10200,Cardiovascular y metabólico,BETALOC ZOK 25MG METROPROLOL,assets/imagenesmedimentos/reales/prod-00470.jpg,1,true,false
+prod-00268,BETAMETASONA 8MG,9000,Analgésicos y antiinflamatorios,BETAMETASONA 8MG,assets/imagenesmedimentos/reales/prod-00268.jpg,9,true,false
+prod-00534,BIO OIL 60ML ACEITE PARA CUIDADO DE ´PIEL,43000,Maquillaje y cuidado facial/labial,BIO OIL 60ML ACEITE PARA CUIDADO DE ´PIEL,assets/imagenesmedimentos/reales/prod-00534.jpg,2,true,false
+prod-00206,BION 3 - 60 TABLETAS OFERTA,73000,Vitaminas y suplementos,BION 3 - 60 TABLETAS OFERTA,assets/imagenesmedimentos/reales/prod-00206.jpg,1,true,false
+prod-00430,BLOQUEADOR SUNDARK NIÑOS SOBRE,3600,Maquillaje y cuidado facial/labial,BLOQUEADOR SUNDARK NIÑOS SOBRE,assets/imagenesmedimentos/reales/prod-00430.jpg,8,true,false
+prod-00431,BLOQUEADOR SUNDARK SPF 60G,33600,Maquillaje y cuidado facial/labial,BLOQUEADOR SUNDARK SPF 60G,assets/imagenesmedimentos/reales/prod-00431.jpg,1,true,false
+prod-00001,BOLSA,80000,Otros suministros y servicios,BOLSA,assets/imagenesmedimentos/reales/prod-00001.jpg,98,true,false
+prod-00123,BONFIEST LUA PLUS 32 SOBRES,3900,Vitaminas y suplementos,BONFIEST LUA PLUS 32 SOBRES,assets/imagenesmedimentos/reales/prod-00123.jpg,27,true,false
+prod-00071,BOTANITAS MELENA DE LEON GLICINATO DE MAGNESIO 250G,92000,Vitaminas y suplementos,BOTANITAS MELENA DE LEON GLICINATO DE MAGNESIO 250G,assets/imagenesmedimentos/reales/prod-00071.jpg,2,true,false
+prod-00415,BRONQUISOL FLEMA NIÑOS JGB 120,33000,Antigripales y tos,BRONQUISOL FLEMA NIÑOS JGB 120ML,assets/imagenesmedimentos/reales/prod-00415.jpg,1,true,false
+prod-00237,CALADRYL CLEAR 100ML,28000,Dermatológico y piel,CALADRYL CLEAR 100ML,assets/imagenesmedimentos/reales/prod-00237.jpg,2,true,false
+prod-00081,CALTRATE D 600+,55200,Vitaminas y suplementos,CALTRATE D 600+,assets/imagenesmedimentos/reales/prod-00081.webp,1,true,false
+prod-00412,CATETER 18G INTRAVENOSO,3000,Insumos y curación médica,CATETER 18G INTRAVENOSO,assets/imagenesmedimentos/reales/prod-00412.png,6,true,false
+prod-00413,CATETER 20G INTRAVENOSO,3000,Insumos y curación médica,CATETER 20G INTRAVENOSO,assets/imagenesmedimentos/reales/prod-00413.png,6,true,false
+prod-00414,CATETER 22G INTRAVENOSO,3000,Insumos y curación médica,CATETER 22G INTRAVENOSO,assets/imagenesmedimentos/reales/prod-00414.jpg,6,true,false
+prod-00378,CATETER INTRAVENOSO 24 ALFASAF,2500,Insumos y curación médica,CATETER INTRAVENOSO 24 ALFASAFE,assets/imagenesmedimentos/reales/prod-00378.jpg,3,true,false
+prod-00143,CELECOXIB 100 MG SANFER,32000,Analgésicos y antiinflamatorios,CELECOXIB 100 MG SANFER,assets/imagenesmedimentos/reales/prod-00143.jpg,1,true,false
+prod-00775,CEPILLO DENTAL NIÑOS SONRIDENT,3500,Cuidado bucal,CEPILLO DENTAL NIÑOS SONRIDENT,assets/imagenesmedimentos/reales/prod-00775.webp,3,true,false
+prod-00507,CETIRIZINA 10MG AG 10 TABLETAS,6400,Alergias y antihistamínicos,CETIRIZINA 10MG AG 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00507.jpg,2,true,false
+prod-00520,CETIRIZINA 10MG LA SANTE 10 TA,7200,Alergias y antihistamínicos,CETIRIZINA 10MG LA SANTE 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00520.png,2,true,false
+prod-00688,CITRATO DE POTASIO PREMIUM D3,58000,Vitaminas y suplementos,CITRATO DE POTASIO PREMIUM D3,assets/imagenesmedimentos/reales/prod-00688.webp,1,true,false
+prod-00256,CLORFENAMINA JARABE 2MG,11400,Alergias y antihistamínicos,CLORFENAMINA JARABE 2MG,assets/imagenesmedimentos/reales/prod-00256.jpg,3,true,false
+prod-00070,CLORURO DE MAGNESIO 50 CAPSULA,27000,Vitaminas y suplementos,CLORURO DE MAGNESIO 50 CAPSULAS,assets/imagenesmedimentos/reales/prod-00070.jpg,2,true,false
+prod-00886,COLAGENO+BIOTINA PHARBIO X30,34000,Vitaminas y suplementos,COLAGENO+BIOTINA PHARBIO X30,assets/imagenesmedimentos/reales/prod-00886.jpg,1,true,false
+prod-00887,COLAGENO+BIOTINA PHARBIO X60,47000,Vitaminas y suplementos,COLAGENO+BIOTINA PHARBIO X60,assets/imagenesmedimentos/reales/prod-00887.jpg,1,true,false
+prod-00478,COLONIA ARRURRU ORIGINAL AZUL 400ML,46200,Otros suministros y servicios,COLONIA ARRURRU ORIGINAL AZUL 400ML,assets/imagenesmedimentos/reales/prod-00478.webp,1,true,false
+prod-00477,COLONIA ARRURRU ORIGINAL ROSAD,46200,Otros suministros y servicios,COLONIA ARRURRU ORIGINAL ROSAD,assets/imagenesmedimentos/reales/prod-00477.jpg,1,true,false
+prod-00021,CONGESTEX CAPSULAS 60 CAPSULA,96700,Antigripales y tos,CONGESTEX CAPSULAS 60 CAPSULA,assets/imagenesmedimentos/reales/prod-00021.png,5,true,false
+prod-00833,CONO BOCATTO FRESA,6000,Snacks y bebidas,CONO BOCATTO FRESA,assets/imagenesmedimentos/reales/prod-00833.jpg,9,true,false
+prod-00632,COPITO COTTON SWABS,2200,Insumos y curación médica,COPITO COTTON SWABS,assets/imagenesmedimentos/reales/prod-00632.jpg,12,true,false
+prod-00894,CYCLOFEM AMPOLLA,22000,Anticonceptivos y salud sexual,CYCLOFEM AMPOLLA,assets/imagenesmedimentos/reales/prod-00894.png,10,true,false
+prod-00251,DAYAMINERAL FE JARABE 240ML,60000,Vitaminas y suplementos,DAYAMINERAL FE JARABE 240ML,assets/imagenesmedimentos/reales/prod-00251.png,1,true,false
+prod-00056,DICLOXACILINA 500 MG 50 CAPSUL,50000,Antibióticos,DICLOXACILINA 500 MG 50 CAPSUL,assets/imagenesmedimentos/reales/prod-00056.jpg,1,true,false
+prod-00424,DIHIDROCODEINA AG 120ML JARABE,18200,Antigripales y tos,DIHIDROCODEINA AG 120ML JARABE,assets/imagenesmedimentos/reales/prod-00424.webp,1,true,false
+prod-00407,DIHIDROCODEINA BITARTRATO 120M,19200,Antigripales y tos,DIHIDROCODEINA BITARTRATO 120M,assets/imagenesmedimentos/reales/prod-00407.jpg,1,true,false
+prod-00903,DIOSMINA HESPERIDINA MK 500,28600,Cardiovascular y metabólico,DIOSMINA HESPERIDINA MK 500,assets/imagenesmedimentos/reales/prod-00903.webp,2,true,false
+prod-00282,DOXICILINA 100MF X10 COMPRIMID,12200,Antibióticos,DOXICILINA 100MF X10 COMPRIMIDOS,assets/imagenesmedimentos/reales/prod-00282.jpg,2,true,false
+prod-00856,DULCOLAX BISACODILO 10 GRAGEAS,21000,Gastrointestinal,DULCOLAX BISACODILO 10 GRAGEAS,assets/imagenesmedimentos/reales/prod-00856.webp,2,true,false
+prod-00079,DUODART 0.5MG/0.4MG,79000,Disfunción eréctil y urología,DUODART 0.5MG/0.4MG,assets/imagenesmedimentos/reales/prod-00079.png,2,true,false
+prod-00810,EMULSION DE SCOTT 360ML,27000,Vitaminas y suplementos,EMULSION DE SCOTT 360ML,assets/imagenesmedimentos/reales/prod-00810.jpg,2,true,false
+prod-00811,EMULSION SCOTT 180ML,17000,Vitaminas y suplementos,EMULSION SCOTT 180ML,assets/imagenesmedimentos/reales/prod-00811.jpg,3,true,false
+prod-00445,ENEMA TRAVAD 133ML,28000,Gastrointestinal,ENEMA TRAVAD 133ML,assets/imagenesmedimentos/reales/prod-00445.png,1,true,false
+prod-00471,ESPIRONOLACTONA 25MG LAPROFF,8400,Cardiovascular y metabólico,ESPIRONOLACTONA 25MG LAPROFF,assets/imagenesmedimentos/reales/prod-00471.jpg,2,true,false
+prod-00068,EVALAX POLVO SOBRE 17 G,90000,Gastrointestinal,EVALAX POLVO SOBRE 17 G,assets/imagenesmedimentos/reales/prod-00068.jpg,1,true,false
+prod-00318,FEMDUO 10 OVULOS VAGINALES,32000,Salud femenina,FEMDUO 10 OVULOS VAGINALES,assets/imagenesmedimentos/reales/prod-00318.jpg,1,true,false
+prod-00111,FENCAFEN 20 TABLETAS,78000,Analgésicos y antiinflamatorios,FENCAFEN 20 TABLETAS,assets/imagenesmedimentos/reales/prod-00111.jpg,1,true,false
+prod-00549,FEXOFENADINA 120G TABL HETERO,46000,Alergias y antihistamínicos,FEXOFENADINA CLORHIDRATO 120G TABLETAS HETERO,assets/imagenesmedimentos/reales/prod-00549.jpg,1,true,false
+prod-00509,FEXOFENADINA 120MG AG 10 TABLE,52000,Alergias y antihistamínicos,FEXOFENADINA 120MG AG 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00509.webp,1,true,false
+prod-00426,FEXOFENADINA 180MG ECAR,81000,Alergias y antihistamínicos,FEXOFENADINA 180MG,assets/imagenesmedimentos/reales/prod-00426.jpg,2,true,false
+prod-00589,FEXOFENADINA JARABE 150ML ECAR,52000,Alergias y antihistamínicos,FEXOFENADINA JARABE 150ML ECAR,assets/imagenesmedimentos/reales/prod-00589.jpg,3,true,false
+prod-00273,FLORATIL 250 MG,8000,Gastrointestinal,FLORATIL 250 MG,assets/imagenesmedimentos/reales/prod-00273.png,20,true,false
+prod-00150,FLUCONAZOL 150MG ICOM,3300,Antimicóticos y antiparasitarios,FLUCONAZOL 150MG ICOM,assets/imagenesmedimentos/reales/prod-00150.jpg,6,true,false
+prod-00151,FLUCONAZOL 200 MG,9700,Antimicóticos y antiparasitarios,FLUCONAZOL 200 MG,assets/imagenesmedimentos/reales/prod-00151.jpg,5,true,false
+prod-00297,FLUOXETINA 20MG AG,16800,Salud mental y sistema nervioso,FLUOXETINA 20MG AG,assets/imagenesmedimentos/reales/prod-00297.png,2,true,false
+prod-00569,FLUOXETINA 20MG COASPHAR 14TAB,6300,Salud mental y sistema nervioso,FLUOXETINA 20MG COASPHARMA 14 TABLETAS,assets/imagenesmedimentos/reales/prod-00569.png,4,true,false
+prod-00675,GALLETA FESTIVAL SURTIDAS 6UNI,1200,Snacks y bebidas,GALLETA FESTIVAL SURTIDAS 6UNI,assets/imagenesmedimentos/reales/prod-00675.png,33,true,false
+prod-00836,GALLETA HELADO VAINILLA PASAS,3500,Snacks y bebidas,GALLETA HELADO VAINILLA PASAS,assets/imagenesmedimentos/reales/prod-00836.png,19,true,false
+prod-00191,GATORADE FRUTAS TROPICAL 500ML,4000,Snacks y bebidas,GATORADE FRUTAS TROPICAL 500ML,assets/imagenesmedimentos/reales/prod-00191.png,20,true,false
+prod-00328,GENTAMICINA 1 AMPOLLA,7600,Antibióticos,GENTAMICINA 1 AMPOLLA,assets/imagenesmedimentos/reales/prod-00328.jpg,2,true,false
+prod-00893,GENTAMICINA SOLUCION OPTICA5ML,12500,Antibióticos,"GENTAMICINA 0,3% SOLUCION OPTICA 5 ML",assets/imagenesmedimentos/reales/prod-00893.png,1,true,false
+prod-00613,GLUCERNA HMB 220ML 3 EN 1 VAIN,14200,Snacks y bebidas,GLUCERNA HMB 220ML 3 EN 1 VAIN,assets/imagenesmedimentos/reales/prod-00613.jpg,1,true,false
+prod-00666,GOL 31G,2000,Snacks y bebidas,GOL 31G,assets/imagenesmedimentos/reales/prod-00666.jpg,8,true,false
+prod-00593,GOMAS GUMIVIT BOLSA 4 GOMAS,2600,Vitaminas y suplementos,GOMAS GUMIVIT BOLSA 4 GOMAS,assets/imagenesmedimentos/reales/prod-00593.jpg,6,true,false
+prod-00272,GORRO TIPO ORUGA AZUL,500,Otros suministros y servicios,GORRO TIPO ORUGA AZUL,assets/imagenesmedimentos/reales/prod-00272.jpg,1,true,false
+prod-00720,HEMOCYTON JARABE TECNOQUIMICAS,36000,Antigripales y tos,HEMOCYTON JARABE TECNOQUIMICAS,assets/imagenesmedimentos/reales/prod-00720.jpg,1,true,false
+prod-00289,HEPATODREN TRIPLE ACCION CAPSU,52300,Gastrointestinal,HEPATODREN TRIPLE ACCION CAPSU,assets/imagenesmedimentos/reales/prod-00289.jpg,1,true,false
+prod-00291,HEPATODREN TRIPLE ACCION JARAB,36000,Gastrointestinal,HEPATODREN TRIPLE ACCION JARAB,assets/imagenesmedimentos/reales/prod-00291.jpg,1,true,false
+prod-00759,HIDRAHIALURONICO NOCTURNA 200G,27000,Maquillaje y cuidado facial/labial,HIDRAHIALURONICO NOCTURNA 200G,assets/imagenesmedimentos/reales/prod-00759.jpg,1,true,false
+prod-00820,HIDRAPLUS 75 ZINC 400ML MANZAN,11500,Vitaminas y suplementos,HIDRAPLUS 75 ZINC 400ML MANZANA,assets/imagenesmedimentos/reales/prod-00820.jpg,3,true,false
+prod-00144,HIDROCLOROTIAZIDA 12.5MG,7900,Cardiovascular y metabólico,HIDROCLOROTIAZIDA 12.5MG,assets/imagenesmedimentos/reales/prod-00144.png,4,true,false
+prod-00278,HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 360ML,19900,Gastrointestinal,HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 360ML,assets/imagenesmedimentos/reales/prod-00278.jpg,2,true,false
+prod-00529,HIOSCINA 10MG LAPROFF,10800,Gastrointestinal,HIOSCINA N-BUTILBROMURO 10MG LAPROFF,assets/imagenesmedimentos/reales/prod-00529.jpg,1,true,false
+prod-00733,IGORA 1-1 NEGRO AZUL+OXIGENTA,22800,Cuidado del cabello,IGORA 1-1 NEGRO AZUL+OXIGENTA,assets/imagenesmedimentos/reales/prod-00733.jpg,1,true,false
+prod-00324,INHALOCAMARA ADULTO PROTEX,9800,Insumos y curación médica,INHALOCAMARA ADULTO PROTEX,assets/imagenesmedimentos/reales/prod-00324.jpg,1,true,false
+prod-00315,INHALOCAMARA PEDIATRICA MASCAR,12000,Insumos y curación médica,INHALOCAMARA PEDIATRICA MASCARA,assets/imagenesmedimentos/reales/prod-00315.jpg,1,true,false
+prod-00227,"IVERMECTINA 0,6% SOLUCION ORAL",16800,Antimicóticos y antiparasitarios,"IVERMECTINA 0,6% SOLUCION ORAL",assets/imagenesmedimentos/reales/prod-00227.webp,1,true,true
+prod-00307,KETOTIFENO 1MG JARABE 100ML,9600,Alergias y antihistamínicos,KETOTIFENO 1MG JARABE 100ML,assets/imagenesmedimentos/reales/prod-00307.jpg,1,true,false
+prod-00197,KOLA GRANULADA FRESA 135G,13000,Snacks y bebidas,KOLA GRANULADA FRESA 135G,assets/imagenesmedimentos/reales/prod-00197.jpg,2,true,false
+prod-00198,KOLA GRANULADA FRESA 380G,29000,Snacks y bebidas,KOLA GRANULADA FRESA 380G,assets/imagenesmedimentos/reales/prod-00198.jpg,2,true,false
+prod-00196,KOLA GRANULADA TRADICIONAL135G,12300,Snacks y bebidas,KOLA GRANULADA TRADICIONAL135G,assets/imagenesmedimentos/reales/prod-00196.jpg,3,true,false
+prod-00097,LAGRIMAS ARTIFICIALES 5 MG/ML,19000,Oftálmico y ótico,LAGRIMAS ARTIFICIALES 5 MG/ML,assets/imagenesmedimentos/reales/prod-00097.png,1,true,false
+prod-00379,LECHE DE MAGNESIA PHILLIPS 120,16400,Gastrointestinal,LECHE DE MAGNESIA PHILLIPS 120ML,assets/imagenesmedimentos/reales/prod-00379.webp,1,true,false
+prod-00435,LECHE KLIM NESTLE 1+ 500G,33000,Bebés y maternidad,LECHE KLIM NESTLE 1+ 500G,assets/imagenesmedimentos/reales/prod-00435.jpg,1,true,false
+prod-00522,LEVOCETIRIZINA 5MG 10 TB LA SA,32000,Alergias y antihistamínicos,LEVOCETIRIZINA 5MG 10 TB LA SA,assets/imagenesmedimentos/reales/prod-00522.jpg,1,true,false
+prod-00005,LEVOFLOXACINA TABL 500 MG MK,59200,Antibióticos,LEVOFLOXACINA TABL 500 MG MK,assets/imagenesmedimentos/reales/prod-00005.jpg,1,true,false
+prod-00319,LEVOTIROXINA SODICA 100MCG,49000,Cardiovascular y metabólico,LEVOTIROXINA SODICA 100MCG,assets/imagenesmedimentos/reales/prod-00319.jpg,1,true,false
+prod-00086,LIDOCAINA HCI 2% JALEA ESTERIL 30 G,26900,Dermatológico y piel,LIDOCAINA HCI 2% JALEA ESTERIL 30 G,assets/imagenesmedimentos/reales/prod-00086.jpg,1,true,false
+prod-00204,LISTERINE CUIDADO TOTAL 180ML,16200,Cuidado bucal,LISTERINE CUIDADO TOTAL 180ML,assets/imagenesmedimentos/reales/prod-00204.png,6,true,false
+prod-00606,LOPERAMIDA ECAR 6 TABLETAS,5400,Gastrointestinal,LOPERAMIDA ECAR 6 TABLETAS,assets/imagenesmedimentos/reales/prod-00606.jpg,10,true,false
+prod-00223,LOXONIN 60MG,99000,Analgésicos y antiinflamatorios,LOXONIN 60MG,assets/imagenesmedimentos/reales/prod-00223.webp,1,true,false
+prod-00504,LUBRICANTE INTIMAZUL SACHET,24000,Anticonceptivos y salud sexual,LUBRICANTE INTIMAZUL SACHET,assets/imagenesmedimentos/reales/prod-00504.webp,0,false,false
+prod-00545,LUBRICANTE INTIMO DUREX 50G,31000,Anticonceptivos y salud sexual,LUBRICANTE INTIMO DUREX 50G PLAY CEREZA,assets/imagenesmedimentos/reales/prod-00545.jpg,1,true,false
+prod-00546,LUBRICANTE INTIMO K-Y 100G,52000,Anticonceptivos y salud sexual,LUBRICANTE INTIMO K-Y 100G,assets/imagenesmedimentos/reales/prod-00546.jpg,1,true,false
+prod-00548,LUBRICANTE INTIMO K-Y 15G,19000,Anticonceptivos y salud sexual,LUBRICANTE INTIMO K-Y 15G,assets/imagenesmedimentos/reales/prod-00548.jpg,1,true,false
+prod-00547,LUBRICANTE INTIMO K-Y 50G,34000,Anticonceptivos y salud sexual,LUBRICANTE INTIMO K-Y 50G,assets/imagenesmedimentos/reales/prod-00547.webp,1,true,false
+prod-00506,LUBRIDERM HUMECTANTE DIA 120ML,16800,Maquillaje y cuidado facial/labial,LUBRIDERM HUMECTANTE DIA 120ML,assets/imagenesmedimentos/reales/prod-00506.jpg,1,true,false
+prod-00505,LUBRIDERM HUMECTANTE DIA 400ML,36200,Maquillaje y cuidado facial/labial,LUBRIDERM HUMECTANTE DIA 400ML,assets/imagenesmedimentos/reales/prod-00505.jpg,2,true,false
+prod-00425,LUMBAL FORTE 6 TABLETAS,116600,Analgésicos y antiinflamatorios,LUMBAL FORTE 6 TABLETAS,assets/imagenesmedimentos/reales/prod-00425.jpg,1,true,false
+prod-00484,MENTICOL AMARILLO 250ML + 60ML,19600,Dermatológico y piel,MENTICOL AMARILLO 250ML + 60ML,assets/imagenesmedimentos/reales/prod-00484.jpg,1,true,false
+prod-00633,METOCARBAMOL 750MG ANGLOPHARMA,7200,Analgésicos y antiinflamatorios,METOCARBAMOL 750MG ANGLOPHARMA,assets/imagenesmedimentos/reales/prod-00633.png,8,true,false
+prod-00304,METOCLOPRAMIDA 4MG/ML GOTAS 30ML,12000,Gastrointestinal,METOCLOPRAMIDA 4MG/ML GOTAS 30ML,assets/imagenesmedimentos/reales/prod-00304.jpg,3,true,false
+prod-00308,METRONIDAZOL 500MG EC TABLETAS,32000,Antimicóticos y antiparasitarios,METRONIDAZOL 500MG EC TABLETAS,assets/imagenesmedimentos/reales/prod-00308.jpg,1,true,false
+prod-00442,METRONIST OVULOS COLMED,42000,Salud femenina,METRONIST OVULOS COLMED,assets/imagenesmedimentos/reales/prod-00442.png,1,true,false
+prod-00502,MICROPORE KENNEDY PIEL 1/2X5,2800,Insumos y curación médica,MICROPORE KENNEDY PIEL 1/2X5,assets/imagenesmedimentos/reales/prod-00502.webp,2,true,false
+prod-00503,MICROPORE KENNEDY PIEL 1X5,5200,Insumos y curación médica,MICROPORE KENNEDY PIEL 1X5,assets/imagenesmedimentos/reales/prod-00503.webp,2,true,false
+prod-00540,MICROPORE SUPREME 1/2 X5,2900,Insumos y curación médica,MICROPORE SUPREME 1/2 X5,assets/imagenesmedimentos/reales/prod-00540.jpg,2,true,false
+prod-00541,MICROPORE SUPREME 1X1,2400,Insumos y curación médica,MICROPORE SUPREME 1X1,assets/imagenesmedimentos/reales/prod-00541.jpg,2,true,false
+prod-00693,MIEL DE ABEJAS LA ESPERANZA 355G,19900,Snacks y bebidas,MIEL DE ABEJAS LA ESPERANZA 355G,assets/imagenesmedimentos/reales/prod-00693.png,1,true,true
+prod-00845,MINOXIDIL 5% 60ML LAPROFF,27000,Cuidado del cabello,MINOXIDIL 5% 60ML LAPROFF,assets/imagenesmedimentos/reales/prod-00845.jpg,1,true,false
+prod-00083,MUCOSINA GOTAS PEDIATRICA 30ML,24800,Antigripales y tos,MUCOSINA GOTAS PEDIATRICA 30ML,assets/imagenesmedimentos/reales/prod-00083.jpg,2,true,false
+prod-00438,NESTLE NESTUM 5 CEREALES 200G,13200,Bebés y maternidad,NESTLE NESTUM 5 CEREALES 200G,assets/imagenesmedimentos/reales/prod-00438.jpg,1,true,false
+prod-00437,NESTLE NESTUM TRIGO MIEL 200G,13200,Bebés y maternidad,NESTLE NESTUM TRIGO MIEL 200G,assets/imagenesmedimentos/reales/prod-00437.jpg,1,true,false
+prod-00436,"NESTLE NESTUM TRIGO, BANANO 200G",13700,Bebés y maternidad,"NESTLE NESTUM TRIGO, BANANO 200G",assets/imagenesmedimentos/reales/prod-00436.jpg,1,true,false
+prod-00607,NEUROBION DC X3 JERINGAS,94000,Insumos y curación médica,NEUROBION DC X3 JERINGAS,assets/imagenesmedimentos/reales/prod-00607.jpg,1,true,false
+prod-00321,NEUROBION INYECTABLE OFERTA,46000,Vitaminas y suplementos,NEUROBION INYECTABLE OFERTA,assets/imagenesmedimentos/reales/prod-00321.jpg,2,true,false
+prod-00287,NISTATINA SUSPENSION 60ML,11200,Antimicóticos y antiparasitarios,NISTATINA SUSPENSION 60ML,assets/imagenesmedimentos/reales/prod-00287.webp,7,true,false
+prod-00618,NITAZOXANIDA 500MG NITOFAR,21700,Antimicóticos y antiparasitarios,NITAZOXANIDA 500MG NITOFAR FARMASER,assets/imagenesmedimentos/reales/prod-00618.jpg,2,true,false
+prod-00747,NORAVER GARGANTA NARANJA MIEL,12200,Antigripales y tos,NORAVER GARGANTA NARANJA MIEL,assets/imagenesmedimentos/reales/prod-00747.png,13,true,false
+prod-00620,OFERTA ACID MANTLE + BABY BALM,58200,Maquillaje y cuidado facial/labial,OFERTA ACID MANTLE + BABY BALM,assets/imagenesmedimentos/reales/prod-00620.jpg,2,true,false
+prod-00559,OFERTA PONDS CLARANT B3 100G,29000,Maquillaje y cuidado facial/labial,CREMA PONDS CLARANT B3 100G,assets/imagenesmedimentos/reales/prod-00559.webp,3,true,false
+prod-00558,OFERTA PONDS REJUVENS 100G,29000,Maquillaje y cuidado facial/labial,CREMA PONDS REJUVENS 100G,assets/imagenesmedimentos/reales/prod-00558.jpg,2,true,false
+prod-00320,ORLISTAT 120 MG COLMED,110000,Gastrointestinal,ORLISTAT 120 MG COLMED,assets/imagenesmedimentos/reales/prod-00320.png,1,true,false
+prod-00427,ORLISTAT 120MG ECAR,92000,Gastrointestinal,ORLISTAT 120MG ECAR,assets/imagenesmedimentos/reales/prod-00427.jpg,2,true,false
+prod-00513,OTICAINA BENZOCAINA GOTAS SANF,23500,Oftálmico y ótico,OTICAINA BENZOCAINA GOTAS SANF,assets/imagenesmedimentos/reales/prod-00513.jpg,1,true,false
+prod-00222,OTIRILIN SOLUCION OTICA 13ML,52300,Oftálmico y ótico,OTIRILIN SOLUCION OTICA 13ML,assets/imagenesmedimentos/reales/prod-00222.png,2,true,false
+prod-00286,OTOGLICAR GLICERINA CARBO 30ML,8800,Oftálmico y ótico,OTOGLICAR GLICERINA CARBO 30ML,assets/imagenesmedimentos/reales/prod-00286.jpg,1,true,false
+prod-00499,OXIGENTA IGORA 30 VOL 9%,4900,Cuidado del cabello,OXIGENTA IGORA 30 VOL 9%,assets/imagenesmedimentos/reales/prod-00499.jpg,2,true,false
+prod-00443,PANTOPRAZOL 20MG COLMED 30TABL,102000,Gastrointestinal,PANTOPRAZOL 20MG COLMED 30TABL,assets/imagenesmedimentos/reales/prod-00443.png,1,true,false
+prod-00673,PAPA MARGARITA SURTIDA 25G,2200,Snacks y bebidas,PAPA MARGARITA SURTIDA 25G,assets/imagenesmedimentos/reales/prod-00673.jpg,17,true,false
+prod-00049,PEDIALYTE ACTIVE CEREZA 500 ML,9800,Bebés y maternidad,PEDIALYTE ACTIVE CEREZA 500 ML,assets/imagenesmedimentos/reales/prod-00049.jpg,10,true,false
+prod-00796,PEDIALYTE FRESA CON ZINC 60,9800,Bebés y maternidad,PEDIALYTE FRESA CON ZINC 60,assets/imagenesmedimentos/reales/prod-00796.png,10,true,false
+prod-00795,PEDIALYTE UVA CON ZINC 60,9800,Bebés y maternidad,PEDIALYTE UVA CON ZINC 60,assets/imagenesmedimentos/reales/prod-00795.jpg,7,true,false
+prod-00130,PEDIASURE LIQ. VAINILLA 220ML,12100,Bebés y maternidad,PEDIASURE LIQ. VAINILLA 220ML,assets/imagenesmedimentos/reales/prod-00130.webp,1,true,false
+prod-00866,PEDIASURE POLVO 850G,72000,Bebés y maternidad,PEDIASURE POLVO 850G,assets/imagenesmedimentos/reales/prod-00866.jpg,1,true,false
+prod-00717,PESTAÑINA VOGUE CURVAS PERFECT,22300,Maquillaje y cuidado facial/labial,PESTAÑINA VOGUE CURVAS PERFECT,assets/imagenesmedimentos/reales/prod-00717.png,1,true,false
+prod-00325,PLURIGRAM 500MG TABLETAS 10,13000,Antibióticos,PLURIGRAM 500MG CIPROFLOXACINA 500MG TABLETAS 10,assets/imagenesmedimentos/reales/prod-00325.jpg,2,true,false
+prod-00710,POLVO COMPA VOGUE,15200,Maquillaje y cuidado facial/labial,POLVO COMPA VOGUE,assets/imagenesmedimentos/reales/prod-00710.png,8,true,false
+prod-00353,POLVO MEXSANA ANTIBA 150G,16800,Dermatológico y piel,POLVO MEXSANA ANTIBACTERIAL 150G,assets/imagenesmedimentos/reales/prod-00353.jpg,1,true,false
+prod-00354,POLVO MEXSANA ANTIBA 85G,9000,Dermatológico y piel,POLVO MEXSANA ANTIBACTERIAL 85G,assets/imagenesmedimentos/reales/prod-00354.jpg,1,true,false
+prod-00895,POLVO MEXSANA PROMO PACK 150G+80G,23400,Dermatológico y piel,POLVO MEXSANA PROMO PACK 150G+80G,assets/imagenesmedimentos/reales/prod-00895.png,3,true,false
+prod-00301,POSTDAY 1 -1-5MG,18000,Anticonceptivos y salud sexual,POSTDAY 1 - 1.5MG,assets/imagenesmedimentos/reales/prod-00301.jpg,3,true,false
+prod-00004,POSTINOR 1 TABLETA 1.5MG,18600,Anticonceptivos y salud sexual,POSTINOR 1 TABLETA 1.5MG LEVONORGESTREL,assets/imagenesmedimentos/reales/prod-00004.jpg,12,true,false
+prod-00312,PREDNISOLONA 5MG LAPROFF 10 TA,17000,Analgésicos y antiinflamatorios,PREDNISOLONA 5MG LAPROFF 10 TA,assets/imagenesmedimentos/reales/prod-00312.jpg,1,true,false
+prod-00403,PRESERVATIVO TODAY HOT SENSATI,21000,Anticonceptivos y salud sexual,PRESERVATIVO TODAY HOT SENSATION,assets/imagenesmedimentos/reales/prod-00403.png,1,true,false
+prod-00404,PRESERVATIVO TODAY LONG ACTION,19800,Anticonceptivos y salud sexual,PRESERVATIVO TODAY LONG ACTION,assets/imagenesmedimentos/reales/prod-00404.jpg,2,true,false
+prod-00405,PRESERVATIVO TODAY MUTUAL SENS,21000,Anticonceptivos y salud sexual,PRESERVATIVO TODAY MUTUAL SENS,assets/imagenesmedimentos/reales/prod-00405.webp,1,true,false
+prod-00400,PRESERVATIVO TODAY PUNTO G,21000,Anticonceptivos y salud sexual,PRESERVATIVO TODAY PUNTO G,assets/imagenesmedimentos/reales/prod-00400.webp,3,true,false
+prod-00402,PRESERVATIVO TODAY REAL SENSAT,21000,Anticonceptivos y salud sexual,PRESERVATIVO TODAY REAL SENSATION,assets/imagenesmedimentos/reales/prod-00402.jpg,3,true,false
+prod-00401,PRESERVATIVO TODAY TRIPLE PLAC,19800,Anticonceptivos y salud sexual,PRESERVATIVO TODAY TRIPLE PLACER,assets/imagenesmedimentos/reales/prod-00401.jpg,3,true,false
+prod-00460,PRESERVATIVOS EXTASIS LUBRICAD,2200,Anticonceptivos y salud sexual,PRESERVATIVOS EXTASIS LUBRICAD,assets/imagenesmedimentos/reales/prod-00460.webp,20,true,false
+prod-00392,PRESERVATIVOS XTREM NORMAL LUB,10600,Anticonceptivos y salud sexual,PRESERVATIVOS XTREM NORMAL LUB,assets/imagenesmedimentos/reales/prod-00392.jpg,4,true,false
+prod-00712,PRESTOBARBA GILLETTE NARANJA,4700,Cuidado personal,PRESTOBARBA GILLETTE NARANJA,assets/imagenesmedimentos/reales/prod-00712.jpg,3,true,false
+prod-00601,PROWHEY KALORI 200ML LIQUIDO,12000,Snacks y bebidas,PROWHEY KALORI 200ML LIQUIDO,assets/imagenesmedimentos/reales/prod-00601.webp,1,true,false
+prod-00600,PROWHEY KALORI 460G,85000,Snacks y bebidas,PROWHEY KALORI 460G,assets/imagenesmedimentos/reales/prod-00600.webp,1,true,false
+prod-00390,PRUEBA DE EMBARAZO CASSET ALL SET,3200,Pruebas y diagnóstico,PRUEBA DE EMBARAZO CASSET ALL SET,assets/imagenesmedimentos/reales/prod-00390.webp,3,true,false
+prod-00391,PRUEBA DE EMBARAZO TIRA ALL SE,2600,Pruebas y diagnóstico,PRUEBA DE EMBARAZO TIRA ALL SET,assets/imagenesmedimentos/reales/prod-00391.jpg,3,true,false
+prod-00202,REDOXON TOTAL EFER 10 COMPRIMI,38000,Vitaminas y suplementos,REDOXON TOTAL EFER 10 COMPRIMI,assets/imagenesmedimentos/reales/prod-00202.jpg,2,true,false
+prod-00106,RELAXMENT PLUS 500 MG 30 TABLE,40000,Analgésicos y antiinflamatorios,RELAXMENT PLUS 500 MG 30 TABLE,assets/imagenesmedimentos/reales/prod-00106.png,4,true,true
+prod-00105,RELAXMENT PLUS 500MG 20 TABLE,30000,Analgésicos y antiinflamatorios,RELAXMENT PLUS 500MG 20 TABLE,assets/imagenesmedimentos/reales/prod-00105.png,5,true,true
+prod-00731,REMOVEDOR LANDER + OBSE,8200,Otros suministros y servicios,REMOVEDOR LANDER + OBSE,assets/imagenesmedimentos/reales/prod-00731.png,1,true,false
+prod-00524,SECNIDAZOL 1GR 2 TABLE LA SANT,29800,Antimicóticos y antiparasitarios,SECNIDAZOL 1GR 2 TABLETAS LA SANTE,assets/imagenesmedimentos/reales/prod-00524.jpg,1,true,false
+prod-00525,SECNIDAZOL 500MG LA SANTE 4 TA,10200,Antimicóticos y antiparasitarios,SECNIDAZOL 500MG LA SANTE 4 TA,assets/imagenesmedimentos/reales/prod-00525.jpg,1,true,false
+prod-00609,SERVICIO INYECTOLOGIA,5000,Otros suministros y servicios,SERVICIO INYECTOLOGIA,assets/imagenesmedimentos/reales/prod-00609.jpg,95,true,false
+prod-00107,SEVEDOL EXTRA FUERTE 16 TABL,38200,Analgésicos y antiinflamatorios,SEVEDOL EXTRA FUERTE 16 TABLETAS,assets/imagenesmedimentos/reales/prod-00107.jpg,1,true,false
+prod-00108,SEVEDOL EXTRA FUERTE 8 TABLETA,17000,Analgésicos y antiinflamatorios,SEVEDOL EXTRA FUERTE 8 TABLETA,assets/imagenesmedimentos/reales/prod-00108.jpg,3,true,false
+prod-00751,SHAMPO DREAM LISO ELVIVE 370ML,26200,Cuidado del cabello,SHAMPO DREAM LISO ELVIVE 370ML,assets/imagenesmedimentos/reales/prod-00751.png,1,true,true
+prod-00755,SHAMPO GLYCOLIC CRISTAL ELVIVE,26200,Cuidado del cabello,SHAMPO GLYCOLIC CRISTAL ELVIVE,assets/imagenesmedimentos/reales/prod-00755.png,1,true,true
+prod-00450,SHAMPO HEAD & SHOULDERS 180ML,15200,Cuidado del cabello,SHAMPO HEAD & SHOULDERS 180ML,assets/imagenesmedimentos/reales/prod-00450.jpg,1,true,false
+prod-00753,SHAMPO HIALURONICO PURE ELVIVE,26200,Cuidado del cabello,SHAMPO HIALURONICO PURE ELVIVE,assets/imagenesmedimentos/reales/prod-00753.png,2,true,false
+prod-00752,SHAMPO HIDRAHIALURONICO ELVIVE,26200,Cuidado del cabello,SHAMPO HIDRAHIALURONICO ELVIVE,assets/imagenesmedimentos/reales/prod-00752.png,1,true,false
+prod-00774,SHAMPO PANTENE BAMBU 400ML,24000,Cuidado del cabello,SHAMPO PANTENE BAMBU 400ML,assets/imagenesmedimentos/reales/prod-00774.jpg,1,true,false
+prod-00790,SHAMPO SAVITAL 510ML FUSION PR,17200,Cuidado del cabello,SHAMPO SAVITAL 510ML FUSION PR,assets/imagenesmedimentos/reales/prod-00790.jpg,1,true,false
+prod-00888,SIETE FACTORES DE TRANSF 650MG,36000,Vitaminas y suplementos,SIETE FACTORES DE TRANSF 650MG,assets/imagenesmedimentos/reales/prod-00888.webp,1,true,false
+prod-00428,SILDENAFIL 50MG LA SANTE,6000,Disfunción eréctil y urología,SILDENAFIL 50MG LA SANTE,assets/imagenesmedimentos/reales/prod-00428.png,1,true,false
+prod-00564,SOLUCION SALINA INYECTA 250ML,4200,Insumos y curación médica,SOLUCION SALINA INYECTABLE 250ML,assets/imagenesmedimentos/reales/prod-00564.jpg,2,true,false
+prod-00605,SOUXA NITAZOXANIDA SUSPENSION,30000,Antimicóticos y antiparasitarios,SOUXA NITAZOXANIDA SUSPENSION,assets/imagenesmedimentos/reales/prod-00605.png,1,true,true
+prod-00177,SULFATO FERROSO 200 MG 50 GRAG,10200,Vitaminas y suplementos,SULFATO FERROSO 200 MG 50 GRAGEAS,assets/imagenesmedimentos/reales/prod-00177.png,2,true,false
+prod-00313,SULFATO FERROSO 300MG,40000,Vitaminas y suplementos,SULFATO FERROSO 300MG,assets/imagenesmedimentos/reales/prod-00313.jpg,1,true,false
+prod-00583,SULZINC 80ML SUSPENSION HUMA,23200,Dermatológico y piel,SULZINC 80ML SUSPENSION HUMA,assets/imagenesmedimentos/reales/prod-00583.jpg,2,true,false
+prod-00689,SURELAB CHILDREN´S POLVO VAINI,68000,Bebés y maternidad,SURELAB CHILDREN´S POLVO VAINI,assets/imagenesmedimentos/reales/prod-00689.webp,1,true,false
+prod-00228,SYSTANE BALANCE GOTAS 10ML,76000,Oftálmico y ótico,SYSTANE BALANCE GOTAS 10ML,assets/imagenesmedimentos/reales/prod-00228.png,1,true,false
+prod-00229,SYSTANE COMPLETE GOTAS 10ML,76000,Oftálmico y ótico,SYSTANE COMPLETE GOTAS 10ML,assets/imagenesmedimentos/reales/prod-00229.jpg,1,true,false
+prod-00314,TADALAFILO 20MG,11000,Disfunción eréctil y urología,TADALAFILO 20MG,assets/imagenesmedimentos/reales/prod-00314.png,1,true,true
+prod-00715,TALCO JOHNSON 100G,22200,Dermatológico y piel,TALCO JOHNSON 100G,assets/imagenesmedimentos/reales/prod-00715.jpg,1,true,false
+prod-00550,TALCO YODORA 60G,9200,Dermatológico y piel,TALCO YODORA 60G,assets/imagenesmedimentos/reales/prod-00550.jpg,2,true,false
+prod-00792,TAMPON NOSOTRAS SUPER 8UNIDA,6800,Salud femenina,TAMPON NOSOTRAS SUPER 8UNIDA,assets/imagenesmedimentos/reales/prod-00792.jpg,2,true,false
+prod-00179,TAMPONES NOSOTRAS 8 CON APLICA,16800,Salud femenina,TAMPONES NOSOTRAS 8 CON APLICA,assets/imagenesmedimentos/reales/prod-00179.png,2,true,false
+prod-00646,TE HATSU SURTIDO 450ML,4300,Snacks y bebidas,TE HATSU SURTIDO 450ML,assets/imagenesmedimentos/reales/prod-00646.jpg,9,true,false
+prod-00311,TIAMINA 300MG EC,50000,Vitaminas y suplementos,TIAMINA 300MG EC,assets/imagenesmedimentos/reales/prod-00311.png,3,true,false
+prod-00457,TOROVITAL SANGRE TORO 1000ML,20000,Snacks y bebidas,TOROVITAL SANGRE TORO 1000ML,assets/imagenesmedimentos/reales/prod-00457.webp,1,true,false
+prod-00326,TORROX ETORICOXIB 120 MG 10 TA,44000,Analgésicos y antiinflamatorios,TORROX ETORICOXIB 120 MG 10 TA,assets/imagenesmedimentos/reales/prod-00326.jpg,1,true,false
+prod-00420,TOTUMO JARABE 240ML FRESLY,31000,Antigripales y tos,TOTUMO JARABE 240ML FRESLY,assets/imagenesmedimentos/reales/prod-00420.jpg,1,true,false
+prod-00452,TOTUMO JARABE LABFARVE 240ML,21000,Antigripales y tos,TOTUMO JARABE LABFARVE 240ML,assets/imagenesmedimentos/reales/prod-00452.jpg,1,true,false
+prod-00777,TRATAMIENTO NUTRIBELA SOBRE REPARACIO,2400,Maquillaje y cuidado facial/labial,TRATAMIENTO NUTRIBELA SOBRE REPARACION INTENSIVA 15,assets/imagenesmedimentos/reales/prod-00777.png,12,true,false
+prod-00767,TRATAMIENTO CAIDA RESIST 300ML ELVI,26200,Cuidado del cabello,TRATAMIENTO CAIDA RESIST 300ML ELVIVE,assets/imagenesmedimentos/reales/prod-00767.webp,1,true,false
+prod-00768,TRATAMIENTO COLLAGENO 300G ELVIVE,27200,Cuidado del cabello,TRATAMIENTO COLLAGENO 300G ELVIVE,assets/imagenesmedimentos/reales/prod-00768.jpg,1,true,false
+prod-00766,TRATAMIENTO GLYCOLIC CRITAL 300G ELVIVE,26200,Cuidado del cabello,TRATAMIENTO GLYCOLIC CRITAL 300G ELVIVE,assets/imagenesmedimentos/reales/prod-00766.jpg,1,true,false
+prod-00769,TRATAMIENTO GLYCOLIC GLOSS 300G ELV,26200,Cuidado del cabello,TRATAMIENTO GLYCOLIC GLOSS 300G ELVIVE,assets/imagenesmedimentos/reales/prod-00769.png,1,true,false
+prod-00770,TRATAMIENTO HIDRAHIALURONICO 300G ELVIVE,26200,Cuidado del cabello,TRATAMIENTO HIDRAHIALURONICO 300G ELVIVE,assets/imagenesmedimentos/reales/prod-00770.jpg,1,true,false
+prod-00780,TRATAMIENTO NUTRIBELA PRO HIALURONI,2400,Maquillaje y cuidado facial/labial,TRATAMIENTO NUTRIBELA PRO HIALURONI,assets/imagenesmedimentos/reales/prod-00780.png,12,true,false
+prod-00779,TRATAMIENTO NUTRIBELA SOBRE CELULAS,2400,Maquillaje y cuidado facial/labial,TRATAMIENTO NUTRIBELA SOBRE CELULAS,assets/imagenesmedimentos/reales/prod-00779.jpg,12,true,false
+prod-00778,TRATAMIENTO NUTRIBELA SOBRE TERMOPR,2400,Maquillaje y cuidado facial/labial,TRATAMIENTO NUTRIBELA SOBRE TERMOPR,assets/imagenesmedimentos/reales/prod-00778.jpg,12,true,false
+prod-00762,TRATAMIENTO 3 EN 1 HIDRAHIALU 500M,32000,Cuidado del cabello,TRATAMIENTO 3 EN 1 HIDRAHIALU 500M,assets/imagenesmedimentos/reales/prod-00762.webp,1,true,false
+prod-00764,TRATAMIENTO DREAM LISO 300G ELVIVE,27800,Cuidado del cabello,TRATAMIENTO DREAM LISO 300G ELVIVE,assets/imagenesmedimentos/reales/prod-00764.webp,1,true,false
+prod-00761,TRATAMIENTO 3 EN 1 500ML REPAR,29500,Cuidado del cabello,TRATAMIENTO 3 EN 1 500ML REPARACION TOTAL ELVIVE,assets/imagenesmedimentos/reales/prod-00761.jpg,1,true,false
+prod-00758,TRATAMIENTO REPARA TOTAL5 ELVI,26200,Cuidado del cabello,TRATAMIENTO REPARACION TOTAL5 ELVIVE 300G,assets/imagenesmedimentos/reales/prod-00758.jpg,1,true,false
+prod-00785,TRAVAD ORAL 133ML LIMON,30000,Gastrointestinal,TRAVAD ORAL 133ML LIMON,assets/imagenesmedimentos/reales/prod-00785.jpg,1,true,false
+prod-00567,TRIMEBUTINA MALEATO 200MG,16800,Gastrointestinal,TRIMEBUTINA MALEATO 200MG,assets/imagenesmedimentos/reales/prod-00567.jpg,1,true,false
+prod-00568,TRIMEBUTINA MALEATO 200MG GENF,26200,Gastrointestinal,TRIMEBUTINA MALEATO 200MG GENFAR 30 TABLETAS GENFAR,assets/imagenesmedimentos/reales/prod-00568.jpg,2,true,false
+prod-00863,TRIMETOPRIM SULFAMETO F GENGAR,57000,Antibióticos,TRIMETOPRIM SULFAMETOXAZOL F GENGAR,assets/imagenesmedimentos/reales/prod-00863.jpg,1,true,false
+prod-00670,TRULULU PIRAMIDAL,700,Snacks y bebidas,TRULULU PIRAMIDAL,assets/imagenesmedimentos/reales/prod-00670.jpg,50,true,false
+prod-00874,VALSARTAN 160MG 14TAB LA SANTE,21000,Cardiovascular y metabólico,VALSARTAN 160MG 14TAB LA SANTE,assets/imagenesmedimentos/reales/prod-00874.jpg,1,true,false
+prod-00371,VENDA 3¨,2500,Insumos y curación médica,VENDA 3¨,assets/imagenesmedimentos/reales/prod-00371.png,10,true,false
+prod-00372,VENDA 4¨,3200,Insumos y curación médica,VENDA 4¨,assets/imagenesmedimentos/reales/prod-00372.png,10,true,false
+prod-00373,VENDA ELASTICA 5¨,3800,Insumos y curación médica,VENDA ELASTICA 5¨,assets/imagenesmedimentos/reales/prod-00373.png,5,true,false
+prod-00374,VENDA ELASTICA 6¨,4900,Insumos y curación médica,VENDA ELASTICA 6¨,assets/imagenesmedimentos/reales/prod-00374.png,10,true,false
+prod-00380,VIAGRA SILDENAFIL 50 MG -2TABL,45000,Disfunción eréctil y urología,VIAGRA SILDENAFIL 50 MG -2TABLETAS,assets/imagenesmedimentos/reales/prod-00380.jpg,1,true,false
+prod-00219,VICK BABY BALM 50G,26200,Antigripales y tos,VICK BABY BALM 50G,assets/imagenesmedimentos/reales/prod-00219.jpg,2,true,false
+prod-00218,VICK VAPORUB 50G,24000,Antigripales y tos,VICK VAPORUB 50G,assets/imagenesmedimentos/reales/prod-00218.jpg,4,true,false
+prod-00067,WASSERTROL UNGUENTO 5G,28000,Dermatológico y piel,WASSERTROL UNGUENTO OFTALMICO 5G,assets/imagenesmedimentos/reales/prod-00067.jpg,4,true,false
+prod-00749,WINADEINE F EUROFARMA,15000,Analgésicos y antiinflamatorios,WINADEINE F EUROFARMA,assets/imagenesmedimentos/reales/prod-00749.jpg,10,true,false
+prod-00149,X RAY DOL TABLETAS,134000,Analgésicos y antiinflamatorios,X RAY DOL TABLETAS,assets/imagenesmedimentos/reales/prod-00149.webp,0,false,false
+prod-00153,YODOPOVIL ESPUMA 60 ML,12100,Dermatológico y piel,YODOPOVIL ESPUMA 60 ML,assets/imagenesmedimentos/reales/prod-00153.jpg,3,true,false
+prod-00154,YODOPOVIL SOLUCION 60ML,12100,Dermatológico y piel,YODOPOVIL SOLUCION 60ML,assets/imagenesmedimentos/reales/prod-00154.jpg,3,true,false
+prod-00208,CEBION VITAMINA C NARANJA 550M,80000,Vitaminas y suplementos,CEBION VITAMINA C NARANJA 550MG,assets/imagenesmedimentos/reales/prod-00208.webp,0,false,false
+prod-00852,CENTRUM SILVER +50 30 TABLETAS,46000,Vitaminas y suplementos,CENTRUM SILVER +50 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00852.jpg,1,true,false
+prod-00851,CENTRUM SILVER WOMEN 50+ 30TAB,57000,Vitaminas y suplementos,CENTRUM SILVER WOMEN 50+ 30TAB,assets/imagenesmedimentos/reales/prod-00851.jpg,1,true,false
+prod-00691,COMPLEJO B + ZINC + VITA PHARB,30000,Vitaminas y suplementos,COMPLEJO B + ZINC + VITA PHARB,assets/imagenesmedimentos/reales/prod-00691.webp,1,true,false
+prod-00687,SURELAB ULTRA MULTIVITA VAINIL,68000,Vitaminas y suplementos,SURELAB ULTRA MULTIVITA VAINIL,assets/imagenesmedimentos/reales/prod-00687.webp,1,true,false
+prod-00444,VITAMINA E COLMED 10 CAPSULAS,35000,Vitaminas y suplementos,VITAMINA E COLMED 10 CAPSULAS,assets/imagenesmedimentos/reales/prod-00444.jpg,1,true,false
+prod-00901,GLUCOPHAGE 500MG METFORMINA,70000,Cardiovascular y metabólico,GLUCOPHAGE 500MG METFORMINA,assets/imagenesmedimentos/reales/prod-00901.jpg,1,true,false
+prod-00900,IBUPROFENO 800MG LAPROFF,135000,Analgésicos y antiinflamatorios,IBUPROFENO 800MG LAPROFF,assets/imagenesmedimentos/reales/prod-00900.jpg,1,true,false
+prod-00899,CLARITROMICINA 500 MG LAPROFF,155000,Antibióticos,CLARITROMICINA 500 MG LAPROFF,assets/imagenesmedimentos/reales/prod-00899.jpg,1,true,false
+prod-00898,KIT NEBULIZADOR PEDIATRICO,16400,Insumos y curación médica,KIT NEBULIZADOR PEDIATRICO,assets/imagenesmedimentos/reales/prod-00898.jpg,1,true,false
+prod-00897,KIT NEBULIZADOR ADULTO,16400,Insumos y curación médica,KIT NEBULIZADOR ADULTO,assets/imagenesmedimentos/reales/prod-00897.jpg,1,true,false
+prod-00889,ISOFLAVONAS DE SOYA 500MG,35000,Vitaminas y suplementos,ISOFLAVONAS DE SOYA 500MG,assets/imagenesmedimentos/reales/prod-00889.webp,1,true,false
+prod-00877,VALSARTAN 160MG MK,36400,Cardiovascular y metabólico,VALSARTAN 160MG MK,assets/imagenesmedimentos/reales/prod-00877.png,1,true,false
+prod-00876,VALSARTAN 80MG MK,19800,Cardiovascular y metabólico,VALSARTAN 80MG MK,assets/imagenesmedimentos/reales/prod-00876.png,1,true,false
+prod-00873,LOSARTAN 50MG LA SANTE,23000,Cardiovascular y metabólico,LOSARTAN 50MG LA SANTE,assets/imagenesmedimentos/reales/prod-00873.png,1,true,false
+prod-00865,CLARITROMICINA 250MG/5ML,65800,Antibióticos,CLARITROMICINA 250MG/5ML,assets/imagenesmedimentos/reales/prod-00865.jpg,1,true,false
+prod-00864,BAJALENGUAS DE MADERA,2700,Insumos y curación médica,BAJALENGUAS DE MADERA,assets/imagenesmedimentos/reales/prod-00864.png,1,true,false
+prod-00859,BELLAFACE SUAVE 28 TABLETAS,28000,Anticonceptivos y salud sexual,BELLAFACE SUAVE 28 TABLETAS,assets/imagenesmedimentos/reales/prod-00859.png,1,true,false
+prod-00857,VIVE 100 ORIGINAL 310ML,2500,Snacks y bebidas,VIVE 100 ORIGINAL 310ML,assets/imagenesmedimentos/reales/prod-00857.png,1,true,false
+prod-00855,BUSCAPINA FEM,13000,Gastrointestinal,BUSCAPINA FEM,assets/imagenesmedimentos/reales/prod-00855.png,1,true,false
+prod-00854,CIRUELAX 20 TABLETAS,22800,Gastrointestinal,CIRUELAX 20 TABLETAS,assets/imagenesmedimentos/reales/prod-00854.jpg,1,true,false
+prod-00853,CENTRUM WOMEN 30 TABLETAS,48000,Vitaminas y suplementos,CENTRUM WOMEN 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00853.webp,1,true,false
+prod-00850,CENTRUM MEN 30 TABLETAS,48000,Vitaminas y suplementos,CENTRUM MEN 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00850.jpg,1,true,false
+prod-00849,CENTRUM ADVANCE 30 TABLETAS,40000,Vitaminas y suplementos,CENTRUM ADVANCE 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00849.jpg,1,true,false
+prod-00848,DOLEX FORTE,180000,Analgésicos y antiinflamatorios,DOLEX FORTE,assets/imagenesmedimentos/reales/prod-00848.png,1,true,false
+prod-00844,TIQUEPIN QUETIAPINA 25MG,16000,Salud mental y sistema nervioso,TIQUEPIN QUETIAPINA 25MG,assets/imagenesmedimentos/reales/prod-00844.png,1,true,false
+prod-00843,DOMICILIO,5000,Otros suministros y servicios,DOMICILIO,assets/imagenesmedimentos/reales/prod-00843.webp,1,true,false
+prod-00842,GINGO BILOBA,14500,Vitaminas y suplementos,GINGO BILOBA,assets/imagenesmedimentos/reales/prod-00842.jpg,1,true,false
+prod-00840,SMECTA SOBRE,8000,Gastrointestinal,SMECTA SOBRE,assets/imagenesmedimentos/reales/prod-00840.webp,1,true,false
+prod-00839,VASO ALOHA KOLA,4500,Snacks y bebidas,VASO ALOHA KOLA,assets/imagenesmedimentos/reales/prod-00839.png,1,true,false
+prod-00838,GALLETA HELADO JUMBO,4000,Snacks y bebidas,GALLETA HELADO JUMBO,assets/imagenesmedimentos/reales/prod-00838.jpg,1,true,false
+prod-00837,GALLETA HELADO NAPOLITANA,3500,Snacks y bebidas,GALLETA HELADO NAPOLITANA,assets/imagenesmedimentos/reales/prod-00837.jpg,1,true,false
+prod-00835,PALETA CHOCOLISTO CHOCOLATE,2500,Snacks y bebidas,PALETA CHOCOLISTO CHOCOLATE,assets/imagenesmedimentos/reales/prod-00835.png,1,true,false
+prod-00834,PALETA POLET CEREZA,7000,Snacks y bebidas,PALETA POLET CEREZA,assets/imagenesmedimentos/reales/prod-00834.jpg,1,true,false
+prod-00832,PALET POLET CHOCOAVELLANA,7000,Snacks y bebidas,PALET POLET CHOCOAVELLANA,assets/imagenesmedimentos/reales/prod-00832.png,1,true,false
+prod-00831,HELADO CASERO COCO,2500,Snacks y bebidas,HELADO CASERO COCO,assets/imagenesmedimentos/reales/prod-00831.png,1,true,false
+prod-00830,HELADO CASERO RON PASAS,2500,Snacks y bebidas,HELADO CASERO RON PASAS,assets/imagenesmedimentos/reales/prod-00830.jpg,1,true,false
+prod-00829,HELADO CASERO GUANABANA,2500,Snacks y bebidas,HELADO CASERO GUANABANA,assets/imagenesmedimentos/reales/prod-00829.jpg,1,true,false
+prod-00828,HELADO CASERO YOGURT FRESA,2500,Snacks y bebidas,HELADO CASERO YOGURT FRESA,assets/imagenesmedimentos/reales/prod-00828.png,1,true,false
+prod-00827,HELADO ARTESANAL MARACUYA,3600,Snacks y bebidas,HELADO ARTESANAL MARACUYA,assets/imagenesmedimentos/reales/prod-00827.png,1,true,false
+prod-00826,HELADO ARTESANAL TRES LECHES,3600,Snacks y bebidas,HELADO ARTESANAL TRES LECHES,assets/imagenesmedimentos/reales/prod-00826.jpg,1,true,false
+prod-00825,HELADO ARTESANAL MANDARINA,3600,Snacks y bebidas,HELADO ARTESANAL MANDARINA,assets/imagenesmedimentos/reales/prod-00825.jpg,1,true,false
+prod-00822,PAÑALES WINNY PANTS ETAPA 4,48200,Pañales y protección,PAÑALES WINNY PANTS ETAPA 4,assets/imagenesmedimentos/reales/prod-00822.png,1,true,true
+prod-00819,HIDRAPLUS 75 ZINC 400ML UVA,11500,Vitaminas y suplementos,HIDRAPLUS 75 ZINC 400ML UVA,assets/imagenesmedimentos/reales/prod-00819.png,1,true,false
+prod-00818,AMPER ENERGY 473ML,3400,Snacks y bebidas,AMPER ENERGY 473ML,assets/imagenesmedimentos/reales/prod-00818.webp,1,true,false
+prod-00816,RED BULL LATA 250ML,8700,Snacks y bebidas,RED BULL LATA 250ML,assets/imagenesmedimentos/reales/prod-00816.webp,1,true,false
+prod-00808,PALETA ALOHA LIMON,2000,Snacks y bebidas,PALETA ALOHA LIMON,assets/imagenesmedimentos/reales/prod-00808.png,1,true,false
+prod-00807,PALETA ALOHA NARANJA,2000,Snacks y bebidas,PALETA ALOHA NARANJA,assets/imagenesmedimentos/reales/prod-00807.png,1,true,false
+prod-00806,PALETA JET GOOL,3800,Snacks y bebidas,PALETA JET GOOL,assets/imagenesmedimentos/reales/prod-00806.png,1,true,false
+prod-00803,CHOCOCONO X90G,3500,Snacks y bebidas,CHOCOCONO X90G,assets/imagenesmedimentos/reales/prod-00803.jpg,1,true,false
+prod-00799,ABRILAR EA 575 JARABE 100ML,46000,Antigripales y tos,ABRILAR EA 575 JARABE 100ML,assets/imagenesmedimentos/reales/prod-00799.jpg,1,true,false
+prod-00787,ACONDICIONADOR SAVITAL 490ML ELIXIR R,16700,Cuidado del cabello,ACONDICIONADOR SAVITAL 490ML ELIXIR ROMERO,assets/imagenesmedimentos/reales/prod-00787.jpg,1,true,false
+prod-00784,SHAMPO DOVE RECONSTRUCCION + A,24200,Cuidado del cabello,SHAMPO DOVE RECONSTRUCCION + AMINO 370ML,assets/imagenesmedimentos/reales/prod-00784.jpg,1,true,false
+prod-00781,ACONDICIONADOR DOVE RECONSTRUC,24200,Cuidado del cabello,ACONDICIONADOR DOVE RECONSTRUCCION 370ML,assets/imagenesmedimentos/reales/prod-00781.jpg,1,true,false
+prod-00776,CREMA DENTAL NIÑOS PROQUIDENT,14800,Cuidado personal,CREMA DENTAL NIÑOS PROQUIDENT,assets/imagenesmedimentos/reales/prod-00776.jpg,1,true,false
+prod-00773,ACONDICIONADOR BAMBU PANTENE 4,25000,Cuidado del cabello,ACONDICIONADOR BAMBU PANTENE 400ML,assets/imagenesmedimentos/reales/prod-00773.jpg,1,true,false
+prod-00771,PESTAÑINA MAX FACTOR PROMO,29000,Maquillaje y cuidado facial/labial,PESTAÑINA MAX FACTOR PROMO,assets/imagenesmedimentos/reales/prod-00771.webp,1,true,false
+prod-00760,SERUM DREAMLISO 100ML,42000,Cuidado del cabello,SERUM DREAMLISO 100ML,assets/imagenesmedimentos/reales/prod-00760.jpg,1,true,false
+prod-00754,SHAMPO REPARA TOTAL5 ELVIVE 37,26200,Cuidado del cabello,SHAMPO REPARA TOTAL5 ELVIVE 370ML,assets/imagenesmedimentos/reales/prod-00754.png,1,true,true
+prod-00745,ELECTROLIT PONCHE DE FRUTAS,8700,Snacks y bebidas,ELECTROLIT PONCHE DE FRUTAS,assets/imagenesmedimentos/reales/prod-00745.webp,1,true,false
+prod-00744,ELECTROLIT LIMA LIMON,8600,Snacks y bebidas,ELECTROLIT LIMA LIMON,assets/imagenesmedimentos/reales/prod-00744.jpg,1,true,false
+prod-00743,ATORVASTATINA LA SANTE 20MG,24000,Cardiovascular y metabólico,ATORVASTATINA LA SANTE 20MG,assets/imagenesmedimentos/reales/prod-00743.png,1,true,false
+prod-00742,CLOPIDOGREL 75MG AG CAJA,41000,Cardiovascular y metabólico,CLOPIDOGREL 75MG AG CAJA,assets/imagenesmedimentos/reales/prod-00742.webp,1,true,false
+prod-00741,METOCLOPRAMIDA BLISTER SANFER,13200,Gastrointestinal,METOCLOPRAMIDA BLISTER SANFER,assets/imagenesmedimentos/reales/prod-00741.png,1,true,false
+prod-00739,ALIPRID ALIZAPRIDA 15ML,46600,Gastrointestinal,ALIPRID ALIZAPRIDA 15ML,assets/imagenesmedimentos/reales/prod-00739.jpg,1,true,false
+prod-00738,IGORA 7-65 CAFE MOCA CLARO,19200,Cuidado del cabello,IGORA 7-65 CAFE MOCA CLARO,assets/imagenesmedimentos/reales/prod-00738.jpg,1,true,false
+prod-00737,IGORA 1-0 NEGRO,19200,Cuidado del cabello,IGORA 1-0 NEGRO,assets/imagenesmedimentos/reales/prod-00737.jpg,1,true,false
+prod-00736,2 IGORA 6-34 CHOCOLATE DORADO,39200,Cuidado del cabello,2 IGORA 6-34 CHOCOLATE DORADO,assets/imagenesmedimentos/reales/prod-00736.png,1,true,false
+prod-00734,2 TUBOS IGORA 4-0 CASTAÑO MEDI,39200,Cuidado del cabello,2 TUBOS IGORA 4-0 CASTAÑO MEDIO,assets/imagenesmedimentos/reales/prod-00734.webp,1,true,false
+prod-00732,IGORA 606 CHOCOLATE INTENSO BR,41200,Cuidado del cabello,IGORA 606 CHOCOLATE INTENSO BRILLANCE 2 TUBOS,assets/imagenesmedimentos/reales/prod-00732.jpg,1,true,false
+prod-00730,STAMYL 20 GRAGEAS,72000,Analgésicos y antiinflamatorios,STAMYL 20 GRAGEAS,assets/imagenesmedimentos/reales/prod-00730.jpg,1,true,false
+prod-00728,BIGEN MENS SPEEDY 101 NEGRO,34199,Cuidado del cabello,BIGEN MENS SPEEDY 101 NEGRO,assets/imagenesmedimentos/reales/prod-00728.jpg,1,true,false
+prod-00727,BIGEN 59 NEGRO ORIENTAL,20000,Cuidado del cabello,BIGEN 59 NEGRO ORIENTAL,assets/imagenesmedimentos/reales/prod-00727.webp,1,true,false
+prod-00726,"PIROXICAM 0,5% GEL 30G",15200,Analgésicos y antiinflamatorios,"PIROXICAM 0,5% GEL 30G",assets/imagenesmedimentos/reales/prod-00726.png,1,true,false
+prod-00725,OSCILLOCOCCINUM 6 DOSIS,37600,Antigripales y tos,OSCILLOCOCCINUM 6 DOSIS,assets/imagenesmedimentos/reales/prod-00725.jpg,1,true,false
+prod-00724,PAPEL HIGIENICO FAMILIA,2500,Otros suministros y servicios,PAPEL HIGIENICO FAMILIA,assets/imagenesmedimentos/reales/prod-00724.png,1,true,false
+prod-00721,LOMOTIL 4 TABLETAS,8500,Gastrointestinal,LOMOTIL 4 TABLETAS,assets/imagenesmedimentos/reales/prod-00721.jpg,1,true,false
+prod-00719,BELLAFACE 21 TABLETAS,28000,Anticonceptivos y salud sexual,BELLAFACE 21 TABLETAS,assets/imagenesmedimentos/reales/prod-00719.jpg,1,true,false
+prod-00718,VALERIANA + PASIFLORA 60ML,15600,Salud mental y sistema nervioso,VALERIANA + PASIFLORA 60ML,assets/imagenesmedimentos/reales/prod-00718.png,1,true,false
+prod-00716,PESTAÑINA VOGUE,22300,Maquillaje y cuidado facial/labial,PESTAÑINA VOGUE,assets/imagenesmedimentos/reales/prod-00716.png,1,true,false
+prod-00714,RUBOR VOGUE,7100,Maquillaje y cuidado facial/labial,RUBOR VOGUE,assets/imagenesmedimentos/reales/prod-00714.webp,1,true,false
+prod-00713,RUBOR NAILEN,5800,Maquillaje y cuidado facial/labial,RUBOR NAILEN,assets/imagenesmedimentos/reales/prod-00713.jpg,1,true,false
+prod-00711,PRESTOBARBA VENUS MUJER,4700,Cuidado personal,PRESTOBARBA VENUS MUJER,assets/imagenesmedimentos/reales/prod-00711.png,1,true,false
+prod-00709,POLVO NAILEN,10800,Maquillaje y cuidado facial/labial,POLVO NAILEN,assets/imagenesmedimentos/reales/prod-00709.png,1,true,false
+prod-00708,PESTAÑINA NAILEN,9700,Maquillaje y cuidado facial/labial,PESTAÑINA NAILEN,assets/imagenesmedimentos/reales/prod-00708.jpg,1,true,false
+prod-00707,PESTAÑINA VOGUE EFECTO MUÑECA,21600,Maquillaje y cuidado facial/labial,PESTAÑINA VOGUE EFECTO MUÑECA,assets/imagenesmedimentos/reales/prod-00707.png,1,true,false
+prod-00706,LAPIZ NAILEN CEJA OJO,7300,Maquillaje y cuidado facial/labial,LAPIZ NAILEN CEJA OJO,assets/imagenesmedimentos/reales/prod-00706.jpg,1,true,false
+prod-00705,LABIAL NAILEN,6500,Maquillaje y cuidado facial/labial,LABIAL NAILEN,assets/imagenesmedimentos/reales/prod-00705.jpg,1,true,false
+prod-00703,LABIAL NAILEN LARGA DURACION,8300,Maquillaje y cuidado facial/labial,LABIAL NAILEN LARGA DURACION,assets/imagenesmedimentos/reales/prod-00703.png,1,true,false
+prod-00702,JABON NEKO,7200,Cuidado personal,JABON NEKO,assets/imagenesmedimentos/reales/prod-00702.png,1,true,false
+prod-00701,ILUMINADOR NAILEN,8200,Maquillaje y cuidado facial/labial,ILUMINADOR NAILEN,assets/imagenesmedimentos/reales/prod-00701.jpg,1,true,false
+prod-00700,CORRECTOR LIQUIDO VOGUE,17200,Maquillaje y cuidado facial/labial,CORRECTOR LIQUIDO VOGUE,assets/imagenesmedimentos/reales/prod-00700.png,1,true,false
+prod-00699,CORRECTOR LIQUIDO NAILEN,12500,Maquillaje y cuidado facial/labial,CORRECTOR LIQUIDO NAILEN,assets/imagenesmedimentos/reales/prod-00699.png,1,true,false
+prod-00698,BASE VOGUE 25ML,13900,Maquillaje y cuidado facial/labial,BASE VOGUE 25ML,assets/imagenesmedimentos/reales/prod-00698.jpg,1,true,false
+prod-00695,ACEITE DE CALENDULA 120ML,13400,Dermatológico y piel,ACEITE DE CALENDULA 120ML,assets/imagenesmedimentos/reales/prod-00695.jpg,1,true,false
+prod-00692,OMEGA 3 PHARBIOLAB,30000,Vitaminas y suplementos,OMEGA 3 PHARBIOLAB,assets/imagenesmedimentos/reales/prod-00692.jpg,1,true,false
+prod-00690,SIMILAC MAMA POLVO VAINILLA PH,68000,Bebés y maternidad,SIMILAC MAMA POLVO VAINILLA PH,assets/imagenesmedimentos/reales/prod-00690.webp,1,true,false
+prod-00686,PROPOLVIK PASTILLAS GARGANTA S,2700,Antigripales y tos,PROPOLVIK PASTILLAS GARGANTA SOBRE CEREZA,assets/imagenesmedimentos/reales/prod-00686.webp,1,true,false
+prod-00685,FYBOGEL SOBRE,42000,Gastrointestinal,FYBOGEL SOBRE,assets/imagenesmedimentos/reales/prod-00685.png,1,true,false
+prod-00684,VITAFER SACHETS,36800,Vitaminas y suplementos,VITAFER SACHETS,assets/imagenesmedimentos/reales/prod-00684.jpg,1,true,false
+prod-00683,ENGYSTOL 50 COMPRIMIDOS,86000,Antigripales y tos,ENGYSTOL 50 COMPRIMIDOS,assets/imagenesmedimentos/reales/prod-00683.webp,1,true,false
+prod-00682,MASMELOS MILLOWS,2000,Snacks y bebidas,MASMELOS MILLOWS,assets/imagenesmedimentos/reales/prod-00682.jpg,1,true,false
+prod-00681,GOMITAS TRULULU SURTIDO,2500,Snacks y bebidas,GOMITAS TRULULU SURTIDO,assets/imagenesmedimentos/reales/prod-00681.jpg,1,true,false
+prod-00680,GOMITAS GRISSLY SURTIDAS,2500,Snacks y bebidas,GOMITAS GRISSLY SURTIDAS,assets/imagenesmedimentos/reales/prod-00680.webp,1,true,false
+prod-00679,BOM BOM BUM SURTIDO,700,Snacks y bebidas,BOM BOM BUM SURTIDO,assets/imagenesmedimentos/reales/prod-00679.jpg,1,true,false
+prod-00678,POPETAS SURTIDAS,2000,Snacks y bebidas,POPETAS SURTIDAS,assets/imagenesmedimentos/reales/prod-00678.jpg,1,true,false
+prod-00677,CHOCORRAMO GRANDE,3000,Snacks y bebidas,CHOCORRAMO GRANDE,assets/imagenesmedimentos/reales/prod-00677.webp,1,true,false
+prod-00676,GALLETA TOSH MIEL,1600,Snacks y bebidas,GALLETA TOSH MIEL,assets/imagenesmedimentos/reales/prod-00676.png,1,true,false
+prod-00674,HALLS TUBO SURTIDO,2200,Antigripales y tos,HALLS TUBO SURTIDO,assets/imagenesmedimentos/reales/prod-00674.webp,1,true,false
+prod-00672,DETODITO SURTIDO,3200,Snacks y bebidas,DETODITO SURTIDO,assets/imagenesmedimentos/reales/prod-00672.png,1,true,false
+prod-00671,TRULULU FEROZ,1000,Snacks y bebidas,TRULULU FEROZ,assets/imagenesmedimentos/reales/prod-00671.jpg,1,true,false
+prod-00669,TRIDENT SURTIDOS,300,Snacks y bebidas,TRIDENT SURTIDOS,assets/imagenesmedimentos/reales/prod-00669.webp,1,true,false
+prod-00668,JUMBO MANI GRANDE,8700,Snacks y bebidas,JUMBO MANI GRANDE,assets/imagenesmedimentos/reales/prod-00668.jpg,1,true,false
+prod-00667,JUMBO MANI MEDIANA,4400,Snacks y bebidas,JUMBO MANI MEDIANA,assets/imagenesmedimentos/reales/prod-00667.jpg,1,true,false
+prod-00665,GALLETA OREO,1600,Snacks y bebidas,GALLETA OREO,assets/imagenesmedimentos/reales/prod-00665.jpg,1,true,false
+prod-00664,AGUA BRISA SURTIDA SABORIZADA,1800,Snacks y bebidas,AGUA BRISA SURTIDA SABORIZADA,assets/imagenesmedimentos/reales/prod-00664.webp,1,true,false
+prod-00663,JUGO HIT SURTIDOS,3000,Snacks y bebidas,JUGO HIT SURTIDOS,assets/imagenesmedimentos/reales/prod-00663.jpg,1,true,false
+prod-00662,COCA COLA 400ML,3500,Snacks y bebidas,COCA COLA 400ML,assets/imagenesmedimentos/reales/prod-00662.webp,1,true,false
+prod-00661,AGUA CRISTAL MINI,1000,Snacks y bebidas,AGUA CRISTAL MINI,assets/imagenesmedimentos/reales/prod-00661.png,1,true,false
+prod-00660,AGUA BRISA CON GAS 600ML,2000,Snacks y bebidas,AGUA BRISA CON GAS 600ML,assets/imagenesmedimentos/reales/prod-00660.png,1,true,false
+prod-00659,BIPERIDENO 2MG MK,14600,Salud mental y sistema nervioso,BIPERIDENO 2MG MK,assets/imagenesmedimentos/reales/prod-00659.png,1,true,false
+prod-00655,IBUPROFENO 800MG CAPS LIQU MK,7800,Analgésicos y antiinflamatorios,IBUPROFENO 800MG CAPS LIQU MK,assets/imagenesmedimentos/reales/prod-00655.jpg,1,true,false
+prod-00654,SHAMPOO NUTRIBELA ARGAN 400ML,22400,Cuidado del cabello,SHAMPOO NUTRIBELA ARGAN 400ML,assets/imagenesmedimentos/reales/prod-00654.jpg,1,true,false
+prod-00653,POMYS ORIGINAL 6O UNI,9200,Snacks y bebidas,POMYS ORIGINAL 6O UNI,assets/imagenesmedimentos/reales/prod-00653.png,1,true,false
+prod-00649,CLOTRIMAZOL CREMA 40G AG,12000,Cuidado personal,CLOTRIMAZOL CREMA 40G AG,assets/imagenesmedimentos/reales/prod-00649.webp,1,true,false
+prod-00648,DOLEX RAPIDA ACCION,11500,Analgésicos y antiinflamatorios,DOLEX RAPIDA ACCION,assets/imagenesmedimentos/reales/prod-00648.jpg,1,true,false
+prod-00645,SODA HATSU 310ML,4000,Snacks y bebidas,SODA HATSU 310ML,assets/imagenesmedimentos/reales/prod-00645.jpg,1,true,false
+prod-00644,B VIT OFERTA 3 JERINGAS,76000,Insumos y curación médica,B VIT OFERTA 3 JERINGAS,assets/imagenesmedimentos/reales/prod-00644.jpg,1,true,false
+prod-00643,BETADUO 2ML AMPOLLA,34200,Antibióticos,BETADUO 2ML AMPOLLA,assets/imagenesmedimentos/reales/prod-00643.jpg,1,true,false
+prod-00642,ELECTROLIT SABOR MORA AZUL,8700,Snacks y bebidas,ELECTROLIT SABOR MORA AZUL,assets/imagenesmedimentos/reales/prod-00642.jpg,1,true,false
+prod-00641,ELECTROLIT SABOR MANZANA,8700,Snacks y bebidas,ELECTROLIT SABOR MANZANA,assets/imagenesmedimentos/reales/prod-00641.jpg,1,true,false
+prod-00639,ELECTROLIT SABOR FRESA,8700,Snacks y bebidas,ELECTROLIT SABOR FRESA,assets/imagenesmedimentos/reales/prod-00639.jpg,1,true,false
+prod-00638,FOSFOGEN COMPLEJO B X30 CAPSUL,27800,Vitaminas y suplementos,FOSFOGEN COMPLEJO B X30 CAPSULAS,assets/imagenesmedimentos/reales/prod-00638.webp,1,true,false
+prod-00637,COMPLEJO B +ZINC + VITAMINA D3,31000,Vitaminas y suplementos,COMPLEJO B +ZINC + VITAMINA D3,assets/imagenesmedimentos/reales/prod-00637.jpg,1,true,false
+prod-00636,ACTIVIT B COMPLEJO B,22300,Vitaminas y suplementos,ACTIVIT B COMPLEJO B,assets/imagenesmedimentos/reales/prod-00636.jpg,1,true,false
+prod-00634,BISACODILO 10 TABLETAS,3800,Gastrointestinal,BISACODILO 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00634.jpg,1,true,false
+prod-00631,TAPABOCAS INDIVIDUAL,700,Insumos y curación médica,TAPABOCAS INDIVIDUAL,assets/imagenesmedimentos/reales/prod-00631.jpg,1,true,false
+prod-00630,ALCOHOL OSA X345ML,4500,Insumos y curación médica,ALCOHOL OSA X345ML,assets/imagenesmedimentos/reales/prod-00630.jpg,1,true,false
+prod-00629,ALCOHOL OSA X120ML,3200,Insumos y curación médica,ALCOHOL OSA X120ML,assets/imagenesmedimentos/reales/prod-00629.jpg,1,true,false
+prod-00628,NEXT GRIPA GEL,164000,Antigripales y tos,NEXT GRIPA GEL,assets/imagenesmedimentos/reales/prod-00628.jpg,1,true,false
+prod-00627,GENOPRAZOL 20MG 14 CAPSULAS,14000,Gastrointestinal,GENOPRAZOL 20MG 14 CAPSULAS,assets/imagenesmedimentos/reales/prod-00627.jpg,1,true,false
+prod-00626,LIMA DELGADA,2500,Otros suministros y servicios,LIMA DELGADA,assets/imagenesmedimentos/reales/prod-00626.jpg,1,true,false
+prod-00625,REMOVEDOR LANDER TRADICIONAL 3,5800,Otros suministros y servicios,REMOVEDOR LANDER TRADICIONAL 35ML,assets/imagenesmedimentos/reales/prod-00625.png,1,true,false
+prod-00614,LIBELLE 2 TABL NOVAMED,14800,Anticonceptivos y salud sexual,LIBELLE 2 TABL NOVAMED,assets/imagenesmedimentos/reales/prod-00614.jpg,1,true,false
+prod-00612,GLUCERNA 237ML VAINILLA,14200,Snacks y bebidas,GLUCERNA 237ML VAINILLA,assets/imagenesmedimentos/reales/prod-00612.jpg,1,true,false
+prod-00608,SERVICIO GLUCOMETRIA,6000,Pruebas y diagnóstico,SERVICIO GLUCOMETRIA,assets/imagenesmedimentos/reales/prod-00608.webp,1,true,false
+prod-00604,GOTERO DE VIDRIO,1700,Insumos y curación médica,GOTERO DE VIDRIO,assets/imagenesmedimentos/reales/prod-00604.png,1,true,false
+prod-00602,GUANTES QUIRURGICOS ESTERIL,1800,Insumos y curación médica,GUANTES QUIRURGICOS ESTERIL,assets/imagenesmedimentos/reales/prod-00602.jpg,1,true,false
+prod-00594,PRESTOBARBA GILLETTE AZUL,3200,Cuidado personal,PRESTOBARBA GILLETTE AZUL,assets/imagenesmedimentos/reales/prod-00594.png,1,true,false
+prod-00592,DOLORSIN FEM,10200,Salud femenina,DOLORSIN FEM,assets/imagenesmedimentos/reales/prod-00592.jpg,1,true,false
+prod-00590,OMEPRAZOL 20MG 30 CAPSULAS LA ,9200,Gastrointestinal,OMEPRAZOL 20MG 30 CAPSULAS LA SANTE,assets/imagenesmedimentos/reales/prod-00590.webp,1,true,false
+prod-00584,TERMOMETRO DIGITAL INFANTIL,15200,Insumos y curación médica,TERMOMETRO DIGITAL INFANTIL,assets/imagenesmedimentos/reales/prod-00584.jpg,1,true,false
+prod-00582,SULZINC 30 TABLETAS HUMA,32000,Dermatológico y piel,SULZINC 30 TABLETAS HUMA,assets/imagenesmedimentos/reales/prod-00582.jpg,1,true,false
+prod-00579,TERMOMETRO DIGITAL TERMOCARE,10200,Insumos y curación médica,TERMOMETRO DIGITAL TERMOCARE,assets/imagenesmedimentos/reales/prod-00579.png,1,true,false
+prod-00576,COLONIA ARRURRU ROSADO 120ML,22400,Otros suministros y servicios,COLONIA ARRURRU ROSADO 120ML,assets/imagenesmedimentos/reales/prod-00576.webp,1,true,false
+prod-00575,COLONIA ARRURRU AZUL 120ML,22400,Otros suministros y servicios,COLONIA ARRURRU AZUL 120ML,assets/imagenesmedimentos/reales/prod-00575.jpg,1,true,false
+prod-00570,CHUPO REPUESTO AVENTS,5000,Bebés y maternidad,CHUPO REPUESTO AVENTS,assets/imagenesmedimentos/reales/prod-00570.jpg,1,true,false
+prod-00557,SHAMPOO SAVITAL 510ML ELIXIR D,16400,Cuidado del cabello,SHAMPOO SAVITAL 510ML ELIXIR DE ROMERO,assets/imagenesmedimentos/reales/prod-00557.webp,1,true,false
+prod-00553,IBUFLASH MIGRAN MK,63000,Analgésicos y antiinflamatorios,IBUFLASH MIGRAN MK,assets/imagenesmedimentos/reales/prod-00553.png,1,true,false
+prod-00552,IBUFLASH 400MG CAPSULAS,34200,Analgésicos y antiinflamatorios,IBUFLASH 400MG CAPSULAS,assets/imagenesmedimentos/reales/prod-00552.jpg,1,true,false
+prod-00544,ESPARADRAPO SUPREME 3X5,12400,Insumos y curación médica,ESPARADRAPO SUPREME 3X5,assets/imagenesmedimentos/reales/prod-00544.jpg,1,true,false
+prod-00543,MICROPORE SUPREME 2X5,6600,Insumos y curación médica,MICROPORE SUPREME 2X5,assets/imagenesmedimentos/reales/prod-00543.jpg,1,true,false
+prod-00542,MICROPORE SUPREME 1X5,3800,Insumos y curación médica,MICROPORE SUPREME 1X5,assets/imagenesmedimentos/reales/prod-00542.jpg,1,true,false
+prod-00538,DESODORANTE GILLETTE 82G GEL,22300,Cuidado personal,DESODORANTE GILLETTE 82G GEL,assets/imagenesmedimentos/reales/prod-00538.png,1,true,false
+prod-00535,BUSCAPINA SIMPLE,44000,Gastrointestinal,BUSCAPINA SIMPLE,assets/imagenesmedimentos/reales/prod-00535.jpg,1,true,false
+prod-00532,APOSITO OCULAR INFANTIL,20000,Insumos y curación médica,APOSITO OCULAR INFANTIL,assets/imagenesmedimentos/reales/prod-00532.png,1,true,false
+prod-00531,APOSITO OCULAR ADULTO,20000,Insumos y curación médica,APOSITO OCULAR ADULTO,assets/imagenesmedimentos/reales/prod-00531.png,1,true,false
+prod-00527,CETIRIZINA JARABE 60ML ECAR,10200,Alergias y antihistamínicos,CETIRIZINA JARABE 60ML ECAR,assets/imagenesmedimentos/reales/prod-00527.webp,1,true,false
+prod-00512,HIOSCINA N BUTILBROMURO SANFER,9800,Gastrointestinal,HIOSCINA N BUTILBROMURO SANFER 10MG  20 TABLETAS,assets/imagenesmedimentos/reales/prod-00512.webp,1,true,false
+prod-00510,IBUPROFENO SUSPENSION KIDS AG ,10800,Analgésicos y antiinflamatorios,IBUPROFENO SUSPENSION KIDS AG 120ML,assets/imagenesmedimentos/reales/prod-00510.webp,1,true,false
+prod-00508,CETIRIZINA JARABE 60ML AG,23400,Alergias y antihistamínicos,CETIRIZINA JARABE 60ML AG,assets/imagenesmedimentos/reales/prod-00508.jpg,1,true,false
+prod-00497,COREGA TABS,30200,Cuidado bucal,COREGA TABS,assets/imagenesmedimentos/reales/prod-00497.png,1,true,false
+prod-00487,SECNIDAZOL 500MG COASHPHARMA 4,7800,Antimicóticos y antiparasitarios,SECNIDAZOL 500MG COASHPHARMA 4 TABLETAS,assets/imagenesmedimentos/reales/prod-00487.png,1,true,false
+prod-00486,NITAZOXANIDA 500MG COASPHARMA,21700,Antimicóticos y antiparasitarios,NITAZOXANIDA 500MG COASPHARMA,assets/imagenesmedimentos/reales/prod-00486.png,1,true,false
+prod-00485,LORATADINA 10MG COASPHARMA,3200,Alergias y antihistamínicos,LORATADINA 10MG COASPHARMA,assets/imagenesmedimentos/reales/prod-00485.png,1,true,false
+prod-00469,GEL LUBRICANTE HOT CALIENTE PI,16300,Anticonceptivos y salud sexual,GEL LUBRICANTE HOT CALIENTE PIEL 30ML,assets/imagenesmedimentos/reales/prod-00469.jpg,1,true,false
+prod-00468,MICROPORE PIEL 1/2 PUL NEXCARE,3500,Insumos y curación médica,MICROPORE PIEL 1/2 PUL NEXCARE,assets/imagenesmedimentos/reales/prod-00468.jpg,1,true,false
+prod-00466,AMLODIPINO 10MG LA SANTE,9200,Cardiovascular y metabólico,AMLODIPINO 10MG LA SANTE,assets/imagenesmedimentos/reales/prod-00466.png,1,true,false
+prod-00461,MEGA MAX ENERGY SOBRE,2400,Snacks y bebidas,MEGA MAX ENERGY SOBRE,assets/imagenesmedimentos/reales/prod-00461.webp,1,true,false
+prod-00459,ELECTROLIT SABOR A COCO,8700,Snacks y bebidas,ELECTROLIT SABOR A COCO,assets/imagenesmedimentos/reales/prod-00459.jpg,1,true,false
+prod-00458,"VITACEREBRINA 1000ML OMEGA 3,6",20000,Vitaminas y suplementos,"VITACEREBRINA 1000ML OMEGA 3,6,9",assets/imagenesmedimentos/reales/prod-00458.webp,1,true,false
+prod-00455,PAÑALES WINNY ETAPA 6 PANTS,56300,Pañales y protección,PAÑALES WINNY ETAPA 6 PANTS,assets/imagenesmedimentos/reales/prod-00455.png,1,true,false
+prod-00453,SILDENAFIL 50MG RC,3200,Disfunción eréctil y urología,SILDENAFIL 50MG RC,assets/imagenesmedimentos/reales/prod-00453.jpg,1,true,false
+prod-00451,PRESERVATIVO DUREX CLASICO 3 U,12800,Anticonceptivos y salud sexual,PRESERVATIVO DUREX CLASICO 3 UNIDADES,assets/imagenesmedimentos/reales/prod-00451.jpg,1,true,false
+prod-00449,SHAMPO HEAD & SHOULDERS 375ML ,24200,Cuidado del cabello,SHAMPO HEAD & SHOULDERS 375ML ANTIRRESEQUEDAD,assets/imagenesmedimentos/reales/prod-00449.jpg,1,true,false
+prod-00448,AGUA MICELAR POND ELOE FRUITY ,14900,Maquillaje y cuidado facial/labial,AGUA MICELAR POND ELOE FRUITY 300ML,assets/imagenesmedimentos/reales/prod-00448.png,1,true,false
+prod-00441,METRONIDAZOL 500MG OVULOS COLM,13200,Salud femenina,METRONIDAZOL 500MG OVULOS COLMED,assets/imagenesmedimentos/reales/prod-00441.jpg,1,true,false
+prod-00440,CRONOFEN 500MG,6200,Analgésicos y antiinflamatorios,CRONOFEN 500MG,assets/imagenesmedimentos/reales/prod-00440.jpg,1,true,false
+prod-00439,PEDIAZINC SOLUCION ORAL 120ML,25200,Bebés y maternidad,PEDIAZINC SOLUCION ORAL 120ML,assets/imagenesmedimentos/reales/prod-00439.jpg,1,true,false
+prod-00421,ACETAMINOFEN 500MG AG,18000,Analgésicos y antiinflamatorios,ACETAMINOFEN 500MG AG,assets/imagenesmedimentos/reales/prod-00421.jpg,1,true,false
+prod-00419,NOXPIRIN PLUS CAPSULAS,240000,Antigripales y tos,NOXPIRIN PLUS CAPSULAS,assets/imagenesmedimentos/reales/prod-00419.jpg,1,true,false
+prod-00417,TRIMEBUTINA 200MG LA SANTE,26860,Gastrointestinal,TRIMEBUTINA 200MG LA SANTE,assets/imagenesmedimentos/reales/prod-00417.png,1,true,false
+prod-00410,ENTEROGERMINA 5ML,8800,Gastrointestinal,ENTEROGERMINA 5ML,assets/imagenesmedimentos/reales/prod-00410.jpg,1,true,false
+prod-00408,PRUEBA DE EMBARAZO EARLY TEST,6200,Pruebas y diagnóstico,PRUEBA DE EMBARAZO EARLY TEST,assets/imagenesmedimentos/reales/prod-00408.webp,1,true,false
+prod-00393,APIXABAN 5MG GENFAR,137000,Cardiovascular y metabólico,APIXABAN 5MG GENFAR,assets/imagenesmedimentos/reales/prod-00393.jpg,1,true,false
+prod-00389,JABON INTIMO INTIBON 210 G SAL,18600,Cuidado personal,JABON INTIMO INTIBON 210 G SALVIA Y CALENDULA,assets/imagenesmedimentos/reales/prod-00389.jpg,1,true,false
+prod-00388,PROTECTOR SOLAR NIVEA SUN SHIN,42000,Cuidado personal,PROTECTOR SOLAR NIVEA SUN SHIN 40ML,assets/imagenesmedimentos/reales/prod-00388.jpg,1,true,false
+prod-00387,PROTECTOR SOLAR NIVEA SUN SHIN,43000,Cuidado personal,PROTECTOR SOLAR NIVEA SUN SHIN 50ML,assets/imagenesmedimentos/reales/prod-00387.jpg,1,true,false
+prod-00386,CREMA NIVEA 30ML,17000,Cuidado personal,CREMA NIVEA 30ML,assets/imagenesmedimentos/reales/prod-00386.jpg,1,true,false
+prod-00384,CREMA NIEA SOFT MILK 400ML,38600,Cuidado personal,CREMA NIEA SOFT MILK 400ML,assets/imagenesmedimentos/reales/prod-00384.jpg,1,true,false
+prod-00375,AMLODIPINO 5MG LA SANTE,5900,Cardiovascular y metabólico,AMLODIPINO 5MG LA SANTE,assets/imagenesmedimentos/reales/prod-00375.png,1,true,false
+prod-00368,GASA ESTERIL SOBRE,700,Insumos y curación médica,GASA ESTERIL SOBRE,assets/imagenesmedimentos/reales/prod-00368.webp,1,true,false
+prod-00365,REPELENTE OUT 120ML,11500,Dermatológico y piel,REPELENTE OUT 120ML,assets/imagenesmedimentos/reales/prod-00365.jpg,1,true,false
+prod-00364,PICAFIN ROLON 60ML,7500,Dermatológico y piel,PICAFIN ROLON 60ML,assets/imagenesmedimentos/reales/prod-00364.webp,1,true,false
+prod-00355,TENA SLIP L PAÑALES,32000,Pañales y protección,TENA SLIP L PAÑALES,assets/imagenesmedimentos/reales/prod-00355.png,1,true,false
+prod-00352,DESODORANTE SPEED STICK SOBRE,1800,Cuidado personal,DESODORANTE SPEED STICK SOBRE,assets/imagenesmedimentos/reales/prod-00352.png,1,true,false
+prod-00350,DESODORANTE REXONA CLINICAL SO,2200,Cuidado personal,DESODORANTE REXONA CLINICAL SOBRE,assets/imagenesmedimentos/reales/prod-00350.jpg,1,true,false
+prod-00342,GEL EGO EXTREME 25ML SOBRE,1500,Cuidado personal,GEL EGO EXTREME 25ML SOBRE,assets/imagenesmedimentos/reales/prod-00342.jpg,1,true,false
+prod-00341,BALANCE CLINICAL WOMEN SOBRE,1600,Salud femenina,BALANCE CLINICAL WOMEN SOBRE,assets/imagenesmedimentos/reales/prod-00341.png,1,true,false
+prod-00340,CREMA LUBRIDERM HUMECTACION DE,16200,Maquillaje y cuidado facial/labial,CREMA LUBRIDERM HUMECTACION DELICADA  120ML,assets/imagenesmedimentos/reales/prod-00340.webp,1,true,false
+prod-00334,TRAMADOL 100MG AMPOLLA,6000,Analgésicos y antiinflamatorios,TRAMADOL 100MG AMPOLLA,assets/imagenesmedimentos/reales/prod-00334.jpg,1,true,false
+prod-00333,METOCLOPRAMIDA 10MG AMPOLLA,9000,Gastrointestinal,METOCLOPRAMIDA 10MG AMPOLLA,assets/imagenesmedimentos/reales/prod-00333.jpg,1,true,false
+prod-00331,LINCOMICINA 2ML 1 AMPOLLA,5000,Antibióticos,LINCOMICINA 2ML 1 AMPOLLA,assets/imagenesmedimentos/reales/prod-00331.jpg,1,true,false
+prod-00327,TORROX ETORICOXIB 90 MG 10 TAB,39000,Analgésicos y antiinflamatorios,TORROX ETORICOXIB 90 MG 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00327.jpg,1,true,false
+prod-00323,EQUIPO MACROGOTEO SUPREME,1600,Insumos y curación médica,EQUIPO MACROGOTEO SUPREME,assets/imagenesmedimentos/reales/prod-00323.jpg,1,true,false
+prod-00322,VICK VAPORUB 12GR,6400,Antigripales y tos,VICK VAPORUB 12GR,assets/imagenesmedimentos/reales/prod-00322.jpg,1,true,false
+prod-00317,EYE ZUL SOLUCION OFTALMICA,14800,Oftálmico y ótico,EYE ZUL SOLUCION OFTALMICA,assets/imagenesmedimentos/reales/prod-00317.jpg,1,true,false
+prod-00316,NIFEDIPINO BECLAZONE 30MG,15000,Cardiovascular y metabólico,NIFEDIPINO BECLAZONE 30MG,assets/imagenesmedimentos/reales/prod-00316.jpg,1,true,false
+prod-00310,TIAMINA 1GR AMPOLLA,16000,Vitaminas y suplementos,TIAMINA 1GR AMPOLLA,assets/imagenesmedimentos/reales/prod-00310.png,1,true,false
+prod-00309,PASEDOL 50 MG,52000,Analgésicos y antiinflamatorios,PASEDOL 50 MG,assets/imagenesmedimentos/reales/prod-00309.jpg,1,true,false
+prod-00306,"ZOPICLONA 7,5MG SANFER",24000,Salud mental y sistema nervioso,"ZOPICLONA 7,5MG SANFER",assets/imagenesmedimentos/reales/prod-00306.jpg,1,true,false
+prod-00303,SINOVUL 21 TABLETAS,6600,Anticonceptivos y salud sexual,SINOVUL 21 TABLETAS,assets/imagenesmedimentos/reales/prod-00303.png,1,true,false
+prod-00302,SILDENAFIL 50MG AG,8500,Disfunción eréctil y urología,SILDENAFIL 50MG AG,assets/imagenesmedimentos/reales/prod-00302.png,1,true,false
+prod-00300,LOSARTAN 50MG AG 30CAPSULAS,21000,Cardiovascular y metabólico,LOSARTAN 50MG AG 30CAPSULAS,assets/imagenesmedimentos/reales/prod-00300.jpg,1,true,false
+prod-00299,IBUPROFENO 800MG AG,24000,Analgésicos y antiinflamatorios,IBUPROFENO 800MG AG,assets/imagenesmedimentos/reales/prod-00299.jpg,1,true,false
+prod-00296,NAZIL OFTENO 15ML,25300,Oftálmico y ótico,NAZIL OFTENO 15ML,assets/imagenesmedimentos/reales/prod-00296.jpg,1,true,false
+prod-00294,MIELTERTOS JARABE 240ML,33000,Antigripales y tos,MIELTERTOS JARABE 240ML,assets/imagenesmedimentos/reales/prod-00294.webp,1,true,false
+prod-00290,AMOXICILINA LA SANTE 500MG,6800,Antibióticos,AMOXICILINA LA SANTE 500MG,assets/imagenesmedimentos/reales/prod-00290.png,1,true,false
+prod-00288,MIELTERTOS ZERO CON PROPOLEO,82500,Antigripales y tos,MIELTERTOS ZERO CON PROPOLEO,assets/imagenesmedimentos/reales/prod-00288.png,1,true,false
+prod-00283,"TAMSULOSINA 0,4MG",69000,Disfunción eréctil y urología,"TAMSULOSINA 0,4MG",assets/imagenesmedimentos/reales/prod-00283.png,1,true,false
+prod-00281,PAX DIA NARANJA,84000,Antigripales y tos,PAX DIA NARANJA,assets/imagenesmedimentos/reales/prod-00281.jpg,1,true,false
+prod-00280,PAX NOCHE PANELA,84000,Antigripales y tos,PAX NOCHE PANELA,assets/imagenesmedimentos/reales/prod-00280.jpg,1,true,false
+prod-00279,PAX NOCHE LIMON SOBRES,84000,Antigripales y tos,PAX NOCHE LIMON SOBRES,assets/imagenesmedimentos/reales/prod-00279.jpg,1,true,false
+prod-00277,HIDROXIDO ALUMINIO - HIDROXIDO,11700,Gastrointestinal,HIDROXIDO ALUMINIO - HIDROXIDO DE MAGNESIO 150ML,assets/imagenesmedimentos/reales/prod-00277.jpg,1,true,false
+prod-00276,LABIAL NIVEA CHERRY,21600,Maquillaje y cuidado facial/labial,LABIAL NIVEA CHERRY,assets/imagenesmedimentos/reales/prod-00276.webp,1,true,false
+prod-00275,LABIAL NIVEA STRAWBERRY,22600,Maquillaje y cuidado facial/labial,LABIAL NIVEA STRAWBERRY,assets/imagenesmedimentos/reales/prod-00275.webp,1,true,false
+prod-00274,MESIGYNA AMPOLLA 1ML,11000,Anticonceptivos y salud sexual,MESIGYNA AMPOLLA 1ML,assets/imagenesmedimentos/reales/prod-00274.png,1,true,false
+prod-00271,DIPIRONA 1G AMPOLLA,5200,Analgésicos y antiinflamatorios,DIPIRONA 1G AMPOLLA,assets/imagenesmedimentos/reales/prod-00271.jpg,1,true,false
+prod-00270,CLINDAMICINA 600MG AMPOLLA,11000,Antibióticos,CLINDAMICINA 600MG AMPOLLA,assets/imagenesmedimentos/reales/prod-00270.jpg,1,true,false
+prod-00269,CEFTRIAXONA 1G AMPOLLA,13200,Antibióticos,CEFTRIAXONA 1G AMPOLLA,assets/imagenesmedimentos/reales/prod-00269.png,1,true,true
+prod-00266,CLOBEGEN CREMA 20 G MK,13800,Cuidado personal,CLOBEGEN CREMA 20 G MK,assets/imagenesmedimentos/reales/prod-00266.jpg,1,true,false
+prod-00261,CLOTRIMAZOL 100MG OVULOS,22800,Salud femenina,CLOTRIMAZOL 100MG OVULOS,assets/imagenesmedimentos/reales/prod-00261.png,1,true,false
+prod-00260,BUSCAPINA NF,220000,Gastrointestinal,BUSCAPINA NF,assets/imagenesmedimentos/reales/prod-00260.webp,1,true,false
+prod-00257,COMPLEJO B AMPOLLAS,14500,Vitaminas y suplementos,COMPLEJO B AMPOLLAS,assets/imagenesmedimentos/reales/prod-00257.png,1,true,false
+prod-00255,CAPTOPRIL 25MG 30 TABLETAS,11300,Cardiovascular y metabólico,CAPTOPRIL 25MG 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00255.webp,1,true,false
+prod-00254,BISACODILO 5MG SANFER,36000,Gastrointestinal,BISACODILO 5MG SANFER,assets/imagenesmedimentos/reales/prod-00254.jpg,1,true,false
+prod-00252,DICLOFENACO RETARD 100 MG,14200,Analgésicos y antiinflamatorios,DICLOFENACO RETARD 100 MG,assets/imagenesmedimentos/reales/prod-00252.jpg,1,true,false
+prod-00242,ALBENDAZOL SUSPESION 20ML,7500,Antimicóticos y antiparasitarios,ALBENDAZOL SUSPESION 20ML,assets/imagenesmedimentos/reales/prod-00242.jpg,1,true,false
+prod-00241,ALBENDAZOL 200MG AG,3800,Antimicóticos y antiparasitarios,ALBENDAZOL 200MG AG,assets/imagenesmedimentos/reales/prod-00241.webp,1,true,false
+prod-00240,CREMA FORZ,115200,Cuidado personal,CREMA FORZ,assets/imagenesmedimentos/reales/prod-00240.png,1,true,false
+prod-00239,CHAMPIOJO CIPERMETRINA,2800,Dermatológico y piel,CHAMPIOJO CIPERMETRINA,assets/imagenesmedimentos/reales/prod-00239.png,1,true,false
+prod-00238,CALADRYL LOCION 100ML,24200,Dermatológico y piel,CALADRYL LOCION 100ML,assets/imagenesmedimentos/reales/prod-00238.jpg,1,true,false
+prod-00234,CURAS LEUKOPLAST PIEL,600,Insumos y curación médica,CURAS LEUKOPLAST PIEL,assets/imagenesmedimentos/reales/prod-00234.png,1,true,false
+prod-00231,TOBRADEX GOTAS 5 ML,98000,Oftálmico y ótico,TOBRADEX GOTAS 5 ML,assets/imagenesmedimentos/reales/prod-00231.jpg,1,true,false
+prod-00226,FLEXIMAX ACE 14 TABLETAS,97000,Analgésicos y antiinflamatorios,FLEXIMAX ACE 14 TABLETAS,assets/imagenesmedimentos/reales/prod-00226.jpg,1,true,false
+prod-00225,NYTAX SUSPENSION 60 ML  SABOR ,97900,Antimicóticos y antiparasitarios,NYTAX SUSPENSION 60 ML  SABOR A FRUTOS TROPICALES,assets/imagenesmedimentos/reales/prod-00225.jpg,1,true,false
+prod-00224,NYTAX 500MG CAPSULAS,96000,Antimicóticos y antiparasitarios,NYTAX 500MG CAPSULAS,assets/imagenesmedimentos/reales/prod-00224.jpg,1,true,false
+prod-00221,VICK JARABE MIEL 120 ML,36200,Antigripales y tos,VICK JARABE MIEL 120 ML,assets/imagenesmedimentos/reales/prod-00221.jpg,1,true,false
+prod-00220,VICK DROPS 125 CARAMELOS,100000,Antigripales y tos,VICK DROPS 125 CARAMELOS,assets/imagenesmedimentos/reales/prod-00220.webp,1,true,false
+prod-00217,BISOLVON JARABE TOS SECA,42700,Antigripales y tos,BISOLVON JARABE TOS SECA,assets/imagenesmedimentos/reales/prod-00217.webp,1,true,false
+prod-00216,BISOLVON JARABE PARA NIÑOS 120,42200,Antigripales y tos,BISOLVON JARABE PARA NIÑOS 120 ML,assets/imagenesmedimentos/reales/prod-00216.jpg,1,true,false
+prod-00215,PRUEBA DE EMBARAZO CLEAR BLUE ,34500,Pruebas y diagnóstico,PRUEBA DE EMBARAZO CLEAR BLUE PLUS 2 UNIDADES POR CAJA,assets/imagenesmedimentos/reales/prod-00215.jpg,1,true,false
+prod-00214,METARSAL N CAPSULAS,62000,Antigripales y tos,METARSAL N CAPSULAS,assets/imagenesmedimentos/reales/prod-00214.jpg,1,true,false
+prod-00213,METARSAL JARABE 120 ML,56000,Antigripales y tos,METARSAL JARABE 120 ML,assets/imagenesmedimentos/reales/prod-00213.png,1,true,false
+prod-00211,GELPIN FAST 2 TABLETAS,9500,Analgésicos y antiinflamatorios,GELPIN FAST 2 TABLETAS,assets/imagenesmedimentos/reales/prod-00211.jpg,1,true,false
+prod-00210,KRODEX F COMPUESTO SUSPENSION ,45000,Antibióticos,KRODEX F COMPUESTO SUSPENSION 120 ML,assets/imagenesmedimentos/reales/prod-00210.png,1,true,false
+prod-00209,KRODEX F COMPUESTO 600MG  20 C,45000,Antibióticos,KRODEX F COMPUESTO 600MG  20 CAPSULAS,assets/imagenesmedimentos/reales/prod-00209.jpg,1,true,false
+prod-00205,BION 3 - 30 TABLETAS,48200,Vitaminas y suplementos,BION 3 - 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00205.jpg,1,true,false
+prod-00201,GESTAVIT DHA,94000,Vitaminas y suplementos,GESTAVIT DHA,assets/imagenesmedimentos/reales/prod-00201.jpg,1,true,false
+prod-00200,TRIGENTAX CREMA TOPICA 40 G,51000,Cuidado personal,TRIGENTAX CREMA TOPICA 40 G,assets/imagenesmedimentos/reales/prod-00200.png,1,true,true
+prod-00199,KOLA GRANULADA TRADICI 330 G +,29000,Snacks y bebidas,KOLA GRANULADA TRADICI 330 G + KOLA GRANULADA FRESA 80 G,assets/imagenesmedimentos/reales/prod-00199.webp,1,true,false
+prod-00195,FRASCO ORINA,800,Insumos y curación médica,FRASCO ORINA,assets/imagenesmedimentos/reales/prod-00195.jpg,1,true,false
+prod-00194,CAJA CROPOLOGICA,700,Insumos y curación médica,CAJA CROPOLOGICA,assets/imagenesmedimentos/reales/prod-00194.jpg,1,true,false
+prod-00192,MAREOL,115200,Gastrointestinal,MAREOL,assets/imagenesmedimentos/reales/prod-00192.jpg,1,true,false
+prod-00190,STOPEN 2 CAPSULAS,127600,Antibióticos,STOPEN 2 CAPSULAS,assets/imagenesmedimentos/reales/prod-00190.jpg,1,true,false
+prod-00186,TOALLAS NOSOTRAS PLUS CANAGEL ,13200,Salud femenina,TOALLAS NOSOTRAS PLUS CANAGEL TELA SUAVE,assets/imagenesmedimentos/reales/prod-00186.png,1,true,false
+prod-00178,ANEMIDOX CAPSULAS,126000,Vitaminas y suplementos,ANEMIDOX CAPSULAS,assets/imagenesmedimentos/reales/prod-00178.png,1,true,false
+prod-00173,NOFERTYL 1 AMPOLLA,9400,Anticonceptivos y salud sexual,NOFERTYL 1 AMPOLLA,assets/imagenesmedimentos/reales/prod-00173.jpg,1,true,false
+prod-00172,NEURO 15 FOSFORO NF 20 CAPSULA,116800,Vitaminas y suplementos,NEURO 15 FOSFORO NF 20 CAPSULAS,assets/imagenesmedimentos/reales/prod-00172.jpg,1,true,false
+prod-00166,CREMA COLGATE LUMINOUS WHITE 9,18200,Cuidado personal,CREMA COLGATE LUMINOUS WHITE 99G,assets/imagenesmedimentos/reales/prod-00166.png,1,true,false
+prod-00164,MICROGYNON SUAVE 21 TABLETAS,8000,Anticonceptivos y salud sexual,MICROGYNON SUAVE 21 TABLETAS,assets/imagenesmedimentos/reales/prod-00164.jpg,1,true,false
+prod-00163,"MICROGYNON 3, 21 TABLETAS",7800,Anticonceptivos y salud sexual,"MICROGYNON 3, 21 TABLETAS",assets/imagenesmedimentos/reales/prod-00163.png,1,true,false
+prod-00162,VOLTAREN 75 MG AMPOLLA,18000,Analgésicos y antiinflamatorios,VOLTAREN 75 MG AMPOLLA,assets/imagenesmedimentos/reales/prod-00162.jpg,1,true,false
+prod-00158,ISODINE SOLUCION 120 ML,28900,Dermatológico y piel,ISODINE SOLUCION 120 ML,assets/imagenesmedimentos/reales/prod-00158.jpg,1,true,false
+prod-00157,ISODINE BUCOFARINGEO,18700,Dermatológico y piel,ISODINE BUCOFARINGEO,assets/imagenesmedimentos/reales/prod-00157.jpg,1,true,false
+prod-00156,METROZIN NISTATINA 10 OVULOS,62000,Salud femenina,METROZIN NISTATINA 10 OVULOS,assets/imagenesmedimentos/reales/prod-00156.jpg,1,true,false
+prod-00155,ARTRITES 75MG,17000,Analgésicos y antiinflamatorios,ARTRITES 75MG,assets/imagenesmedimentos/reales/prod-00155.jpg,1,true,false
+prod-00152,YODOPOVIL BUCOFARINGEO 60 ML,11200,Dermatológico y piel,YODOPOVIL BUCOFARINGEO 60 ML,assets/imagenesmedimentos/reales/prod-00152.jpg,1,true,false
+prod-00146,PEDIAVIT SOLUCION ORAL 10 ML,31000,Vitaminas y suplementos,PEDIAVIT SOLUCION ORAL 10 ML,assets/imagenesmedimentos/reales/prod-00146.jpg,1,true,false
+prod-00145,NORFLOXACINA 400 MG,12800,Antibióticos,NORFLOXACINA 400 MG,assets/imagenesmedimentos/reales/prod-00145.jpg,1,true,false
+prod-00142,PRUEBA DE EMBARAZO MIDSTREAM,12300,Pruebas y diagnóstico,PRUEBA DE EMBARAZO MIDSTREAM,assets/imagenesmedimentos/reales/prod-00142.webp,1,true,false
+prod-00141,MULTICOMPLEX B COMPLEX,31200,Vitaminas y suplementos,MULTICOMPLEX B COMPLEX,assets/imagenesmedimentos/reales/prod-00141.png,1,true,false
+prod-00140,LEGRIP PLUS,149000,Antigripales y tos,LEGRIP PLUS,assets/imagenesmedimentos/reales/prod-00140.jpg,1,true,false
+prod-00139,CERITAMIN JARABE 60 ML,41000,Antigripales y tos,CERITAMIN JARABE 60 ML,assets/imagenesmedimentos/reales/prod-00139.jpg,1,true,false
+prod-00138,CERITAMIN GOTAS 10MG,41600,Antigripales y tos,CERITAMIN GOTAS 10MG,assets/imagenesmedimentos/reales/prod-00138.jpg,1,true,false
+prod-00137,CERITAMIN,28200,Antigripales y tos,CERITAMIN,assets/imagenesmedimentos/reales/prod-00137.jpg,1,true,false
+prod-00136,CALFAFEM D,42000,Vitaminas y suplementos,CALFAFEM D,assets/imagenesmedimentos/reales/prod-00136.png,1,true,false
+prod-00132,AGUA OXIGENADA,5000,Otros suministros y servicios,AGUA OXIGENADA,assets/imagenesmedimentos/reales/prod-00132.png,1,true,false
+prod-00131,GUANTES DE LATEX ALFA SAFE LAT,24000,Insumos y curación médica,GUANTES DE LATEX ALFA SAFE LATEX,assets/imagenesmedimentos/reales/prod-00131.png,1,true,false
+prod-00129,NOXPIRIN TOS SECA JARABE,29800,Antigripales y tos,NOXPIRIN TOS SECA JARABE,assets/imagenesmedimentos/reales/prod-00129.jpg,1,true,false
+prod-00125,SAL DE FRUTAS LUA,165000,Gastrointestinal,SAL DE FRUTAS LUA,assets/imagenesmedimentos/reales/prod-00125.jpg,1,true,false
+prod-00118,ASPIRINA 100 MF 140 TABLETAS,94000,Analgésicos y antiinflamatorios,ASPIRINA 100 MF 140 TABLETAS,assets/imagenesmedimentos/reales/prod-00118.jpg,1,true,false
+prod-00117,ALKA SELTZER 2 TABLETAS EFERVE,75000,Gastrointestinal,ALKA SELTZER 2 TABLETAS EFERVESCENTES,assets/imagenesmedimentos/reales/prod-00117.jpg,1,true,false
+prod-00116,JERINGA 3P 5 ML,600,Insumos y curación médica,JERINGA 3P 5 ML,assets/imagenesmedimentos/reales/prod-00116.png,1,true,false
+prod-00115,JERINGA 3 P 3ML,600,Insumos y curación médica,JERINGA 3 P 3ML,assets/imagenesmedimentos/reales/prod-00115.png,1,true,false
+prod-00114,JERINGA 3P 10 ML,1000,Insumos y curación médica,JERINGA 3P 10 ML,assets/imagenesmedimentos/reales/prod-00114.png,1,true,false
+prod-00113,ACID MANTLE N 120ML,25800,Maquillaje y cuidado facial/labial,ACID MANTLE N 120ML,assets/imagenesmedimentos/reales/prod-00113.jpg,1,true,false
+prod-00112,DICLOFENACO 1% GEL 50 G ICOM,13800,Analgésicos y antiinflamatorios,DICLOFENACO 1% GEL 50 G ICOM,assets/imagenesmedimentos/reales/prod-00112.jpg,1,true,false
+prod-00109,SEVEDOL EXTRA FUERTE BLISTER D,130000,Analgésicos y antiinflamatorios,SEVEDOL EXTRA FUERTE BLISTER DE 6 TABLETAS,assets/imagenesmedimentos/reales/prod-00109.png,1,true,false
+prod-00104,MEPROGAL 7.5 MG 10 TABLETAS,38000,Salud mental y sistema nervioso,MEPROGAL 7.5 MG 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00104.jpg,1,true,false
+prod-00103,MEPROGAL 15 MG 10 TABLETAS,40800,Salud mental y sistema nervioso,MEPROGAL 15 MG 10 TABLETAS,assets/imagenesmedimentos/reales/prod-00103.webp,1,true,false
+prod-00101,ATIFLAN 50 MG 20 TABLETAS DICL,20200,Analgésicos y antiinflamatorios,ATIFLAN 50 MG 20 TABLETAS DICLOFENACO SODICO,assets/imagenesmedimentos/reales/prod-00101.png,1,true,false
+prod-00099,NEOSALDINA GOTAS 30 ML,65000,Analgésicos y antiinflamatorios,NEOSALDINA GOTAS 30 ML,assets/imagenesmedimentos/reales/prod-00099.jpg,1,true,false
+prod-00098,NEOSALDINA 4 GRAGEAS,175000,Analgésicos y antiinflamatorios,NEOSALDINA 4 GRAGEAS,assets/imagenesmedimentos/reales/prod-00098.webp,1,true,false
+prod-00095,GELIMED PLUS HMB,160000,Analgésicos y antiinflamatorios,GELIMED PLUS HMB,assets/imagenesmedimentos/reales/prod-00095.png,1,true,false
+prod-00094,GELIMED 10 G,132000,Analgésicos y antiinflamatorios,GELIMED 10 G,assets/imagenesmedimentos/reales/prod-00094.webp,1,true,false
+prod-00093,NEURO BION 30 TABLETAS,55000,Vitaminas y suplementos,NEURO BION 30 TABLETAS,assets/imagenesmedimentos/reales/prod-00093.jpg,1,true,false
+prod-00091,ACIDO FUSIDICO 2% MK,18200,Antibióticos,ACIDO FUSIDICO 2% MK,assets/imagenesmedimentos/reales/prod-00091.png,1,true,false
+prod-00090,GELCLAIR GEL ORAL CONCENTRADO,19800,Cuidado bucal,GELCLAIR GEL ORAL CONCENTRADO,assets/imagenesmedimentos/reales/prod-00090.jpg,1,true,false
+prod-00089,TRAMADOL 100 MG GOTAS 10 ML,11200,Analgésicos y antiinflamatorios,TRAMADOL 100 MG GOTAS 10 ML,assets/imagenesmedimentos/reales/prod-00089.jpg,1,true,false
+prod-00085,GAVISCON DOBLE ACCION,42000,Gastrointestinal,GAVISCON DOBLE ACCION,assets/imagenesmedimentos/reales/prod-00085.png,1,true,false
+prod-00084,CREMA ANTIHEMORROIDAL MAX FORT,38500,Cuidado personal,CREMA ANTIHEMORROIDAL MAX FORTE 80 G,assets/imagenesmedimentos/reales/prod-00084.png,1,true,false
+prod-00082,MUCOSINA SUSPENSION 120 ML,41000,Antigripales y tos,MUCOSINA SUSPENSION 120 ML,assets/imagenesmedimentos/reales/prod-00082.png,1,true,false
+prod-00078,HIALTEARS LUBRICANTE OCULAR 5M,37000,Oftálmico y ótico,HIALTEARS LUBRICANTE OCULAR 5ML,assets/imagenesmedimentos/reales/prod-00078.jpg,1,true,false
+prod-00076,TAMSULON DUO 30 CAPSULAS,80000,Disfunción eréctil y urología,TAMSULON DUO 30 CAPSULAS,assets/imagenesmedimentos/reales/prod-00076.jpg,1,true,false
+prod-00075,ZAMBON MONURIL 3 G GRANULADO,21300,Antibióticos,ZAMBON MONURIL 3 G GRANULADO,assets/imagenesmedimentos/reales/prod-00075.webp,1,true,false
+prod-00074,B VIT HT 1 JERINGA,35000,Insumos y curación médica,B VIT HT 1 JERINGA,assets/imagenesmedimentos/reales/prod-00074.png,1,true,false
+prod-00072,TENSOFAR LOSARTAN 50 MG,10200,Cardiovascular y metabólico,TENSOFAR LOSARTAN 50 MG,assets/imagenesmedimentos/reales/prod-00072.jpg,1,true,false
+prod-00069,EVALAX POLVO 250 G,98100,Gastrointestinal,EVALAX POLVO 250 G,assets/imagenesmedimentos/reales/prod-00069.jpg,1,true,false
+prod-00066,WASSERTROL GOTAS OFT 5 ML,17600,Oftálmico y ótico,WASSERTROL GOTAS OFT 5 ML,assets/imagenesmedimentos/reales/prod-00066.jpg,1,true,false
+prod-00064,BACIPREX 250 MG POLVO,34200,Antibióticos,BACIPREX 250 MG POLVO,assets/imagenesmedimentos/reales/prod-00064.png,1,true,false
+prod-00063,BACIPREX 500MG AMOXICILINA,70000,Antibióticos,BACIPREX 500MG AMOXICILINA,assets/imagenesmedimentos/reales/prod-00063.jpg,1,true,false
+prod-00061,AFELEX 500 MG,42400,Dermatológico y piel,AFELEX 500 MG,assets/imagenesmedimentos/reales/prod-00061.jpg,1,true,false
+prod-00060,ACNIBEN 300 MG,60000,Dermatológico y piel,ACNIBEN 300 MG,assets/imagenesmedimentos/reales/prod-00060.jpg,1,true,false
+prod-00059,ADVIL ULTRA 4 CAPSULAS,180000,Analgésicos y antiinflamatorios,ADVIL ULTRA 4 CAPSULAS,assets/imagenesmedimentos/reales/prod-00059.jpg,1,true,false
+prod-00058,ADVIL LIQUID ESPALDA Y CUELLO,44000,Analgésicos y antiinflamatorios,ADVIL LIQUID ESPALDA Y CUELLO,assets/imagenesmedimentos/reales/prod-00058.jpg,1,true,false
+prod-00057,DEXAMETASONA FOSFATO 8 MG/2ML ,4300,Analgésicos y antiinflamatorios,DEXAMETASONA FOSFATO 8 MG/2ML AMPOLLAS,assets/imagenesmedimentos/reales/prod-00057.png,1,true,false
+prod-00055,ALCOHOL ALCOMAX 350 ML,6000,Insumos y curación médica,ALCOHOL ALCOMAX 350 ML,assets/imagenesmedimentos/reales/prod-00055.jpg,1,true,false
+prod-00054,ALCOHOL ALCOMAX 700 ML,9000,Insumos y curación médica,ALCOHOL ALCOMAX 700 ML,assets/imagenesmedimentos/reales/prod-00054.jpg,1,true,false
+prod-00053,APRONAX LIQUID GELS 275MG,110000,Analgésicos y antiinflamatorios,APRONAX LIQUID GELS 275MG,assets/imagenesmedimentos/reales/prod-00053.jpg,1,true,false
+prod-00051,PEDIALYTE ACTIVE FRESA 500 ML,9800,Bebés y maternidad,PEDIALYTE ACTIVE FRESA 500 ML,assets/imagenesmedimentos/reales/prod-00051.jpg,1,true,false
+prod-00048,CRONOFEN L JARABE 100 ML,19200,Analgésicos y antiinflamatorios,CRONOFEN L JARABE 100 ML,assets/imagenesmedimentos/reales/prod-00048.jpg,1,true,false
+prod-00047,CRONOFEN GOTAS 30 ML,14800,Analgésicos y antiinflamatorios,CRONOFEN GOTAS 30 ML,assets/imagenesmedimentos/reales/prod-00047.jpg,1,true,false
+prod-00043,NAPROXENO 250 MG,7200,Analgésicos y antiinflamatorios,NAPROXENO 250 MG,assets/imagenesmedimentos/reales/prod-00043.jpg,1,true,false
+prod-00042,NAPROXENO 500 MG,12100,Analgésicos y antiinflamatorios,NAPROXENO 500 MG,assets/imagenesmedimentos/reales/prod-00042.jpg,1,true,false
+prod-00041,ENSURE ADVANCE VAINILLA 220 ML,12600,Snacks y bebidas,ENSURE ADVANCE VAINILLA 220 ML,assets/imagenesmedimentos/reales/prod-00041.jpg,1,true,false
+prod-00039,ASPIRINA EFERVESCENTE CAJA 12 ,16000,Analgésicos y antiinflamatorios,ASPIRINA EFERVESCENTE CAJA 12 TABLETAS,assets/imagenesmedimentos/reales/prod-00039.webp,1,true,false
+prod-00038,ASPIRINA EFERVESCENTE,2200,Analgésicos y antiinflamatorios,ASPIRINA EFERVESCENTE,assets/imagenesmedimentos/reales/prod-00038.png,1,true,false
+prod-00037,TREDA DIOSMECTITA 3 G,164000,Gastrointestinal,TREDA DIOSMECTITA 3 G,assets/imagenesmedimentos/reales/prod-00037.webp,1,true,false
+prod-00036,ADVIL CHILDREN JARABE 100 ML,36000,Analgésicos y antiinflamatorios,ADVIL CHILDREN JARABE 100 ML,assets/imagenesmedimentos/reales/prod-00036.jpg,1,true,false
+prod-00035,ADVIL CHILDREN JARABE 60 ML,26000,Analgésicos y antiinflamatorios,ADVIL CHILDREN JARABE 60 ML,assets/imagenesmedimentos/reales/prod-00035.jpg,1,true,false
+prod-00034,ACETAMINOFEN JARABE 100 ML,7000,Analgésicos y antiinflamatorios,ACETAMINOFEN JARABE 100 ML,assets/imagenesmedimentos/reales/prod-00034.jpg,1,true,false
+prod-00031,CONGESTEX KIDS JARABE 90 ML,27600,Antigripales y tos,CONGESTEX KIDS JARABE 90 ML,assets/imagenesmedimentos/reales/prod-00031.jpg,1,true,false
+prod-00030,CATALAC ACETAMINOFEN 500 MG,25000,Analgésicos y antiinflamatorios,CATALAC ACETAMINOFEN 500 MG,assets/imagenesmedimentos/reales/prod-00030.png,1,true,false
+prod-00029,PAÑITOS PEQUEÑIN  24 PAÑITOS,4200,Bebés y maternidad,PAÑITOS PEQUEÑIN  24 PAÑITOS,assets/imagenesmedimentos/reales/prod-00029.jpg,1,true,false
+prod-00028,PAÑITOS PEQUEÑIN  70 PAÑITOS,10000,Bebés y maternidad,PAÑITOS PEQUEÑIN  70 PAÑITOS,assets/imagenesmedimentos/reales/prod-00028.jpg,1,true,false
+prod-00027,BISOLVON ADULTOS  120 ML,40200,Antigripales y tos,BISOLVON ADULTOS  120 ML,assets/imagenesmedimentos/reales/prod-00027.jpg,1,true,false
+prod-00026,FLEXIMAX NAP 14 TABLETAS  CAJA,88000,Analgésicos y antiinflamatorios,FLEXIMAX NAP 14 TABLETAS  CAJA,assets/imagenesmedimentos/reales/prod-00026.jpg,1,true,false
+prod-00025,ECLOSYNT INHALADOR  50 MCG,46000,Antigripales y tos,ECLOSYNT INHALADOR  50 MCG,assets/imagenesmedimentos/reales/prod-00025.jpg,1,true,false
+prod-00024,SACRUSYT SALBUTAMOL INHALADOR ,28200,Antigripales y tos,SACRUSYT SALBUTAMOL INHALADOR  100 MCG,assets/imagenesmedimentos/reales/prod-00024.png,1,true,false
+prod-00023,DEPO- PROVERA INYECTABLE  150 ,29000,Anticonceptivos y salud sexual,DEPO- PROVERA INYECTABLE  150 MG,assets/imagenesmedimentos/reales/prod-00023.png,1,true,false
+prod-00022,MIEL DE ROSAS UNGÜENTO  30 CC,3800,Dermatológico y piel,MIEL DE ROSAS UNGÜENTO  30 CC,assets/imagenesmedimentos/reales/prod-00022.webp,1,true,false
+prod-00019,GLICERINA CARBONATADA GOTAS  3,7300,Oftálmico y ótico,GLICERINA CARBONATADA GOTAS  30 ML,assets/imagenesmedimentos/reales/prod-00019.jpg,1,true,false
+prod-00018,PIEDRA ALUMBRE UNGÜENTO  25 G,2700,Dermatológico y piel,PIEDRA ALUMBRE UNGÜENTO  25 G,assets/imagenesmedimentos/reales/prod-00018.jpg,1,true,false
+prod-00017,VAGINCORT CREMA  20 G,92000,Cuidado personal,VAGINCORT CREMA  20 G,assets/imagenesmedimentos/reales/prod-00017.webp,1,true,false
+prod-00016,VAGINSOL F CREMA  20 G,98000,Salud femenina,VAGINSOL F CREMA  20 G,assets/imagenesmedimentos/reales/prod-00016.jpg,1,true,false
+prod-00015,VAGINSOL F OVULOS  3 OVULOS,99000,Salud femenina,VAGINSOL F OVULOS  3 OVULOS,assets/imagenesmedimentos/reales/prod-00015.jpg,1,true,false
+prod-00014,CONGESTEX KIDS JARABE  90 ML,27600,Antigripales y tos,CONGESTEX KIDS JARABE  90 ML,assets/imagenesmedimentos/reales/prod-00014.png,1,true,false
+prod-00013,ECLOSYNT INHALADOR  250 MCG X ,67000,Antigripales y tos,ECLOSYNT INHALADOR  250 MCG X DOSIS,assets/imagenesmedimentos/reales/prod-00013.jpg,1,true,false
+prod-00012,VERDE GALEZ POMADA  23 G,11800,Dermatológico y piel,VERDE GALEZ POMADA  23 G,assets/imagenesmedimentos/reales/prod-00012.png,1,true,false
+prod-00011,BISOLVON MAX JARABE  120 ML  T,44100,Antigripales y tos,BISOLVON MAX JARABE  120 ML  TOS CON FLEMAS,assets/imagenesmedimentos/reales/prod-00011.jpg,1,true,false
+prod-00009,BEDOYECTA INYECTABLE  3 USOS,46000,Vitaminas y suplementos,BEDOYECTA INYECTABLE  3 USOS,assets/imagenesmedimentos/reales/prod-00009.jpg,1,true,false
+prod-00008,BEDOYECTA INYECTABLE  1 USO,24000,Vitaminas y suplementos,BEDOYECTA INYECTABLE  1 USO,assets/imagenesmedimentos/reales/prod-00008.jpg,1,true,false
+prod-00003,PROVERA TABLETAS  10 MG,24200,Anticonceptivos y salud sexual,PROVERA TABLETAS  10 MG,assets/imagenesmedimentos/reales/prod-00003.jpg,1,true,false
+prod-00002,PROVERA TABLETAS  5 MG,13200,Anticonceptivos y salud sexual,PROVERA TABLETAS  5 MG,assets/imagenesmedimentos/reales/prod-00002.webp,1,true,false

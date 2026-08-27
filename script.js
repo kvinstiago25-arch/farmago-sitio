@@ -124,6 +124,59 @@
   });
 })();
 
+/* =====================================================================
+   Reemplazo de atributos on*= inline (onclick/onerror/onsubmit) que
+   vivían en index.html: se movieron aquí con addEventListener para
+   poder quitar 'unsafe-inline' del script-src del CSP. Mismo
+   comportamiento exacto, solo cambia dónde vive el código.
+   ===================================================================== */
+(function migrarHandlersInline() {
+  // Logo del header: "onclick=... window.location.pathname; return false;"
+  // (recarga a la home limpia, sin el hash #inicio en la URL).
+  const logoLink = document.querySelector('.site-logo-link');
+  if (logoLink) {
+    logoLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.location.href = window.location.pathname;
+    });
+  }
+
+  // Tarjetas promo del hero: si la foto de fondo no carga, se ocultan solas.
+  document.querySelectorAll('.promo-img').forEach((img) => {
+    img.addEventListener('error', function () { this.style.display = 'none'; });
+  });
+
+  // Mascota "carrito" del encabezado del modal: si no carga, se oculta todo
+  // el contenedor de la animación (su elemento padre), no solo la imagen.
+  document.querySelectorAll('.cart-hero-carrito-img').forEach((img) => {
+    img.addEventListener('error', function () {
+      if (this.parentElement) this.parentElement.style.display = 'none';
+    });
+  });
+
+  // Ilustración del farmacéutico en el modal del carrito.
+  document.querySelectorAll('.cart-hero-farmaceutico').forEach((img) => {
+    img.addEventListener('error', function () { this.style.display = 'none'; });
+  });
+
+  // Logos de métodos de pago: si el logo real no carga, se oculta y se
+  // muestra el badge/ícono de respaldo que vive justo al lado (el
+  // hermano siguiente en el HTML).
+  document.querySelectorAll('.cart-pago-img').forEach((img) => {
+    img.addEventListener('error', function () {
+      this.style.display = 'none';
+      if (this.nextElementSibling) this.nextElementSibling.style.display = 'inline-flex';
+    });
+  });
+
+  // Formulario "Recibe promociones" del footer: no está conectado a un
+  // backend todavía, así que solo se evita el submit real de la página.
+  const footerSubscribeForm = document.querySelector('.footer-subscribe');
+  if (footerSubscribeForm) {
+    footerSubscribeForm.addEventListener('submit', (e) => e.preventDefault());
+  }
+})();
+
 /* ===== Bloque 2/9 ===== */
 let productos = [];
   let categoriaActiva = 'todas';
@@ -1606,6 +1659,7 @@ let productos = [];
   // es sobre todo higiene de datos y una primera barrera contra spam.
   const RE_NOMBRE_VALIDO = /^[\p{L}\p{M}\s.'-]+$/u;
   const RE_DIRECCION_VALIDA = /^[\p{L}\p{M}\p{N}\s.,#\-\/°ºª]+$/u;
+  const RE_TELEFONO_VALIDO = /^[0-9+\s()-]+$/;
 
   function validarCampoPedido(valor, { minLen, maxLen, patron }) {
     if (valor.length < minLen || valor.length > maxLen) return false;
@@ -1644,6 +1698,14 @@ let productos = [];
       return;
     }
 
+    const telefonoEl = document.getElementById('cartTelefono');
+    const telefono = telefonoEl ? telefonoEl.value.trim() : '';
+    if (!validarCampoPedido(telefono, { minLen: 7, maxLen: 20, patron: RE_TELEFONO_VALIDO })) {
+      alert('Por favor escribe un número de teléfono válido (entre 7 y 20 dígitos).');
+      if (telefonoEl) telefonoEl.focus();
+      return;
+    }
+
     const observacionesEl = document.getElementById('cartObservaciones');
     const observaciones = observacionesEl ? observacionesEl.value.trim() : '';
     if (observaciones.length > 300) {
@@ -1654,6 +1716,7 @@ let productos = [];
 
     let lineas = [`¡Hola FarmaGo! Quiero hacer este pedido:`, `Nombre: ${nombreCliente}`];
     if (direccion) lineas.push(`Dirección de entrega: ${direccion}`);
+    lineas.push(`Teléfono: ${telefono}`);
     lineas.push('');
     items.forEach(([nombre, cantidad]) => {
       lineas.push(`• ${nombre} x${cantidad}`);
@@ -1661,6 +1724,39 @@ let productos = [];
     if (observaciones) {
       lineas.push('');
       lineas.push(`Observaciones: ${observaciones}`);
+    }
+
+    // Guardar el pedido en Supabase (tabla "pedidos"). No se espera (no
+    // "await") a que termine antes de abrir WhatsApp: si se pusiera un await
+    // aquí antes de window.open(), el navegador bloquearía la ventana
+    // emergente por no considerarla ya un resultado directo del clic. Si el
+    // guardado falla (sin internet, tablas aún no creadas, etc.) el pedido
+    // por WhatsApp igual se envía con normalidad; solo se registra el error
+    // en consola para no interrumpir al cliente.
+    if (supabaseClient) {
+      const totalPedido = items.reduce((sum, [nombre, cantidad]) => {
+        const prod = productos.find(x => x.nombre === nombre);
+        return sum + (prod && prod.precio ? prod.precio * cantidad : 0);
+      }, 0);
+      const productosPedido = items.map(([nombre, cantidad]) => {
+        const prod = productos.find(x => x.nombre === nombre);
+        return {
+          id: prod ? prod.id : null,
+          nombre,
+          cantidad,
+          precio_unitario: prod && prod.precio ? prod.precio : 0,
+        };
+      });
+      supabaseClient.from('pedidos').insert([{
+        nombre_cliente: nombreCliente,
+        direccion,
+        telefono,
+        productos: productosPedido,
+        total: totalPedido,
+        estado: 'pendiente',
+      }]).then(({ error }) => {
+        if (error) console.error('No se pudo guardar el pedido en Supabase:', error);
+      });
     }
 
     const mensaje = encodeURIComponent(lineas.join('\n'));
@@ -1836,6 +1932,19 @@ function setNavHeight() {
   const CATALOG_VERSION = '2026-07-29-v9';
   const PRODUCTOS_JSON_PATH = 'productos.json';
   const PRODUCTOS_JSON_SOURCE_VERSION = 'productos-json-v9';
+  const SUPABASE_SOURCE_VERSION = 'supabase-productos-v9';
+
+  // ===== Conexión a Supabase =====
+  // La "anon key" (ahora llamada "Publishable key" por Supabase) está pensada
+  // para vivir en el código del navegador: no es secreta. La seguridad real
+  // la da Row Level Security (RLS) activado en las tablas de Supabase, que
+  // decide qué puede leer/escribir cualquiera que use esta clave. Nunca se
+  // usa aquí la Secret key (service_role), que sí debe permanecer privada.
+  const SUPABASE_URL = 'https://zazqvowkoustarggiaoe.supabase.co';
+  const SUPABASE_ANON_KEY = 'sb_publishable_TYKLOrHSftJYDtU-SxgruQ_sZJMjlvd';
+  const supabaseClient = (typeof window.supabase !== 'undefined')
+    ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY)
+    : null;
   const CATEGORIAS = ['Antibióticos', 'Analgésicos', 'Antigripales', 'Vitaminas', 'Antiinflamatorios', 'Bebidas', 'Cuidado personal', 'Bebés', 'Adulto mayor', 'Otros'];
   const CATEGORIA_ICONOS = {
     'Antibióticos': 'fa-solid fa-capsules',
@@ -1862,10 +1971,9 @@ function setNavHeight() {
     'Bebés': 'assets/imagenesmedimentos/genericas/bebes.svg',
     'Adulto mayor': 'assets/imagenesmedimentos/genericas/adulto-mayor.svg',
   };
-  const DIAS_ALERTA_VENCIMIENTO = 30;
 
   // Precios de referencia (COP) para productos típicos de droguería.
-  // Ajusta cada precio real desde el panel de inventario (#panel-farmago-2026).
+  // Ajusta cada precio real desde el Table Editor de Supabase (tabla "productos").
 const SEED_DATA = [
     { id: 'seed-1', nombre: 'Centrum Adulto', fabricante: 'Pfizer', categoria: 'Vitaminas', icono: 'fa-solid fa-capsules', imagen: 'assets/imagenesmedimentos/centrum.jpg', lote: 'L-2026-101', vencimiento: '2027-08-01', stock: 25, umbral: 5, precio: 34320, presentacion: 'Frasco x 30 comprimidos', referencia: 'REF-101', activo: true },
     { id: 'seed-2', nombre: 'Scott Emulsión Tradicional', fabricante: 'Gsk', categoria: 'Vitaminas', icono: 'fa-solid fa-bottle-droplet', imagen: 'assets/imagenesmedimentos/scott.jpg', lote: 'L-2026-102', vencimiento: '2027-05-01', stock: 20, umbral: 5, precio: 14750, presentacion: 'Frasco x 180 ml', referencia: 'REF-102', activo: true },
@@ -1979,6 +2087,42 @@ const SEED_DATA = [
     }
   }
 
+  // Trae el catálogo desde la tabla "productos" de Supabase. Las columnas de
+  // la base de datos usan snake_case (imagen_transparente); aquí se
+  // convierten al formato camelCase que ya entiende mapProductosJsonToInventario,
+  // para reutilizar exactamente la misma lógica de siempre. Si Supabase no
+  // responde (sin tablas todavía, sin internet, etc.) se devuelve false y
+  // quien llama esta función cae de nuevo a productos.json como respaldo.
+  async function hydrateInventarioFromSupabase() {
+    if (!supabaseClient) return false;
+    try {
+      const { data: rows, error } = await supabaseClient
+        .from('productos')
+        .select('id, nombre, precio, categoria, descripcion, imagen, stock, disponible, imagen_transparente');
+      if (error || !Array.isArray(rows) || rows.length === 0) return false;
+
+      const rowsCamelCase = rows.map(r => ({
+        id: r.id,
+        nombre: r.nombre,
+        precio: r.precio,
+        categoria: r.categoria,
+        descripcion: r.descripcion,
+        imagen: r.imagen,
+        stock: r.stock,
+        disponible: r.disponible,
+        imagenTransparente: r.imagen_transparente,
+      }));
+
+      const mapped = mapProductosJsonToInventario(rowsCamelCase);
+      if (!Array.isArray(mapped) || mapped.length === 0) return false;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(mapped));
+      localStorage.setItem(STORAGE_SOURCE_KEY, SUPABASE_SOURCE_VERSION);
+      return true;
+    } catch {
+      return false;
+    }
+  }
+
 function loadInventario() {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
@@ -1996,7 +2140,7 @@ function loadInventario() {
 
       const source = localStorage.getItem(STORAGE_SOURCE_KEY);
 
-      if (source && source.startsWith('productos-json-v')) {
+      if (source && (source.startsWith('productos-json-v') || source.startsWith('supabase-productos-v'))) {
         data = data.map(p => {
           const categoriaN = normalizarCategoria(p.categoria);
           const imagenN = resolverImagenCatalogoProducto({ ...p, categoria: categoriaN });
@@ -2061,10 +2205,6 @@ function loadInventario() {
     }
   }
 
-  function saveInventario(data) {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-  }
-
   // ===== Seguridad: sanitización de texto antes de insertarlo en el DOM =====
   // Convierte cualquier texto (aunque venga del panel de inventario o de lo que
   // escriba un visitante) en texto plano seguro, neutralizando <script>, onerror=, etc.
@@ -2076,255 +2216,7 @@ function loadInventario() {
     return div.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }
 
-  // ===== Alternar entre sitio público y panel interno =====
-  const ADMIN_HASH = '#panel-farmago-2026';
-
-  function showPublicView() {
-    document.getElementById('publicView').classList.remove('hidden');
-    document.getElementById('adminView').classList.add('hidden');
-    if (typeof refreshPublicCatalog === 'function') refreshPublicCatalog();
-  }
-
-  function showAdminView() {
-    document.getElementById('publicView').classList.add('hidden');
-    document.getElementById('adminView').classList.remove('hidden');
-    if (typeof refreshAdminPanel === 'function') refreshAdminPanel();
-  }
-
-  function applyViewFromHash() {
-    if (window.location.hash === ADMIN_HASH) {
-      showAdminView();
-    } else {
-      showPublicView();
-    }
-  }
-
-  window.addEventListener('hashchange', applyViewFromHash);
-
 /* ===== Bloque 6/9 ===== */
-let inventario = [];
-
-  function poblarSelectsCategoria() {
-    const categoriaSelects = [document.getElementById('filterCategoria'), document.getElementById('medCategoria')];
-    categoriaSelects.forEach((sel) => {
-      if (sel.dataset.poblado === '1') return;
-      CATEGORIAS.forEach(cat => {
-        const opt = document.createElement('option');
-        opt.value = cat;
-        opt.textContent = cat;
-        sel.appendChild(opt);
-      });
-      sel.dataset.poblado = '1';
-    });
-  }
-  poblarSelectsCategoria();
-
-  function diasParaVencer(fechaStr) {
-    const hoy = new Date();
-    hoy.setHours(0, 0, 0, 0);
-    const venc = new Date(fechaStr + 'T00:00:00');
-    return Math.round((venc - hoy) / (1000 * 60 * 60 * 24));
-  }
-
-  function estadoVencimiento(fechaStr) {
-    const dias = diasParaVencer(fechaStr);
-    if (dias < 0) return 'vencido';
-    if (dias <= DIAS_ALERTA_VENCIMIENTO) return 'por-vencer';
-    return 'ok';
-  }
-
-  function renderAlerts() {
-    const bajoStock = inventario.filter(m => m.stock <= m.umbral);
-    const vencidos = inventario.filter(m => estadoVencimiento(m.vencimiento) === 'vencido');
-    const porVencer = inventario.filter(m => estadoVencimiento(m.vencimiento) === 'por-vencer');
-
-    const bar = document.getElementById('alertsBar');
-    bar.innerHTML = '';
-
-    if (bajoStock.length > 0) {
-      bar.innerHTML += `
-        <div class="bg-warn/10 border border-warn/30 rounded-xl p-4 flex items-center gap-3">
-          <span class="w-10 h-10 rounded-full bg-warn/20 text-warn flex items-center justify-center shrink-0"><i class="fa-solid fa-box-open"></i></span>
-          <div>
-            <p class="font-semibold text-sm text-ink">${bajoStock.length} producto${bajoStock.length > 1 ? 's' : ''} con bajo stock</p>
-            <p class="text-xs text-ink/60">${bajoStock.map(m => escapeHTML(m.nombre)).slice(0, 3).join(', ')}${bajoStock.length > 3 ? '...' : ''}</p>
-          </div>
-        </div>`;
-    }
-    if (vencidos.length > 0 || porVencer.length > 0) {
-      const total = vencidos.length + porVencer.length;
-      bar.innerHTML += `
-        <div class="bg-danger/10 border border-danger/30 rounded-xl p-4 flex items-center gap-3">
-          <span class="w-10 h-10 rounded-full bg-danger/20 text-danger flex items-center justify-center shrink-0"><i class="fa-solid fa-calendar-xmark"></i></span>
-          <div>
-            <p class="font-semibold text-sm text-ink">${total} producto${total > 1 ? 's' : ''} vencido${total > 1 ? 's' : ''} o próximo${total > 1 ? 's' : ''} a vencer</p>
-            <p class="text-xs text-ink/60">${vencidos.length} vencido${vencidos.length !== 1 ? 's' : ''} · ${porVencer.length} próximo${porVencer.length !== 1 ? 's' : ''} a vencer (≤${DIAS_ALERTA_VENCIMIENTO} días)</p>
-          </div>
-        </div>`;
-    }
-    if (bajoStock.length === 0 && vencidos.length === 0 && porVencer.length === 0) {
-      bar.innerHTML = `
-        <div class="bg-blue/10 border border-blue/20 rounded-xl p-4 flex items-center gap-3 sm:col-span-2">
-          <span class="w-10 h-10 rounded-full bg-blue/20 text-blue flex items-center justify-center shrink-0"><i class="fa-solid fa-circle-check"></i></span>
-          <p class="font-semibold text-sm text-ink">Todo en orden: sin alertas de stock ni de vencimiento.</p>
-        </div>`;
-    }
-  }
-
-  function badgeVencimiento(fechaStr) {
-    const estado = estadoVencimiento(fechaStr);
-    const dias = diasParaVencer(fechaStr);
-    const fechaFmt = new Date(fechaStr + 'T00:00:00').toLocaleDateString('es-CO', { day: '2-digit', month: 'short', year: 'numeric' });
-    if (estado === 'vencido') {
-      return `<span class="inline-flex items-center gap-1 bg-danger/10 text-danger text-xs font-semibold px-2 py-1 rounded-full">${fechaFmt} · Vencido</span>`;
-    }
-    if (estado === 'por-vencer') {
-      return `<span class="inline-flex items-center gap-1 bg-warn/10 text-warn text-xs font-semibold px-2 py-1 rounded-full">${fechaFmt} · ${dias}d</span>`;
-    }
-    return `<span class="text-xs text-ink/60">${fechaFmt}</span>`;
-  }
-
-  function badgeStock(m) {
-    if (m.stock <= m.umbral) {
-      return `<span class="inline-flex items-center gap-1 bg-warn/10 text-warn text-xs font-semibold px-2 py-1 rounded-full">${m.stock} · Bajo</span>`;
-    }
-    return `<span class="text-xs text-ink/70">${m.stock}</span>`;
-  }
-
-  function renderTable() {
-    const search = document.getElementById('searchInput').value.trim().toLowerCase();
-    const catFiltro = document.getElementById('filterCategoria').value;
-    const alertaFiltro = document.getElementById('filterAlerta').value;
-
-    let filtrados = inventario.filter(m => {
-      const matchSearch = !search || m.nombre.toLowerCase().includes(search) || m.lote.toLowerCase().includes(search);
-      const matchCat = !catFiltro || m.categoria === catFiltro;
-      let matchAlerta = true;
-      if (alertaFiltro === 'bajo-stock') matchAlerta = m.stock <= m.umbral;
-      if (alertaFiltro === 'por-vencer') matchAlerta = estadoVencimiento(m.vencimiento) === 'por-vencer';
-      if (alertaFiltro === 'vencido') matchAlerta = estadoVencimiento(m.vencimiento) === 'vencido';
-      return matchSearch && matchCat && matchAlerta;
-    });
-
-    const tbody = document.getElementById('tableBody');
-    const emptyState = document.getElementById('emptyState');
-    tbody.innerHTML = '';
-
-    if (filtrados.length === 0) {
-      emptyState.classList.remove('hidden');
-    } else {
-      emptyState.classList.add('hidden');
-    }
-
-    filtrados.forEach(m => {
-      const tr = document.createElement('tr');
-      tr.className = 'hover:bg-cloud/50 transition';
-      tr.innerHTML = `
-        <td class="px-4 py-3 font-medium">${escapeHTML(m.nombre)}</td>
-        <td class="px-4 py-3 text-ink/60">${escapeHTML(m.categoria)}</td>
-        <td class="px-4 py-3 text-ink/60 font-mono text-xs">${escapeHTML(m.lote)}</td>
-        <td class="px-4 py-3">${badgeVencimiento(m.vencimiento)}</td>
-        <td class="px-4 py-3">${badgeStock(m)}</td>
-        <td class="px-4 py-3 text-ink/60">${m.precio ? '$' + Number(m.precio).toLocaleString('es-CO') : '—'}</td>
-        <td class="px-4 py-3">${m.activo ? '<span class="text-blue text-xs font-semibold"><i class="fa-solid fa-eye mr-1"></i>Visible</span>' : '<span class="text-ink/30 text-xs"><i class="fa-solid fa-eye-slash mr-1"></i>Oculto</span>'}</td>
-        <td class="px-4 py-3 text-right whitespace-nowrap">
-          <button data-edit="${escapeHTML(m.id)}" class="w-8 h-8 rounded-lg hover:bg-cloud text-ink/50 hover:text-blue transition"><i class="fa-solid fa-pen"></i></button>
-          <button data-delete="${escapeHTML(m.id)}" class="w-8 h-8 rounded-lg hover:bg-cloud text-ink/50 hover:text-danger transition"><i class="fa-solid fa-trash"></i></button>
-        </td>`;
-      tbody.appendChild(tr);
-    });
-
-    tbody.querySelectorAll('[data-edit]').forEach(btn => {
-      btn.addEventListener('click', () => openModal(btn.dataset.edit));
-    });
-    tbody.querySelectorAll('[data-delete]').forEach(btn => {
-      btn.addEventListener('click', () => deleteMedicamento(btn.dataset.delete));
-    });
-  }
-
-  function refreshAdminPanel() {
-    inventario = loadInventario();
-    renderAlerts();
-    renderTable();
-  }
-
-  ['searchInput'].forEach(id => document.getElementById(id).addEventListener('input', renderTable));
-  ['filterCategoria', 'filterAlerta'].forEach(id => document.getElementById(id).addEventListener('change', renderTable));
-  document.getElementById('clearFiltersBtn').addEventListener('click', () => {
-    document.getElementById('searchInput').value = '';
-    document.getElementById('filterCategoria').value = '';
-    document.getElementById('filterAlerta').value = '';
-    renderTable();
-  });
-
-  const medModal = document.getElementById('medModal');
-  const medForm = document.getElementById('medForm');
-
-  function openModal(id) {
-    medForm.reset();
-    document.getElementById('medUmbral').value = 5;
-    if (id) {
-      const m = inventario.find(x => x.id === id);
-      if (!m) return;
-      document.getElementById('modalTitle').textContent = 'Editar medicamento';
-      document.getElementById('medId').value = m.id;
-      document.getElementById('medNombre').value = m.nombre;
-      document.getElementById('medCategoria').value = m.categoria;
-      document.getElementById('medLote').value = m.lote;
-      document.getElementById('medVencimiento').value = m.vencimiento;
-      document.getElementById('medStock').value = m.stock;
-      document.getElementById('medUmbral').value = m.umbral;
-      document.getElementById('medPrecio').value = m.precio || '';
-      document.getElementById('medImagen').value = m.imagen || '';
-      document.getElementById('medActivo').checked = m.activo;
-    } else {
-      document.getElementById('modalTitle').textContent = 'Agregar medicamento';
-      document.getElementById('medId').value = '';
-      document.getElementById('medActivo').checked = true;
-    }
-    medModal.showModal();
-  }
-
-  document.getElementById('openAddModalBtn').addEventListener('click', () => openModal(null));
-  document.getElementById('closeModalBtn').addEventListener('click', () => medModal.close());
-  document.getElementById('cancelModalBtn').addEventListener('click', () => medModal.close());
-
-  medForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const id = document.getElementById('medId').value;
-    const registro = {
-      id: id || 'med-' + Date.now(),
-      nombre: document.getElementById('medNombre').value.trim(),
-      categoria: normalizarCategoria(document.getElementById('medCategoria').value),
-      lote: document.getElementById('medLote').value.trim(),
-      vencimiento: document.getElementById('medVencimiento').value,
-      stock: Number(document.getElementById('medStock').value),
-      umbral: Number(document.getElementById('medUmbral').value),
-      precio: document.getElementById('medPrecio').value ? Number(document.getElementById('medPrecio').value) : null,
-      imagen: normalizarRutaImagen(document.getElementById('medImagen').value.trim()) || null,
-      activo: document.getElementById('medActivo').checked,
-    };
-
-    if (id) {
-      inventario = inventario.map(m => (m.id === id ? registro : m));
-    } else {
-      inventario.push(registro);
-    }
-    saveInventario(inventario);
-    medModal.close();
-    refreshAdminPanel();
-  });
-
-  function deleteMedicamento(id) {
-    if (!confirm('¿Eliminar este medicamento del inventario? Esta acción no se puede deshacer.')) return;
-    inventario = inventario.filter(m => m.id !== id);
-    saveInventario(inventario);
-    refreshAdminPanel();
-  }
-
-  document.getElementById('backToPublicBtn').addEventListener('click', () => {
-    window.location.hash = '';
-  });
 
 /* ===== Bloque 7/9 ===== */
 // Catálogo reducido — canal Comercial, seleccionado por categoría (~27KB, carga instantánea)
@@ -2466,16 +2358,9 @@ let inventario = [];
 
 /* ===== Bloque 9/9 ===== */
 ensureCatalogVersion();
-hydrateInventarioFromProductosJson().finally(() => {
-  applyViewFromHash();
-});
-document.getElementById('exportInventarioBtn').addEventListener('click', () => {
-  const data = loadInventario();
-  const lineas = data.map(p => '    ' + JSON.stringify(p) + ',').join('\n');
-  const codigo = 'const SEED_DATA = [\n' + lineas + '\n  ];';
-  navigator.clipboard.writeText(codigo).then(() => {
-    alert('Inventario copiado (' + data.length + ' productos). Pégalo en script.js reemplazando SEED_DATA.');
-  }).catch(() => {
-    prompt('Copia este texto:', codigo);
-  });
+hydrateInventarioFromSupabase().then((ok) => {
+  if (ok) return true;
+  return hydrateInventarioFromProductosJson();
+}).finally(() => {
+  refreshPublicCatalog();
 });

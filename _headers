@@ -1,0 +1,6 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-4YTLSNW/roy/Krwa3Gy8OvRokUYqz6al8x3rowcKzLQ=' 'sha256-rp7VuK6KAf6w7IE6vwQ8C6Eoajs+m6Bd34VDrU74FDY=' 'sha256-bpyTfOfq/RPCOhsMT+axBhSgLa6n6JmsTlO/9kuGJKI=' 'sha256-3VZBQ6Uib+OsCC0bdvn4tFe30FcLlqFoRb75QLQy5JU=' https://cdn.tailwindcss.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:; connect-src 'self' https://*.supabase.co wss://*.supabase.co; frame-src https://maps.google.com https://www.google.com; frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'
