@@ -90,13 +90,18 @@
         <span class="hidden md:inline text-sm font-medium">Mi carrito</span>
       </button>
 
-      <button id="burgerBtn" class="lg:hidden text-2xl shrink-0 text-white" aria-label="Abrir menú">
+      <!-- En mobile (por debajo de md:) este botón se oculta: el de abajo,
+           junto al buscador, lo reemplaza. En tablet (md a lg) sigue aquí. -->
+      <button id="burgerBtn" class="hidden md:block lg:hidden burger-toggle text-2xl shrink-0 text-white" aria-label="Abrir menú">
         <i class="fa-solid fa-bars"></i>
       </button>
     </div>
 
-    <div class="md:hidden px-4 pb-3">
-      <div class="relative">
+    <div class="md:hidden px-4 pb-3 flex items-center gap-3">
+      <button id="burgerBtnMobile" class="burger-toggle text-2xl shrink-0 text-white" aria-label="Abrir menú">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <div class="relative flex-1">
         <input id="headerSearchMobile" type="text" autocomplete="off" class="w-full pl-4 pr-11 py-2.5 rounded-full border border-white/30 bg-white shadow-sm text-sm text-ink focus:outline-none focus:border-orange" />
         <button id="headerSearchBtnMobile" class="absolute right-1.5 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-orange text-white flex items-center justify-center">
           <i class="fa-solid fa-magnifying-glass text-xs"></i>
@@ -751,7 +756,7 @@
     function init() {
       var catBtn   = document.getElementById('categoriesMenuBtn');
       var dropdown = document.getElementById('categoriesMenuDropdown');
-      var burger   = document.getElementById('burgerBtn');
+      var burgers  = document.querySelectorAll('.burger-toggle');
       var mobile   = document.getElementById('mobileMenu');
 
       // --- Desplegable de categorías (escritorio) ---
@@ -788,13 +793,21 @@
       }
 
       // --- Menú hamburguesa (móvil) ---
-      if (burger && mobile) {
-        burger.addEventListener('click', function (e) {
-          e.stopPropagation();
-          mobile.classList.toggle('menu-open');
+      // Hay dos botones .burger-toggle: #burgerBtn (fila del logo, solo
+      // visible en tablet md→lg) y #burgerBtnMobile (junto al buscador,
+      // solo visible por debajo de md). Los dos controlan el mismo panel.
+      if (burgers.length && mobile) {
+        burgers.forEach(function (burger) {
+          burger.addEventListener('click', function (e) {
+            e.stopPropagation();
+            mobile.classList.toggle('menu-open');
+          });
         });
         document.addEventListener('click', function (e) {
-          if (!mobile.contains(e.target) && !burger.contains(e.target)) {
+          var dentroDeUnBurger = Array.prototype.some.call(burgers, function (b) {
+            return b.contains(e.target);
+          });
+          if (!mobile.contains(e.target) && !dentroDeUnBurger) {
             mobile.classList.remove('menu-open');
           }
         });

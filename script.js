@@ -1876,28 +1876,37 @@ function setNavHeight() {
     });
   }
 
-  const burger = document.getElementById('burgerBtn');
+  // Dos botones comparten .burger-toggle: #burgerBtn (tablet, fila del
+  // logo) y #burgerBtnMobile (mobile, junto al buscador). Los dos abren
+  // el mismo #mobileMenu, así que el ícono de ambos se mantiene en sync.
+  const burgers = document.querySelectorAll('.burger-toggle');
   const mobileMenu = document.getElementById('mobileMenu');
   let menuOpen = false;
-  if (burger && mobileMenu) {
-    burger.addEventListener('click', () => {
-      menuOpen = !menuOpen;
-      if (menuOpen) {
-        mobileMenu.style.maxHeight = mobileMenu.scrollHeight + 'px';
-        mobileMenu.style.opacity = '1';
-        burger.innerHTML = '<i class="fa-solid fa-xmark"></i>';
-      } else {
-        mobileMenu.style.maxHeight = '0px';
-        mobileMenu.style.opacity = '0';
-        burger.innerHTML = '<i class="fa-solid fa-bars"></i>';
-      }
+  function setBurgerIcon(abierto) {
+    burgers.forEach(b => {
+      b.innerHTML = abierto ? '<i class="fa-solid fa-xmark"></i>' : '<i class="fa-solid fa-bars"></i>';
+    });
+  }
+  if (burgers.length && mobileMenu) {
+    burgers.forEach(burger => {
+      burger.addEventListener('click', () => {
+        menuOpen = !menuOpen;
+        if (menuOpen) {
+          mobileMenu.style.maxHeight = mobileMenu.scrollHeight + 'px';
+          mobileMenu.style.opacity = '1';
+        } else {
+          mobileMenu.style.maxHeight = '0px';
+          mobileMenu.style.opacity = '0';
+        }
+        setBurgerIcon(menuOpen);
+      });
     });
     mobileMenu.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
         menuOpen = false;
         mobileMenu.style.maxHeight = '0px';
         mobileMenu.style.opacity = '0';
-        burger.innerHTML = '<i class="fa-solid fa-bars"></i>';
+        setBurgerIcon(false);
       });
     });
   }

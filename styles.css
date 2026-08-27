@@ -5644,9 +5644,11 @@ html, body, #publicView {
 #categoriesMenuBtn:hover > span,
 #categoriesMenuBtn:hover i { color: #16213A !important; }
 
-/* Hamburguesa móvil: navy en vez de gris/naranja */
-#burgerBtn { color: #102A43 !important; }
-#burgerBtn:hover { color: #0B1F3A !important; }
+/* Hamburguesa móvil: navy en vez de gris/naranja
+   (#burgerBtn = tablet, junto al logo; #burgerBtnMobile = mobile, junto
+   al buscador — ambos comparten la clase .burger-toggle) */
+#burgerBtn, .burger-toggle { color: #102A43 !important; }
+#burgerBtn:hover, .burger-toggle:hover { color: #0B1F3A !important; }
 
 /* Buscador: quitar el resplandor y borde naranja del focus (paleta azul) */
 #headerSearch:focus,
