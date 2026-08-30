@@ -5875,22 +5875,48 @@ footer.site-footer.final-section .fo-link:hover {
   transform: translateX(3px);
 }
 
+#publicView footer.site-footer.final-section .footer-payments-section,
+footer.site-footer.final-section .footer-payments-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.85rem 1.25rem;
+  padding-top: clamp(1.5rem, 2.5vw, 2rem);
+  margin-top: clamp(1.5rem, 2.5vw, 2rem);
+  border-top: 1px solid #e2e8f0;
+}
+
+#publicView footer.site-footer.final-section .footer-payments-label,
+footer.site-footer.final-section .footer-payments-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #64748b;
+  white-space: nowrap;
+}
+
 #publicView footer.site-footer.final-section .footer-trust-row,
 footer.site-footer.final-section .footer-trust-row {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  gap: 0.55rem;
+  align-items: center;
+  gap: 1rem 1.5rem;
 }
 
 #publicView footer.site-footer.final-section .footer-trust-row img,
 footer.site-footer.final-section .footer-trust-row img {
-  width: 44px;
-  height: 28px;
+  height: 32px;
+  width: auto;
   object-fit: contain;
-  border-radius: 8px;
-  background: #ffffff;
-  border: 1px solid #e2e8f0;
-  padding: 0.22rem;
+  display: block;
+  flex: 0 0 auto;
+}
+
+#publicView footer.site-footer.final-section .footer-trust-row img.footer-trust-icon-boxed,
+footer.site-footer.final-section .footer-trust-row img.footer-trust-icon-boxed {
+  background: rgba(248, 250, 252, 0.85);
+  border-radius: 6px;
+  padding: 3px 5px;
 }
 
 #publicView footer.site-footer.final-section .footer-subscribe,
@@ -6110,11 +6136,27 @@ footer.site-footer.final-section [style*="color:rgba(255,255,255"] {
     width: 100%;
   }
 
-  #publicView footer.site-footer.final-section .footer-trust-row,
-  footer.site-footer.final-section .footer-trust-row,
   #publicView footer.site-footer.final-section .social-3d,
   footer.site-footer.final-section .social-3d {
     justify-content: center;
+  }
+
+  #publicView footer.site-footer.final-section .footer-payments-section,
+  footer.site-footer.final-section .footer-payments-section {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  #publicView footer.site-footer.final-section .footer-trust-row,
+  footer.site-footer.final-section .footer-trust-row {
+    gap: 0.75rem;
+    justify-content: flex-start;
+  }
+
+  #publicView footer.site-footer.final-section .footer-trust-row img,
+  footer.site-footer.final-section .footer-trust-row img {
+    height: 30px;
   }
 }
 
@@ -6288,12 +6330,13 @@ footer.site-footer.final-section .social-instagram {
 /* ---------- Métodos de pago (zona 1) ---------- */
 #publicView footer.site-footer.final-section .footer-trust-row img,
 footer.site-footer.final-section .footer-trust-row img {
-  transition: transform .18s ease, box-shadow .18s ease;
+  transition: transform .18s ease, opacity .18s ease;
+  opacity: 0.9;
 }
 #publicView footer.site-footer.final-section .footer-trust-row img:hover,
 footer.site-footer.final-section .footer-trust-row img:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 16px -8px rgba(11, 31, 58, 0.35);
+  transform: scale(1.08);
+  opacity: 1;
 }
 
 /* ---------- Zona 4: Conecta con FarmaGo ---------- */
@@ -7052,41 +7095,108 @@ html, body, #publicView {
   border-right: none !important;
 }
 .megamenu-item {
+  /* Respaldo si por algún motivo no llega el custom property por ítem
+     (JS deshabilitado a medias, etc.): mantiene el naranja de marca. */
+  --tint-bg: rgba(255, 106, 61, 0.15);
+  --tint-fg: #FF6A3D;
   color: #A9B8D4 !important;
   border-left: 3px solid transparent;
   padding-left: 1.5rem !important;
   padding-right: 1.25rem !important;
+  transition: background-color .22s ease, color .22s ease, border-left-color .22s ease;
 }
 .megamenu-item:hover {
-  background: rgba(255, 255, 255, 0.06) !important;
+  background: var(--tint-bg) !important;
   color: #FFFFFF !important;
+  border-left-color: var(--tint-fg);
 }
-.megamenu-item-chevron { color: rgba(255, 255, 255, 0.3) !important; }
+.megamenu-item-chevron {
+  color: rgba(255, 255, 255, 0.3) !important;
+  transition: color .22s ease;
+}
+.megamenu-item:hover .megamenu-item-chevron { color: var(--tint-fg) !important; }
 
 .megamenu-item-active {
-  border-left-color: #FF6A3D;
-  background: rgba(255, 106, 61, 0.15) !important;
+  border-left-color: var(--tint-fg);
+  background: var(--tint-bg) !important;
   color: #FFFFFF !important;
   font-weight: 700 !important;
 }
-.megamenu-item-active:hover { background: rgba(255, 106, 61, 0.2) !important; }
-.megamenu-item-active .megamenu-item-chevron { color: #FF6A3D !important; }
+.megamenu-item-active:hover { background: var(--tint-bg) !important; filter: brightness(1.1); }
+.megamenu-item-active .megamenu-item-chevron { color: var(--tint-fg) !important; }
 
 /* ---------- Panel derecho ---------- */
 .megamenu-panel { background: #F4F7FC !important; }
 .megamenu-panel-title { color: #16213A !important; }
 .megamenu-panel-desc { color: #7C8BA5 !important; }
 
-.megamenu-sublink { color: #52607D !important; }
+.megamenu-sublink { color: #52607D !important; transition: color .2s ease; }
 .megamenu-sublink:hover { color: #FF6A3D !important; }
-.megamenu-sublink-chevron { color: #B7C4DD !important; }
+.megamenu-sublink-chevron { color: #B7C4DD !important; transition: color .2s ease; }
 .megamenu-sublink:hover .megamenu-sublink-chevron { color: #FF6A3D !important; }
 
 .megamenu-cta {
   background: linear-gradient(135deg, #FF9A6B 0%, #FF6A3D 100%) !important;
   box-shadow: 0 10px 20px -10px rgba(255, 106, 61, 0.55) !important;
+  transition: filter .2s ease;
 }
 .megamenu-cta:hover { filter: brightness(1.05); }
+
+/* ---------- Panel derecho: cuerpo (texto + imagen ilustrativa) ---------- */
+.megamenu-panel-body {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75rem;
+}
+.megamenu-panel-main {
+  flex: 1;
+  min-width: 0;
+}
+.megamenu-panel-media {
+  position: relative;
+  width: 200px;
+  flex: 0 0 200px;
+  min-height: 220px;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.megamenu-panel-media-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  position: absolute;
+  inset: 0;
+}
+.megamenu-panel-media-fallback {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 2.75rem;
+  opacity: 0.55;
+}
+.megamenu-panel-media-tag {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  color: #FFFFFF !important;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  box-shadow: 0 6px 14px -6px rgba(10, 40, 80, 0.45);
+}
+
+/* En pantallas medianas (tablet) el panel se angosta demasiado para la
+   imagen sin apretar las sub-columnas: se prioriza el contenido de texto. */
+@media (max-width: 1024px) {
+  .megamenu-panel-media { display: none; }
+}
 
 /* =====================================================================
    ★★★  OLA NARANJA DE LA BARRA SUPERIOR  ★★★

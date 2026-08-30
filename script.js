@@ -649,6 +649,7 @@ let productos = [];
     {
       key: 'medicamentos', label: 'Medicamentos', icono: 'fa-solid fa-pills',
       tint: { bg: 'rgba(59, 130, 246, 0.22)', fg: '#93C5FD', panelBg: '#DBEAFE', panelFg: '#2563EB' },
+      desc: 'Medicamentos de venta libre y fórmula médica, con atención personalizada.',
       catsTodas: ['Analgésicos y antiinflamatorios', 'Antigripales y tos', 'Antibióticos', 'Gastrointestinal', 'Alergias y antihistamínicos', 'Insumos y curación médica'],
       columnas: [
         [
@@ -670,6 +671,7 @@ let productos = [];
     {
       key: 'vitaminas', label: 'Vitaminas', icono: 'fa-solid fa-capsules',
       tint: { bg: 'rgba(251, 191, 36, 0.22)', fg: '#FCD34D', panelBg: '#FEF3C7', panelFg: '#D97706' },
+      desc: 'Vitaminas, minerales y suplementos para reforzar tu bienestar diario.',
       catsTodas: ['Vitaminas y suplementos'],
       columnas: [
         [
@@ -691,6 +693,7 @@ let productos = [];
     {
       key: 'bebidas', label: 'Bebidas', icono: 'fa-solid fa-bottle-water',
       tint: { bg: 'rgba(34, 211, 238, 0.22)', fg: '#67E8F9', panelBg: '#CFFAFE', panelFg: '#0E7490' },
+      desc: 'Sueros, bebidas hidratantes y nutricionales para toda la familia.',
       catsTodas: ['Snacks y bebidas'],
       columnas: [
         [
@@ -709,6 +712,7 @@ let productos = [];
     {
       key: 'cuidado-personal', label: 'Cuidado Personal', icono: 'fa-solid fa-pump-soap',
       tint: { bg: 'rgba(244, 114, 182, 0.22)', fg: '#F9A8D4', panelBg: '#FCE7F3', panelFg: '#DB2777' },
+      desc: 'Higiene, cuidado facial y corporal para tu rutina diaria.',
       catsTodas: ['Cuidado personal', 'Insumos y curación médica', 'Dermatológico y piel', 'Maquillaje y cuidado facial/labial'],
       columnas: [
         [
@@ -727,6 +731,7 @@ let productos = [];
     {
       key: 'bebes', label: 'Bebés', icono: 'fa-solid fa-baby',
       tint: { bg: 'rgba(52, 211, 153, 0.22)', fg: '#6EE7B7', panelBg: '#D1FAE5', panelFg: '#059669' },
+      desc: 'Todo lo que necesitas para el cuidado y la nutrición de tu bebé.',
       catsTodas: ['Pañales y protección', 'Bebés y maternidad', 'Cuidado personal', 'Dermatológico y piel'],
       columnas: [
         [
@@ -746,6 +751,7 @@ let productos = [];
     {
       key: 'adulto-mayor', label: 'Adulto Mayor', icono: 'fa-solid fa-person-walking-with-cane',
       tint: { bg: 'rgba(167, 139, 250, 0.22)', fg: '#C4B5FD', panelBg: '#EDE9FE', panelFg: '#7C3AED' },
+      desc: 'Productos pensados para la salud y el bienestar del adulto mayor.',
       catsTodas: ['Cardiovascular y metabólico', 'Pruebas y diagnóstico', 'Pañales y protección', 'Cuidado personal', 'Vitaminas y suplementos'],
       columnas: [
         [
@@ -788,17 +794,48 @@ let productos = [];
       setTimeout(() => dropdown.classList.add('hidden'), 200);
     }
 
+    // Imagen ilustrativa del panel: una foto por categoría en
+    // assets/megamenu/<key>.jpg. Si el archivo todavía no fue subido, el
+    // "error" del <img> lo oculta y deja ver el ícono de respaldo en su
+    // lugar, para que el menú nunca se vea roto mientras llegan las fotos.
+    function buildMediaHtml(item) {
+      return `
+        <div class="megamenu-panel-media" style="background:${item.tint.panelBg}">
+          <img src="assets/megamenu/${item.key}.jpg" alt="${escapeHTML(item.label)}" loading="lazy" class="megamenu-panel-media-img" />
+          <div class="megamenu-panel-media-fallback" style="color:${item.tint.panelFg}">
+            <i class="${item.icono}"></i>
+          </div>
+          <span class="megamenu-panel-media-tag" style="background:${item.tint.panelFg}">${escapeHTML(item.label)}</span>
+        </div>`;
+    }
+
+    function wireMediaFallback() {
+      const img = panelEl.querySelector('.megamenu-panel-media-img');
+      if (!img) return;
+      img.addEventListener('error', () => {
+        img.style.display = 'none';
+        const fallback = panelEl.querySelector('.megamenu-panel-media-fallback');
+        if (fallback) fallback.style.display = 'flex';
+      }, { once: true });
+    }
+
     function renderPanel(item) {
       // "Ofertas" no tiene sub-columnas: se muestra un bloque promocional.
       if (item.promo) {
         panelEl.innerHTML = `
-          <div class="flex items-center mb-4">
-            <h3 class="font-display text-lg megamenu-panel-title">${escapeHTML(item.label)}</h3>
-          </div>
-          <p class="text-sm megamenu-panel-desc mb-5 max-w-sm">${escapeHTML(item.promo.texto)}</p>
-          <button type="button" data-role="todas" class="megamenu-cta inline-flex items-center gap-2 text-white text-sm font-semibold px-5 py-2.5 rounded-full transition">
-            ${escapeHTML(item.promo.titulo)} <i class="fa-solid fa-arrow-right text-xs"></i>
-          </button>`;
+          <div class="megamenu-panel-body">
+            <div class="megamenu-panel-main">
+              <div class="flex items-center mb-4">
+                <h3 class="font-display text-lg megamenu-panel-title">${escapeHTML(item.label)}</h3>
+              </div>
+              <p class="text-sm megamenu-panel-desc mb-5 max-w-sm">${escapeHTML(item.promo.texto)}</p>
+              <button type="button" data-role="todas" class="megamenu-cta inline-flex items-center gap-2 text-white text-sm font-semibold px-5 py-2.5 rounded-full transition">
+                ${escapeHTML(item.promo.titulo)} <i class="fa-solid fa-arrow-right text-xs"></i>
+              </button>
+            </div>
+            ${buildMediaHtml(item)}
+          </div>`;
+        wireMediaFallback();
         const btnTodas = panelEl.querySelector('[data-role="todas"]');
         if (btnTodas) {
           btnTodas.addEventListener('click', () => {
@@ -824,11 +861,18 @@ let productos = [];
       `).join('');
 
       panelEl.innerHTML = `
-        <div class="flex items-center mb-5">
-          <h3 class="font-display text-lg megamenu-panel-title">${escapeHTML(item.label)}</h3>
-        </div>
-        <div class="grid grid-cols-3 gap-6 mb-5">${columnasHtml}</div>
-        <button type="button" data-role="vertodo" class="megamenu-cta inline-flex items-center gap-2 text-white font-semibold text-sm px-5 py-2.5 rounded-full transition">Ver todo en ${escapeHTML(item.label)} <i class="fa-solid fa-arrow-right text-xs"></i></button>`;
+        <div class="megamenu-panel-body">
+          <div class="megamenu-panel-main">
+            <div class="flex items-center mb-3">
+              <h3 class="font-display text-lg megamenu-panel-title">${escapeHTML(item.label)}</h3>
+            </div>
+            ${item.desc ? `<p class="text-sm megamenu-panel-desc mb-4 max-w-sm">${escapeHTML(item.desc)}</p>` : ''}
+            <div class="grid grid-cols-3 gap-6 mb-5">${columnasHtml}</div>
+            <button type="button" data-role="vertodo" class="megamenu-cta inline-flex items-center gap-2 text-white font-semibold text-sm px-5 py-2.5 rounded-full transition">Ver todo en ${escapeHTML(item.label)} <i class="fa-solid fa-arrow-right text-xs"></i></button>
+          </div>
+          ${buildMediaHtml(item)}
+        </div>`;
+      wireMediaFallback();
 
       panelEl.querySelectorAll('[data-col]').forEach(btn => {
         const sub = item.columnas[Number(btn.dataset.col)][Number(btn.dataset.idx)];
@@ -848,7 +892,7 @@ let productos = [];
 
     let listHTML = '';
     MEGA_MENU.forEach(item => {
-      listHTML += `<button type="button" data-key="${item.key}" class="megamenu-item w-full flex items-center justify-between gap-2 px-4 py-3 text-sm text-left transition">
+      listHTML += `<button type="button" data-key="${item.key}" class="megamenu-item w-full flex items-center justify-between gap-2 px-4 py-3 text-sm text-left transition" style="--tint-bg:${item.tint.bg}; --tint-fg:${item.tint.fg};">
         <span class="truncate">${escapeHTML(item.label)}</span>
         <i class="fa-solid fa-chevron-right text-[10px] megamenu-item-chevron shrink-0"></i>
       </button>`;
@@ -861,8 +905,8 @@ let productos = [];
       if (!item) return;
       buttons.forEach(b => {
         const isActive = b.dataset.key === key;
-        // Resaltado en naranja, el color de acento del resto del sitio
-        // (el verde queda reservado para los botones de WhatsApp).
+        // El color de resaltado lo define --tint-bg/--tint-fg (inline,
+        // por categoría) leído por .megamenu-item-active en el CSS.
         b.classList.toggle('megamenu-item-active', isActive);
       });
       renderPanel(item);
