@@ -1,0 +1,12 @@
+{
+  "name": "farmago-sitio",
+  "private": true,
+  "description": "Build de producción de Tailwind CSS para drogueriafarmago.com (sitio estático, sin bundler).",
+  "scripts": {
+    "build:css": "tailwindcss -i ./tailwind-input.css -o ./assets/css/tailwind.min.css -c ./tailwind.config.js --minify",
+    "watch:css": "tailwindcss -i ./tailwind-input.css -o ./assets/css/tailwind.min.css -c ./tailwind.config.js --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.17"
+  }
+}

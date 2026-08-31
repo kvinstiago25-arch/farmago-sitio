@@ -13,6 +13,10 @@ __pycache__/
 **/__pycache__/
 *.pyc
 
+# ===== Build de Tailwind CSS =====
+node_modules/
+tailwindcss.exe
+
 # ===== Logs =====
 *.log
 

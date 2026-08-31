@@ -639,14 +639,6 @@ let productos = [];
   // productos).
   const MEGA_MENU = [
     {
-      key: 'ofertas', label: 'Ofertas', icono: 'fa-solid fa-tags', jump: 'todas',
-      tint: { bg: 'rgba(255, 106, 61, 0.22)', fg: '#FF9A6B', panelBg: '#FFE3D6', panelFg: '#FF6A3D' },
-      promo: {
-        titulo: 'Precios rebajados de la semana',
-        texto: 'Los mejores precios en los productos más pedidos de la droguería, actualizados constantemente.',
-      },
-    },
-    {
       key: 'medicamentos', label: 'Medicamentos', icono: 'fa-solid fa-pills',
       tint: { bg: 'rgba(59, 130, 246, 0.22)', fg: '#93C5FD', panelBg: '#DBEAFE', panelFg: '#2563EB' },
       desc: 'Medicamentos de venta libre y fórmula médica, con atención personalizada.',
@@ -820,32 +812,6 @@ let productos = [];
     }
 
     function renderPanel(item) {
-      // "Ofertas" no tiene sub-columnas: se muestra un bloque promocional.
-      if (item.promo) {
-        panelEl.innerHTML = `
-          <div class="megamenu-panel-body">
-            <div class="megamenu-panel-main">
-              <div class="flex items-center mb-4">
-                <h3 class="font-display text-lg megamenu-panel-title">${escapeHTML(item.label)}</h3>
-              </div>
-              <p class="text-sm megamenu-panel-desc mb-5 max-w-sm">${escapeHTML(item.promo.texto)}</p>
-              <button type="button" data-role="todas" class="megamenu-cta inline-flex items-center gap-2 text-white text-sm font-semibold px-5 py-2.5 rounded-full transition">
-                ${escapeHTML(item.promo.titulo)} <i class="fa-solid fa-arrow-right text-xs"></i>
-              </button>
-            </div>
-            ${buildMediaHtml(item)}
-          </div>`;
-        wireMediaFallback();
-        const btnTodas = panelEl.querySelector('[data-role="todas"]');
-        if (btnTodas) {
-          btnTodas.addEventListener('click', () => {
-            jumpToCategory(item.jump);
-            cerrarMenu();
-          });
-        }
-        return;
-      }
-
       // data-col/data-idx apuntan de vuelta a item.columnas[col][idx] para
       // recuperar el filtro real (cats/kw) sin tener que serializar un
       // RegExp en un atributo HTML.
