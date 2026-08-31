@@ -1191,56 +1191,84 @@ let productos = [];
     });
   }
 
+  // Puebla todo el contenido del modal ANTES de mostrarlo (nunca al revés):
+  // si algo falla a mitad de camino (un elemento inesperadamente ausente,
+  // un dato con una forma rara), el catch de abajo evita que el usuario vea
+  // el panel abierto pero vacío — en vez de eso, el modal simplemente no se
+  // abre y el error queda registrado en consola para poder diagnosticarlo.
+  function poblarDetalleProducto(p) {
+    const nombreSeguro = escapeHTML(p.nombre || '');
+    const imagenRespaldo = imagenGenericaPorCategoria(p.categoria);
+
+    const imgEl = document.getElementById('pdImg');
+    if (imgEl) {
+      if (p.imagen) {
+        imgEl.src = p.imagen;
+        imgEl.alt = nombreSeguro;
+        imgEl.style.display = '';
+        imgEl.onerror = () => { imgEl.onerror = null; imgEl.src = imagenRespaldo; };
+      } else if (imagenRespaldo) {
+        imgEl.src = imagenRespaldo;
+        imgEl.alt = nombreSeguro;
+        imgEl.style.display = '';
+      } else {
+        imgEl.removeAttribute('src');
+        imgEl.style.display = 'none';
+      }
+    }
+
+    const fabricanteEl = document.getElementById('pdFabricante');
+    if (fabricanteEl) {
+      fabricanteEl.textContent = p.fabricante || '';
+      fabricanteEl.classList.toggle('hidden', !p.fabricante);
+    }
+
+    const nombreEl = document.getElementById('pdNombre');
+    if (nombreEl) nombreEl.textContent = p.nombre || '';
+
+    const categoriaEl = document.getElementById('pdCategoria');
+    if (categoriaEl) {
+      categoriaEl.textContent = p.categoria || '';
+      categoriaEl.classList.toggle('hidden', !p.categoria);
+    }
+
+    // La "descripción" de productos.json suele repetir el nombre tal cual:
+    // solo se muestra si realmente aporta información distinta.
+    const descEl = document.getElementById('pdDescripcion');
+    if (descEl) {
+      const tieneDescripcionPropia = p.descripcion &&
+        p.descripcion.trim().toLowerCase() !== (p.nombre || '').trim().toLowerCase();
+      descEl.textContent = tieneDescripcionPropia ? p.descripcion : '';
+      descEl.classList.toggle('hidden', !tieneDescripcionPropia);
+    }
+
+    const presEl = document.getElementById('pdPresentacion');
+    if (presEl) {
+      presEl.textContent = p.presentacion || '';
+      presEl.classList.toggle('hidden', !p.presentacion);
+    }
+
+    const precioEl = document.getElementById('pdPrecio');
+    if (precioEl) {
+      precioEl.textContent = p.precio
+        ? `$${Number(p.precio).toLocaleString('es-CO')}`
+        : 'Precio a confirmar por WhatsApp';
+    }
+
+    renderProductDetailAcciones(p.nombre);
+  }
+
   function abrirDetalleProducto(p) {
     const overlay = document.getElementById('productDetailOverlay');
     const panel = document.getElementById('productDetailPanel');
     if (!overlay || !panel || !p) return;
 
-    const nombreSeguro = escapeHTML(p.nombre || '');
-    const imagenRespaldo = imagenGenericaPorCategoria(p.categoria);
-
-    const imgEl = document.getElementById('pdImg');
-    if (p.imagen) {
-      imgEl.src = p.imagen;
-      imgEl.alt = nombreSeguro;
-      imgEl.style.display = '';
-      imgEl.onerror = () => { imgEl.onerror = null; imgEl.src = imagenRespaldo; };
-    } else if (imagenRespaldo) {
-      imgEl.src = imagenRespaldo;
-      imgEl.alt = nombreSeguro;
-      imgEl.style.display = '';
-    } else {
-      imgEl.removeAttribute('src');
-      imgEl.style.display = 'none';
+    try {
+      poblarDetalleProducto(p);
+    } catch (err) {
+      console.error('No se pudo abrir el detalle del producto:', err);
+      return; // el modal se queda cerrado en vez de mostrarse vacío
     }
-
-    const fabricanteEl = document.getElementById('pdFabricante');
-    fabricanteEl.textContent = p.fabricante || '';
-    fabricanteEl.classList.toggle('hidden', !p.fabricante);
-
-    document.getElementById('pdNombre').textContent = p.nombre || '';
-
-    const categoriaEl = document.getElementById('pdCategoria');
-    categoriaEl.textContent = p.categoria || '';
-    categoriaEl.classList.toggle('hidden', !p.categoria);
-
-    // La "descripción" de productos.json suele repetir el nombre tal cual:
-    // solo se muestra si realmente aporta información distinta.
-    const descEl = document.getElementById('pdDescripcion');
-    const tieneDescripcionPropia = p.descripcion &&
-      p.descripcion.trim().toLowerCase() !== (p.nombre || '').trim().toLowerCase();
-    descEl.textContent = tieneDescripcionPropia ? p.descripcion : '';
-    descEl.classList.toggle('hidden', !tieneDescripcionPropia);
-
-    const presEl = document.getElementById('pdPresentacion');
-    presEl.textContent = p.presentacion || '';
-    presEl.classList.toggle('hidden', !p.presentacion);
-
-    document.getElementById('pdPrecio').textContent = p.precio
-      ? `$${Number(p.precio).toLocaleString('es-CO')}`
-      : 'Precio a confirmar por WhatsApp';
-
-    renderProductDetailAcciones(p.nombre);
 
     panel.classList.remove('hidden');
     overlay.classList.remove('hidden');
@@ -2034,12 +2062,24 @@ const SEED_DATA = [
     return Number.isFinite(n) ? n : fallback;
   }
 
+  // Sin try/catch, un localStorage restringido (navegadores integrados de
+  // WhatsApp/Instagram, modo privado en algunos móviles) lanza una excepción
+  // sin capturar aquí — y como es la primera llamada de la cadena de
+  // inicialización al final del archivo, corta todo lo que viene después
+  // (hydrateInventarioFromSupabase().finally(refreshPublicCatalog)), dejando
+  // el catálogo completo sin renderizar. El resto de funciones que tocan
+  // localStorage en este archivo ya están protegidas; esta debe estarlo igual.
   function ensureCatalogVersion() {
-    const current = localStorage.getItem(CATALOG_VERSION_KEY);
-    if (current === CATALOG_VERSION) return;
-    localStorage.removeItem(STORAGE_KEY);
-    localStorage.removeItem(STORAGE_SOURCE_KEY);
-    localStorage.setItem(CATALOG_VERSION_KEY, CATALOG_VERSION);
+    try {
+      const current = localStorage.getItem(CATALOG_VERSION_KEY);
+      if (current === CATALOG_VERSION) return;
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(STORAGE_SOURCE_KEY);
+      localStorage.setItem(CATALOG_VERSION_KEY, CATALOG_VERSION);
+    } catch {
+      // Sin acceso a localStorage: seguimos sin versión cacheada. loadInventario()
+      // ya maneja ese caso (cae a SEED_DATA) con su propio try/catch.
+    }
   }
 
   function oneYearFromTodayISO() {
