@@ -6619,11 +6619,23 @@ footer.site-footer.final-section .fg-mini-info p {
 #cartPanel, #productDetailPanel { z-index: 1301 !important; }
 
 .pd-panel {
-  display: flex;
   flex-direction: column;
   background: #FFFFFF;
   box-shadow: 0 24px 60px -12px rgba(16, 42, 67, 0.45);
   border: 1px solid rgba(16, 42, 67, 0.08);
+}
+/* display:flex va en un selector aparte, condicionado a que NO tenga
+   .hidden. .hidden{display:none} (Tailwind) y .pd-panel{display:flex}
+   tenían la MISMA especificidad (una sola clase, 0-0-1-0); como
+   styles.css se carga después de tailwind.min.css, .pd-panel ganaba el
+   empate SIEMPRE, incluso con la clase .hidden puesta — el modal de
+   producto quedaba display:flex, visible e interactivo (pointer-events
+   activo, tapando parte de la página) desde la primera carga, antes de
+   cualquier clic. Con :not(.hidden) la especificidad sube a 0-0-2-0
+   cuando el modal SÍ debe verse, pero cuando tiene .hidden esta regla
+   deja de aplicar del todo y .hidden{display:none} gana sin pelea. */
+.pd-panel:not(.hidden) {
+  display: flex;
 }
 .pd-close-btn {
   position: absolute;
