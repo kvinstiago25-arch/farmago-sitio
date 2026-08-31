@@ -6975,41 +6975,21 @@ html, body, #publicView {
 #marcas h2 { color: #FFFFFF !important; }
 
 /* =====================================================================
-   ★★★  TARJETAS DE PRODUCTO — TICKET/ESTAMPILLA BLANCA  ★★★
-   La tarjeta vuelve a ser blanca completa (el fondo azul de #catalogo NO
-   se toca, solo esta tarjeta individual). Borde superior e inferior con
-   muescas semicirculares tipo "ticket perforado", vía mask-image (no
-   box-shadow de puntos: como el fondo detrás es un degradado, no un
-   color plano, pintar puntos del "color del fondo" no combinaría igual
-   en cada punto de la tarjeta — mask-image en cambio recorta la forma
-   de la propia tarjeta y deja ver el fondo real, sea cual sea).
-
-   Nota: no pude probar esto en navegador en esta sesión (sin acceso a
-   uno). El compositing de mask-image con dos capas (arriba + abajo) es
-   una de las partes más finas de CSS; si algún borde no se ve como se
-   espera, dime exactamente cuál (arriba/abajo, muy juntas/separadas
-   las muescas) y lo ajusto con precisión.
-   ===================================================================== */
+   ★★★  TARJETAS DE PRODUCTO — BLANCA, ESQUINAS SIMPLES  ★★★
+   Tarjeta blanca completa (el fondo azul de #catalogo NO se toca, solo
+   esta tarjeta individual), esquinas redondeadas normales (rounded-2xl
+   ya viene del HTML) y una sombra suave. Antes tenía un recorte de
+   mask-image simulando muescas de "ticket perforado" arriba y abajo:
+   en escritorio, sobre fondo casi blanco, era casi imperceptible, pero
+   en mobile la tarjeta se veía además con fondo gris oscuro (otra regla
+   ya eliminada), y ahí las muescas sí se notaban fuerte, con el fondo
+   oscuro de la página asomando por los cortes — el efecto "boleto/
+   ticket" que no se quería. Se quita el mask-image para que la tarjeta
+   se vea igual (esquinas simples, sin muescas) en todos los tamaños. */
 #publicView #productList > div, #productList > div {
   background: #FFFFFF !important;
   border: none !important;
   box-shadow: 0 16px 32px -16px rgba(10, 40, 80, 0.5) !important;
-  --scallop-r: 8px;
-  --scallop-gap: 22px;
-  mask-image:
-    radial-gradient(circle var(--scallop-r) at var(--scallop-r) 0, transparent 99%, #000 100%),
-    radial-gradient(circle var(--scallop-r) at var(--scallop-r) 100%, transparent 99%, #000 100%);
-  mask-size: var(--scallop-gap) 100%, var(--scallop-gap) 100%;
-  mask-repeat: repeat-x, repeat-x;
-  mask-position: top left, bottom left;
-  mask-composite: intersect;
-  -webkit-mask-image:
-    radial-gradient(circle var(--scallop-r) at var(--scallop-r) 0, transparent 99%, #000 100%),
-    radial-gradient(circle var(--scallop-r) at var(--scallop-r) 100%, transparent 99%, #000 100%);
-  -webkit-mask-size: var(--scallop-gap) 100%, var(--scallop-gap) 100%;
-  -webkit-mask-repeat: repeat-x, repeat-x;
-  -webkit-mask-position: top left, bottom left;
-  -webkit-mask-composite: source-in;
 }
 #publicView #productList > div:hover, #productList > div:hover {
   box-shadow: 0 22px 40px -18px rgba(10, 40, 80, 0.6) !important;
@@ -7569,29 +7549,12 @@ html, body, #publicView {
   }
 }
 
-/* =====================================================================
-   ★★★  RENDIMIENTO EN MÓVIL: menos backdrop-filter en las tarjetas  ★★★
-
-   La versión final de la tarjeta de producto (#catalogo #productList
-   > div, "TARJETAS TRANSPARENTES") usa backdrop-filter: blur(18px)
-   saturate(1.15) en TODAS las tarjetas, sin excepción para mobile. Con
-   la grilla de 2 columnas de mobile, los 42 productos de una página son
-   21 filas = 42 tarjetas con blur simultáneo. A diferencia del bug de
-   background-attachment, esto no es una cascada rota: es un costo real
-   y buscado (efecto cristal), pero backdrop-filter es de los efectos
-   más caros para el GPU, y ×42 elementos a la vez es objetivamente
-   pesado para el compositor de Safari iOS en una página tan larga.
-
-   En mobile se sube la opacidad del fondo de la tarjeta y se quita el
-   desenfoque: se pierde el efecto "vidrio esmerilado" (se ve un panel
-   translúcido liso en su lugar), pero el texto sigue siendo legible
-   sobre la foto y cada tarjeta deja de exigirle al navegador volver a
-   muestrear/difuminar lo que tiene detrás en cada frame de scroll. En
-   escritorio no cambia nada. */
-@media (max-width: 767.98px) {
-  #catalogo #productList > div {
-    background: rgba(15, 23, 38, 0.62) !important;
-    backdrop-filter: none !important;
-    -webkit-backdrop-filter: none !important;
-  }
-}
+/* La regla "RENDIMIENTO EN MÓVIL: menos backdrop-filter en las tarjetas"
+   que vivía aquí quedó obsoleta: era para la versión "TARJETAS
+   TRANSPARENTES" (vidrio esmerilado sobre foto, con backdrop-filter)
+   de la tarjeta de producto. Esa versión fue reemplazada más abajo en
+   este archivo por "TARJETAS DE PRODUCTO — TICKET/ESTAMPILLA BLANCA"
+   (tarjeta blanca sólida, sin backdrop-filter), pero esta regla vieja
+   seguía aplicando SOLO en mobile por estar más abajo en la cascada:
+   pisaba el fondo blanco con gris oscuro translúcido ahí, mientras que
+   en escritorio sí se veía blanco como se esperaba. Se quita entera. */
