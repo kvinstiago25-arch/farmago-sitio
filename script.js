@@ -300,14 +300,16 @@ let productos = [];
 
   // Índice opcional para forzar una imagen comercial verificada por ID.
   // Prioridad máxima dentro del resolver de catálogo.
-  const IMAGENES_COMERCIALES_VERIFICADAS = {
-    'prod-00432': 'assets/imagenesmedimentos/losartan50mg.png',
-    'prod-00533': 'assets/imagenesmedimentos/loratadina10mg.png',
-    'prod-00823': 'assets/imagenesmedimentos/similac1.jpg',
-    'prod-00175': 'assets/imagenesmedimentos/desoderantegillette82gx2.png',
-    'prod-00529': 'assets/imagenesmedimentos/buscapnacompositum.jpg',
-    'prod-00712': 'assets/imagenesmedimentos/desoderantegillette82gx2.png',
-};
+  // Vacía a propósito: las 6 entradas que tenía (prod-00432, prod-00533,
+  // prod-00823, prod-00175, prod-00529, prod-00712) apuntaban todas a la
+  // foto de OTRO producto no relacionado (ej. Desloratadina Kids -> foto
+  // de Loratadina Genfar, Rexona -> foto de desodorante Gillette). Esta
+  // tabla tiene prioridad 1 en resolverImagenCatalogoProducto() — por
+  // encima incluso de la columna `imagen` real de Supabase — así que
+  // aunque esos 6 productos ya tienen su foto real correcta en la base
+  // de datos, seguían mostrando la genérica equivocada por esto. Ninguna
+  // de las 6 era una verificación manual real, así que se quitan.
+  const IMAGENES_COMERCIALES_VERIFICADAS = {};
 
   function normalizarCategoria(cat) {
     if (!cat) return cat;
@@ -774,40 +776,6 @@ let productos = [];
       }
     });
   });
-
-  // ===== Carrusel "Necesidades" (justo debajo del hero) =====
-  // Reutiliza las mismas categorías reales ya auditadas contra
-  // productos.json que usan las subcategorías del mega-menú, para que el
-  // filtro de cada tarjeta caiga siempre en productos existentes.
-  const NECESIDADES = {
-    'alivio-dolor': { cats: ['Analgésicos y antiinflamatorios'], label: 'Alivio del dolor' },
-    'gripa-tos': { cats: ['Antigripales y tos'], label: 'Gripa y tos' },
-    'cuidado-piel': { cats: ['Cuidado personal', 'Maquillaje y cuidado facial/labial', 'Dermatológico y piel'], label: 'Cuidado de la piel' },
-    'salud-digestiva': { cats: ['Gastrointestinal'], label: 'Salud digestiva' },
-  };
-  document.querySelectorAll('[data-necesidad]').forEach(el => {
-    el.addEventListener('click', (e) => {
-      const item = NECESIDADES[el.dataset.necesidad];
-      if (!item) return;
-      e.preventDefault();
-      jumpToSubcategoria({ cats: item.cats, kw: null, label: item.label });
-    });
-  });
-  (function wireNecesidadesCarousel() {
-    const track = document.getElementById('necesidadesTrack');
-    const prevBtn = document.getElementById('necesidadesPrev');
-    const nextBtn = document.getElementById('necesidadesNext');
-    if (!track || !prevBtn || !nextBtn) return;
-    function paso() {
-      const card = track.querySelector('.necesidades-card');
-      if (!card) return track.clientWidth * 0.8;
-      const estilos = getComputedStyle(track);
-      const gap = parseFloat(estilos.columnGap || estilos.gap || '0') || 0;
-      return card.getBoundingClientRect().width + gap;
-    }
-    prevBtn.addEventListener('click', () => track.scrollBy({ left: -paso(), behavior: 'smooth' }));
-    nextBtn.addEventListener('click', () => track.scrollBy({ left: paso(), behavior: 'smooth' }));
-  })();
 
   function buildCategoriesDropdown() {
     const listEl = document.getElementById('categoriesMenuList');
